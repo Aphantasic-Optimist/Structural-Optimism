@@ -1,0 +1,205 @@
+site_name: Structural Optimism
+site_description: An evidence-based philosophical proof that reality is structured toward integration
+site_author: Structural Optimist
+site_url: https://structuraloptimist.github.io/structural-optimism/
+
+repo_name: structural-optimism
+repo_url: https://github.com/structuraloptimist/structural-optimism
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant      # Instant loading
+    - navigation.tracking     # URL updates with scroll
+    - navigation.tabs         # Top-level tabs
+    - navigation.sections     # Collapsible sections
+    - navigation.expand       # Expand all sections
+    - navigation.top          # Back to top button
+    - search.suggest          # Search suggestions
+    - search.highlight        # Highlight search terms
+    - content.code.copy       # Copy code button
+    - content.tabs.link       # Link tabs across pages
+  # Logo and favicon will be added when images are created with proper alt text
+  # logo: assets/images/logo.png
+  # favicon: assets/images/favicon.png
+
+plugins:
+  - search                    # Built-in search
+  - i18n:                     # Translation support
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: es
+          name: Español
+          build: true
+          nav_translations:
+            Home: Inicio
+            Level 1 - Simple: Nivel 1 - Simple
+            Level 2 - Intermediate: Nivel 2 - Intermedio
+            Level 3 - Advanced: Nivel 3 - Avanzado
+            Level 4 - Analysis: Nivel 4 - Análisis
+            Level 5 - Academic: Nivel 5 - Académico
+            Contribute: Contribuir
+            Safety: Seguridad
+            Academic: Académico
+            About: Acerca de
+        - locale: fr
+          name: Français
+          build: true
+          nav_translations:
+            Home: Accueil
+            Level 1 - Simple: Niveau 1 - Simple
+            Level 2 - Intermediate: Niveau 2 - Intermédiaire
+            Level 3 - Advanced: Niveau 3 - Avancé
+            Level 4 - Analysis: Niveau 4 - Analyse
+            Level 5 - Academic: Niveau 5 - Académique
+            Contribute: Contribuer
+            Safety: Sécurité
+            Academic: Académique
+            About: À propos
+        - locale: de
+          name: Deutsch
+          build: true
+          nav_translations:
+            Home: Startseite
+            Level 1 - Simple: Stufe 1 - Einfach
+            Level 2 - Intermediate: Stufe 2 - Mittel
+            Level 3 - Advanced: Stufe 3 - Fortgeschritten
+            Level 4 - Analysis: Stufe 4 - Analyse
+            Level 5 - Academic: Stufe 5 - Akademisch
+            Contribute: Beitragen
+            Safety: Sicherheit
+            Academic: Akademisch
+            About: Über
+        - locale: zh
+          name: 中文
+          build: true
+          nav_translations:
+            Home: 首页
+            Level 1 - Simple: 第1级 - 简单
+            Level 2 - Intermediate: 第2级 - 中级
+            Level 3 - Advanced: 第3级 - 高级
+            Level 4 - Analysis: 第4级 - 分析
+            Level 5 - Academic: 第5级 - 学术
+            Contribute: 贡献
+            Safety: 安全
+            Academic: 学术
+            About: 关于
+  - tags                      # Tag support
+  - social:                   # Social cards for sharing
+      cards: true
+      cards_layout_options:
+        background_color: "#3f51b5"  # Indigo primary color
+        color: "#ffffff"
+  - minify:                   # Minify HTML/CSS/JS
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
+
+markdown_extensions:
+  - admonition                # Callout boxes
+  - pymdownx.details          # Collapsible admonitions
+  - pymdownx.superfences      # Code blocks
+  - pymdownx.tabbed:          # Tabbed content
+      alternate_style: true
+  - pymdownx.emoji:           # Emoji support
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list                 # Add attributes to elements
+  - md_in_html                # Markdown in HTML
+  - footnotes                 # Footnote support
+  - tables                    # Table support
+  - toc:                      # Table of contents
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/structuraloptimist/structural-optimism
+      name: GitHub Repository
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/structuraloptimism
+      name: Twitter/X
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@structuraloptimism
+      name: Mastodon
+  
+  # Open Graph metadata
+  og_image: assets/images/social-card.png
+  og_image_width: 1200
+  og_image_height: 630
+  
+  # Twitter Card metadata
+  twitter_card: summary_large_image
+  twitter_site: "@structuraloptimism"
+  twitter_creator: "@structuraloptimism"
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Level 1 - Simple:
+      - level1/index.md
+      - level1/getting-started.md
+  - Level 2 - Intermediate:
+      - level2/index.md
+      - level2/evidence.md
+      - level2/me-and-we.md
+  - Level 3 - Advanced:
+      - level3/index.md
+      - level3/mechanisms.md
+      - level3/applications.md
+  - Level 4 - Analysis:
+      - level4/index.md
+      - level4/doomerism.md
+      - level4/propaganda.md
+      - level4/socialism.md
+  - Level 5 - Academic:
+      - level5/index.md
+      - level5/full-proof.md
+      - level5/evidence-grounded.md
+      - level5/citations.md
+  - Contribute:
+      - contribute/index.md
+      - contribute/research-requests.md
+      - contribute/evidence.md
+      - contribute/corrections.md
+      - contribute/anonymous.md
+      - contribute/translations.md
+      - contribute/accessibility.md
+  - Safety:
+      - safety/index.md
+      - safety/integration-guide.md
+  - Academic:
+      - academic/index.md
+      - academic/peer-review.md
+  - About:
+      - about/index.md
+      - about/author.md
+      - about/funding.md

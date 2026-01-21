@@ -1,112 +1,320 @@
 # Contributing to Structural Optimism
 
-Thank you for your interest in contributing! We welcome contributions from everyone.
+Thank you for your interest in contributing to Structural Optimism! This project is built on the principle that **your ideas matter, not your identity**. We welcome contributions from everyone, whether you want to be credited or remain anonymous.
 
-**Your ideas matter, not your identity.**
+## Table of Contents
+
+- [Ways to Contribute](#ways-to-contribute)
+- [Anonymous Contributions](#anonymous-contributions)
+- [Direct GitHub Contributions](#direct-github-contributions)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Translation Contributions](#translation-contributions)
+- [Code of Conduct](#code-of-conduct)
+- [Review Process](#review-process)
+- [Academic Researchers](#academic-researchers)
+
+---
 
 ## Ways to Contribute
 
-### 1. Content Contributions
+You can contribute in several ways:
 
-- **Evidence**: Submit new peer-reviewed research supporting or challenging claims
-- **Corrections**: Propose corrections to existing content
-- **Translations**: Help translate content into other languages
-- **Examples**: Add practical examples and applications
+1. **Research Requests** - Suggest topics that need investigation
+2. **Evidence Submissions** - Share peer-reviewed sources and data
+3. **Corrections** - Propose fixes to errors or outdated information
+4. **Translations** - Help make content accessible in other languages
+5. **Documentation** - Improve guides and explanations
+6. **Technical Improvements** - Enhance site functionality, accessibility, or performance
 
-### 2. Technical Contributions
-
-- **Bug fixes**: Fix broken links, formatting issues, or technical problems
-- **Features**: Improve site functionality, accessibility, or performance
-- **Documentation**: Improve setup instructions or developer documentation
-
-### 3. Research Requests
-
-Have a question about the framework? Want specific research investigated?
-
-Open an issue with the `research-request` label.
+---
 
 ## Anonymous Contributions
 
-We support anonymous contributions via [gitGost](https://github.com/jmagar/gitgost).
+**Your ideas matter, not your identity.**
 
-### Why Anonymous?
+We support anonymous contributions for those who:
+- Fear professional repercussions
+- Work in restrictive environments
+- Prefer to focus on evidence over authority
+- Want to contribute without creating a GitHub account
 
-- Academic researchers may face career risks
-- Ideas should be evaluated on merit, not identity
-- Protect privacy while contributing
+### Why Anonymous Contributions?
 
-### How to Contribute Anonymously
+Anonymous contributions align with our core philosophy of **ME AND WE** - integration without uniformity. By removing identity from the equation, we:
+- Reduce ego-driven contributions
+- Focus purely on evidence quality
+- Protect vulnerable contributors
+- Encourage controversial but valid evidence
+- Reduce unconscious bias in review
 
-1. **Install gitGost**:
+**Important**: Anonymous contributions receive the same rigorous verification as attributed ones.
+
+### How to Contribute Anonymously with gitGost
+
+**gitGost** is a git remote proxy that strips all identifying information from your commits and submits pull requests from a neutral bot account.
+
+#### Step 1: Install Git (if not already installed)
+
+**Windows**:
+```bash
+# Download from https://git-scm.com/download/win
+# Or use winget:
+winget install Git.Git
+```
+
+**macOS**:
+```bash
+brew install git
+```
+
+**Linux**:
+```bash
+sudo apt-get install git  # Debian/Ubuntu
+sudo yum install git      # RedHat/CentOS
+```
+
+#### Step 2: Clone the Repository
+
+```bash
+git clone https://github.com/[username]/structural-optimism.git
+cd structural-optimism
+```
+
+**Note**: Replace `[username]` with the actual repository owner's username.
+
+#### Step 3: Add gitGost as a Remote
+
+```bash
+# Add gitGost remote (no account needed!)
+git remote add gitmask https://gitmask.com/[username]/structural-optimism.git
+```
+
+#### Step 4: Make Your Changes
+
+```bash
+# Create a new branch for your contribution
+git checkout -b my-anonymous-contribution
+
+# Make your changes to files
+# (edit Markdown files, add evidence, fix errors, etc.)
+
+# Stage your changes
+git add .
+
+# Commit with a descriptive message
+git commit -m "Add evidence for social connection mortality study"
+```
+
+#### Step 5: Push Anonymously
+
+```bash
+# Push to gitGost (this strips all your identifying information)
+git push gitmask my-anonymous-contribution
+```
+
+#### Step 6: gitGost Creates the Pull Request
+
+gitGost will automatically:
+- Remove your name, email, and timestamp from commits
+- Create a pull request from a neutral bot account
+- Preserve your contribution content and commit message
+
+#### Step 7: Track Your Contribution
+
+After pushing, gitGost will provide a link to the created pull request. You can:
+- Monitor the PR status
+- Respond to review comments (anonymously)
+- See when your contribution is merged
+
+### What Gets Anonymized?
+
+gitGost removes:
+- ✅ Author name
+- ✅ Author email
+- ✅ Committer name
+- ✅ Committer email
+- ✅ Commit timestamps
+- ✅ Any identifying information in commit metadata
+
+gitGost preserves:
+- ✅ Your contribution content
+- ✅ Your commit messages
+- ✅ File changes and diffs
+
+### Verification Process
+
+Anonymous contributions go through the same verification process:
+
+1. **Automated Checks**: Link validation, build verification, linting
+2. **Content Review**: Evidence verification, accuracy check
+3. **Community Review**: Other contributors can review and comment
+4. **Maintainer Approval**: Final approval from project maintainers
+5. **Merge**: Contribution is merged and credited to "Anonymous Contributor"
+
+**Your contribution is judged on merit, not on who you are.**
+
+---
+
+## Direct GitHub Contributions
+
+**For those comfortable with GitHub.**
+
+### Fork and Pull Request Workflow
+
+1. **Fork the repository** on GitHub
+2. **Clone your fork**:
    ```bash
-   npm install -g gitgost
+   git clone https://github.com/YOUR-USERNAME/structural-optimism.git
+   cd structural-optimism
    ```
-
-2. **Clone anonymously**:
+3. **Create a branch**:
    ```bash
-   gitgost clone https://github.com/[username]/structural-optimism.git
+   git checkout -b feature/my-contribution
    ```
-
-3. **Make your changes** as normal
-
-4. **Submit anonymously**:
+4. **Make your changes**
+5. **Test locally**:
    ```bash
-   gitgost push
+   mkdocs serve
    ```
+6. **Commit**:
+   ```bash
+   git add .
+   git commit -m "Descriptive message"
+   ```
+7. **Push**:
+   ```bash
+   git push origin feature/my-contribution
+   ```
+8. **Create Pull Request** on GitHub
 
-Your contribution will appear from an anonymous account, but the work will be attributed in the project.
+### Issue Creation
 
-See [Anonymous Github](https://anonymous.4open.science/) for double-blind peer review.
+You can also create issues directly:
+
+1. Go to [Issues](https://github.com/[username]/structural-optimism/issues)
+2. Click "New Issue"
+3. Choose template:
+   - Research Request
+   - Evidence Submission
+   - Correction Proposal
+   - Bug Report
+   - Feature Request
+4. Fill in template
+5. Submit
+
+---
 
 ## Contribution Guidelines
 
-### Content Standards
+### Evidence Standards
 
-1. **Evidence-based**: All claims must cite peer-reviewed sources
-2. **Confidence ratings**: Use the ★ system (★☆☆☆☆ to ★★★★★)
-3. **Falsifiable**: State what would disprove the claim
-4. **Accessible**: Write for your target complexity level
-5. **Respectful**: Maintain compassionate, constructive tone
+All evidence submissions must meet these criteria:
 
-### Evidence Ratings
+1. **Peer-Reviewed**: Published in peer-reviewed journals (or preprints with clear labeling)
+2. **Primary Sources**: Link to original research, not secondary summaries
+3. **Proper Citation**: Include full citation with DOI when available
+4. **Confidence Rating**: Use ★ system (see below)
+5. **Replication Status**: Note if findings have been replicated
 
-| Rating | Meaning | Requirements |
-|--------|---------|--------------|
-| ★★★★★ | Established | Multiple replications, peer-reviewed |
-| ★★★★☆ | Strong | Peer-reviewed, limited replication |
-| ★★★☆☆ | Promising | Initial findings, awaiting replication |
-| ★★☆☆☆ | Preliminary | Single study or preprint |
-| ★☆☆☆☆ | Speculative | Theoretical, no direct evidence |
+### Confidence Rating System
 
-### Technical Standards
+Use this system to rate evidence:
 
-1. **Markdown**: Use standard Markdown with MkDocs Material extensions
-2. **Accessibility**: Include alt text, proper headings, semantic HTML
-3. **Performance**: Optimize images, minimize custom code
-4. **Testing**: Test locally before submitting
+| Rating | Meaning | Criteria |
+|--------|---------|----------|
+| ★★★★★ | Established | Multiple independent replications, peer-reviewed, consistent findings |
+| ★★★★☆ | Strong | Replicated findings, peer-reviewed, minor inconsistencies |
+| ★★★☆☆ | Promising | Initial peer-reviewed findings, awaiting replication |
+| ★★☆☆☆ | Preliminary | Single study or preprint, mechanism speculative |
+| ★☆☆☆☆ | Speculative | No direct experimental evidence, theoretical only |
 
-## Submission Process
+### Writing Style
 
-### Standard Contributions
+- **Clear and Concise**: Use simple language when possible
+- **Evidence-Based**: Every claim needs a source
+- **Neutral Tone**: Avoid emotional or promotional language
+- **Accessible**: Explain technical terms
+- **Structured**: Use headings, lists, and formatting
 
-1. **Fork** the repository
-2. **Create a branch**: `git checkout -b feature/your-feature-name`
-3. **Make changes** following the guidelines above
-4. **Test locally**: `mkdocs serve` and verify your changes
-5. **Commit**: Use clear, descriptive commit messages
-6. **Push**: `git push origin feature/your-feature-name`
-7. **Pull Request**: Open a PR with description of changes
+### File Naming
 
-### Anonymous Contributions
+- Use kebab-case: `my-new-document.md`
+- Be descriptive: `social-connection-mortality-evidence.md`
+- Avoid special characters
 
-Follow the gitGost process above. Your PR will be reviewed like any other.
+### Markdown Formatting
 
-## Review Process
+Use standard Markdown with MkDocs Material extensions:
 
-1. **Automated checks**: Linting, link validation, build verification
-2. **Content review**: Evidence verification, accuracy check
-3. **Technical review**: Code quality, accessibility, performance
-4. **Approval**: Maintainer approval required for merge
+```markdown
+# Heading 1
+## Heading 2
+### Heading 3
+
+**Bold text**
+*Italic text*
+
+- Bullet list
+- Item 2
+
+1. Numbered list
+2. Item 2
+
+[Link text](https://example.com)
+
+> Blockquote
+
+`inline code`
+
+\`\`\`python
+code block
+\`\`\`
+```
+
+### Evidence Admonitions
+
+Use admonitions for evidence ratings:
+
+```markdown
+!!! success "Established Evidence (★★★★★)"
+    Social connection reduces mortality risk by 50% (Wang et al. 2023, 2.2M people studied)
+    
+    **Source**: [Wang et al. 2023, Nature Human Behaviour](https://doi.org/...)
+
+!!! info "Supported Evidence (★★★★☆)"
+    Romantic love found in 166 cultures (Jankowiak & Fischer 1992)
+    
+    **Source**: [Jankowiak & Fischer 1992](https://doi.org/...)
+
+!!! warning "Preliminary Evidence (★★☆☆☆)"
+    Further research needed to confirm mechanism
+```
+
+---
+
+## Translation Contributions
+
+We welcome translations to make Structural Optimism accessible worldwide!
+
+### How to Translate
+
+1. **Choose a document** to translate
+2. **Create a new file** with language code: `document-name.es.md` (Spanish), `document-name.fr.md` (French), etc.
+3. **Translate content** while preserving:
+   - Markdown formatting
+   - Links to sources
+   - Evidence ratings
+   - Technical accuracy
+4. **Submit** via pull request
+
+### Translation Guidelines
+
+- **Accuracy over fluency**: Preserve technical meaning
+- **Cite sources**: Keep original citations, add translated titles in brackets
+- **Cultural adaptation**: Adapt examples for local context when appropriate
+- **Consistency**: Use consistent terminology throughout
+
+---
 
 ## Code of Conduct
 
@@ -125,19 +333,110 @@ Follow the gitGost process above. Your PR will be reviewed like any other.
 - Bad faith arguments or trolling
 - Sharing private information without consent
 
-## Questions?
-
-- **General questions**: Open a discussion
-- **Bug reports**: Open an issue with `bug` label
-- **Feature requests**: Open an issue with `enhancement` label
-- **Research requests**: Open an issue with `research-request` label
-
-## Recognition
-
-All contributors are recognized in the project, whether anonymous or identified.
-
-Thank you for helping build a more integrated world! ✨
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for full details.
 
 ---
 
-*This is optimism grounded in the architecture of existence, not faith.*
+## Review Process
+
+### What Happens After You Contribute?
+
+1. **Automated Checks** (immediate):
+   - Link validation
+   - Build verification
+   - Linting
+
+2. **Content Review** (1-7 days):
+   - Evidence verification
+   - Accuracy check
+   - Other contributors can comment
+
+3. **Maintainer Review** (1-14 days):
+   - Final verification of sources
+   - Integration with existing content
+   - Approval or request for changes
+
+4. **Merge** (immediate after approval):
+   - Contribution is merged
+   - Website automatically rebuilds
+   - Changes live in 2-3 minutes
+
+### Timeline
+
+- **Simple corrections**: 1-3 days
+- **Evidence submissions**: 3-7 days
+- **Research requests**: 7-14 days (depends on complexity)
+- **Major contributions**: 14-30 days
+
+---
+
+## Academic Researchers
+
+### Citing This Work
+
+This repository has a DOI via Zenodo for proper academic citation:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+**Note**: Replace XXXXXXX with actual DOI after enabling Zenodo GitHub integration.
+
+**APA Format**:
+```
+Structural Optimist. (2026). Structural Optimism: An Evidence-Based Philosophical Framework. 
+Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+```
+
+**BibTeX**:
+```bibtex
+@software{structural_optimism_2026,
+  author = {Structural Optimist},
+  title = {Structural Optimism: An Evidence-Based Philosophical Framework},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.XXXXXXX},
+  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+}
+```
+
+### Double-Blind Peer Review
+
+For double-blind peer review, use [Anonymous Github](https://anonymous.4open.science/):
+
+1. Visit https://anonymous.4open.science/
+2. Enter repository URL
+3. Get anonymized version for review
+4. Share anonymized link with reviewers
+
+### Preprints
+
+We host preprints on:
+- **arXiv**: [link to be added]
+- **PhilPapers**: [link to be added]
+- **OSF**: [link to be added]
+
+---
+
+## Questions?
+
+- **General questions**: Open a [Discussion](https://github.com/[username]/structural-optimism/discussions)
+- **Bug reports**: Open an [Issue](https://github.com/[username]/structural-optimism/issues) with `bug` label
+- **Feature requests**: Open an [Issue](https://github.com/[username]/structural-optimism/issues) with `enhancement` label
+- **Research requests**: Open an [Issue](https://github.com/[username]/structural-optimism/issues) with `research-request` label
+
+---
+
+## Thank You!
+
+Your contributions help build an evidence-based understanding of reality's structure. Whether you contribute openly or anonymously, your ideas matter.
+
+**Remember**: Integration without uniformity. ME AND WE. Your voice is valuable.
+
+---
+
+**Everyone lives happily ever after.** ✨
+
+---
+
+*This project is licensed under MIT License (code) and Creative Commons Attribution 4.0 International (content). By contributing, you agree that your contributions will be licensed under the same licenses.*
+
+*For anonymous contributions via gitGost, your identity is never revealed, but your contribution is still licensed under the project licenses.*

@@ -56,8 +56,10 @@ This site is built with [MkDocs Material](https://squidfunk.github.io/mkdocs-mat
 
 ### Installation
 
+**Note**: This project uses a Python virtual environment (venv) for dependency management.
+
 ```bash
-# Create virtual environment
+# Create virtual environment (if not already created)
 python -m venv venv
 
 # Activate virtual environment
@@ -69,6 +71,8 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+**Important**: Always activate the virtual environment before running MkDocs commands.
 
 ### Local Development
 
@@ -89,19 +93,70 @@ The site will be available at http://localhost:8000
 
 The site automatically deploys to GitHub Pages via GitHub Actions when changes are pushed to the main branch.
 
+**First-time setup:**
+1. See [GITHUB-PAGES-SETUP.md](GITHUB-PAGES-SETUP.md) for detailed configuration instructions
+2. Use [DEPLOYMENT-CHECKLIST.md](DEPLOYMENT-CHECKLIST.md) to verify successful deployment
+
+**Automatic deployment:**
+- Push to `main` branch triggers automatic build and deployment
+- Workflow typically completes in 2-3 minutes
+- Monitor deployment status in the **Actions** tab
+
+**Manual deployment:**
+- Go to **Actions** → **Deploy MkDocs to GitHub Pages**
+- Click **Run workflow** → Select **main** branch → **Run workflow**
+
 ## Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for comprehensive guidelines.
 
 **Anonymous contributions are supported via [gitGost](https://github.com/jmagar/gitgost).**
 
 Your ideas matter, not your identity.
 
+### Quick Start
+
+**Standard contributions:**
+1. Fork the repository
+2. Create a branch: `git checkout -b feature/your-feature`
+3. Make changes and test locally: `mkdocs serve`
+4. Submit a pull request
+
+**Anonymous contributions:**
+1. Clone: `git clone https://github.com/[username]/structural-optimism.git`
+2. Add gitGost remote: `git remote add gitmask https://gitmask.com/[username]/structural-optimism.git`
+3. Make changes and commit
+4. Push anonymously: `git push gitmask your-branch`
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
+
 ## Citation
+
+This repository has a DOI via Zenodo for proper academic citation:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-See [Citation Information](https://structural-optimism.github.io/academic/) for proper citation formats.
+**Note**: Replace XXXXXXX with actual DOI after enabling Zenodo GitHub integration.
+
+**APA Format**:
+```
+Structural Optimist. (2026). Structural Optimism: An Evidence-Based Philosophical Framework. 
+Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+```
+
+**BibTeX**:
+```bibtex
+@software{structural_optimism_2026,
+  author = {Structural Optimist},
+  title = {Structural Optimism: An Evidence-Based Philosophical Framework},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.XXXXXXX},
+  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+}
+```
+
+See [Citation Information](https://structural-optimism.github.io/academic/) for additional formats (MLA, Chicago) and preprint links.
 
 ## License
 
