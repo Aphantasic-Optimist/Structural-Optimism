@@ -261,23 +261,17 @@ https://structuraloptimist.github.io/structural-optimism/.
 - Mitchell, M. (2009). *Complexity: A Guided Tour*. Oxford University Press.
 - Bar-Yam, Y. (1997). *Dynamics of Complex Systems*. Westview Press.
 
-[View complete bibliography →](citations.md)
+**[See academic section for peer review information →](../academic/index.md)**
 
 ---
 
 ## Navigation
 
-### Explore This Level
-
-- **[Complete Philosophical Proof](full-proof.md)** - Formal argument with full citations
-- **[Evidence-Grounded Theory](evidence-grounded.md)** - Consciousness research integration
-- **[Complete Bibliography](citations.md)** - All referenced works
-
 ### Move Between Levels
 
-- **[← Level 4: Analysis](../level4/)** - Review critical perspectives
-- **[Level 1: Simple →](../level1/)** - Return to the basic proof
-- **[Level 2: Intermediate →](../level2/)** - Review evidence summary
+- **[← Level 4: Analysis](../level4/index.md)** - Review critical perspectives
+- **[Level 1: Simple →](../level1/index.md)** - Return to the basic proof
+- **[Level 2: Intermediate →](../level2/index.md)** - Review evidence summary
 
 ---
 
@@ -296,6 +290,8 @@ https://structuraloptimist.github.io/structural-optimism/.
 - GitHub issues for public discussion
 - Anonymous contribution via gitGost
 - Peer review via Anonymous Github
+
+**See [Contribute](../contribute/index.md) for more ways to engage.**
 
 ### Research Gaps
 

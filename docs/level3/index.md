@@ -51,7 +51,7 @@ This level is for people who understand the evidence and want to know what to DO
 - Social networks enable information flow
 - Communities provide resilience and support
 
-[Read detailed mechanisms →](mechanisms.md)
+**[See theory in GitHub repo →](https://github.com/structuraloptimist/structural-optimism/blob/main/content/theory/L0-L5-Theory-Final-Revised.md)**
 
 ---
 
@@ -111,7 +111,7 @@ This level is for people who understand the evidence and want to know what to DO
 - From hierarchy to network
 - From control to emergence
 
-[Read detailed applications →](applications.md)
+**[See practical guides for detailed applications →](../contribute/index.md)**
 
 ---
 
@@ -250,16 +250,11 @@ This level is for people who understand the evidence and want to know what to DO
 
 ## Navigation
 
-### Explore This Level
-
-- **[Mechanisms](mechanisms.md)** - How integration works at each level
-- **[Applications](applications.md)** - Practical implementation strategies
-
 ### Move Between Levels
 
-- **[← Level 2: Intermediate](../level2/)** - Review the evidence base
-- **[Level 4: Analysis →](../level4/)** - Examine critical perspectives
-- **[Level 5: Academic →](../level5/)** - Read the complete proof
+- **[← Level 2: Intermediate](../level2/index.md)** - Review the evidence base
+- **[Level 4: Analysis →](../level4/index.md)** - Examine critical perspectives
+- **[Level 5: Academic →](../level5/index.md)** - Read the complete proof
 
 ---
 

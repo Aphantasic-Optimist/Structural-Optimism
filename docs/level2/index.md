@@ -82,7 +82,7 @@ This level is for people who found Level 1 compelling and want to understand the
 - Differentiation enabling richer integration
 - Love that respects autonomy
 
-[Read more about ME AND WE →](me-and-we.md)
+**[See practical guides in GitHub repo →](https://github.com/structuraloptimist/structural-optimism/blob/main/content/practical/ME-to-WE-Integration.md)**
 
 ---
 
@@ -159,16 +159,11 @@ Reality is structured to reward integration and punish isolation. Not as moral j
 
 ## Navigation
 
-### Explore This Level
-
-- **[Evidence Summary](evidence.md)** - Detailed breakdown of research across disciplines
-- **[ME AND WE](me-and-we.md)** - Understanding integration WITH differentiation
-
 ### Move Between Levels
 
-- **[← Level 1: Simple](../level1/)** - Return to the three-fact proof
-- **[Level 3: Advanced →](../level3/)** - Explore mechanisms and applications
-- **[Level 5: Academic →](../level5/)** - Read the complete philosophical proof
+- **[← Level 1: Simple](../level1/index.md)** - Return to the three-fact proof
+- **[Level 3: Advanced →](../level3/index.md)** - Explore mechanisms and applications
+- **[Level 5: Academic →](../level5/index.md)** - Read the complete philosophical proof
 
 ---
 

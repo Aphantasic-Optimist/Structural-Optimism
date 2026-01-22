@@ -58,7 +58,7 @@ The strongest version of opposing arguments:
 - Evaluates evidence for long-term trends
 - Considers psychological factors in doom perception
 
-[Read full doomerism analysis →](doomerism.md)
+**[See analysis in GitHub repo →](https://github.com/structuraloptimist/structural-optimism/blob/main/content/analysis/DOOMERISM-ANALYSIS.md)**
 
 ### Nihilism
 
@@ -172,7 +172,7 @@ The strongest version of opposing arguments:
 - Peer-reviewed sources
 - Transparent methodology
 
-[Read full propaganda analysis →](propaganda.md)
+**[See analysis in GitHub repo →](https://github.com/structuraloptimist/structural-optimism/blob/main/content/analysis/PROPAGANDA-ANALYSIS.md)**
 
 ---
 
@@ -190,7 +190,7 @@ The strongest version of opposing arguments:
 
 **Key Insight:** Integration must be voluntary to align with reality's structure. Forced integration creates fragmentation.
 
-[Read full socialism analysis →](socialism.md)
+**[See analysis in GitHub repo →](https://github.com/structuraloptimist/structural-optimism/blob/main/content/analysis/SOCIALISM-ANALYSIS.md)**
 
 ### Capitalism Analysis
 
@@ -264,17 +264,11 @@ The strongest version of opposing arguments:
 
 ## Navigation
 
-### Explore This Level
-
-- **[Doomerism Analysis](doomerism.md)** - Examining collapse narratives
-- **[Propaganda Analysis](propaganda.md)** - How narratives shape perception
-- **[Socialism Analysis](socialism.md)** - Political implications and limits
-
 ### Move Between Levels
 
-- **[← Level 3: Advanced](../level3/)** - Review mechanisms and applications
-- **[Level 5: Academic →](../level5/)** - Read the complete philosophical proof
-- **[Level 1: Simple →](../level1/)** - Return to the basic proof
+- **[← Level 3: Advanced](../level3/index.md)** - Review mechanisms and applications
+- **[Level 5: Academic →](../level5/index.md)** - Read the complete philosophical proof
+- **[Level 1: Simple →](../level1/index.md)** - Return to the basic proof
 
 ---
 
