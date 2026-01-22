@@ -176,15 +176,7 @@ We're actively seeking help with:
 
 ## Research Standards
 
-All research conducted follows:
-
-- **GRADE methodology**: Systematic evidence assessment
-- **Primary sources**: Direct citation of original research
-- **Replication focus**: Prioritizing replicated findings
-- **Transparency**: Documenting methods and reasoning
-- **Falsifiability**: Identifying what would disprove claims
-
-See [Scientific Rigor](../about/methods.md) for details.
+All research conducted follows rigorous scientific standards with systematic evidence assessment, primary source citation, replication focus, transparency in methods and reasoning, and clear falsifiability criteria.
 
 ## Recognition
 

@@ -110,7 +110,9 @@ doi:10.5281/zenodo.XXXXXXX.
 
 ### Download Citation Files
 
-Citation files will be available soon.
+**Available formats:**
+- [BibTeX (.bib)](../assets/citations/structural-optimism.bib)
+- [RIS (.ris)](../assets/citations/structural-optimism.ris)
 
 ---
 
@@ -361,7 +363,7 @@ Citation files will be available soon.
 7. **Integration** - Accepted contributions integrated
 8. **Credit** - You receive appropriate attribution
 
-**See [Contributing Guide](https://github.com/[username]/structural-optimism/blob/main/CONTRIBUTING.md) for details.**
+**See [Contributing Guide](../../CONTRIBUTING.md) for details.**
 
 ### Academic Standards
 

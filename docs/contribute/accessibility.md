@@ -429,3 +429,4 @@ Thank you for making the web more accessible! ✨
 
 **See also:**
 - [Contributing Guide](index.md)
+- [Accessibility Report](../../ACCESSIBILITY-REPORT.md)
