@@ -25,7 +25,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.instant      # Instant loading
+    # - navigation.instant      # Disabled - incompatible with i18n language switcher
     - navigation.tracking     # URL updates with scroll
     - navigation.tabs         # Top-level tabs
     - navigation.sections     # Collapsible sections
@@ -108,11 +108,11 @@ plugins:
             Academic: 学术
             About: 关于
   - tags                      # Tag support
-  - social:                   # Social cards for sharing
-      cards: true
-      cards_layout_options:
-        background_color: "#3f51b5"  # Indigo primary color
-        color: "#ffffff"
+  # - social:                   # Social cards for sharing (disabled - requires Cairo)
+  #     cards: true
+  #     cards_layout_options:
+  #       background_color: "#3f51b5"  # Indigo primary color
+  #       color: "#ffffff"
   - minify:                   # Minify HTML/CSS/JS
       minify_html: true
       minify_js: true

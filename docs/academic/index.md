@@ -363,7 +363,7 @@ doi:10.5281/zenodo.XXXXXXX.
 7. **Integration** - Accepted contributions integrated
 8. **Credit** - You receive appropriate attribution
 
-**See [Contributing Guide](../../CONTRIBUTING.md) for details.**
+**See [Contributing Guide](../CONTRIBUTING.md) for details.**
 
 ### Academic Standards
 

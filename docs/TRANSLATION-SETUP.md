@@ -364,7 +364,7 @@ Translate in this order:
 
 - [GitHub Discussions](https://github.com/structuraloptimist/structural-optimism/discussions) - Ask questions
 - [Translation Guide](contribute/translations.md) - For contributors
-- [Contributing Guide](../CONTRIBUTING.md) - General contribution info
+- [Contributing Guide](CONTRIBUTING.md) - General contribution info
 
 ---
 

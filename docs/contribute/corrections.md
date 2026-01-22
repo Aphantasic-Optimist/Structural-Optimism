@@ -356,7 +356,7 @@ Correction contributors are:
 
 ## Questions?
 
-- **About correction process**: See [Contributing Guide](../../CONTRIBUTING.md)
+- **About correction process**: See [Contributing Guide](../CONTRIBUTING.md)
 - **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
 
 ---
