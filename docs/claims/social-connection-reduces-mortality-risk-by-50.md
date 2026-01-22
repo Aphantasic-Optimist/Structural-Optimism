@@ -21,4 +21,4 @@ Meta-analysis of 148 studies (308,849 participants) shows 50% increased survival
 
 **Last Updated:** 2026-01-22
 
-[← Back to Claims](/claims/)
+[← Back to Claims](index.md)

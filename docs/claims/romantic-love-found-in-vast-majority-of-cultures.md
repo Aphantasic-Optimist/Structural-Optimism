@@ -21,4 +21,4 @@ Anthropological study by Jankowiak & Fischer (1992) examined 166 cultures, findi
 
 **Last Updated:** 2026-01-22
 
-[← Back to Claims](/claims/)
+[← Back to Claims](index.md)

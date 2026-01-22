@@ -25,7 +25,7 @@ Meta-analysis shows 50% increased survival with strong social relationships
 
 ## Related Claims
 
-[View in Knowledge Graph](#graph/claim-1)
+*Knowledge graph visualization coming soon.*
 
 ## Contribute
 

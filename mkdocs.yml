@@ -184,6 +184,13 @@ nav:
       - level5/full-proof.md
       - level5/evidence-grounded.md
       - level5/citations.md
+  - Claims:
+      - claims/index.md
+      - claims/social-connection-reduces-mortality-risk-by-50.md
+      - claims/romantic-love-found-in-vast-majority-of-cultures.md
+      - claims/social-connection-reduces-mortality-risk.md
+  - Evidence:
+      - evidence/index.md
   - Contribute:
       - contribute/index.md
       - contribute/research-requests.md
@@ -192,6 +199,7 @@ nav:
       - contribute/anonymous.md
       - contribute/translations.md
       - contribute/accessibility.md
+      - CONTRIBUTING.md
   - Safety:
       - safety/index.md
       - safety/integration-guide.md
@@ -202,3 +210,5 @@ nav:
       - about/index.md
       - about/author.md
       - about/funding.md
+      - CODE_OF_CONDUCT.md
+      - ACCESSIBILITY-REPORT.md

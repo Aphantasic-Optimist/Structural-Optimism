@@ -17,8 +17,8 @@ This page lists all verified scientific claims in our knowledge graph, organized
 
 ## ★★★☆☆ Promising
 
-- [Social connection reduces mortality risk by 50%](/claims/social-connection-reduces-mortality-risk-by-50/)
-- [Romantic love found in vast majority of cultures](/claims/romantic-love-found-in-vast-majority-of-cultures/)
+- [Social connection reduces mortality risk by 50%](social-connection-reduces-mortality-risk-by-50.md)
+- [Romantic love found in vast majority of cultures](romantic-love-found-in-vast-majority-of-cultures.md)
 
 ---
 
