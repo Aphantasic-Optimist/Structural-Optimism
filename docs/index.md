@@ -163,7 +163,7 @@ This is a living framework that improves through collective intelligence:
 - **Propose corrections** - Spotted an error or overstatement?
 - **Contribute anonymously** - Use gitGost for career-safe participation
 
-[Learn how to contribute →](contribute/)
+[Learn how to contribute →](contribute/index.md)
 
 ### Safety First
 
@@ -172,7 +172,7 @@ If you're exploring deep integration practices, please read our safety guide fir
 !!! warning "Integration Without Dissolution"
     Love yourself first, THEN integrate. Never lose yourself in the process.
     
-    [Read the integration safety guide →](safety/integration-guide/)
+    [Read the integration safety guide →](safety/integration-guide.md)
 
 ---
 
@@ -186,19 +186,19 @@ Structural Optimism is an open-source philosophical framework developed through 
 - **Academically rigorous** - Peer-reviewed standards
 - **Anonymous-friendly** - Your ideas matter, not your identity
 
-[Learn more about the project →](about/)
+[Learn more about the project →](about/index.md)
 
 ---
 
 ## Start Exploring
 
-**New here?** Start with [Level 1: The Simplest Proof](level1/)
+**New here?** Start with [Level 1: The Simplest Proof](level1/index.md)
 
-**Want evidence?** Jump to [Level 2: Evidence Summary](level2/)
+**Want evidence?** Jump to [Level 2: Evidence Summary](level2/index.md)
 
-**Ready for depth?** Explore [Level 5: Complete Proof](level5/)
+**Ready for depth?** Explore [Level 5: Complete Proof](level5/index.md)
 
-**Feeling skeptical?** Check [Level 4: Critical Analysis](level4/)
+**Feeling skeptical?** Check [Level 4: Critical Analysis](level4/index.md)
 
 ---
 
