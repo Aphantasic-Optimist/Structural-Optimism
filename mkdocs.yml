@@ -8,7 +8,6 @@ repo_url: https://github.com/structuraloptimist/structural-optimism
 
 theme:
   name: material
-  custom_dir: docs/overrides
   palette:
     # Light mode
     - scheme: default
