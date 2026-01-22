@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "claim-1",
+      "label": "Social Connection Reduces Mortality Risk",
+      "type": "ScientificClaim",
+      "confidence": 5,
+      "url": "/claims/social-connection-reduces-mortality-risk/",
+      "size": 10,
+      "color": "#2e7d32"
+    }
+  ],
+  "edges": []
+}

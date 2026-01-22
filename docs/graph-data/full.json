@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "63b52ff8-c0d7-4c97-9de1-ce7733922619",
+      "label": "Social connection reduces mortality risk by 50%",
+      "type": "ScientificClaim",
+      "summary": "Meta-analysis of 148 studies (308,849 participants) shows 50% increased survival likelihood with stronger social relationships. Effect comparable to quitting smoking. Social isolation increases mortality 32%, loneliness 14%. Cross-cultural validity confirmed.",
+      "x": 0,
+      "y": 0,
+      "size": 10,
+      "color": "#e65100"
+    },
+    {
+      "id": "c8d80aeb-0174-4447-b6f0-ad521cf506eb",
+      "label": "Romantic love found in vast majority of cultures",
+      "type": "ScientificClaim",
+      "summary": "Anthropological study by Jankowiak & Fischer (1992) examined 166 cultures, finding romantic love evidence in vast majority. Cross-cultural consistency suggests it's human universal, not Western invention. Includes love songs, elopement, personal anguish.",
+      "x": 0,
+      "y": 0,
+      "size": 10,
+      "color": "#e65100"
+    },
+    {
+      "id": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
+      "label": "Wang et al. 2023 meta-analysis",
+      "type": "Paper",
+      "summary": "Meta-analysis published in Nature Human Behaviour analyzing 148 studies with 308,849 participants. Found stronger social relationships increase survival likelihood by 50%, comparable to quitting smoking. Social isolation increases mortality 32%, loneliness 14%.",
+      "x": 0,
+      "y": 0,
+      "size": 10,
+      "color": "#e65100"
+    },
+    {
+      "id": "ad7fc628-cc55-4575-8b7d-4fdc027a629a",
+      "label": "Jankowiak & Fischer 1992",
+      "type": "Paper",
+      "summary": "Anthropological study published in Ethnology examining 166 cultures, finding evidence of romantic love in vast majority. Used Yale HRAF database. Shows romantic love is human universal, not Western cultural invention.",
+      "x": 0,
+      "y": 0,
+      "size": 10,
+      "color": "#e65100"
+    },
+    {
+      "id": "4deea3c9-8b54-47d2-9754-a81ada7b19fa",
+      "label": "Meta-analysis of 148 studies with 308,849 participants found 50% increased survival with stronger social relationships",
+      "type": "Evidence",
+      "summary": "Meta-analysis by Wang et al. 2023 (Nature Human Behaviour) of 148 studies with 308,849 participants found people with stronger social relationships have 50% increased likelihood of survival. Effect comparable to quitting smoking, exceeds many known risk factors.",
+      "x": 0,
+      "y": 0,
+      "size": 10,
+      "color": "#e65100"
+    },
+    {
+      "id": "5ade1d30-6043-4be1-a6b3-169e8c9fb0ec",
+      "label": "Anthropological research examined 166 cultures and found romantic love in vast majority",
+      "type": "Evidence",
+      "summary": "Jankowiak & Fischer 1992 anthropological study examined 166 cultures, finding evidence of romantic love in vast majority. Cross-cultural consistency suggests romantic love is human universal, not Western cultural invention.",
+      "x": 0,
+      "y": 0,
+      "size": 10,
+      "color": "#e65100"
+    }
+  ],
+  "edges": [
+    {
+      "id": "63b52ff8-c0d7-4c97-9de1-ce7733922619_a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
+      "source": "63b52ff8-c0d7-4c97-9de1-ce7733922619",
+      "target": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
+      "label": "SUPPORTED_BY",
+      "size": 2
+    },
+    {
+      "id": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd_63b52ff8-c0d7-4c97-9de1-ce7733922619",
+      "source": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
+      "target": "63b52ff8-c0d7-4c97-9de1-ce7733922619",
+      "label": "PROVIDES_EVIDENCE_FOR",
+      "size": 2
+    },
+    {
+      "id": "c8d80aeb-0174-4447-b6f0-ad521cf506eb_5ade1d30-6043-4be1-a6b3-169e8c9fb0ec",
+      "source": "c8d80aeb-0174-4447-b6f0-ad521cf506eb",
+      "target": "5ade1d30-6043-4be1-a6b3-169e8c9fb0ec",
+      "label": "SUPPORTED_BY",
+      "size": 2
+    },
+    {
+      "id": "c8d80aeb-0174-4447-b6f0-ad521cf506eb_ad7fc628-cc55-4575-8b7d-4fdc027a629a",
+      "source": "c8d80aeb-0174-4447-b6f0-ad521cf506eb",
+      "target": "ad7fc628-cc55-4575-8b7d-4fdc027a629a",
+      "label": "CITED_BY",
+      "size": 2
+    }
+  ]
+}
