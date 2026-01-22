@@ -111,7 +111,7 @@ Contributors are recognized in:
 
 - **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
 - **Technical issues**: [GitHub Issues](https://github.com/[username]/structural-optimism/issues)
-- **Private inquiries**: See [Contact](../about/index.md#contact)
+- **Private inquiries**: See project repository
 
 ---
 

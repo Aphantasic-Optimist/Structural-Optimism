@@ -239,8 +239,6 @@ Research contributors are:
 
 ## Questions?
 
-- **About research methods**: See [Methods](../about/methods.md)
-- **About evidence standards**: See [Evidence Ratings](../about/evidence.md)
 - **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
 
 ---

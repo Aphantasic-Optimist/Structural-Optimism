@@ -429,5 +429,3 @@ Thank you for making the web more accessible! ✨
 
 **See also:**
 - [Contributing Guide](index.md)
-- [Content Style Guide](../about/style-guide.md)
-- [Accessibility Report](../../ACCESSIBILITY-REPORT.md)

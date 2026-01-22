@@ -357,7 +357,6 @@ Correction contributors are:
 ## Questions?
 
 - **About correction process**: See [Contributing Guide](https://github.com/[username]/structural-optimism/blob/main/CONTRIBUTING.md)
-- **About evidence standards**: See [Methods](../about/methods.md)
 - **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
 
 ---

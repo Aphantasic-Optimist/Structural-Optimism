@@ -356,9 +356,6 @@ If your submission is declined:
 
 ## Questions?
 
-- **About evidence standards**: See [Methods](../about/methods.md)
-- **About confidence ratings**: See [Evidence Ratings](../about/evidence.md)
-- **About citations**: See [Citation Guide](../about/citations.md)
 - **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
 
 ---

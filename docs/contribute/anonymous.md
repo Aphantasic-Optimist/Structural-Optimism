@@ -405,11 +405,6 @@ If you need to claim credit later:
 
 ### About Privacy
 
-- [Privacy Policy](../about/privacy.md)
-- [Security Practices](../about/security.md)
-
-### General Questions
-
 - Email: [anonymous-help@structural-optimism.org]
 - [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions) (use anonymous account)
 

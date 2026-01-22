@@ -110,11 +110,7 @@ doi:10.5281/zenodo.XXXXXXX.
 
 ### Download Citation Files
 
-**Available formats:**
-- [BibTeX (.bib)](../assets/citations/structural-optimism.bib)
-- [RIS (.ris)](../assets/citations/structural-optimism.ris)
-- [EndNote (.enw)](../assets/citations/structural-optimism.enw)
-- [Zotero RDF (.rdf)](../assets/citations/structural-optimism.rdf)
+Citation files will be available soon.
 
 ---
 
@@ -365,7 +361,7 @@ doi:10.5281/zenodo.XXXXXXX.
 7. **Integration** - Accepted contributions integrated
 8. **Credit** - You receive appropriate attribution
 
-**See [Contributing Guide](../CONTRIBUTING.md) for details.**
+**See [Contributing Guide](https://github.com/[username]/structural-optimism/blob/main/CONTRIBUTING.md) for details.**
 
 ### Academic Standards
 
@@ -523,7 +519,7 @@ A: Attribution in documentation, citations, acknowledgments.
 **Q: Can I be a co-author?**  
 A: For major contributions, possibly. Discuss in your PR.
 
-**More questions?** Open an issue on GitHub or see [FAQ](../about/faq.md).
+**More questions?** Open an issue on GitHub.
 
 ---
 
