@@ -11,7 +11,7 @@ description: An evidence-based philosophical proof that reality is structured to
 
 ## The Proof in 60 Seconds
 
-<div class="mini-graph" data-node-id="claim-2" data-depth="2"></div>
+<div class="mini-graph" data-node-id="f3eff987-ae5f-4ca9-8d54-527690914633" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
