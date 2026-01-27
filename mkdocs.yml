@@ -102,8 +102,9 @@ plugins:
   - git-revision-date-localized:  # Auto "last updated" from git
       enable_creation_date: true
       type: date
-      fallback_to_build_date: true
+      fallback_to_build_date: false
       enable_git_follow: false
+      strict: false  # Log as INFO instead of WARNING when docs/ is not git root
   - tags                      # Tag support
   # - social:                   # Social cards for sharing (disabled - requires Cairo)
   #     cards: true
