@@ -368,7 +368,7 @@
 
   function handleClick(event, d) {
     if (d.url) {
-      // Simple relative navigation
+      // Navigate using the URL from the node data
       window.location.href = d.url;
     }
   }
