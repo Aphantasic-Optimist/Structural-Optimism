@@ -11,7 +11,24 @@ description: An evidence-based philosophical proof that reality is structured to
 
 ## The Proof in 60 Seconds
 
-<div class="mini-graph" data-node-id="f3eff987-ae5f-4ca9-8d54-527690914633" data-depth="2"></div>
+**Fact 1:** Reality is structured so that complex things emerge when simple things cooperate.
+Atoms → molecules → cells → organisms → societies → consciousness.
+
+**Fact 2:** Humans die without connection.
+2.2 million people studied: social isolation increases mortality by 32%.
+
+**Fact 3:** We experience connection as good.
+Love feels good. Belonging feels good. This is universal across all cultures.
+
+**Conclusion:** Reality rewards what helps us survive (connection) with what we experience as good (love).
+
+**The universe is shaped like optimism.**
+
+---
+
+## Explore the Knowledge Graph
+
+<div id="graphiti-container" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 8px; margin: 2rem 0;"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -29,47 +46,23 @@ description: An evidence-based philosophical proof that reality is structured to
 })();
 </script>
 
-**Fact 1:** Reality is structured so that complex things emerge when simple things cooperate.
-Atoms → molecules → cells → organisms → societies → consciousness.
-
-**Fact 2:** Humans die without connection.
-2.2 million people studied: social isolation increases mortality by 32%.
-
-**Fact 3:** We experience connection as good.
-Love feels good. Belonging feels good. This is universal across all cultures.
-
-**Conclusion:** Reality rewards what helps us survive (connection) with what we experience as good (love).
-
-**The universe is shaped like optimism.**
-
----
-
-## Explore the Evidence
-
-Click any node in the graph above, or choose your path:
-
-| Path | For | Time |
-|------|-----|------|
-| [The Simple Proof](proof/simple.md) | Everyone | 5 min |
-| [Full Evidence](proof/evidence.md) | Curious minds | 20 min |
-| [Academic Proof](proof/academic.md) | Researchers | 1 hour |
-| [Knowledge Graph](graph.md) | Visual explorers | Interactive |
-
----
-
-## The Complete Knowledge Graph
-
-Explore all claims, evidence, and relationships in our research:
-
-<div id="graphiti-container" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 8px; margin: 2rem 0;"></div>
-
 **Interactive controls:**
 - **Drag** nodes to rearrange
 - **Scroll** to zoom in/out
 - **Click** nodes to navigate to details
 - **Hover** for summaries
 
-[View full-screen graph →](graph.md)
+[View full-screen graph with legend →](graph.md)
+
+---
+
+## Choose Your Path
+
+| Path | For | Time |
+|------|-----|------|
+| [The Simple Proof](proof/simple.md) | Everyone | 5 min |
+| [Full Evidence](proof/evidence.md) | Curious minds | 20 min |
+| [Academic Proof](proof/academic.md) | Researchers | 1 hour |
 
 ---
 
