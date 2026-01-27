@@ -247,7 +247,7 @@ We notify you:
 
 ### Example 1: Factual Error
 
-> **Location**: Level 1, "The Simplest Proof"
+> **Location**: Simple Proof
 >
 > **Error Type**: Factual error
 >
@@ -263,7 +263,7 @@ We notify you:
 
 ### Example 2: Citation Error
 
-> **Location**: Level 5, "Evidence-Grounded Theory"
+> **Location**: Academic Proof
 >
 > **Error Type**: Citation laundering
 >
@@ -279,7 +279,7 @@ We notify you:
 
 ### Example 3: Interpretation Error
 
-> **Location**: Level 4, "Physics Integration"
+> **Location**: Claims section
 >
 > **Error Type**: Interpretation error
 >
@@ -295,7 +295,7 @@ We notify you:
 
 ### Example 4: Outdated Information
 
-> **Location**: Level 3, "Quantum Biology"
+> **Location**: Evidence section
 >
 > **Error Type**: Outdated information
 >

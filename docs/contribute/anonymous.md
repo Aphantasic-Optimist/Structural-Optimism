@@ -315,7 +315,7 @@ Anonymous contributors must:
 >
 > **Attribution**: "Anonymous Researcher"
 >
-> **Status**: Accepted, integrated into Level 1
+> **Status**: Accepted, integrated into Simple Proof
 
 ### Example 2: Anonymous Correction
 

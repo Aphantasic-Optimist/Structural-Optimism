@@ -164,7 +164,7 @@ This document tracks accessibility testing and improvements for the Structural O
 
 **Pages Checked:**
 - ✅ index.md - Proper hierarchy
-- ✅ level1/index.md - Proper hierarchy
+- ✅ proof/simple.md - Proper hierarchy
 - ✅ All other pages follow same pattern
 
 ---
@@ -303,8 +303,8 @@ h1: Structural Optimism (page title)
   h2: Welcome
   h2: The Simplest Proof
     h3: Three Facts, One Conclusion
-  h2: Explore by Complexity Level
-    h3: Level 1: Simple (in pyramid nav)
+  h2: Explore the Evidence
+    h3: The Simple Proof
   h2: What Makes This Different?
     h3: Not Naive Optimism
     h3: Not Nihilism

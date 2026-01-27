@@ -195,7 +195,7 @@ Research contributors are:
 >
 > **Question**: The framework states "social connection reduces mortality risk by 50%". Is this accurate?
 >
-> **Context**: This is a core claim in Level 1 (The Simplest Proof)
+> **Context**: This is a core claim in the Simple Proof
 >
 > **Current State**: Cited as Wang et al. (2023), 2.2M people studied
 >

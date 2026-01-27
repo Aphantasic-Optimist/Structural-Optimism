@@ -283,7 +283,7 @@ Evidence about evidence:
 >
 > **Methodology**: Meta-analysis of 148 studies, 2.2 million participants, 15-year follow-up
 >
-> **Relevance**: Supports core claim in Level 1 that integration (social connection) is beneficial
+> **Relevance**: Supports core claim in Simple Proof that integration (social connection) is beneficial
 >
 > **Confidence**: ★★★★★ (Established - large meta-analysis, consistent findings)
 >

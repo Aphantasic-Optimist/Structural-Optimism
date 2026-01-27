@@ -56,11 +56,9 @@ plugins:
           build: true
           nav_translations:
             Home: Inicio
-            Level 1 - Simple: Nivel 1 - Simple
-            Level 2 - Intermediate: Nivel 2 - Intermedio
-            Level 3 - Advanced: Nivel 3 - Avanzado
-            Level 4 - Analysis: Nivel 4 - Análisis
-            Level 5 - Academic: Nivel 5 - Académico
+            Proof: Prueba
+            Claims: Afirmaciones
+            Evidence: Evidencia
             Contribute: Contribuir
             Safety: Seguridad
             Academic: Académico
@@ -70,11 +68,9 @@ plugins:
           build: true
           nav_translations:
             Home: Accueil
-            Level 1 - Simple: Niveau 1 - Simple
-            Level 2 - Intermediate: Niveau 2 - Intermédiaire
-            Level 3 - Advanced: Niveau 3 - Avancé
-            Level 4 - Analysis: Niveau 4 - Analyse
-            Level 5 - Academic: Niveau 5 - Académique
+            Proof: Preuve
+            Claims: Affirmations
+            Evidence: Preuves
             Contribute: Contribuer
             Safety: Sécurité
             Academic: Académique
@@ -84,11 +80,9 @@ plugins:
           build: true
           nav_translations:
             Home: Startseite
-            Level 1 - Simple: Stufe 1 - Einfach
-            Level 2 - Intermediate: Stufe 2 - Mittel
-            Level 3 - Advanced: Stufe 3 - Fortgeschritten
-            Level 4 - Analysis: Stufe 4 - Analyse
-            Level 5 - Academic: Stufe 5 - Akademisch
+            Proof: Beweis
+            Claims: Behauptungen
+            Evidence: Beweise
             Contribute: Beitragen
             Safety: Sicherheit
             Academic: Akademisch
@@ -98,11 +92,9 @@ plugins:
           build: true
           nav_translations:
             Home: 首页
-            Level 1 - Simple: 第1级 - 简单
-            Level 2 - Intermediate: 第2级 - 中级
-            Level 3 - Advanced: 第3级 - 高级
-            Level 4 - Analysis: 第4级 - 分析
-            Level 5 - Academic: 第5级 - 学术
+            Proof: 证明
+            Claims: 主张
+            Evidence: 证据
             Contribute: 贡献
             Safety: 安全
             Academic: 学术

@@ -6,7 +6,6 @@ tags:
   - project
   - philosophy
   - evidence
-last_updated: 2026-01-21
 ---
 
 # About Structural Optimism
@@ -50,7 +49,7 @@ Structural Optimism is a philosophical framework grounded in empirical evidence 
 
 ---
 
-## The Core Proof (Simple Version)
+## The Core Proof
 
 **Three facts, one conclusion:**
 
@@ -65,29 +64,40 @@ Structural Optimism is a philosophical framework grounded in empirical evidence 
 
 **Conclusion:** Reality is structured such that connection, love, and belonging literally keep us alive. This is not cultural. This is structural. This is how reality works.
 
-**See [Simple Proof](../proof/simple.md) for the simple proof.**  
+**See [Simple Proof](../proof/simple.md) for the 5-minute version.**  
 **See [Academic Proof](../proof/academic.md) for the complete philosophical proof.**
 
 ---
 
-## The Framework
+## Site Structure
 
-We present the framework at multiple levels of depth:
+We present the framework at multiple depths:
 
-**[Simple Proof](../proof/simple.md)**  
-The simplest proof: Three facts, one conclusion. Start here.
+### [Proof](../proof/index.md)
+Three levels of depth for the core argument:
+- **Simple** (5 min) - Three facts, one conclusion
+- **Evidence** (20 min) - Full research summary with mechanisms
+- **Academic** (1 hour) - Complete philosophical proof with citations
 
-**[Evidence Summary](../proof/evidence.md)**  
-Research summary, mechanisms, and practical applications.
+### [Claims](../claims/index.md)
+Four core claims with evidence chains:
+- Integration creates complexity (★★★★☆)
+- Social connection reduces mortality (★★★★★)
+- Love is universal (★★★★★)
+- Alignment enables flourishing (★★★★☆)
 
-**[Academic Proof](../proof/academic.md)**  
-Complete philosophical proof, full citations, academic rigor.
+### [Evidence](../evidence/index.md)
+Research sources and biological mechanisms:
+- Key studies with sample sizes
+- Biological pathways
+- Cross-references to claims
 
-**[Core Claims](../claims/index.md)**  
-Four core claims with evidence chains.
-
-**[Research Evidence](../evidence/index.md)**  
-Biological mechanisms and research sources.
+### [Academic](../academic/index.md)
+For researchers and scholars:
+- Methodology and standards
+- Citation information
+- Peer review process
+- Research collaboration
 
 ---
 
@@ -222,13 +232,14 @@ Biological mechanisms and research sources.
 **What exists:**
 - Complete philosophical framework
 - Evidence-based documentation
-- Five-level content pyramid
+- Multi-depth content structure
 - Safety guidelines
 - Contribution pathways
+- Interactive knowledge graph
 
 **What's coming:**
 - Translations (community-driven)
-- Interactive visualizations
+- Enhanced visualizations
 - Research updates
 - Community resources
 - Educational materials
@@ -276,7 +287,7 @@ Biological mechanisms and research sources.
 
 ## Contact and Community
 
-**GitHub Repository:** [github.com/[username]/structural-optimism](https://github.com/[username]/structural-optimism)
+**GitHub Repository:** [github.com/Aphantasic-Optimist/Structural-Optimism](https://github.com/Aphantasic-Optimist/Structural-Optimism)
 
 **Ways to engage:**
 - Submit corrections via GitHub issues

@@ -144,14 +144,14 @@ The diagram shows six layers:
 
 **Good links:**
 ```markdown
-Read the [complete philosophical proof](../level5/full-proof.md)
+Read the [complete philosophical proof](../proof/academic.md)
 
 [Wang et al. 2023 study on social connection and mortality](https://doi.org/...)
 ```
 
 **Bad links:**
 ```markdown
-Click [here](../level5/full-proof.md) to read more
+Click [here](../proof/academic.md) to read more
 
 For more information, see [this link](https://doi.org/...)
 ```

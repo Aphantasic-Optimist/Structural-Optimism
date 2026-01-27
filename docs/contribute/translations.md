@@ -56,11 +56,11 @@ We welcome translations into any language, including:
 
 ### Priority Order
 
-1. **Level 1** - The Simplest Proof (highest priority)
+1. **Simple Proof** - The core argument (highest priority)
 2. **Home Page** - Overview and navigation
-3. **Level 2** - Intermediate content
+3. **Evidence Summary** - Research and mechanisms
 4. **Contribute Pages** - How to participate
-5. **Level 3-5** - Advanced content
+5. **Academic Proof** - Complete philosophical proof
 6. **About Pages** - Project information
 
 ### Translation Scope
@@ -84,7 +84,7 @@ We welcome translations into any language, including:
 1. **Fork the repository** on GitHub
 2. **Create translation file** with language suffix:
    - For home page: `docs/index.[lang].md` (e.g., `index.es.md`)
-   - For other pages: `docs/level1/index.[lang].md`
+   - For other pages: `docs/proof/simple.[lang].md`
 3. **Translate content** maintaining structure and formatting
 4. **Test locally** (optional):
    ```bash
@@ -244,9 +244,9 @@ Internal links work the same in all languages - the i18n plugin automatically ro
 
 ```markdown
 <!-- Works in all languages -->
-See [Level 2](../level2/index.md)
-Ver [Nivel 2](../level2/index.md)
-Voir [Niveau 2](../level2/index.md)
+See [Evidence Summary](../proof/evidence.md)
+Ver [Resumen de Evidencia](../proof/evidence.md)
+Voir [Résumé des Preuves](../proof/evidence.md)
 ```
 
 Keep external links unchanged:
@@ -376,8 +376,8 @@ Each language has a translator credits page:
 Esta traducción fue realizada por:
 This translation was made by:
 
-- [Translator Name] - Level 1, Level 2
-- [Translator Name] - Level 3, Level 4
+- [Translator Name] - Simple Proof, Evidence Summary
+- [Translator Name] - Academic Proof, Claims
 - [Translator Name] - Contribute pages
 ```
 
