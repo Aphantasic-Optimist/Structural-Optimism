@@ -17,6 +17,7 @@ last_updated: 2026-01-21
 
 ## Quick Links
 
+- **[Methodology](methodology.md)** - How we evaluate evidence
 - **[Citation Information](#citation-information)** - How to cite this work
 - **[Peer Review](#peer-review)** - Anonymous peer review process
 - **[Zenodo DOI](#zenodo-doi)** - Permanent identifier and archival
@@ -67,6 +68,7 @@ Framework." Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX.
 ```
 
 **BibTeX:**
+{% raw %}
 ```bibtex
 @misc{structural_optimism_2026,
   author = {{Structural Optimist}},
@@ -77,6 +79,7 @@ Framework." Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX.
   url = {https://doi.org/10.5281/zenodo.XXXXXXX}
 }
 ```
+{% endraw %}
 
 **RIS:**
 ```

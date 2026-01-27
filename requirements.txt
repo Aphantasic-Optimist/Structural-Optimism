@@ -4,8 +4,9 @@ mkdocs-material[imaging]>=9.5.0
 # Additional MkDocs plugins
 mkdocs-minify-plugin>=0.8.0
 mkdocs-git-revision-date-localized-plugin>=1.2.0
+mkdocs-macros-plugin>=1.0.0
 
-# Translation support (for future use)
+# Translation support
 mkdocs-static-i18n>=1.2.0
 
 # Social cards dependencies (included in mkdocs-material[imaging])

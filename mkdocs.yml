@@ -40,7 +40,8 @@ theme:
 
 plugins:
   - search                    # Built-in search
-  - i18n:                     # Translation support
+  # - obsidian-interactive-graph  # Disabled - using custom Graphiti graph instead
+  - i18n:                     # Translation support (must come BEFORE git-revision-date)
       docs_structure: suffix
       fallback_to_default: true
       reconfigure_material: true
@@ -106,6 +107,11 @@ plugins:
             Safety: 安全
             Academic: 学术
             About: 关于
+  - git-revision-date-localized:  # Auto "last updated" from git
+      enable_creation_date: true
+      type: date
+      fallback_to_build_date: true
+      enable_git_follow: false
   - tags                      # Tag support
   # - social:                   # Social cards for sharing (disabled - requires Cairo)
   #     cards: true
@@ -161,54 +167,46 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+# Note: D3.js and graph assets are loaded directly in graph.md page
+
 nav:
   - Home: index.md
-  - Level 1 - Simple:
-      - level1/index.md
-      - level1/getting-started.md
-  - Level 2 - Intermediate:
-      - level2/index.md
-      - level2/evidence.md
-      - level2/me-and-we.md
-  - Level 3 - Advanced:
-      - level3/index.md
-      - level3/mechanisms.md
-      - level3/applications.md
-  - Level 4 - Analysis:
-      - level4/index.md
-      - level4/doomerism.md
-      - level4/propaganda.md
-      - level4/socialism.md
-  - Level 5 - Academic:
-      - level5/index.md
-      - level5/full-proof.md
-      - level5/evidence-grounded.md
-      - level5/citations.md
+  - Knowledge Graph: graph.md
+  - Proof:
+      - proof/index.md
+      - Simple (5 min): proof/simple.md
+      - Evidence (20 min): proof/evidence.md
+      - Academic (1 hour): proof/academic.md
   - Claims:
       - claims/index.md
-      - claims/social-connection-reduces-mortality-risk-by-50.md
-      - claims/romantic-love-found-in-vast-majority-of-cultures.md
-      - claims/social-connection-reduces-mortality-risk.md
+      - Integration Creates Complexity: claims/01-integration-creates-complexity.md
+      - Social Connection Reduces Mortality: claims/02-social-connection-reduces-mortality.md
+      - Love is Universal: claims/03-love-is-universal.md
+      - Alignment Enables Flourishing: claims/04-alignment-enables-flourishing.md
   - Evidence:
       - evidence/index.md
+      - Biological Pathways: evidence/mechanisms/biological-pathways.md
+  - Academic:
+      - academic/index.md
+      - Methodology: academic/methodology.md
+      - Peer Review: academic/peer-review.md
+      - Gaps: academic/gaps/open-questions.md
+      - Meta:
+          - academic/meta/confidence-ratings.md
+          - academic/meta/falsification-criteria.md
   - Contribute:
       - contribute/index.md
-      - contribute/research-requests.md
-      - contribute/evidence.md
-      - contribute/corrections.md
-      - contribute/anonymous.md
-      - contribute/translations.md
-      - contribute/accessibility.md
+      - Submit Evidence: contribute/evidence.md
+      - Propose Corrections: contribute/corrections.md
+      - Request Research: contribute/research-requests.md
+      - Translations: contribute/translations.md
       - CONTRIBUTING.md
   - Safety:
       - safety/index.md
-      - safety/integration-guide.md
-  - Academic:
-      - academic/index.md
-      - academic/peer-review.md
+      - Integration Guide: safety/integration-guide.md
   - About:
       - about/index.md
       - about/author.md
       - about/funding.md
       - CODE_OF_CONDUCT.md
-      - ACCESSIBILITY-REPORT.md
+  - Changelog: changelog.md

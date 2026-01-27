@@ -9,199 +9,111 @@ description: An evidence-based philosophical proof that reality is structured to
 
 ---
 
-## Welcome
+## The Proof in 60 Seconds
 
-Welcome to Structural Optimism—a philosophical framework grounded in cross-cultural human experience and scientific evidence. We're not naive optimists who believe the universe has a plan for us. We're not nihilists who despair at meaninglessness. We're **structural optimists** who recognize that reality itself is architecturally biased toward integration, cooperation, and connection.
+<div class="mini-graph" data-node-id="claim-2" data-depth="2"></div>
 
-This isn't wishful thinking. It's observation of what humans consistently report across all cultures, all times, all wisdom traditions—now confirmed by peer-reviewed science.
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+(function() {
+  var script = document.createElement('script');
+  var canonical = document.querySelector('link[rel="canonical"]');
+  var basePath = canonical ? new URL(canonical.href).pathname.match(/^(\/[^\/]+)/)?.[1] || '' : '';
+  script.src = basePath + '/assets/javascripts/graphiti-viewer.js';
+  document.head.appendChild(script);
+  
+  var link = document.createElement('link');
+  link.rel = 'stylesheet';
+  link.href = basePath + '/assets/stylesheets/graphiti-graph.css';
+  document.head.appendChild(link);
+})();
+</script>
 
----
+**Fact 1:** Reality is structured so that complex things emerge when simple things cooperate.
+Atoms → molecules → cells → organisms → societies → consciousness.
 
-## The Simplest Proof
+**Fact 2:** Humans die without connection.
+2.2 million people studied: social isolation increases mortality by 32%.
 
-### Three Facts, One Conclusion
+**Fact 3:** We experience connection as good.
+Love feels good. Belonging feels good. This is universal across all cultures.
 
-**Fact 1: Reality is structured so that complex things emerge when simple things cooperate.**
-
-- Atoms cooperate → molecules
-- Molecules cooperate → cells  
-- Cells cooperate → organisms
-- Organisms cooperate → societies
-- Neurons cooperate → consciousness
-
-*This is physics, chemistry, biology. Not opinion. Fact.*
-
----
-
-**Fact 2: Humans die without connection.**
-
-- 2.2 million people studied across multiple countries
-- Social isolation increases death risk by 32%
-- Loneliness increases death risk by 14%
-- Connection predicts survival like smoking, obesity, exercise
-
-*This is peer-reviewed health science. Not opinion. Fact.*
-
-**Source:** Wang et al. 2023, *Nature Human Behaviour* - Meta-analysis of 90 cohort studies
-
----
-
-**Fact 3: We experience connection as good.**
-
-- Love feels good (universal across all cultures)
-- Belonging feels good (human universal)
-- Isolation feels bad (universal human experience)
-- Loneliness hurts (cross-cultural)
-
-*This is what humans actually report. Not opinion. Fact.*
-
----
-
-### The Conclusion
-
-**Reality is structured so that what helps us survive (connection) is what we experience as good (love).**
-
-This is not cosmic plan. This is not faith. This is **alignment**:
-
-We evolved in a universe where cooperation creates complexity. So we experience cooperation as good.
+**Conclusion:** Reality rewards what helps us survive (connection) with what we experience as good (love).
 
 **The universe is shaped like optimism.**
 
-Not because it loves us. But because integration is how complexity emerges. And we are part of that pattern.
+---
+
+## Explore the Evidence
+
+Click any node in the graph above, or choose your path:
+
+| Path | For | Time |
+|------|-----|------|
+| [The Simple Proof](proof/simple.md) | Everyone | 5 min |
+| [Full Evidence](proof/evidence.md) | Curious minds | 20 min |
+| [Academic Proof](proof/academic.md) | Researchers | 1 hour |
+| [Knowledge Graph](graph.md) | Visual explorers | Interactive |
 
 ---
 
-## Explore by Complexity Level
+## The Four Core Claims
 
-Choose your entry point based on how deep you want to go:
+Each claim is backed by peer-reviewed evidence. Click to explore:
 
-<div class="pyramid-nav">
-  <div class="pyramid-level">
-    <h3>Level 1: Simple</h3>
-    <p>The three-fact proof. Start here if you're new.</p>
-    <a href="level1/">Enter Level 1 →</a>
-  </div>
+<div class="claims-grid">
 
-  <div class="pyramid-level">
-    <h3>Level 2: Intermediate</h3>
-    <p>Evidence summary and core principles. For those wanting more detail.</p>
-    <a href="level2/">Enter Level 2 →</a>
-  </div>
+### [1. Integration Creates Complexity](claims/01-integration-creates-complexity.md)
+★★★★☆ Strong | All higher complexity emerges through cooperative integration.
 
-  <div class="pyramid-level">
-    <h3>Level 3: Advanced</h3>
-    <p>Mechanisms and applications. For practitioners and implementers.</p>
-    <a href="level3/">Enter Level 3 →</a>
-  </div>
+### [2. Social Connection Reduces Mortality](claims/02-social-connection-reduces-mortality.md)
+★★★★★ Established | 50% increased survival with strong social ties (2.2M people).
 
-  <div class="pyramid-level">
-    <h3>Level 4: Analysis</h3>
-    <p>Critical analysis of opposing views. For skeptics and critics.</p>
-    <a href="level4/">Enter Level 4 →</a>
-  </div>
+### [3. Love is Universal](claims/03-love-is-universal.md)
+★★★★★ Established | Found in 166 of 166 cultures studied.
 
-  <div class="pyramid-level">
-    <h3>Level 5: Academic</h3>
-    <p>Complete philosophical proof with full citations. For researchers.</p>
-    <a href="level5/">Enter Level 5 →</a>
-  </div>
+### [4. Alignment Enables Flourishing](claims/04-alignment-enables-flourishing.md)
+★★★★☆ Strong | Aligning with integration enables human flourishing.
+
 </div>
 
 ---
 
-## What Makes This Different?
+## What This Is (And Isn't)
 
-### Not Naive Optimism
+**Not naive optimism.** We don't claim the universe has a plan for you.
 
-We don't claim the universe has a plan for you. We don't promise everything will work out. We accept that life has no cosmic meaning, suffering exists, and we all die.
+**Not nihilism.** We don't despair at meaninglessness.
 
-### Not Nihilism
-
-We don't despair at meaninglessness. We recognize that reality has a **structure**—and that structure favors integration over fragmentation, cooperation over pure competition, connection over isolation.
-
-### Structural Optimism
-
-We observe that:
-
-- **Reality is structured toward integration** (complexity science, physics)
-- **Integration creates consciousness** (neuroscience, systems biology)
-- **Humans universally experience integration as good** (cross-cultural research, 2.2M+ people studied)
-- **Love IS integration** (neuroscience, anthropology, health research)
+**Structural optimism.** We observe that reality has a structure—and that structure favors integration over fragmentation, connection over isolation.
 
 This is optimism grounded in the architecture of existence, not faith.
 
 ---
 
-## The Evidence
+## Evidence Standards
 
 Every claim on this site is:
 
-- ✅ **Grounded in peer-reviewed research**
-- ✅ **Replicated across multiple studies**
-- ✅ **Cross-culturally verified**
-- ✅ **Clearly rated for confidence** (★ to ★★★★★)
+- ✅ Grounded in peer-reviewed research
+- ✅ Rated for confidence (★ to ★★★★★)
+- ✅ Includes falsification criteria
+- ✅ Links to primary sources
 
-We distinguish between:
+We correct errors immediately. We show our work.
 
-- **Established facts** (★★★★★) - Multiple replications, strong evidence
-- **Supported claims** (★★★★☆) - Peer-reviewed, needs more replication
-- **Promising hypotheses** (★★★☆☆) - Preliminary evidence
-- **Speculative ideas** (★☆☆☆☆) - Theoretical frameworks
-
-We correct errors immediately. We cite primary sources. We show our work.
+[See our methodology →](academic/methodology.md)
 
 ---
 
 ## Get Involved
 
-### Contribute
-
-This is a living framework that improves through collective intelligence:
-
-- **Submit evidence** - Found research that supports or contradicts our claims?
-- **Request research** - Identify gaps that need investigation?
-- **Propose corrections** - Spotted an error or overstatement?
-- **Contribute anonymously** - Use gitGost for career-safe participation
-
-[Learn how to contribute →](contribute/index.md)
-
-### Safety First
-
-If you're exploring deep integration practices, please read our safety guide first. Integration is powerful—but you must maintain healthy boundaries.
-
-!!! warning "Integration Without Dissolution"
-    Love yourself first, THEN integrate. Never lose yourself in the process.
-    
-    [Read the integration safety guide →](safety/integration-guide.md)
+- [Submit evidence](contribute/evidence.md) - Found research that supports or contradicts our claims?
+- [Propose corrections](contribute/corrections.md) - Spotted an error?
+- [Request research](contribute/research-requests.md) - Identify gaps that need investigation?
 
 ---
 
-## About This Project
-
-Structural Optimism is an open-source philosophical framework developed through rigorous research and cross-cultural verification. It's:
-
-- **Free forever** - All content freely accessible
-- **Transparently funded** - No hidden agendas
-- **Community-driven** - Improved through collective intelligence
-- **Academically rigorous** - Peer-reviewed standards
-- **Anonymous-friendly** - Your ideas matter, not your identity
-
-[Learn more about the project →](about/index.md)
-
----
-
-## Start Exploring
-
-**New here?** Start with [Level 1: The Simplest Proof](level1/index.md)
-
-**Want evidence?** Jump to [Level 2: Evidence Summary](level2/index.md)
-
-**Ready for depth?** Explore [Level 5: Complete Proof](level5/index.md)
-
-**Feeling skeptical?** Check [Level 4: Critical Analysis](level4/index.md)
-
----
-
-*"Don't worry, be happy" is not naive. It's recognition that reality is structured toward integration, and integration is what we experience as good. Aligning with reality's structure is the rational choice.*
+*"Don't worry, be happy" is not naive. It's recognition that reality is structured toward integration.*
 
 ✨

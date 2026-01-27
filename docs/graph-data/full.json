@@ -1,94 +1,149 @@
 {
   "nodes": [
     {
-      "id": "63b52ff8-c0d7-4c97-9de1-ce7733922619",
-      "label": "Social connection reduces mortality risk by 50%",
+      "id": "claim-1",
+      "label": "Integration Creates Complexity",
       "type": "ScientificClaim",
-      "summary": "Meta-analysis of 148 studies (308,849 participants) shows 50% increased survival likelihood with stronger social relationships. Effect comparable to quitting smoking. Social isolation increases mortality 32%, loneliness 14%. Cross-cultural validity confirmed.",
-      "x": 0,
-      "y": 0,
-      "size": 10,
-      "color": "#e65100"
+      "summary": "All higher complexity emerges through cooperative integration. Atoms → molecules → cells → organisms → societies → consciousness.",
+      "confidence": 4,
+      "url": "claims/01-integration-creates-complexity/"
     },
     {
-      "id": "c8d80aeb-0174-4447-b6f0-ad521cf506eb",
-      "label": "Romantic love found in vast majority of cultures",
+      "id": "claim-2",
+      "label": "Social Connection Reduces Mortality",
       "type": "ScientificClaim",
-      "summary": "Anthropological study by Jankowiak & Fischer (1992) examined 166 cultures, finding romantic love evidence in vast majority. Cross-cultural consistency suggests it's human universal, not Western invention. Includes love songs, elopement, personal anguish.",
-      "x": 0,
-      "y": 0,
-      "size": 10,
-      "color": "#e65100"
+      "summary": "Meta-analysis of 2.2M people: social isolation increases mortality 32%. Effect comparable to smoking.",
+      "confidence": 5,
+      "url": "claims/02-social-connection-reduces-mortality/"
     },
     {
-      "id": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
-      "label": "Wang et al. 2023 meta-analysis",
-      "type": "Paper",
-      "summary": "Meta-analysis published in Nature Human Behaviour analyzing 148 studies with 308,849 participants. Found stronger social relationships increase survival likelihood by 50%, comparable to quitting smoking. Social isolation increases mortality 32%, loneliness 14%.",
-      "x": 0,
-      "y": 0,
-      "size": 10,
-      "color": "#e65100"
+      "id": "claim-3",
+      "label": "Love is Universal",
+      "type": "ScientificClaim",
+      "summary": "Romantic love found in 166 of 166 cultures studied. Human universal, not Western invention.",
+      "confidence": 5,
+      "url": "claims/03-love-is-universal/"
     },
     {
-      "id": "ad7fc628-cc55-4575-8b7d-4fdc027a629a",
+      "id": "claim-4",
+      "label": "Alignment Enables Flourishing",
+      "type": "ScientificClaim",
+      "summary": "Aligning with integration (love, connection, cooperation) enables human flourishing.",
+      "confidence": 4,
+      "url": "claims/04-alignment-enables-flourishing/"
+    },
+    {
+      "id": "evidence-wang",
+      "label": "Wang et al. 2023",
+      "type": "Evidence",
+      "summary": "Nature Human Behaviour meta-analysis: 90 cohort studies, 2.2M participants. Social isolation +32% mortality, loneliness +14%.",
+      "confidence": 5,
+      "url": "evidence/mechanisms/biological-pathways/"
+    },
+    {
+      "id": "evidence-holt",
+      "label": "Holt-Lunstad et al. 2010",
+      "type": "Evidence",
+      "summary": "PLoS Medicine meta-analysis: 148 studies, 308,849 participants. 50% increased survival with strong social relationships.",
+      "confidence": 5,
+      "url": "evidence/mechanisms/biological-pathways/"
+    },
+    {
+      "id": "evidence-jankowiak",
       "label": "Jankowiak & Fischer 1992",
-      "type": "Paper",
-      "summary": "Anthropological study published in Ethnology examining 166 cultures, finding evidence of romantic love in vast majority. Used Yale HRAF database. Shows romantic love is human universal, not Western cultural invention.",
-      "x": 0,
-      "y": 0,
-      "size": 10,
-      "color": "#e65100"
+      "type": "Evidence",
+      "summary": "Ethnology study: 166 cultures via Yale HRAF database. Romantic love found in vast majority of cultures.",
+      "confidence": 5,
+      "url": "claims/03-love-is-universal/"
     },
     {
-      "id": "4deea3c9-8b54-47d2-9754-a81ada7b19fa",
-      "label": "Meta-analysis of 148 studies with 308,849 participants found 50% increased survival with stronger social relationships",
+      "id": "evidence-vanderweele",
+      "label": "VanderWeele et al. 2016",
       "type": "Evidence",
-      "summary": "Meta-analysis by Wang et al. 2023 (Nature Human Behaviour) of 148 studies with 308,849 participants found people with stronger social relationships have 50% increased likelihood of survival. Effect comparable to quitting smoking, exceeds many known risk factors.",
-      "x": 0,
-      "y": 0,
-      "size": 10,
-      "color": "#e65100"
+      "summary": "JAMA Internal Medicine: 89,708 women, 14 years. Religious attendance: 20-30% lower depression, 5x lower suicide.",
+      "confidence": 5,
+      "url": "claims/04-alignment-enables-flourishing/"
     },
     {
-      "id": "5ade1d30-6043-4be1-a6b3-169e8c9fb0ec",
-      "label": "Anthropological research examined 166 cultures and found romantic love in vast majority",
+      "id": "evidence-anderson",
+      "label": "Anderson 1972 'More is Different'",
       "type": "Evidence",
-      "summary": "Jankowiak & Fischer 1992 anthropological study examined 166 cultures, finding evidence of romantic love in vast majority. Cross-cultural consistency suggests romantic love is human universal, not Western cultural invention.",
-      "x": 0,
-      "y": 0,
-      "size": 10,
-      "color": "#e65100"
+      "summary": "Science paper establishing emergence theory. Higher complexity emerges from integration of simpler components.",
+      "confidence": 5,
+      "url": "claims/01-integration-creates-complexity/"
+    },
+    {
+      "id": "evidence-tononi",
+      "label": "Tononi IIT 2004",
+      "type": "Evidence",
+      "summary": "Integrated Information Theory: consciousness emerges from information integration (Φ).",
+      "confidence": 4,
+      "url": "claims/01-integration-creates-complexity/"
+    },
+    {
+      "id": "mechanism-ctra",
+      "label": "CTRA (Inflammatory Genes)",
+      "type": "Mechanism",
+      "summary": "Conserved Transcriptional Response to Adversity: isolation upregulates inflammatory genes, downregulates antiviral.",
+      "confidence": 4,
+      "url": "evidence/mechanisms/biological-pathways/"
+    },
+    {
+      "id": "mechanism-oxytocin",
+      "label": "Oxytocin System",
+      "type": "Mechanism",
+      "summary": "Social bonding hormone: reduces stress, promotes trust, cardiovascular protective effects.",
+      "confidence": 4,
+      "url": "evidence/mechanisms/biological-pathways/"
+    },
+    {
+      "id": "mechanism-hpa",
+      "label": "HPA Axis Buffering",
+      "type": "Mechanism",
+      "summary": "Social support buffers cortisol response to stress. Well-established mechanism.",
+      "confidence": 5,
+      "url": "evidence/mechanisms/biological-pathways/"
+    },
+    {
+      "id": "mechanism-sync",
+      "label": "Inter-Brain Synchrony",
+      "type": "Mechanism",
+      "summary": "Neural synchronization between connected individuals. Hasson, Dikker research.",
+      "confidence": 4,
+      "url": "evidence/mechanisms/biological-pathways/"
+    },
+    {
+      "id": "gap-quantum",
+      "label": "Quantum-Classical Interface",
+      "type": "ResearchGap",
+      "summary": "L0.5 layer: how quantum effects translate to classical neural activity. Critical gap.",
+      "confidence": 2,
+      "url": "academic/gaps/open-questions/"
+    },
+    {
+      "id": "gap-causation",
+      "label": "Causation vs Correlation",
+      "type": "ResearchGap",
+      "summary": "Most evidence is correlational. Need more RCTs on social interventions.",
+      "confidence": 3,
+      "url": "academic/gaps/open-questions/"
     }
   ],
   "edges": [
-    {
-      "id": "63b52ff8-c0d7-4c97-9de1-ce7733922619_a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
-      "source": "63b52ff8-c0d7-4c97-9de1-ce7733922619",
-      "target": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
-      "label": "SUPPORTED_BY",
-      "size": 2
-    },
-    {
-      "id": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd_63b52ff8-c0d7-4c97-9de1-ce7733922619",
-      "source": "a0c25942-6c05-4e6a-aa04-bcdcfe4f26fd",
-      "target": "63b52ff8-c0d7-4c97-9de1-ce7733922619",
-      "label": "PROVIDES_EVIDENCE_FOR",
-      "size": 2
-    },
-    {
-      "id": "c8d80aeb-0174-4447-b6f0-ad521cf506eb_5ade1d30-6043-4be1-a6b3-169e8c9fb0ec",
-      "source": "c8d80aeb-0174-4447-b6f0-ad521cf506eb",
-      "target": "5ade1d30-6043-4be1-a6b3-169e8c9fb0ec",
-      "label": "SUPPORTED_BY",
-      "size": 2
-    },
-    {
-      "id": "c8d80aeb-0174-4447-b6f0-ad521cf506eb_ad7fc628-cc55-4575-8b7d-4fdc027a629a",
-      "source": "c8d80aeb-0174-4447-b6f0-ad521cf506eb",
-      "target": "ad7fc628-cc55-4575-8b7d-4fdc027a629a",
-      "label": "CITED_BY",
-      "size": 2
-    }
+    {"id": "e1", "source": "evidence-wang", "target": "claim-2", "label": "SUPPORTS"},
+    {"id": "e2", "source": "evidence-holt", "target": "claim-2", "label": "SUPPORTS"},
+    {"id": "e3", "source": "evidence-jankowiak", "target": "claim-3", "label": "SUPPORTS"},
+    {"id": "e4", "source": "evidence-vanderweele", "target": "claim-4", "label": "SUPPORTS"},
+    {"id": "e5", "source": "evidence-anderson", "target": "claim-1", "label": "SUPPORTS"},
+    {"id": "e6", "source": "evidence-tononi", "target": "claim-1", "label": "SUPPORTS"},
+    {"id": "e7", "source": "mechanism-ctra", "target": "claim-2", "label": "EXPLAINS"},
+    {"id": "e8", "source": "mechanism-oxytocin", "target": "claim-2", "label": "EXPLAINS"},
+    {"id": "e9", "source": "mechanism-hpa", "target": "claim-2", "label": "EXPLAINS"},
+    {"id": "e10", "source": "mechanism-sync", "target": "claim-3", "label": "EXPLAINS"},
+    {"id": "e11", "source": "claim-1", "target": "claim-2", "label": "FOUNDATION_FOR"},
+    {"id": "e12", "source": "claim-2", "target": "claim-4", "label": "ENABLES"},
+    {"id": "e13", "source": "claim-3", "target": "claim-4", "label": "ENABLES"},
+    {"id": "e14", "source": "gap-quantum", "target": "claim-1", "label": "BLOCKS"},
+    {"id": "e15", "source": "gap-causation", "target": "claim-2", "label": "BLOCKS"}
   ]
 }
