@@ -5,13 +5,46 @@ description: Explore the evidence and claims visually
 
 # Knowledge Graph
 
-Explore the relationships between claims, evidence, and mechanisms in our knowledge graph. This visualization is powered by data from our Graphiti knowledge base.
+Explore the relationships between claims, evidence, and mechanisms in our knowledge graph.
 
 <div class="graph-controls">
   <button onclick="location.reload()">Reset View</button>
 </div>
 
 <div id="graphiti-container"></div>
+
+---
+
+## How to Use the Graph
+
+### Navigation
+- **Drag** nodes to rearrange the layout
+- **Scroll** to zoom in/out  
+- **Hover** over nodes to see summaries
+- **Click** a node to navigate to its documentation page
+
+### Understanding the Visualization
+
+**Node Colors** indicate confidence levels:
+- 🟢 **Green** - ★★★★★ Established (replicated, peer-reviewed)
+- 🔵 **Blue** - ★★★★☆ Strong (replicated, minor gaps)
+- 🟠 **Orange** - ★★★☆☆ Promising (awaiting replication)
+- 🔴 **Red** - ★★☆☆☆ Preliminary (single study)
+- 🟣 **Purple** - ★☆☆☆☆ Speculative (theoretical)
+
+**Node Types:**
+- **ScientificClaim** - Verified claims with evidence ratings
+- **Evidence** - Supporting/contradicting evidence from studies
+- **Mechanism** - Biological/physical mechanisms that explain effects
+- **ResearchGap** - Known gaps that need investigation
+
+**Edge Types** show relationships:
+- **SUPPORTS** - Evidence supports a claim
+- **CONTRADICTS** - Evidence contradicts a claim
+- **EXPLAINS** - Mechanism explains how something works
+- **BLOCKS** - Gap prevents full understanding
+
+---
 
 ## Legend
 
@@ -23,6 +56,7 @@ Explore the relationships between claims, evidence, and mechanisms in our knowle
       <span class="legend-item"><span class="legend-dot" style="background: #1976d2;"></span> ★★★★☆ Strong</span>
       <span class="legend-item"><span class="legend-dot" style="background: #f57c00;"></span> ★★★☆☆ Promising</span>
       <span class="legend-item"><span class="legend-dot" style="background: #d32f2f;"></span> ★★☆☆☆ Preliminary</span>
+      <span class="legend-item"><span class="legend-dot" style="background: #9c27b0;"></span> ★☆☆☆☆ Speculative</span>
     </div>
   </div>
   
@@ -37,27 +71,64 @@ Explore the relationships between claims, evidence, and mechanisms in our knowle
   </div>
 </div>
 
-## How to Use
+---
 
-- **Drag** nodes to rearrange the layout
-- **Scroll** to zoom in/out
-- **Hover** over nodes to see details
-- **Click** a node to navigate to its documentation page
-
-## About This Graph
+## What You're Seeing
 
 This graph represents the core claims and evidence of Structural Optimism:
 
-- **Green nodes** are established claims with strong evidence (★★★★★)
-- **Blue nodes** are supporting evidence from peer-reviewed research
-- **Arrows** show relationships: what supports what, what explains what
+**Current data includes:**
+- 21 nodes (claims, evidence, mechanisms, gaps)
+- 24 relationships showing how they connect
+- Real data from our Graphiti knowledge graph
+
+**Key claims visualized:**
+- Social connection reduces mortality (★★★★★)
+- Love is universal across cultures (★★★★★)
+- Integration creates complexity (★★★★☆)
+- Alignment enables flourishing (★★★★☆)
+
+**Evidence sources:**
+- Holt-Lunstad et al. 2010 meta-analysis (308,849 participants)
+- Cogitate Consortium 2025 consciousness studies
+- Cross-cultural research on love and connection
+
+---
+
+## About the Knowledge Graph
 
 The data is exported from our [Graphiti knowledge graph](https://github.com/getzep/graphiti), which tracks:
 
-- Scientific claims with confidence ratings
-- Evidence from peer-reviewed studies
-- Mechanisms that explain the effects
-- Research gaps that need investigation
+- **Scientific claims** with confidence ratings (★ to ★★★★★)
+- **Evidence** from peer-reviewed studies
+- **Mechanisms** that explain the effects
+- **Research gaps** that need investigation
+- **Temporal changes** - what we believed when
+
+### How It's Built
+
+1. **Research** → We verify findings through peer-reviewed sources
+2. **Graphiti** → Findings are added to the knowledge graph
+3. **Export** → Graph data is exported to JSON
+4. **Visualization** → D3.js renders the interactive graph
+
+### Auto-Updates
+
+When new research is added to Graphiti, run:
+```bash
+python tools/website/export-from-graphiti.py
+```
+
+The graph automatically updates with the latest findings.
+
+---
+
+## Explore Further
+
+- [View Claims](claims/) - Detailed pages for each claim
+- [View Evidence](evidence/) - Research sources and studies
+- [Methodology](academic/methodology.md) - How we evaluate evidence
+- [Open Questions](academic/gaps/open-questions.md) - What we don't know yet
 
 ---
 

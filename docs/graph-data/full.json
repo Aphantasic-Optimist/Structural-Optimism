@@ -1,149 +1,318 @@
 {
   "nodes": [
     {
-      "id": "claim-1",
-      "label": "Integration Creates Complexity",
-      "type": "ScientificClaim",
-      "summary": "All higher complexity emerges through cooperative integration. Atoms → molecules → cells → organisms → societies → consciousness.",
-      "confidence": 4,
-      "url": "../claims/01-integration-creates-complexity/"
-    },
-    {
-      "id": "claim-2",
-      "label": "Social Connection Reduces Mortality",
-      "type": "ScientificClaim",
-      "summary": "Meta-analysis of 2.2M people: social isolation increases mortality 32%. Effect comparable to smoking.",
-      "confidence": 5,
-      "url": "../claims/02-social-connection-reduces-mortality/"
-    },
-    {
-      "id": "claim-3",
-      "label": "Love is Universal",
-      "type": "ScientificClaim",
-      "summary": "Romantic love found in 166 of 166 cultures studied. Human universal, not Western invention.",
-      "confidence": 5,
-      "url": "../claims/03-love-is-universal/"
-    },
-    {
-      "id": "claim-4",
-      "label": "Alignment Enables Flourishing",
-      "type": "ScientificClaim",
-      "summary": "Aligning with integration (love, connection, cooperation) enables human flourishing.",
-      "confidence": 4,
-      "url": "../claims/04-alignment-enables-flourishing/"
-    },
-    {
-      "id": "evidence-wang",
-      "label": "Wang et al. 2023",
-      "type": "Evidence",
-      "summary": "Nature Human Behaviour meta-analysis: 90 cohort studies, 2.2M participants. Social isolation +32% mortality, loneliness +14%.",
-      "confidence": 5,
-      "url": "../evidence/mechanisms/biological-pathways/"
-    },
-    {
-      "id": "evidence-holt",
-      "label": "Holt-Lunstad et al. 2010",
-      "type": "Evidence",
-      "summary": "PLoS Medicine meta-analysis: 148 studies, 308,849 participants. 50% increased survival with strong social relationships.",
-      "confidence": 5,
-      "url": "../evidence/mechanisms/biological-pathways/"
-    },
-    {
-      "id": "evidence-jankowiak",
-      "label": "Jankowiak & Fischer 1992",
-      "type": "Evidence",
-      "summary": "Ethnology study: 166 cultures via Yale HRAF database. Romantic love found in vast majority of cultures.",
-      "confidence": 5,
-      "url": "../claims/03-love-is-universal/"
-    },
-    {
-      "id": "evidence-vanderweele",
-      "label": "VanderWeele et al. 2016",
-      "type": "Evidence",
-      "summary": "JAMA Internal Medicine: 89,708 women, 14 years. Religious attendance: 20-30% lower depression, 5x lower suicide.",
-      "confidence": 5,
-      "url": "../claims/04-alignment-enables-flourishing/"
-    },
-    {
-      "id": "evidence-anderson",
-      "label": "Anderson 1972 'More is Different'",
-      "type": "Evidence",
-      "summary": "Science paper establishing emergence theory. Higher complexity emerges from integration of simpler components.",
-      "confidence": 5,
-      "url": "../claims/01-integration-creates-complexity/"
-    },
-    {
-      "id": "evidence-tononi",
-      "label": "Tononi IIT 2004",
-      "type": "Evidence",
-      "summary": "Integrated Information Theory: consciousness emerges from information integration (Φ).",
-      "confidence": 4,
-      "url": "../claims/01-integration-creates-complexity/"
-    },
-    {
-      "id": "mechanism-ctra",
-      "label": "CTRA (Inflammatory Genes)",
-      "type": "Mechanism",
-      "summary": "Conserved Transcriptional Response to Adversity: isolation upregulates inflammatory genes, downregulates antiviral.",
-      "confidence": 4,
-      "url": "../evidence/mechanisms/biological-pathways/"
-    },
-    {
-      "id": "mechanism-oxytocin",
-      "label": "Oxytocin System",
-      "type": "Mechanism",
-      "summary": "Social bonding hormone: reduces stress, promotes trust, cardiovascular protective effects.",
-      "confidence": 4,
-      "url": "../evidence/mechanisms/biological-pathways/"
-    },
-    {
-      "id": "mechanism-hpa",
-      "label": "HPA Axis Buffering",
-      "type": "Mechanism",
-      "summary": "Social support buffers cortisol response to stress. Well-established mechanism.",
-      "confidence": 5,
-      "url": "../evidence/mechanisms/biological-pathways/"
-    },
-    {
-      "id": "mechanism-sync",
-      "label": "Inter-Brain Synchrony",
-      "type": "Mechanism",
-      "summary": "Neural synchronization between connected individuals. Hasson, Dikker research.",
-      "confidence": 4,
-      "url": "../evidence/mechanisms/biological-pathways/"
-    },
-    {
-      "id": "gap-quantum",
-      "label": "Quantum-Classical Interface",
-      "type": "ResearchGap",
-      "summary": "L0.5 layer: how quantum effects translate to classical neural activity. Critical gap.",
-      "confidence": 2,
-      "url": "../academic/gaps/open-questions/"
-    },
-    {
-      "id": "gap-causation",
-      "label": "Causation vs Correlation",
-      "type": "ResearchGap",
-      "summary": "Most evidence is correlational. Need more RCTs on social interventions.",
+      "id": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
+      "label": "Integrated Information Theory",
+      "type": "Entity",
+      "summary": "Consciousness theory tested by Cogitate Consortium (2025) in pre-registered adversarial collaboration across 6 labs. IIT's prediction of sustained posterior synchronization failed experimental validation.",
       "confidence": 3,
-      "url": "../academic/gaps/open-questions/"
+      "url": "claims/38e7180f-1bd6-4133-85f8-601abf62d5a2/"
+    },
+    {
+      "id": "89ed1df9-ff25-40da-9e5a-06546b49443b",
+      "label": "Statistical evidence (OR = 1.50, 95% CI 1.42-1.59)",
+      "type": "Entity",
+      "summary": "Meta-analysis by Holt-Lunstad et al. (2010) of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR = 1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity/inactivity. Replicated across populations.",
+      "confidence": 3,
+      "url": "claims/89ed1df9-ff25-40da-9e5a-06546b49443b/"
+    },
+    {
+      "id": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "Both theories' specific predictions failed",
+      "type": "Entity",
+      "summary": "Cogitate Consortium (2025) pre-registered study across 6 labs found both IIT and GWT consciousness theories failed their specific predictions - no sustained posterior synchronization or prefrontal ignition observed.",
+      "confidence": 3,
+      "url": "claims/87783057-d6af-4706-ac78-6bd8a6df702d/"
+    },
+    {
+      "id": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
+      "label": "Global Workspace Theory",
+      "type": "Entity",
+      "summary": "Consciousness theory that predicts prefrontal ignition during conscious processing. Failed specific predictions in Cogitate Consortium (2025) multi-lab pre-registered study across 6 labs testing GWT and IIT.",
+      "confidence": 3,
+      "url": "claims/b1ed6453-e871-45dc-87aa-45e2beb95baa/"
+    },
+    {
+      "id": "e25f869f-4f90-46fd-b1db-958999e17093",
+      "label": "Replication across multiple populations and cultures",
+      "type": "Entity",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis finding that social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59) has been replicated across multiple populations and cultures, establishing robustness of results from 148 studies with 308,849 participants.",
+      "confidence": 3,
+      "url": "claims/e25f869f-4f90-46fd-b1db-958999e17093/"
+    },
+    {
+      "id": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "label": "Meta-analysis of 148 studies with 308,849 participants",
+      "type": "Entity",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity/physical inactivity. Replicated across cultures.",
+      "confidence": 3,
+      "url": "claims/fc945c22-ef4b-4323-915e-51577c7e23e1/"
+    },
+    {
+      "id": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
+      "label": "Holt-Lunstad et al.",
+      "type": "Entity",
+      "summary": "Researchers who conducted 2010 meta-analysis of 148 studies (308,849 participants) finding social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59), effect comparable to smoking cessation and exceeding obesity/physical inactivity.",
+      "confidence": 3,
+      "url": "claims/806ccfbd-3774-42ab-bd58-b4ce6836bded/"
+    },
+    {
+      "id": "d5d537f6-9256-448d-8e8d-87d2b6d328d5",
+      "label": "Cogitate Consortium",
+      "type": "Entity",
+      "summary": "Cogitate Consortium (2025) conducted pre-registered adversarial collaboration across 6 labs testing IIT and GWT consciousness theories. Both theories' predictions failed - no sustained posterior synchronization (IIT) or prefrontal ignition (GWT) observed.",
+      "confidence": 3,
+      "url": "claims/d5d537f6-9256-448d-8e8d-87d2b6d328d5/"
+    },
+    {
+      "id": "d2af1678-416d-425f-8812-8a932b8fe0d7",
+      "label": "Effect exceeds physical inactivity impact",
+      "type": "Entity",
+      "summary": "Social connection's 50% mortality risk reduction (OR=1.50, 95% CI 1.42-1.59) exceeds physical inactivity impact. Meta-analysis of 148 studies, 308,849 participants by Holt-Lunstad et al. (2010). Replicated across populations.",
+      "confidence": 3,
+      "url": "claims/d2af1678-416d-425f-8812-8a932b8fe0d7/"
+    },
+    {
+      "id": "f3f3af0b-3671-4173-bb41-4e555c8072c7",
+      "label": "Effect comparable to smoking cessation",
+      "type": "Entity",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59), matching smoking cessation benefits and exceeding obesity/inactivity effects.",
+      "confidence": 3,
+      "url": "claims/f3f3af0b-3671-4173-bb41-4e555c8072c7/"
+    },
+    {
+      "id": "058045fb-e3ba-46e8-84ed-5ccd6067a7eb",
+      "label": "Effect exceeds obesity impact",
+      "type": "Entity",
+      "summary": "Social connection's mortality benefit exceeds obesity's impact according to Holt-Lunstad et al. (2010) meta-analysis of 308,849 participants across 148 studies.",
+      "confidence": 3,
+      "url": "claims/058045fb-e3ba-46e8-84ed-5ccd6067a7eb/"
+    },
+    {
+      "id": "2d2a302e-57a9-4a83-9e41-fea8df685113",
+      "label": "social connection effect exceeds obesity and physical inactivity effects",
+      "type": "Entity",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies found social connection's mortality risk reduction (50%, OR=1.50) exceeds effects of obesity and physical inactivity, comparable to smoking cessation. Established across cultures.",
+      "confidence": 3,
+      "url": "claims/2d2a302e-57a9-4a83-9e41-fea8df685113/"
+    },
+    {
+      "id": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
+      "label": "IIT's sustained posterior synchronization prediction failure",
+      "type": "Entity",
+      "summary": "Cogitate Consortium (2025) pre-registered adversarial collaboration across 6 labs found IIT's predicted sustained posterior synchronization was not observed, contradicting theory predictions.",
+      "confidence": 3,
+      "url": "claims/29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd/"
+    },
+    {
+      "id": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "label": "Pre-registered adversarial collaboration across 6 labs",
+      "type": "Entity",
+      "summary": "Cogitate Consortium (2025) multi-lab pre-registered adversarial collaboration testing IIT and GWT consciousness theories. Both theories' predictions failed - no sustained posterior synchronization or prefrontal ignition observed as predicted.",
+      "confidence": 3,
+      "url": "claims/c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f/"
+    },
+    {
+      "id": "c7356b88-9e25-41f7-a11c-e43397286556",
+      "label": "Mortality risk",
+      "type": "Entity",
+      "summary": "Social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59) according to Holt-Lunstad meta-analysis of 148 studies with 308,849 participants. Effect comparable to smoking cessation, exceeds obesity/physical inactivity impacts.",
+      "confidence": 3,
+      "url": "claims/c7356b88-9e25-41f7-a11c-e43397286556/"
+    },
+    {
+      "id": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
+      "label": "GWT's prefrontal ignition prediction failure",
+      "type": "Entity",
+      "summary": "Cogitate Consortium (2025) pre-registered multi-lab study found GWT's predicted prefrontal ignition was not observed as expected, failing theory's specific predictions in consciousness research.",
+      "confidence": 3,
+      "url": "claims/3b4880d9-c3ae-4702-a8b2-da1e9b507d2a/"
+    },
+    {
+      "id": "7b3bbbaa-2e64-44d6-98c6-42620eef8ee6",
+      "label": "Smoking cessation",
+      "type": "Entity",
+      "summary": "Smoking cessation has comparable mortality risk reduction effects to social connection, which reduces mortality risk by 50% according to Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants.",
+      "confidence": 3,
+      "url": "claims/7b3bbbaa-2e64-44d6-98c6-42620eef8ee6/"
+    },
+    {
+      "id": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "Social connection reduces mortality risk by 50%",
+      "type": "Entity",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity and physical inactivity. Replicated across cultures.",
+      "confidence": 3,
+      "url": "claims/f3eff987-ae5f-4ca9-8d54-527690914633/"
+    },
+    {
+      "id": "ae85a025-08fe-42a8-aa88-c3090e27863e",
+      "label": "Social connection",
+      "type": "Entity",
+      "summary": "Meta-analysis of 148 studies (308,849 participants) by Holt-Lunstad et al. (2010) found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59), comparable to smoking cessation.",
+      "confidence": 3,
+      "url": "claims/ae85a025-08fe-42a8-aa88-c3090e27863e/"
+    },
+    {
+      "id": "c7950438-b12e-4667-b8df-09fafa009935",
+      "label": "Physical inactivity",
+      "type": "Entity",
+      "summary": "Physical inactivity has lower mortality risk impact than social isolation. Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50), exceeding physical inactivity effects.",
+      "confidence": 3,
+      "url": "claims/c7950438-b12e-4667-b8df-09fafa009935/"
+    },
+    {
+      "id": "618b5077-9201-4101-808f-87cd2e357311",
+      "label": "Obesity",
+      "type": "Entity",
+      "summary": "Obesity has a lower mortality risk impact than lack of social connection according to Holt-Lunstad et al. (2010) meta-analysis of 308,849 participants. Social connection reduces mortality risk by 50%, exceeding obesity's impact.",
+      "confidence": 3,
+      "url": "claims/618b5077-9201-4101-808f-87cd2e357311/"
     }
   ],
   "edges": [
-    {"id": "e1", "source": "evidence-wang", "target": "claim-2", "label": "SUPPORTS"},
-    {"id": "e2", "source": "evidence-holt", "target": "claim-2", "label": "SUPPORTS"},
-    {"id": "e3", "source": "evidence-jankowiak", "target": "claim-3", "label": "SUPPORTS"},
-    {"id": "e4", "source": "evidence-vanderweele", "target": "claim-4", "label": "SUPPORTS"},
-    {"id": "e5", "source": "evidence-anderson", "target": "claim-1", "label": "SUPPORTS"},
-    {"id": "e6", "source": "evidence-tononi", "target": "claim-1", "label": "SUPPORTS"},
-    {"id": "e7", "source": "mechanism-ctra", "target": "claim-2", "label": "EXPLAINS"},
-    {"id": "e8", "source": "mechanism-oxytocin", "target": "claim-2", "label": "EXPLAINS"},
-    {"id": "e9", "source": "mechanism-hpa", "target": "claim-2", "label": "EXPLAINS"},
-    {"id": "e10", "source": "mechanism-sync", "target": "claim-3", "label": "EXPLAINS"},
-    {"id": "e11", "source": "claim-1", "target": "claim-2", "label": "FOUNDATION_FOR"},
-    {"id": "e12", "source": "claim-2", "target": "claim-4", "label": "ENABLES"},
-    {"id": "e13", "source": "claim-3", "target": "claim-4", "label": "ENABLES"},
-    {"id": "e14", "source": "gap-quantum", "target": "claim-1", "label": "BLOCKS"},
-    {"id": "e15", "source": "gap-causation", "target": "claim-2", "label": "BLOCKS"}
+    {
+      "id": "0c3c8ac1-0b7b-4078-a781-c57f62d46bfe",
+      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "79913d8b-8c8d-4f6d-8a3b-a49b193b1f86",
+      "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "target": "89ed1df9-ff25-40da-9e5a-06546b49443b",
+      "label": "FOUND_EVIDENCE_FOR"
+    },
+    {
+      "id": "0717bce4-da58-4eaf-b9d8-a10b3737200a",
+      "source": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
+      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "d59982e1-95cc-4c70-9b0b-3125388160b3",
+      "source": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
+      "target": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
+      "label": "RELATES_TO"
+    },
+    {
+      "id": "97fb9ad3-3771-4bc1-b559-f76bbb02189b",
+      "source": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
+      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "57da7ec3-421a-41a2-bd90-c54559f49d0b",
+      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "target": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
+      "label": "TESTED"
+    },
+    {
+      "id": "a3138040-b085-4043-98a0-b90d755bf7d5",
+      "source": "89ed1df9-ff25-40da-9e5a-06546b49443b",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "9d732710-f3a3-49ca-a3be-b6785cf8612e",
+      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "target": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
+      "label": "TESTED"
+    },
+    {
+      "id": "24b1221b-f1d8-4d3c-98f2-94c2da9a3234",
+      "source": "d2af1678-416d-425f-8812-8a932b8fe0d7",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "72abe989-eb1e-4c5b-ae2d-dda02151e887",
+      "source": "058045fb-e3ba-46e8-84ed-5ccd6067a7eb",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "e67f8f93-78ac-4ac2-9775-6031d6d688e5",
+      "source": "d2af1678-416d-425f-8812-8a932b8fe0d7",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "00344dc7-6438-4963-81fa-346a11fe19be",
+      "source": "f3f3af0b-3671-4173-bb41-4e555c8072c7",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "23c7bbbb-5947-4cc7-8720-93475ec6c0fc",
+      "source": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
+      "target": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
+      "label": "RELATES_TO"
+    },
+    {
+      "id": "5e457c86-691d-4db0-8745-9c0f8c04d937",
+      "source": "e25f869f-4f90-46fd-b1db-958999e17093",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "5ffaec07-dd55-466e-898d-ee6cb70389ae",
+      "source": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
+      "target": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "label": "CONDUCTED"
+    },
+    {
+      "id": "4801cb80-b26a-462d-bc78-10f4369e84af",
+      "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "target": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
+      "label": "CONDUCTED_BY"
+    },
+    {
+      "id": "c044519e-690d-4bee-9fa5-e01933bd134f",
+      "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "target": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
+      "label": "CONDUCTED_BY"
+    },
+    {
+      "id": "4f5a289e-cbd7-4ad4-ae9e-b1f474e4623f",
+      "source": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "PROPOSED_BY"
+    },
+    {
+      "id": "be6ee92e-b173-4671-a997-aba4fdf348d3",
+      "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "SUPPORTS"
+    },
+    {
+      "id": "aad458e2-f42a-428d-b897-5fa049e30307",
+      "source": "d5d537f6-9256-448d-8e8d-87d2b6d328d5",
+      "target": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "label": "CONDUCTED_STUDY"
+    },
+    {
+      "id": "591ad482-f9a4-43c5-a599-737075df6afc",
+      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "target": "7b3bbbaa-2e64-44d6-98c6-42620eef8ee6",
+      "label": "COMPARABLE_TO"
+    },
+    {
+      "id": "9f742b59-878c-40a3-a0a7-bc73f8d6acf1",
+      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "target": "c7950438-b12e-4667-b8df-09fafa009935",
+      "label": "EXCEEDS"
+    },
+    {
+      "id": "22763900-26be-44e8-aa93-d74bd1832f04",
+      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "target": "618b5077-9201-4101-808f-87cd2e357311",
+      "label": "EXCEEDS"
+    },
+    {
+      "id": "499a451d-9a47-434d-a3fa-83ad4faa5358",
+      "source": "ae85a025-08fe-42a8-aa88-c3090e27863e",
+      "target": "c7356b88-9e25-41f7-a11c-e43397286556",
+      "label": "AFFECTS"
+    }
   ]
 }
