@@ -6,7 +6,7 @@
       "type": "ScientificClaim",
       "summary": "All higher complexity emerges through cooperative integration. Atoms → molecules → cells → organisms → societies → consciousness.",
       "confidence": 4,
-      "url": "claims/01-integration-creates-complexity/"
+      "url": "../claims/01-integration-creates-complexity/"
     },
     {
       "id": "claim-2",
@@ -14,7 +14,7 @@
       "type": "ScientificClaim",
       "summary": "Meta-analysis of 2.2M people: social isolation increases mortality 32%. Effect comparable to smoking.",
       "confidence": 5,
-      "url": "claims/02-social-connection-reduces-mortality/"
+      "url": "../claims/02-social-connection-reduces-mortality/"
     },
     {
       "id": "claim-3",
@@ -22,7 +22,7 @@
       "type": "ScientificClaim",
       "summary": "Romantic love found in 166 of 166 cultures studied. Human universal, not Western invention.",
       "confidence": 5,
-      "url": "claims/03-love-is-universal/"
+      "url": "../claims/03-love-is-universal/"
     },
     {
       "id": "claim-4",
@@ -30,7 +30,7 @@
       "type": "ScientificClaim",
       "summary": "Aligning with integration (love, connection, cooperation) enables human flourishing.",
       "confidence": 4,
-      "url": "claims/04-alignment-enables-flourishing/"
+      "url": "../claims/04-alignment-enables-flourishing/"
     },
     {
       "id": "evidence-wang",
@@ -38,7 +38,7 @@
       "type": "Evidence",
       "summary": "Nature Human Behaviour meta-analysis: 90 cohort studies, 2.2M participants. Social isolation +32% mortality, loneliness +14%.",
       "confidence": 5,
-      "url": "evidence/mechanisms/biological-pathways/"
+      "url": "../evidence/mechanisms/biological-pathways/"
     },
     {
       "id": "evidence-holt",
@@ -46,7 +46,7 @@
       "type": "Evidence",
       "summary": "PLoS Medicine meta-analysis: 148 studies, 308,849 participants. 50% increased survival with strong social relationships.",
       "confidence": 5,
-      "url": "evidence/mechanisms/biological-pathways/"
+      "url": "../evidence/mechanisms/biological-pathways/"
     },
     {
       "id": "evidence-jankowiak",
@@ -54,7 +54,7 @@
       "type": "Evidence",
       "summary": "Ethnology study: 166 cultures via Yale HRAF database. Romantic love found in vast majority of cultures.",
       "confidence": 5,
-      "url": "claims/03-love-is-universal/"
+      "url": "../claims/03-love-is-universal/"
     },
     {
       "id": "evidence-vanderweele",
@@ -62,7 +62,7 @@
       "type": "Evidence",
       "summary": "JAMA Internal Medicine: 89,708 women, 14 years. Religious attendance: 20-30% lower depression, 5x lower suicide.",
       "confidence": 5,
-      "url": "claims/04-alignment-enables-flourishing/"
+      "url": "../claims/04-alignment-enables-flourishing/"
     },
     {
       "id": "evidence-anderson",
@@ -70,7 +70,7 @@
       "type": "Evidence",
       "summary": "Science paper establishing emergence theory. Higher complexity emerges from integration of simpler components.",
       "confidence": 5,
-      "url": "claims/01-integration-creates-complexity/"
+      "url": "../claims/01-integration-creates-complexity/"
     },
     {
       "id": "evidence-tononi",
@@ -78,7 +78,7 @@
       "type": "Evidence",
       "summary": "Integrated Information Theory: consciousness emerges from information integration (Φ).",
       "confidence": 4,
-      "url": "claims/01-integration-creates-complexity/"
+      "url": "../claims/01-integration-creates-complexity/"
     },
     {
       "id": "mechanism-ctra",
@@ -86,7 +86,7 @@
       "type": "Mechanism",
       "summary": "Conserved Transcriptional Response to Adversity: isolation upregulates inflammatory genes, downregulates antiviral.",
       "confidence": 4,
-      "url": "evidence/mechanisms/biological-pathways/"
+      "url": "../evidence/mechanisms/biological-pathways/"
     },
     {
       "id": "mechanism-oxytocin",
@@ -94,7 +94,7 @@
       "type": "Mechanism",
       "summary": "Social bonding hormone: reduces stress, promotes trust, cardiovascular protective effects.",
       "confidence": 4,
-      "url": "evidence/mechanisms/biological-pathways/"
+      "url": "../evidence/mechanisms/biological-pathways/"
     },
     {
       "id": "mechanism-hpa",
@@ -102,7 +102,7 @@
       "type": "Mechanism",
       "summary": "Social support buffers cortisol response to stress. Well-established mechanism.",
       "confidence": 5,
-      "url": "evidence/mechanisms/biological-pathways/"
+      "url": "../evidence/mechanisms/biological-pathways/"
     },
     {
       "id": "mechanism-sync",
@@ -110,7 +110,7 @@
       "type": "Mechanism",
       "summary": "Neural synchronization between connected individuals. Hasson, Dikker research.",
       "confidence": 4,
-      "url": "evidence/mechanisms/biological-pathways/"
+      "url": "../evidence/mechanisms/biological-pathways/"
     },
     {
       "id": "gap-quantum",
@@ -118,7 +118,7 @@
       "type": "ResearchGap",
       "summary": "L0.5 layer: how quantum effects translate to classical neural activity. Critical gap.",
       "confidence": 2,
-      "url": "academic/gaps/open-questions/"
+      "url": "../academic/gaps/open-questions/"
     },
     {
       "id": "gap-causation",
@@ -126,7 +126,7 @@
       "type": "ResearchGap",
       "summary": "Most evidence is correlational. Need more RCTs on social interventions.",
       "confidence": 3,
-      "url": "academic/gaps/open-questions/"
+      "url": "../academic/gaps/open-questions/"
     }
   ],
   "edges": [
