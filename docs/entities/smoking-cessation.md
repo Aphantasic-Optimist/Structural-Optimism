@@ -28,7 +28,7 @@ This entity has been in the knowledge graph since 2026-01-27 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality/)  
+- **COMPARABLE_TO**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality.md)  
   *The effect of social connection on mortality risk is comparable to smoking cessation*
   📚 Mentioned in 2 episode(s)
 

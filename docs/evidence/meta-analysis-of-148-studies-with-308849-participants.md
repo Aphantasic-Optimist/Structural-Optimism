@@ -49,7 +49,7 @@ Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participant
 
 ### Supports
 
-- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality/)  
+- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality.md)  
   *The meta-analysis of 148 studies with 308,849 participants supports the claim that social connection reduces mortality risk by 50%*
   📚 Mentioned in 4 episode(s)
 

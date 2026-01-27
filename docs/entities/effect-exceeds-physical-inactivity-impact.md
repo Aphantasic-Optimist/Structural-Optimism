@@ -38,12 +38,12 @@ Social connection's 50% mortality risk reduction (OR=1.50, 95% CI 1.42-1.59) exc
 
 ### Supports
 
-- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality/)  
+- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality.md)  
   *The evidence that the effect exceeds obesity and physical inactivity supports the claim that social connection reduces mortality risk by 50%*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 1 episode(s)
 
-- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality/)  
+- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality.md)  
   *Evidence that the effect exceeds physical inactivity impact supports the claim that social connection reduces mortality risk by 50%*
   📚 Mentioned in 1 episode(s)
 

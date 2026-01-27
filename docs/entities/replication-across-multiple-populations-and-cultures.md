@@ -39,7 +39,7 @@ This entity has been in the knowledge graph since 2026-01-27 and remains active.
 
 ### Supports
 
-- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality/)  
+- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality.md)  
   *Replication across multiple populations and cultures supports the claim that social connection reduces mortality risk by 50%*
   📚 Mentioned in 3 episode(s)
 

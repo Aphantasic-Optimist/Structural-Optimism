@@ -125,8 +125,8 @@ The graph automatically updates with the latest findings.
 
 ## Explore Further
 
-- [View Claims](claims/) - Detailed pages for each claim
-- [View Evidence](evidence/) - Research sources and studies
+- [View Claims](claims/index.md) - Detailed pages for each claim
+- [View Evidence](evidence/index.md) - Research sources and studies
 - [Methodology](academic/methodology.md) - How we evaluate evidence
 - [Open Questions](academic/gaps/open-questions.md) - What we don't know yet
 
