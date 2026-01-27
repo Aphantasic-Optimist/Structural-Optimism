@@ -63,18 +63,6 @@ The data is exported from our [Graphiti knowledge graph](https://github.com/getz
 
 **Explore the evidence. Follow the connections. See how it all fits together.** ✨
 
+<link rel="stylesheet" href="../assets/stylesheets/graphiti-graph.css">
 <script src="https://d3js.org/d3.v7.min.js"></script>
-<script>
-// Load graphiti-viewer.js dynamically with correct path
-(function() {
-  var script = document.createElement('script');
-  var basePath = document.querySelector('link[rel="canonical"]')?.href?.replace(/\/graph\/?$/, '') || '';
-  script.src = basePath + '/assets/javascripts/graphiti-viewer.js';
-  document.head.appendChild(script);
-  
-  var link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.href = basePath + '/assets/stylesheets/graphiti-graph.css';
-  document.head.appendChild(link);
-})();
-</script>
+<script src="../assets/javascripts/graphiti-viewer.js"></script>

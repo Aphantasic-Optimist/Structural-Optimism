@@ -157,22 +157,12 @@
   async function loadFullGraphData() {
     if (fullGraphData) return fullGraphData;
 
-    const canonical = document.querySelector('link[rel="canonical"]');
-    let basePath = '';
-    
-    if (canonical && canonical.href) {
-      const url = new URL(canonical.href);
-      // Get site root (remove everything after /structural-optimism/)
-      const match = url.pathname.match(/^(\/[^\/]+)/);
-      basePath = match ? match[1] : '';
-    }
-
+    // Try multiple paths - GitHub Pages uses /structural-optimism/ as base
     const paths = [
-      `${basePath}/graph-data/full.json`,
-      `graph-data/full.json`,
-      `../graph-data/full.json`,
-      `../../graph-data/full.json`,
-      `/structural-optimism/graph-data/full.json`
+      'graph-data/full.json',           // Relative from current page
+      '../graph-data/full.json',        // One level up
+      '../../graph-data/full.json',     // Two levels up
+      '/graph-data/full.json'           // From root
     ];
 
     for (const path of paths) {
@@ -183,11 +173,12 @@
           return await response.json();
         }
       } catch (e) {
+        console.log('Failed to load from:', path);
         continue;
       }
     }
 
-    console.error('Could not load graph data');
+    console.error('Could not load graph data from any path');
     return null;
   }
 
@@ -377,14 +368,8 @@
 
   function handleClick(event, d) {
     if (d.url) {
-      const canonical = document.querySelector('link[rel="canonical"]');
-      let basePath = '';
-      if (canonical && canonical.href) {
-        const url = new URL(canonical.href);
-        const match = url.pathname.match(/^(\/[^\/]+)/);
-        basePath = match ? match[1] : '';
-      }
-      window.location.href = `${basePath}/${d.url}`;
+      // Simple relative navigation
+      window.location.href = d.url;
     }
   }
 
