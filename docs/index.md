@@ -61,7 +61,7 @@ Click any node in the graph above, or choose your path:
 
 Explore all claims, evidence, and relationships in our research:
 
-<div id="full-graph" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 8px; margin: 2rem 0;"></div>
+<div id="graphiti-container" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 8px; margin: 2rem 0;"></div>
 
 **Interactive controls:**
 - **Drag** nodes to rearrange
