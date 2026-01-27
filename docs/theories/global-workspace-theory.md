@@ -37,12 +37,12 @@ Consciousness theory that predicts prefrontal ignition during conscious processi
 
 ### Supported By
 
-- **RELATES_TO**: [GWT's prefrontal ignition prediction failure](entities/gwts-prefrontal-ignition-prediction-failure/)  
+- **RELATES_TO**: [GWT's prefrontal ignition prediction failure](entities/gwts-prefrontal-ignition-prediction-failure.md)  
   *GWT's prefrontal ignition prediction failure contradicts Global Workspace Theory*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
 
-- **TESTED**: [Pre-registered adversarial collaboration across 6 labs](entities/pre-registered-adversarial-collaboration-across-6-labs/)  
+- **TESTED**: [Pre-registered adversarial collaboration across 6 labs](entities/pre-registered-adversarial-collaboration-across-6-labs.md)  
   *The pre-registered adversarial collaboration across 6 labs tested Global Workspace Theory predictions*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
@@ -52,7 +52,7 @@ Consciousness theory that predicts prefrontal ignition during conscious processi
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 

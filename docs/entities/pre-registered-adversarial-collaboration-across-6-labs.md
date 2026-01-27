@@ -41,7 +41,7 @@ Cogitate Consortium (2025) multi-lab pre-registered adversarial collaboration te
 
 ### Supported By
 
-- **CONDUCTED_STUDY**: [Cogitate Consortium](entities/cogitate-consortium/)  
+- **CONDUCTED_STUDY**: [Cogitate Consortium](entities/cogitate-consortium.md)  
   *The Cogitate Consortium conducted a pre-registered adversarial collaboration across 6 labs*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
@@ -49,17 +49,17 @@ Cogitate Consortium (2025) multi-lab pre-registered adversarial collaboration te
 
 ### Supports
 
-- **SUPPORTS**: [Both theories' specific predictions failed](entities/both-theories-specific-predictions-failed/)  
+- **SUPPORTS**: [Both theories' specific predictions failed](entities/both-theories-specific-predictions-failed.md)  
   *The pre-registered adversarial collaboration across 6 labs supports the claim that both theories' specific predictions failed*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
 
-- **TESTED**: [Integrated Information Theory](theories/integrated-information-theory/)  
+- **TESTED**: [Integrated Information Theory](theories/integrated-information-theory.md)  
   *The pre-registered adversarial collaboration across 6 labs tested Integrated Information Theory predictions*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
 
-- **TESTED**: [Global Workspace Theory](theories/global-workspace-theory/)  
+- **TESTED**: [Global Workspace Theory](theories/global-workspace-theory.md)  
   *The pre-registered adversarial collaboration across 6 labs tested Global Workspace Theory predictions*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
@@ -69,7 +69,7 @@ Cogitate Consortium (2025) multi-lab pre-registered adversarial collaboration te
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 

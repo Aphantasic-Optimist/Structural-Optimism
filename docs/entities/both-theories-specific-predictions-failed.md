@@ -40,17 +40,17 @@ Cogitate Consortium (2025) pre-registered study across 6 labs found both IIT and
 
 ### Supported By
 
-- **SUPPORTS**: [IIT's sustained posterior synchronization prediction failure](entities/iits-sustained-posterior-synchronization-prediction-failure/)  
+- **SUPPORTS**: [IIT's sustained posterior synchronization prediction failure](entities/iits-sustained-posterior-synchronization-prediction-failure.md)  
   *IIT's sustained posterior synchronization prediction failure supports the claim that both theories' specific predictions failed*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
 
-- **SUPPORTS**: [Pre-registered adversarial collaboration across 6 labs](entities/pre-registered-adversarial-collaboration-across-6-labs/)  
+- **SUPPORTS**: [Pre-registered adversarial collaboration across 6 labs](entities/pre-registered-adversarial-collaboration-across-6-labs.md)  
   *The pre-registered adversarial collaboration across 6 labs supports the claim that both theories' specific predictions failed*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
 
-- **SUPPORTS**: [GWT's prefrontal ignition prediction failure](entities/gwts-prefrontal-ignition-prediction-failure/)  
+- **SUPPORTS**: [GWT's prefrontal ignition prediction failure](entities/gwts-prefrontal-ignition-prediction-failure.md)  
   *GWT's prefrontal ignition prediction failure supports the claim that both theories' specific predictions failed*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
@@ -60,7 +60,7 @@ Cogitate Consortium (2025) pre-registered study across 6 labs found both IIT and
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 

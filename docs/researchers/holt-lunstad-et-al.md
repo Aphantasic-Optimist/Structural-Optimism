@@ -39,12 +39,12 @@ Researchers who conducted 2010 meta-analysis of 148 studies (308,849 participant
 
 ### Supported By
 
-- **CONDUCTED_BY**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants/)  
+- **CONDUCTED_BY**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants.md)  
   *The meta-analysis of 148 studies with 308,849 participants was conducted by Holt-Lunstad in 2010*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 1 episode(s)
 
-- **CONDUCTED_BY**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants/)  
+- **CONDUCTED_BY**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants.md)  
   *The meta-analysis of 148 studies with 308,849 participants was conducted by Holt-Lunstad et al.*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 1 episode(s)
@@ -57,7 +57,7 @@ Researchers who conducted 2010 meta-analysis of 148 studies (308,849 participant
   📅 Valid since: 2010-01-01
   📚 Mentioned in 3 episode(s)
 
-- **CONDUCTED**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants/)  
+- **CONDUCTED**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants.md)  
   *Holt-Lunstad et al. conducted a meta-analysis of 148 studies with 308,849 participants*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 2 episode(s)
@@ -67,7 +67,7 @@ Researchers who conducted 2010 meta-analysis of 148 studies (308,849 participant
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 

@@ -29,37 +29,37 @@ description: Holt-Lunstad et al. 2010, PLoS Medicine
 
 This episode created or referenced **11 relationship(s)** in the knowledge graph:
 
-- [Replication across multiple populations and cultures](entities/replication-across-multiple-populations-and-cultures/) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
+- [Replication across multiple populations and cultures](entities/replication-across-multiple-populations-and-cultures.md) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
   *Replication across multiple populations and cultures supports the claim that social connection reduces mortality risk by 50%*
 
-- [Social connection](entities/social-connection/) **AFFECTS** [Mortality risk](entities/mortality-risk/)
+- [Social connection](entities/social-connection.md) **AFFECTS** [Mortality risk](entities/mortality-risk.md)
   *Social connection reduces mortality risk by 50%*
 
-- [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants/) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
+- [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants.md) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
   *The meta-analysis of 148 studies with 308,849 participants supports the claim that social connection reduces mortality risk by 50%*
 
-- [Effect exceeds physical inactivity impact](entities/effect-exceeds-physical-inactivity-impact/) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
+- [Effect exceeds physical inactivity impact](entities/effect-exceeds-physical-inactivity-impact.md) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
   *Evidence that the effect exceeds physical inactivity impact supports the claim that social connection reduces mortality risk by 50%*
 
-- [Statistical evidence (OR = 1.50, 95% CI 1.42-1.59)](entities/statistical-evidence-or-150-95-ci-142-159/) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
+- [Statistical evidence (OR = 1.50, 95% CI 1.42-1.59)](entities/statistical-evidence-or-150-95-ci-142-159.md) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
   *Statistical evidence with odds ratio of 1.50 and 95% confidence interval 1.42-1.59 supports the claim that social connection reduces mortality risk by 50%*
 
-- [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/) **EXCEEDS** [Physical inactivity](entities/physical-inactivity/)
+- [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/) **EXCEEDS** [Physical inactivity](entities/physical-inactivity.md)
   *The effect of social connection on mortality risk exceeds the impact of physical inactivity*
 
-- [Effect exceeds obesity impact](entities/effect-exceeds-obesity-impact/) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
+- [Effect exceeds obesity impact](entities/effect-exceeds-obesity-impact.md) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
   *Evidence that the effect exceeds obesity impact supports the claim that social connection reduces mortality risk by 50%*
 
-- [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/) **EXCEEDS** [Obesity](entities/obesity/)
+- [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/) **EXCEEDS** [Obesity](entities/obesity.md)
   *The effect of social connection on mortality risk exceeds the impact of obesity*
 
-- [Effect comparable to smoking cessation](entities/effect-comparable-to-smoking-cessation/) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
+- [Effect comparable to smoking cessation](entities/effect-comparable-to-smoking-cessation.md) **SUPPORTS** [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)
   *Evidence showing the effect is comparable to smoking cessation supports the claim that social connection reduces mortality risk by 50%*
 
-- [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/) **COMPARABLE_TO** [Smoking cessation](entities/smoking-cessation/)
+- [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/) **COMPARABLE_TO** [Smoking cessation](entities/smoking-cessation.md)
   *The effect of social connection on mortality risk is comparable to smoking cessation*
 
-- [Holt-Lunstad et al.](researchers/holt-lunstad-et-al/) **CONDUCTED** [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants/)
+- [Holt-Lunstad et al.](researchers/holt-lunstad-et-al.md) **CONDUCTED** [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants.md)
   *Holt-Lunstad et al. conducted a meta-analysis of 148 studies with 308,849 participants*
 
 
@@ -67,7 +67,7 @@ This episode created or referenced **11 relationship(s)** in the knowledge graph
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see how this episode connects to other research.
+[View in Knowledge Graph](../graph.md) to see how this episode connects to other research.
 
 ---
 

@@ -39,12 +39,12 @@ Cogitate Consortium (2025) pre-registered multi-lab study found GWT's predicted 
 
 ### Supports
 
-- **SUPPORTS**: [Both theories' specific predictions failed](entities/both-theories-specific-predictions-failed/)  
+- **SUPPORTS**: [Both theories' specific predictions failed](entities/both-theories-specific-predictions-failed.md)  
   *GWT's prefrontal ignition prediction failure supports the claim that both theories' specific predictions failed*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
 
-- **RELATES_TO**: [Global Workspace Theory](theories/global-workspace-theory/)  
+- **RELATES_TO**: [Global Workspace Theory](theories/global-workspace-theory.md)  
   *GWT's prefrontal ignition prediction failure contradicts Global Workspace Theory*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
@@ -54,7 +54,7 @@ Cogitate Consortium (2025) pre-registered multi-lab study found GWT's predicted 
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 

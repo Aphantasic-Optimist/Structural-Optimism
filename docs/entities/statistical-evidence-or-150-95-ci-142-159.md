@@ -38,7 +38,7 @@ Meta-analysis by Holt-Lunstad et al. (2010) of 148 studies with 308,849 particip
 
 ### Supported By
 
-- **FOUND_EVIDENCE_FOR**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants/)  
+- **FOUND_EVIDENCE_FOR**: [Meta-analysis of 148 studies with 308,849 participants](evidence/meta-analysis-of-148-studies-with-308849-participants.md)  
   *Meta-analysis found odds ratio 1.50 with 95% confidence interval 1.42-1.59 as evidence*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 1 episode(s)
@@ -55,7 +55,7 @@ Meta-analysis by Holt-Lunstad et al. (2010) of 148 studies with 308,849 particip
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 

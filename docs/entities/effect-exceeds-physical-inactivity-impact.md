@@ -52,7 +52,7 @@ Social connection's 50% mortality risk reduction (OR=1.50, 95% CI 1.42-1.59) exc
 
 ## Explore Further
 
-[View in Knowledge Graph](../../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 
