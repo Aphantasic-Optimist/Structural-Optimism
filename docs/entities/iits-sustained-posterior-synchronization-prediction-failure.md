@@ -39,12 +39,12 @@ Cogitate Consortium (2025) pre-registered adversarial collaboration across 6 lab
 
 ### Supports
 
-- **RELATES_TO**: [Integrated Information Theory](theories/integrated-information-theory.md)  
+- **RELATES_TO**: [Integrated Information Theory](../theories/integrated-information-theory.md)  
   *IIT's sustained posterior synchronization prediction failure contradicts Integrated Information Theory*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)
 
-- **SUPPORTS**: [Both theories' specific predictions failed](entities/both-theories-specific-predictions-failed.md)  
+- **SUPPORTS**: [Both theories' specific predictions failed](both-theories-specific-predictions-failed.md)  
   *IIT's sustained posterior synchronization prediction failure supports the claim that both theories' specific predictions failed*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)

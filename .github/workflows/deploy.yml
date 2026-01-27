@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full git history for git-revision-date plugin
       
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -36,7 +38,7 @@ jobs:
           pip install -r requirements.txt
       
       - name: Build MkDocs site
-        run: mkdocs build
+        run: mkdocs build --strict
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

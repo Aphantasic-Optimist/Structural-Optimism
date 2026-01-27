@@ -28,7 +28,7 @@ This entity has been in the knowledge graph since 2026-01-27 and remains active.
 
 ### Supported By
 
-- **AFFECTS**: [Social connection](entities/social-connection.md)  
+- **AFFECTS**: [Social connection](social-connection.md)  
   *Social connection reduces mortality risk by 50%*
   📚 Mentioned in 1 episode(s)
 

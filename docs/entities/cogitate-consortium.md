@@ -36,7 +36,7 @@ Cogitate Consortium (2025) conducted pre-registered adversarial collaboration ac
 
 ### Supports
 
-- **CONDUCTED_STUDY**: [Pre-registered adversarial collaboration across 6 labs](entities/pre-registered-adversarial-collaboration-across-6-labs.md)  
+- **CONDUCTED_STUDY**: [Pre-registered adversarial collaboration across 6 labs](pre-registered-adversarial-collaboration-across-6-labs.md)  
   *The Cogitate Consortium conducted a pre-registered adversarial collaboration across 6 labs*
   📅 Valid since: 2025-01-01
   📚 Mentioned in 1 episode(s)

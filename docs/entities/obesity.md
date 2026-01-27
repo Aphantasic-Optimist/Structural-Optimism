@@ -28,7 +28,7 @@ This entity has been in the knowledge graph since 2026-01-27 and remains active.
 
 ### Supported By
 
-- **EXCEEDS**: [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)  
+- **EXCEEDS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality/)  
   *The effect of social connection on mortality risk exceeds the impact of obesity*
   📚 Mentioned in 2 episode(s)
 

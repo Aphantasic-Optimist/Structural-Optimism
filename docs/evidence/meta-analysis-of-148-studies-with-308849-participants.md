@@ -41,7 +41,7 @@ Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participant
 
 ### Supported By
 
-- **CONDUCTED**: [Holt-Lunstad et al.](researchers/holt-lunstad-et-al.md)  
+- **CONDUCTED**: [Holt-Lunstad et al.](../researchers/holt-lunstad-et-al.md)  
   *Holt-Lunstad et al. conducted a meta-analysis of 148 studies with 308,849 participants*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 2 episode(s)
@@ -49,21 +49,21 @@ Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participant
 
 ### Supports
 
-- **SUPPORTS**: [Social connection reduces mortality risk by 50%](claims/02-social-connection-reduces-mortality/)  
+- **SUPPORTS**: [Social connection reduces mortality risk by 50%](../claims/02-social-connection-reduces-mortality/)  
   *The meta-analysis of 148 studies with 308,849 participants supports the claim that social connection reduces mortality risk by 50%*
   📚 Mentioned in 4 episode(s)
 
-- **CONDUCTED_BY**: [Holt-Lunstad et al.](researchers/holt-lunstad-et-al.md)  
+- **CONDUCTED_BY**: [Holt-Lunstad et al.](../researchers/holt-lunstad-et-al.md)  
   *The meta-analysis of 148 studies with 308,849 participants was conducted by Holt-Lunstad in 2010*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 1 episode(s)
 
-- **CONDUCTED_BY**: [Holt-Lunstad et al.](researchers/holt-lunstad-et-al.md)  
+- **CONDUCTED_BY**: [Holt-Lunstad et al.](../researchers/holt-lunstad-et-al.md)  
   *The meta-analysis of 148 studies with 308,849 participants was conducted by Holt-Lunstad et al.*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 1 episode(s)
 
-- **FOUND_EVIDENCE_FOR**: [Statistical evidence (OR = 1.50, 95% CI 1.42-1.59)](entities/statistical-evidence-or-150-95-ci-142-159.md)  
+- **FOUND_EVIDENCE_FOR**: [Statistical evidence (OR = 1.50, 95% CI 1.42-1.59)](../entities/statistical-evidence-or-150-95-ci-142-159.md)  
   *Meta-analysis found odds ratio 1.50 with 95% confidence interval 1.42-1.59 as evidence*
   📅 Valid since: 2010-01-01
   📚 Mentioned in 1 episode(s)
