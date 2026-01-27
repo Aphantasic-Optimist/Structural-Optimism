@@ -29,15 +29,15 @@ El Optimismo Estructural es un marco filosófico basado en evidencia que demuest
 **No somos nihilistas** (desesperados por la falta de sentido)  
 **Somos optimistas estructurales** (reconociendo que la realidad está conformada hacia la integración)
 
-### La Pirámide de Contenido
+### El Marco
 
 Explore el marco a su nivel de complejidad preferido:
 
-- **[Nivel 1 - Simple](level1/index.md)**: La prueba más simple y guía de inicio
-- **[Nivel 2 - Intermedio](level2/index.md)**: Resumen de evidencia y principios fundamentales
-- **[Nivel 3 - Avanzado](level3/index.md)**: Mecanismos y aplicaciones
-- **[Nivel 4 - Análisis](level4/index.md)**: Análisis crítico de pesimismo, propaganda y sistemas
-- **[Nivel 5 - Académico](level5/index.md)**: Prueba filosófica completa y teoría fundamentada en evidencia
+- **[Prueba Simple](proof/simple.md)**: La prueba más simple - tres hechos, una conclusión
+- **[Resumen de Evidencia](proof/evidence.md)**: Resumen de investigación y mecanismos
+- **[Prueba Académica](proof/academic.md)**: Prueba filosófica completa y teoría fundamentada en evidencia
+- **[Afirmaciones Principales](claims/index.md)**: Cuatro afirmaciones principales con cadenas de evidencia
+- **[Evidencia de Investigación](evidence/index.md)**: Mecanismos biológicos y fuentes de investigación
 
 ---
 

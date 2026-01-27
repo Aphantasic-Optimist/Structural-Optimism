@@ -65,29 +65,29 @@ Structural Optimism is a philosophical framework grounded in empirical evidence 
 
 **Conclusion:** Reality is structured such that connection, love, and belonging literally keep us alive. This is not cultural. This is structural. This is how reality works.
 
-**See [Level 1](../level1/index.md) for the simple proof.**  
-**See [Level 5](../level5/full-proof.md) for the complete philosophical proof.**
+**See [Simple Proof](../proof/simple.md) for the simple proof.**  
+**See [Academic Proof](../proof/academic.md) for the complete philosophical proof.**
 
 ---
 
-## The Five Levels
+## The Framework
 
-We present the framework at five complexity levels, so everyone can engage at their own pace:
+We present the framework at multiple levels of depth:
 
-**[Level 1 - Simple](../level1/index.md)**  
+**[Simple Proof](../proof/simple.md)**  
 The simplest proof: Three facts, one conclusion. Start here.
 
-**[Level 2 - Intermediate](../level2/index.md)**  
-Evidence summary, ME AND WE principle, practical applications.
+**[Evidence Summary](../proof/evidence.md)**  
+Research summary, mechanisms, and practical applications.
 
-**[Level 3 - Advanced](../level3/index.md)**  
-Mechanisms, integration theory, deeper exploration.
-
-**[Level 4 - Analysis](../level4/index.md)**  
-Critical analysis of doomerism, propaganda, and ideological distortions.
-
-**[Level 5 - Academic](../level5/index.md)**  
+**[Academic Proof](../proof/academic.md)**  
 Complete philosophical proof, full citations, academic rigor.
+
+**[Core Claims](../claims/index.md)**  
+Four core claims with evidence chains.
+
+**[Research Evidence](../evidence/index.md)**  
+Biological mechanisms and research sources.
 
 ---
 
