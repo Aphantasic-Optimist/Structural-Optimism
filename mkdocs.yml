@@ -1,10 +1,10 @@
 site_name: Structural Optimism
 site_description: An evidence-based philosophical proof that reality is structured toward integration
 site_author: Structural Optimist
-site_url: https://structuraloptimist.github.io/structural-optimism/
+site_url: https://aphantasic-optimist.github.io/Structural-Optimism/
 
-repo_name: structural-optimism
-repo_url: https://github.com/structuraloptimist/structural-optimism
+repo_name: Structural-Optimism
+repo_url: https://github.com/Aphantasic-Optimist/Structural-Optimism
 
 theme:
   name: material
