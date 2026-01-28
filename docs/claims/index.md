@@ -2,23 +2,7 @@
 
 All claims are tracked in our knowledge graph with full evidence chains.
 
-<div class="mini-graph" data-node-id="claim-1" data-depth="2"></div>
-
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script>
-(function() {
-  var script = document.createElement('script');
-  var canonical = document.querySelector('link[rel="canonical"]');
-  var basePath = canonical ? new URL(canonical.href).pathname.match(/^(\/[^\/]+)/)?.[1] || '' : '';
-  script.src = basePath + '/assets/javascripts/graphiti-viewer.js';
-  document.head.appendChild(script);
-  
-  var link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.href = basePath + '/assets/stylesheets/graphiti-graph.css';
-  document.head.appendChild(link);
-})();
-</script>
+[View the interactive knowledge graph on the home page →](../)
 
 ---
 
