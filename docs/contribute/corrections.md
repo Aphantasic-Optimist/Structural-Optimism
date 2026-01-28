@@ -85,7 +85,7 @@ Confusing or ambiguous language:
 
 ### Option 1: GitHub Issues (Recommended)
 
-1. Go to [GitHub Issues](https://github.com/[username]/structural-optimism/issues)
+1. Go to [GitHub Issues](https://github.com/Aphantasic-Optimist/structural-optimism/issues)
 2. Click "New Issue"
 3. Select "Correction Request" template
 4. Fill in the template (see below)
@@ -106,7 +106,7 @@ For direct corrections:
 If you prefer anonymity:
 
 1. Use [gitGost](anonymous.md) for anonymous corrections
-2. Or email corrections to [contact email]
+2. Or email corrections to alex@visualise.music
 3. We'll process on your behalf (attribution optional)
 
 ## Correction Request Template
@@ -357,7 +357,7 @@ Correction contributors are:
 ## Questions?
 
 - **About correction process**: See [Contributing Guide](../CONTRIBUTING.md)
-- **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
+- **General questions**: [GitHub Discussions](https://github.com/Aphantasic-Optimist/structural-optimism/discussions)
 
 ---
 

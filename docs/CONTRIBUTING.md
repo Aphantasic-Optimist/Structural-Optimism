@@ -76,17 +76,17 @@ sudo yum install git      # RedHat/CentOS
 #### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/[username]/structural-optimism.git
+git clone https://github.com/Aphantasic-Optimist/structural-optimism.git
 cd structural-optimism
 ```
 
-**Note**: Replace `[username]` with the actual repository owner's username.
+**Note**: Replace `Aphantasic-Optimist` with the actual repository owner's username.
 
 #### Step 3: Add gitGost as a Remote
 
 ```bash
 # Add gitGost remote (no account needed!)
-git remote add gitmask https://gitmask.com/[username]/structural-optimism.git
+git remote add gitmask https://gitmask.com/Aphantasic-Optimist/structural-optimism.git
 ```
 
 #### Step 4: Make Your Changes
@@ -191,7 +191,7 @@ Anonymous contributions go through the same verification process:
 
 You can also create issues directly:
 
-1. Go to [Issues](https://github.com/[username]/structural-optimism/issues)
+1. Go to [Issues](https://github.com/Aphantasic-Optimist/structural-optimism/issues)
 2. Click "New Issue"
 3. Choose template:
    - Research Request
@@ -376,14 +376,14 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for full details.
 
 This repository has a DOI via Zenodo for proper academic citation:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14857392.svg)](https://doi.org/10.5281/zenodo.14857392)
 
-**Note**: Replace XXXXXXX with actual DOI after enabling Zenodo GitHub integration.
+**Note**: Replace 14857392 with actual DOI after enabling Zenodo GitHub integration.
 
 **APA Format**:
 ```
 Structural Optimist. (2026). Structural Optimism: An Evidence-Based Philosophical Framework. 
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zenodo. https://doi.org/10.5281/zenodo.14857392
 ```
 
 **BibTeX**:
@@ -393,8 +393,8 @@ Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
   title = {Structural Optimism: An Evidence-Based Philosophical Framework},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX},
-  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.14857392},
+  url = {https://doi.org/10.5281/zenodo.14857392}
 }
 ```
 
@@ -418,10 +418,10 @@ We host preprints on:
 
 ## Questions?
 
-- **General questions**: Open a [Discussion](https://github.com/[username]/structural-optimism/discussions)
-- **Bug reports**: Open an [Issue](https://github.com/[username]/structural-optimism/issues) with `bug` label
-- **Feature requests**: Open an [Issue](https://github.com/[username]/structural-optimism/issues) with `enhancement` label
-- **Research requests**: Open an [Issue](https://github.com/[username]/structural-optimism/issues) with `research-request` label
+- **General questions**: Open a [Discussion](https://github.com/Aphantasic-Optimist/structural-optimism/discussions)
+- **Bug reports**: Open an [Issue](https://github.com/Aphantasic-Optimist/structural-optimism/issues) with `bug` label
+- **Feature requests**: Open an [Issue](https://github.com/Aphantasic-Optimist/structural-optimism/issues) with `enhancement` label
+- **Research requests**: Open an [Issue](https://github.com/Aphantasic-Optimist/structural-optimism/issues) with `research-request` label
 
 ---
 

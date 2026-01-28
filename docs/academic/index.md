@@ -30,9 +30,9 @@ last_updated: 2026-01-21
 
 ### Zenodo DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14857392.svg)](https://doi.org/10.5281/zenodo.14857392)
 
-**Permanent identifier:** `10.5281/zenodo.XXXXXXX`
+**Permanent identifier:** `10.5281/zenodo.14857392`
 
 **This DOI provides:**
 - Permanent link to this work
@@ -52,19 +52,19 @@ last_updated: 2026-01-21
 **APA 7th Edition:**
 ```
 Structural Optimist. (2026). Structural Optimism: An evidence-based philosophical 
-framework. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+framework. Zenodo. https://doi.org/10.5281/zenodo.14857392
 ```
 
 **MLA 9th Edition:**
 ```
 Structural Optimist. Structural Optimism: An Evidence-Based Philosophical Framework. 
-Zenodo, 2026, doi:10.5281/zenodo.XXXXXXX.
+Zenodo, 2026, doi:10.5281/zenodo.14857392.
 ```
 
 **Chicago 17th Edition:**
 ```
 Structural Optimist. 2026. "Structural Optimism: An Evidence-Based Philosophical 
-Framework." Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX.
+Framework." Zenodo. https://doi.org/10.5281/zenodo.14857392.
 ```
 
 **BibTeX:**
@@ -75,8 +75,8 @@ Framework." Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX.
   title = {Structural Optimism: An Evidence-Based Philosophical Framework},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX},
-  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.14857392},
+  url = {https://doi.org/10.5281/zenodo.14857392}
 }
 ```
 {% endraw %}
@@ -88,8 +88,8 @@ AU  - Structural Optimist
 TI  - Structural Optimism: An Evidence-Based Philosophical Framework
 PY  - 2026
 PB  - Zenodo
-DO  - 10.5281/zenodo.XXXXXXX
-UR  - https://doi.org/10.5281/zenodo.XXXXXXX
+DO  - 10.5281/zenodo.14857392
+UR  - https://doi.org/10.5281/zenodo.14857392
 ER  -
 ```
 
@@ -101,14 +101,14 @@ ER  -
 ```
 Structural Optimist. (2026). The simplest proof for optimism. In Structural Optimism: 
 An evidence-based philosophical framework. Zenodo. 
-https://doi.org/10.5281/zenodo.XXXXXXX
+https://doi.org/10.5281/zenodo.14857392
 ```
 
 **MLA:**
 ```
 Structural Optimist. "The Simplest Proof for Optimism." Structural Optimism: 
 An Evidence-Based Philosophical Framework, Zenodo, 2026, 
-doi:10.5281/zenodo.XXXXXXX.
+doi:10.5281/zenodo.14857392.
 ```
 
 ### Download Citation Files
@@ -156,11 +156,11 @@ doi:10.5281/zenodo.XXXXXXX.
 ### Accessing Archived Versions
 
 **Each release is archived:**
-- Version 1.0: `10.5281/zenodo.XXXXXXX`
+- Version 1.0: `10.5281/zenodo.14857392`
 - Version 1.1: `10.5281/zenodo.XXXXXXY`
-- Version 2.0: `10.5281/zenodo.XXXXXXXZ`
+- Version 2.0: `10.5281/zenodo.14857392Z`
 
-**Concept DOI (always latest):** `10.5281/zenodo.XXXXXXX`
+**Concept DOI (always latest):** `10.5281/zenodo.14857392`
 
 **Use concept DOI for general citations, specific version DOI for precise references.**
 

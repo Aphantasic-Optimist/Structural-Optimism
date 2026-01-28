@@ -8,23 +8,11 @@
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="claim-4" data-depth="1"></div>
+<div class="mini-graph" data-node-id="alignment-enables-flourishing" data-depth="2"></div>
 
+<link rel="stylesheet" href="../assets/stylesheets/graphiti-graph.css">
 <script src="https://d3js.org/d3.v7.min.js"></script>
-<script>
-(function() {
-  var script = document.createElement('script');
-  var canonical = document.querySelector('link[rel="canonical"]');
-  var basePath = canonical ? new URL(canonical.href).pathname.match(/^(\/[^\/]+)/)?.[1] || '' : '';
-  script.src = basePath + '/assets/javascripts/graphiti-viewer.js';
-  document.head.appendChild(script);
-  
-  var link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.href = basePath + '/assets/stylesheets/graphiti-graph.css';
-  document.head.appendChild(link);
-})();
-</script>
+<script src="../assets/javascripts/graphiti-viewer.js"></script>
 
 ---
 

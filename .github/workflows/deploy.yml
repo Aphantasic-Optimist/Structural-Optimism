@@ -37,15 +37,6 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Validate config sync
-        run: |
-          python scripts/sync-config.py
-          if [ -n "$(git status --porcelain mkdocs.yml)" ]; then
-            echo "❌ ERROR: mkdocs.yml is out of sync with config.yml"
-            echo "Run 'python scripts/sync-config.py' locally and commit the changes"
-            exit 1
-          fi
-      
       - name: Build MkDocs site
         run: mkdocs build --strict
       

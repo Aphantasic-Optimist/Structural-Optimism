@@ -110,7 +110,7 @@ For more exploratory or open-ended requests:
 If you prefer anonymity:
 
 1. Use [gitGost](anonymous.md) to submit anonymously
-2. Or email research requests to [contact email]
+2. Or email research requests to alex@visualise.music
 3. We'll post on your behalf (attribution optional)
 
 ## Research Request Template

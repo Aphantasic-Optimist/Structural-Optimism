@@ -72,7 +72,7 @@ Help strengthen the framework by submitting peer-reviewed research, experimental
 
 ### Option 1: GitHub Issues (Recommended)
 
-1. Go to [GitHub Issues](https://github.com/[username]/structural-optimism/issues)
+1. Go to [GitHub Issues](https://github.com/Aphantasic-Optimist/structural-optimism/issues)
 2. Click "New Issue"
 3. Select "Evidence Submission" template
 4. Fill in the template (see below)
@@ -93,7 +93,7 @@ For direct contributions to the framework:
 If you prefer anonymity:
 
 1. Use [gitGost](anonymous.md) for anonymous pull requests
-2. Or email evidence to [contact email]
+2. Or email evidence to alex@visualise.music
 3. We'll integrate on your behalf (attribution optional)
 
 ## Evidence Submission Template
@@ -356,7 +356,7 @@ If your submission is declined:
 
 ## Questions?
 
-- **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
+- **General questions**: [GitHub Discussions](https://github.com/Aphantasic-Optimist/structural-optimism/discussions)
 
 ---
 

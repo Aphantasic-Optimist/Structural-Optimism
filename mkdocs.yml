@@ -24,7 +24,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    # - navigation.instant      # Disabled - incompatible with i18n language switcher
+    - navigation.instant      # Fast page loads without full reload
     - navigation.tracking     # URL updates with scroll
     - navigation.tabs         # Top-level tabs
     - navigation.sections     # Collapsible sections
@@ -41,76 +41,6 @@ theme:
 plugins:
   - search                    # Built-in search
   # - obsidian-interactive-graph  # Disabled - using custom Graphiti graph instead
-  - i18n:                     # Translation support (must come BEFORE git-revision-date)
-      docs_structure: suffix
-      fallback_to_default: true
-      reconfigure_material: true
-      reconfigure_search: true
-      languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
-        - locale: es
-          name: Español
-          build: true
-          nav_translations:
-            Home: Inicio
-            Proof: Prueba
-            Claims: Afirmaciones
-            Evidence: Evidencia
-            Explorations: Exploraciones
-            Structural Instability: Inestabilidad Estructural
-            Solution Possibilities: Posibilidades de Solución
-            Contribute: Contribuir
-            Safety: Seguridad
-            Academic: Académico
-            About: Acerca de
-        - locale: fr
-          name: Français
-          build: true
-          nav_translations:
-            Home: Accueil
-            Proof: Preuve
-            Claims: Affirmations
-            Evidence: Preuves
-            Explorations: Explorations
-            Structural Instability: Instabilité Structurelle
-            Solution Possibilities: Possibilités de Solution
-            Contribute: Contribuer
-            Safety: Sécurité
-            Academic: Académique
-            About: À propos
-        - locale: de
-          name: Deutsch
-          build: true
-          nav_translations:
-            Home: Startseite
-            Proof: Beweis
-            Claims: Behauptungen
-            Evidence: Beweise
-            Explorations: Erkundungen
-            Structural Instability: Strukturelle Instabilität
-            Solution Possibilities: Lösungsmöglichkeiten
-            Contribute: Beitragen
-            Safety: Sicherheit
-            Academic: Akademisch
-            About: Über
-        - locale: zh
-          name: 中文
-          build: true
-          nav_translations:
-            Home: 首页
-            Solution Possibilities: 解决方案可能性
-            Proof: 证明
-            Claims: 主张
-            Evidence: 证据
-            Explorations: 探索
-            Structural Instability: 结构不稳定
-            Contribute: 贡献
-            Safety: 安全
-            Academic: 学术
-            About: 关于
   - git-revision-date-localized:  # Auto "last updated" from git
       enable_creation_date: true
       type: date
@@ -171,6 +101,10 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - assets/stylesheets/chatbot.css
+
+extra_javascript:
+  - assets/javascripts/chatbot.js
 
 # Note: D3.js and graph assets are loaded directly in graph.md page
 
@@ -218,7 +152,7 @@ nav:
       - Propose Corrections: contribute/corrections.md
       - Request Research: contribute/research-requests.md
       - Translations: contribute/translations.md
-      - CONTRIBUTING.md
+      - Contributing Guide: CONTRIBUTING.md
   - Safety:
       - safety/index.md
       - Integration Guide: safety/integration-guide.md

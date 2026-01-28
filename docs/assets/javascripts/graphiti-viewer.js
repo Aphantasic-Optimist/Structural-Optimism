@@ -90,19 +90,93 @@
 
       // Render mini-graphs with filtered data
       miniContainers.forEach(container => {
-        const centerNodeId = container.dataset.nodeId;
+        const nodeIdentifier = container.dataset.nodeId;
         const depth = parseInt(container.dataset.depth) || 1;
         
-        if (centerNodeId) {
-          const neighborhood = extractNeighborhood(data, centerNodeId, depth);
-          if (neighborhood.nodes.length > 0) {
-            renderGraph(container, neighborhood, true, centerNodeId);
+        if (nodeIdentifier) {
+          // Find the node by various methods
+          const centerNode = findNodeByIdentifier(data, nodeIdentifier);
+          
+          if (centerNode) {
+            const neighborhood = extractNeighborhood(data, centerNode.id, depth);
+            if (neighborhood.nodes.length > 0) {
+              renderGraph(container, neighborhood, true, centerNode.id);
+            } else {
+              container.innerHTML = '<p style="text-align: center; color: var(--md-default-fg-color--light); padding: 1rem;">No connections found for this node.</p>';
+            }
           } else {
-            container.innerHTML = '<p style="text-align: center; color: var(--md-default-fg-color--light); padding: 1rem;">No graph data available for this node.</p>';
+            console.warn('Could not find node for identifier:', nodeIdentifier);
+            container.innerHTML = '<p style="text-align: center; color: var(--md-default-fg-color--light); padding: 1rem;">Node not found in graph data.</p>';
           }
         }
       });
     });
+  }
+
+  /**
+   * Find a node by various identifiers (UUID, slug, label, or partial match)
+   * @param {Object} data - Full graph data
+   * @param {string} identifier - Node identifier (UUID, slug, label, or keyword)
+   * @returns {Object|null} - The matching node or null
+   */
+  function findNodeByIdentifier(data, identifier) {
+    if (!identifier || !data.nodes) return null;
+    
+    const lowerIdentifier = identifier.toLowerCase().trim();
+    
+    // 1. Try exact UUID match
+    let node = data.nodes.find(n => n.id === identifier);
+    if (node) return node;
+    
+    // 2. Try exact slug match
+    node = data.nodes.find(n => n.slug === identifier || n.slug === lowerIdentifier);
+    if (node) return node;
+    
+    // 3. Try exact label match (case-insensitive)
+    node = data.nodes.find(n => n.label && n.label.toLowerCase() === lowerIdentifier);
+    if (node) return node;
+    
+    // 4. Try URL-based match (for claim pages)
+    // Handle identifiers like "claim-2" or "02-social-connection"
+    const claimMatch = identifier.match(/claim-?(\d+)/i);
+    if (claimMatch) {
+      const claimNum = claimMatch[1].padStart(2, '0');
+      node = data.nodes.find(n => 
+        n.url && n.url.includes(`claims/${claimNum}-`) ||
+        n.markdown_url && n.markdown_url.includes(`claims/${claimNum}-`)
+      );
+      if (node) return node;
+    }
+    
+    // 5. Try partial slug match
+    node = data.nodes.find(n => n.slug && n.slug.includes(lowerIdentifier));
+    if (node) return node;
+    
+    // 6. Try partial label match (contains)
+    node = data.nodes.find(n => n.label && n.label.toLowerCase().includes(lowerIdentifier));
+    if (node) return node;
+    
+    // 7. Try matching keywords in identifier against label
+    const keywords = lowerIdentifier.split(/[-_\s]+/).filter(k => k.length > 2);
+    if (keywords.length > 0) {
+      node = data.nodes.find(n => {
+        if (!n.label) return false;
+        const labelLower = n.label.toLowerCase();
+        return keywords.every(kw => labelLower.includes(kw));
+      });
+      if (node) return node;
+      
+      // Try matching most keywords
+      node = data.nodes.find(n => {
+        if (!n.label) return false;
+        const labelLower = n.label.toLowerCase();
+        const matchCount = keywords.filter(kw => labelLower.includes(kw)).length;
+        return matchCount >= Math.ceil(keywords.length * 0.6); // 60% match
+      });
+      if (node) return node;
+    }
+    
+    return null;
   }
 
   /**
@@ -152,30 +226,36 @@
   }
 
   /**
+   * Get base path for the site (handles GitHub Pages subdirectory)
+   */
+  function getBasePath() {
+    // Check for canonical link (set by MkDocs)
+    const canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+      try {
+        const url = new URL(canonical.href);
+        // Extract base path (e.g., /Structural-Optimism/)
+        const pathParts = url.pathname.split('/').filter(p => p);
+        if (pathParts.length > 0) {
+          // Return the first path segment as base
+          return '/' + pathParts[0];
+        }
+      } catch (e) {
+        console.warn('Could not parse canonical URL:', e);
+      }
+    }
+    return '';
+  }
+
+  /**
    * Load full graph data from JSON
    */
   async function loadFullGraphData() {
     if (fullGraphData) return fullGraphData;
 
-    // Get base path from the page - handles GitHub Pages subdirectory deployment
-    const getBasePath = () => {
-      // Check for canonical link (set by MkDocs)
-      const canonical = document.querySelector('link[rel="canonical"]');
-      if (canonical) {
-        const url = new URL(canonical.href);
-        // Extract base path (e.g., /structural-optimism/)
-        const pathParts = url.pathname.split('/').filter(p => p);
-        if (pathParts.length > 0) {
-          // Return the first path segment as base (e.g., /structural-optimism)
-          return '/' + pathParts[0];
-        }
-      }
-      return '';
-    };
-
     const basePath = getBasePath();
     
-    // Try multiple paths - GitHub Pages uses /structural-optimism/ as base
+    // Try multiple paths - GitHub Pages uses subdirectory as base
     const paths = [
       basePath + '/graph-data/full.json',  // With base path (GitHub Pages)
       'graph-data/full.json',               // Relative from current page
@@ -199,6 +279,39 @@
 
     console.error('Could not load graph data from any path');
     return null;
+  }
+
+  /**
+   * Resolve a node URL to an absolute path
+   * @param {string} url - The URL from node data (may be relative)
+   * @returns {string} - Resolved URL
+   */
+  function resolveNodeUrl(url) {
+    if (!url) return null;
+    
+    // If already absolute, return as-is
+    if (url.startsWith('http://') || url.startsWith('https://')) {
+      return url;
+    }
+    
+    const basePath = getBasePath();
+    
+    // Handle relative URLs like "../claims/02-social-connection-reduces-mortality/"
+    // We need to resolve them relative to the site root
+    
+    // Remove leading ../ sequences and resolve
+    let cleanUrl = url;
+    while (cleanUrl.startsWith('../')) {
+      cleanUrl = cleanUrl.substring(3);
+    }
+    
+    // Ensure it starts with /
+    if (!cleanUrl.startsWith('/')) {
+      cleanUrl = '/' + cleanUrl;
+    }
+    
+    // Add base path for GitHub Pages
+    return basePath + cleanUrl;
   }
 
   /**
@@ -387,8 +500,11 @@
 
   function handleClick(event, d) {
     if (d.url) {
-      // Navigate using the URL from the node data
-      window.location.href = d.url;
+      // Resolve the URL properly for navigation
+      const resolvedUrl = resolveNodeUrl(d.url);
+      if (resolvedUrl) {
+        window.location.href = resolvedUrl;
+      }
     }
   }
 
