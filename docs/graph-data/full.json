@@ -1,360 +1,363 @@
 {
   "nodes": [
     {
-      "id": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "Social connection reduces mortality risk by 50%",
-      "type": "Entity",
-      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity and physical inactivity. Replicated across cultures.",
+      "id": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
+      "label": "Holt-Lunstad et al.",
+      "summary": "Researchers who conducted 2010 meta-analysis of 148 studies (308,849 participants) finding social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59), effect comparable to smoking cessation and exceeding obesity/physical inactivity.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../claims/02-social-connection-reduces-mortality/",
-      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
-      "slug": "social-connection-reduces-mortality-risk-by-50"
-    },
-    {
-      "id": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
-      "label": "Global Workspace Theory",
-      "type": "Theory",
-      "summary": "Consciousness theory that predicts prefrontal ignition during conscious processing. Failed specific predictions in Cogitate Consortium (2025) multi-lab pre-registered study across 6 labs testing GWT and IIT.",
-      "confidence": 3,
-      "url": "../theories/global-workspace-theory/",
-      "markdown_url": "theories/global-workspace-theory.md",
-      "slug": "global-workspace-theory"
-    },
-    {
-      "id": "ae85a025-08fe-42a8-aa88-c3090e27863e",
-      "label": "Social connection",
-      "type": "Entity",
-      "summary": "Meta-analysis of 148 studies (308,849 participants) by Holt-Lunstad et al. (2010) found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59), comparable to smoking cessation.",
-      "confidence": 5,
-      "url": "../entities/social-connection/",
-      "markdown_url": "entities/social-connection.md",
-      "slug": "social-connection"
-    },
-    {
-      "id": "c7356b88-9e25-41f7-a11c-e43397286556",
-      "label": "Mortality risk",
-      "type": "Entity",
-      "summary": "Social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59) according to Holt-Lunstad meta-analysis of 148 studies with 308,849 participants. Effect comparable to smoking cessation, exceeds obesity/physical inactivity impacts.",
-      "confidence": 5,
-      "url": "../entities/mortality-risk/",
-      "markdown_url": "entities/mortality-risk.md",
-      "slug": "mortality-risk"
-    },
-    {
-      "id": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
-      "label": "Integrated Information Theory",
-      "type": "Theory",
-      "summary": "Consciousness theory tested by Cogitate Consortium (2025) in pre-registered adversarial collaboration across 6 labs. IIT's prediction of sustained posterior synchronization failed experimental validation.",
-      "confidence": 1,
-      "url": "../theories/integrated-information-theory/",
-      "markdown_url": "theories/integrated-information-theory.md",
-      "slug": "integrated-information-theory"
-    },
-    {
-      "id": "2d2a302e-57a9-4a83-9e41-fea8df685113",
-      "label": "social connection effect exceeds obesity and physical inactivity effects",
-      "type": "Entity",
-      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies found social connection's mortality risk reduction (50%, OR=1.50) exceeds effects of obesity and physical inactivity, comparable to smoking cessation. Established across cultures.",
-      "confidence": 5,
-      "url": "../entities/social-connection-effect-exceeds-obesity-and-physical-inactivity-effects/",
-      "markdown_url": "entities/social-connection-effect-exceeds-obesity-and-physical-inactivity-effects.md",
-      "slug": "social-connection-effect-exceeds-obesity-and-physical-inactivity-effects"
-    },
-    {
-      "id": "87783057-d6af-4706-ac78-6bd8a6df702d",
-      "label": "Both theories' specific predictions failed",
-      "type": "Entity",
-      "summary": "Cogitate Consortium (2025) pre-registered study across 6 labs found both IIT and GWT consciousness theories failed their specific predictions - no sustained posterior synchronization or prefrontal ignition observed.",
-      "confidence": 3,
-      "url": "../entities/both-theories-specific-predictions-failed/",
-      "markdown_url": "entities/both-theories-specific-predictions-failed.md",
-      "slug": "both-theories-specific-predictions-failed"
-    },
-    {
-      "id": "89ed1df9-ff25-40da-9e5a-06546b49443b",
-      "label": "Statistical evidence (OR = 1.50, 95% CI 1.42-1.59)",
-      "type": "Entity",
-      "summary": "Meta-analysis by Holt-Lunstad et al. (2010) of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR = 1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity/inactivity. Replicated across populations.",
-      "confidence": 5,
-      "url": "../entities/statistical-evidence-or-150-95-ci-142-159/",
-      "markdown_url": "entities/statistical-evidence-or-150-95-ci-142-159.md",
-      "slug": "statistical-evidence-or-150-95-ci-142-159"
-    },
-    {
-      "id": "e25f869f-4f90-46fd-b1db-958999e17093",
-      "label": "Replication across multiple populations and cultures",
-      "type": "Entity",
-      "summary": "Holt-Lunstad et al. (2010) meta-analysis finding that social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59) has been replicated across multiple populations and cultures, establishing robustness of results from 148 studies with 308,849 participants.",
-      "confidence": 5,
-      "url": "../entities/replication-across-multiple-populations-and-cultures/",
-      "markdown_url": "entities/replication-across-multiple-populations-and-cultures.md",
-      "slug": "replication-across-multiple-populations-and-cultures"
+      "url": "../evidence/holt-lunstad-et-al/",
+      "slug": "holt-lunstad-et-al"
     },
     {
       "id": "fc945c22-ef4b-4323-915e-51577c7e23e1",
       "label": "Meta-analysis of 148 studies with 308,849 participants",
-      "type": "Evidence",
       "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity/physical inactivity. Replicated across cultures.",
+      "type": "Evidence",
       "confidence": 5,
       "url": "../evidence/meta-analysis-of-148-studies-with-308849-participants/",
-      "markdown_url": "evidence/meta-analysis-of-148-studies-with-308849-participants.md",
       "slug": "meta-analysis-of-148-studies-with-308849-participants"
+    },
+    {
+      "id": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "Social connection reduces mortality risk by 50%",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity and physical inactivity. Replicated across cultures.",
+      "type": "Evidence",
+      "confidence": 5,
+      "url": "../evidence/social-connection-reduces-mortality-risk-by-50/",
+      "slug": "social-connection-reduces-mortality-risk-by-50"
+    },
+    {
+      "id": "89ed1df9-ff25-40da-9e5a-06546b49443b",
+      "label": "Statistical evidence (OR = 1.50, 95% CI 1.42-1.59)",
+      "summary": "Meta-analysis by Holt-Lunstad et al. (2010) of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR = 1.50, 95% CI 1.42-1.59). Effect comparable to smoking cessation, exceeds obesity/inactivity. Replicated across populations.",
+      "type": "Evidence",
+      "confidence": 5,
+      "url": "../evidence/statistical-evidence-or-150-95-ci-142-159/",
+      "slug": "statistical-evidence-or-150-95-ci-142-159"
+    },
+    {
+      "id": "f3f3af0b-3671-4173-bb41-4e555c8072c7",
+      "label": "Effect comparable to smoking cessation",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59), matching smoking cessation benefits and exceeding obesity/inactivity effects.",
+      "type": "Evidence",
+      "confidence": 5,
+      "url": "../evidence/effect-comparable-to-smoking-cessation/",
+      "slug": "effect-comparable-to-smoking-cessation"
     },
     {
       "id": "058045fb-e3ba-46e8-84ed-5ccd6067a7eb",
       "label": "Effect exceeds obesity impact",
-      "type": "Entity",
       "summary": "Social connection's mortality benefit exceeds obesity's impact according to Holt-Lunstad et al. (2010) meta-analysis of 308,849 participants across 148 studies.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../entities/effect-exceeds-obesity-impact/",
-      "markdown_url": "entities/effect-exceeds-obesity-impact.md",
+      "url": "../evidence/effect-exceeds-obesity-impact/",
       "slug": "effect-exceeds-obesity-impact"
     },
     {
       "id": "d2af1678-416d-425f-8812-8a932b8fe0d7",
       "label": "Effect exceeds physical inactivity impact",
-      "type": "Entity",
       "summary": "Social connection's 50% mortality risk reduction (OR=1.50, 95% CI 1.42-1.59) exceeds physical inactivity impact. Meta-analysis of 148 studies, 308,849 participants by Holt-Lunstad et al. (2010). Replicated across populations.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../entities/effect-exceeds-physical-inactivity-impact/",
-      "markdown_url": "entities/effect-exceeds-physical-inactivity-impact.md",
+      "url": "../evidence/effect-exceeds-physical-inactivity-impact/",
       "slug": "effect-exceeds-physical-inactivity-impact"
     },
     {
-      "id": "d5d537f6-9256-448d-8e8d-87d2b6d328d5",
-      "label": "Cogitate Consortium",
-      "type": "Entity",
-      "summary": "Cogitate Consortium (2025) conducted pre-registered adversarial collaboration across 6 labs testing IIT and GWT consciousness theories. Both theories' predictions failed - no sustained posterior synchronization (IIT) or prefrontal ignition (GWT) observed.",
-      "confidence": 3,
-      "url": "../entities/cogitate-consortium/",
-      "markdown_url": "entities/cogitate-consortium.md",
-      "slug": "cogitate-consortium"
-    },
-    {
-      "id": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
-      "label": "Holt-Lunstad et al.",
-      "type": "Researcher",
-      "summary": "Researchers who conducted 2010 meta-analysis of 148 studies (308,849 participants) finding social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59), effect comparable to smoking cessation and exceeding obesity/physical inactivity.",
+      "id": "e25f869f-4f90-46fd-b1db-958999e17093",
+      "label": "Replication across multiple populations and cultures",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis finding that social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59) has been replicated across multiple populations and cultures, establishing robustness of results from 148 studies with 308,849 participants.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../researchers/holt-lunstad-et-al/",
-      "markdown_url": "researchers/holt-lunstad-et-al.md",
-      "slug": "holt-lunstad-et-al"
+      "url": "../evidence/replication-across-multiple-populations-and-cultures/",
+      "slug": "replication-across-multiple-populations-and-cultures"
     },
     {
-      "id": "f3f3af0b-3671-4173-bb41-4e555c8072c7",
-      "label": "Effect comparable to smoking cessation",
-      "type": "Entity",
-      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50, CI 1.42-1.59), matching smoking cessation benefits and exceeding obesity/inactivity effects.",
+      "id": "ae85a025-08fe-42a8-aa88-c3090e27863e",
+      "label": "Social connection",
+      "summary": "Meta-analysis of 148 studies (308,849 participants) by Holt-Lunstad et al. (2010) found social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59), comparable to smoking cessation.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../entities/effect-comparable-to-smoking-cessation/",
-      "markdown_url": "entities/effect-comparable-to-smoking-cessation.md",
-      "slug": "effect-comparable-to-smoking-cessation"
+      "url": "../evidence/social-connection/",
+      "slug": "social-connection"
     },
     {
-      "id": "c7950438-b12e-4667-b8df-09fafa009935",
-      "label": "Physical inactivity",
-      "type": "Entity",
-      "summary": "Physical inactivity has lower mortality risk impact than social isolation. Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50), exceeding physical inactivity effects.",
+      "id": "c7356b88-9e25-41f7-a11c-e43397286556",
+      "label": "Mortality risk",
+      "summary": "Social connection reduces mortality risk by 50% (OR=1.50, 95% CI 1.42-1.59) according to Holt-Lunstad meta-analysis of 148 studies with 308,849 participants. Effect comparable to smoking cessation, exceeds obesity/physical inactivity impacts.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../entities/physical-inactivity/",
-      "markdown_url": "entities/physical-inactivity.md",
-      "slug": "physical-inactivity"
-    },
-    {
-      "id": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
-      "label": "IIT's sustained posterior synchronization prediction failure",
-      "type": "Entity",
-      "summary": "Cogitate Consortium (2025) pre-registered adversarial collaboration across 6 labs found IIT's predicted sustained posterior synchronization was not observed, contradicting theory predictions.",
-      "confidence": 1,
-      "url": "../entities/iits-sustained-posterior-synchronization-prediction-failure/",
-      "markdown_url": "entities/iits-sustained-posterior-synchronization-prediction-failure.md",
-      "slug": "iits-sustained-posterior-synchronization-prediction-failure"
+      "url": "../evidence/mortality-risk/",
+      "slug": "mortality-risk"
     },
     {
       "id": "7b3bbbaa-2e64-44d6-98c6-42620eef8ee6",
       "label": "Smoking cessation",
-      "type": "Entity",
       "summary": "Smoking cessation has comparable mortality risk reduction effects to social connection, which reduces mortality risk by 50% according to Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../entities/smoking-cessation/",
-      "markdown_url": "entities/smoking-cessation.md",
+      "url": "../evidence/smoking-cessation/",
       "slug": "smoking-cessation"
     },
     {
       "id": "618b5077-9201-4101-808f-87cd2e357311",
       "label": "Obesity",
-      "type": "Entity",
       "summary": "Obesity has a lower mortality risk impact than lack of social connection according to Holt-Lunstad et al. (2010) meta-analysis of 308,849 participants. Social connection reduces mortality risk by 50%, exceeding obesity's impact.",
+      "type": "Evidence",
       "confidence": 5,
-      "url": "../entities/obesity/",
-      "markdown_url": "entities/obesity.md",
+      "url": "../evidence/obesity/",
       "slug": "obesity"
     },
     {
-      "id": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
-      "label": "Pre-registered adversarial collaboration across 6 labs",
+      "id": "c7950438-b12e-4667-b8df-09fafa009935",
+      "label": "Physical inactivity",
+      "summary": "Physical inactivity has lower mortality risk impact than social isolation. Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participants found social connection reduces mortality risk by 50% (OR=1.50), exceeding physical inactivity effects.",
+      "type": "Evidence",
+      "confidence": 5,
+      "url": "../evidence/physical-inactivity/",
+      "slug": "physical-inactivity"
+    },
+    {
+      "id": "2d2a302e-57a9-4a83-9e41-fea8df685113",
+      "label": "social connection effect exceeds obesity and physical inactivity effects",
+      "summary": "Holt-Lunstad et al. (2010) meta-analysis of 148 studies found social connection's mortality risk reduction (50%, OR=1.50) exceeds effects of obesity and physical inactivity, comparable to smoking cessation. Established across cultures.",
+      "type": "Evidence",
+      "confidence": 5,
+      "url": "../evidence/social-connection-effect-exceeds-obesity-and-physical-inactivity-effects/",
+      "slug": "social-connection-effect-exceeds-obesity-and-physical-inactivity-effects"
+    },
+    {
+      "id": "d5d537f6-9256-448d-8e8d-87d2b6d328d5",
+      "label": "Cogitate Consortium",
+      "summary": "Cogitate Consortium (2025) conducted pre-registered adversarial collaboration across 6 labs testing IIT and GWT consciousness theories. Both theories' predictions failed - no sustained posterior synchronization (IIT) or prefrontal ignition (GWT) observed.",
       "type": "Entity",
-      "summary": "Cogitate Consortium (2025) multi-lab pre-registered adversarial collaboration testing IIT and GWT consciousness theories. Both theories' predictions failed - no sustained posterior synchronization or prefrontal ignition observed as predicted.",
       "confidence": 3,
-      "url": "../entities/pre-registered-adversarial-collaboration-across-6-labs/",
-      "markdown_url": "entities/pre-registered-adversarial-collaboration-across-6-labs.md",
-      "slug": "pre-registered-adversarial-collaboration-across-6-labs"
+      "url": "../entities/cogitate-consortium/",
+      "slug": "cogitate-consortium"
+    },
+    {
+      "id": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
+      "label": "Integrated Information Theory",
+      "summary": "Consciousness theory tested by Cogitate Consortium (2025) in pre-registered adversarial collaboration across 6 labs. IIT's prediction of sustained posterior synchronization failed experimental validation.",
+      "type": "Theory",
+      "confidence": 1,
+      "url": "../theories/integrated-information-theory/",
+      "slug": "integrated-information-theory"
+    },
+    {
+      "id": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
+      "label": "Global Workspace Theory",
+      "summary": "Consciousness theory that predicts prefrontal ignition during conscious processing. Failed specific predictions in Cogitate Consortium (2025) multi-lab pre-registered study across 6 labs testing GWT and IIT.",
+      "type": "Evidence",
+      "confidence": 3,
+      "url": "../evidence/global-workspace-theory/",
+      "slug": "global-workspace-theory"
+    },
+    {
+      "id": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "Both theories' specific predictions failed",
+      "summary": "Cogitate Consortium (2025) pre-registered study across 6 labs found both IIT and GWT consciousness theories failed their specific predictions - no sustained posterior synchronization or prefrontal ignition observed.",
+      "type": "Evidence",
+      "confidence": 3,
+      "url": "../evidence/both-theories-specific-predictions-failed/",
+      "slug": "both-theories-specific-predictions-failed"
+    },
+    {
+      "id": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
+      "label": "IIT's sustained posterior synchronization prediction failure",
+      "summary": "Cogitate Consortium (2025) pre-registered adversarial collaboration across 6 labs found IIT's predicted sustained posterior synchronization was not observed, contradicting theory predictions.",
+      "type": "Theory",
+      "confidence": 1,
+      "url": "../theories/iits-sustained-posterior-synchronization-prediction-failure/",
+      "slug": "iits-sustained-posterior-synchronization-prediction-failure"
     },
     {
       "id": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
       "label": "GWT's prefrontal ignition prediction failure",
-      "type": "Entity",
       "summary": "Cogitate Consortium (2025) pre-registered multi-lab study found GWT's predicted prefrontal ignition was not observed as expected, failing theory's specific predictions in consciousness research.",
+      "type": "Evidence",
       "confidence": 3,
-      "url": "../entities/gwts-prefrontal-ignition-prediction-failure/",
-      "markdown_url": "entities/gwts-prefrontal-ignition-prediction-failure.md",
+      "url": "../evidence/gwts-prefrontal-ignition-prediction-failure/",
       "slug": "gwts-prefrontal-ignition-prediction-failure"
+    },
+    {
+      "id": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "label": "Pre-registered adversarial collaboration across 6 labs",
+      "summary": "Cogitate Consortium (2025) multi-lab pre-registered adversarial collaboration testing IIT and GWT consciousness theories. Both theories' predictions failed - no sustained posterior synchronization or prefrontal ignition observed as predicted.",
+      "type": "Entity",
+      "confidence": 3,
+      "url": "../entities/pre-registered-adversarial-collaboration-across-6-labs/",
+      "slug": "pre-registered-adversarial-collaboration-across-6-labs"
     }
   ],
   "edges": [
     {
-      "id": "5e457c86-691d-4db0-8745-9c0f8c04d937",
-      "source": "e25f869f-4f90-46fd-b1db-958999e17093",
-      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "499a451d-9a47-434d-a3fa-83ad4faa5358",
-      "source": "ae85a025-08fe-42a8-aa88-c3090e27863e",
-      "target": "c7356b88-9e25-41f7-a11c-e43397286556",
-      "label": "AFFECTS"
-    },
-    {
-      "id": "be6ee92e-b173-4671-a997-aba4fdf348d3",
-      "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
-      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "e67f8f93-78ac-4ac2-9775-6031d6d688e5",
-      "source": "d2af1678-416d-425f-8812-8a932b8fe0d7",
-      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "24b1221b-f1d8-4d3c-98f2-94c2da9a3234",
-      "source": "d2af1678-416d-425f-8812-8a932b8fe0d7",
-      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "a3138040-b085-4043-98a0-b90d755bf7d5",
-      "source": "89ed1df9-ff25-40da-9e5a-06546b49443b",
-      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "9f742b59-878c-40a3-a0a7-bc73f8d6acf1",
-      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "target": "c7950438-b12e-4667-b8df-09fafa009935",
-      "label": "EXCEEDS"
-    },
-    {
-      "id": "72abe989-eb1e-4c5b-ae2d-dda02151e887",
-      "source": "058045fb-e3ba-46e8-84ed-5ccd6067a7eb",
-      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "22763900-26be-44e8-aa93-d74bd1832f04",
-      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "target": "618b5077-9201-4101-808f-87cd2e357311",
-      "label": "EXCEEDS"
-    },
-    {
-      "id": "00344dc7-6438-4963-81fa-346a11fe19be",
-      "source": "f3f3af0b-3671-4173-bb41-4e555c8072c7",
-      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "591ad482-f9a4-43c5-a599-737075df6afc",
-      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "target": "7b3bbbaa-2e64-44d6-98c6-42620eef8ee6",
-      "label": "COMPARABLE_TO"
+      "id": "5ffaec07-dd55-466e-898d-ee6cb70389ae",
+      "source": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
+      "target": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "label": "RELATES_TO",
+      "fact": "Holt-Lunstad et al. conducted a meta-analysis of 148 studies with 308,849 participants"
     },
     {
       "id": "4f5a289e-cbd7-4ad4-ae9e-b1f474e4623f",
       "source": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
       "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
-      "label": "PROPOSED_BY"
-    },
-    {
-      "id": "d59982e1-95cc-4c70-9b0b-3125388160b3",
-      "source": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
-      "target": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
-      "label": "RELATES_TO"
-    },
-    {
-      "id": "0717bce4-da58-4eaf-b9d8-a10b3737200a",
-      "source": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
-      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "5ffaec07-dd55-466e-898d-ee6cb70389ae",
-      "source": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
-      "target": "fc945c22-ef4b-4323-915e-51577c7e23e1",
-      "label": "CONDUCTED"
+      "label": "RELATES_TO",
+      "fact": "Holt-Lunstad et al. proposed that social connection reduces mortality risk by 50%"
     },
     {
       "id": "4801cb80-b26a-462d-bc78-10f4369e84af",
       "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
       "target": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
-      "label": "CONDUCTED_BY"
+      "label": "RELATES_TO",
+      "fact": "The meta-analysis of 148 studies with 308,849 participants was conducted by Holt-Lunstad in 2010"
     },
     {
       "id": "c044519e-690d-4bee-9fa5-e01933bd134f",
       "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
       "target": "806ccfbd-3774-42ab-bd58-b4ce6836bded",
-      "label": "CONDUCTED_BY"
+      "label": "RELATES_TO",
+      "fact": "The meta-analysis of 148 studies with 308,849 participants was conducted by Holt-Lunstad et al."
     },
     {
-      "id": "0c3c8ac1-0b7b-4078-a781-c57f62d46bfe",
-      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
-      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
-      "label": "SUPPORTS"
-    },
-    {
-      "id": "9d732710-f3a3-49ca-a3be-b6785cf8612e",
-      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
-      "target": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
-      "label": "TESTED"
+      "id": "be6ee92e-b173-4671-a997-aba4fdf348d3",
+      "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "RELATES_TO",
+      "fact": "The meta-analysis of 148 studies with 308,849 participants supports the claim that social connection reduces mortality risk by 50%"
     },
     {
       "id": "79913d8b-8c8d-4f6d-8a3b-a49b193b1f86",
       "source": "fc945c22-ef4b-4323-915e-51577c7e23e1",
       "target": "89ed1df9-ff25-40da-9e5a-06546b49443b",
-      "label": "FOUND_EVIDENCE_FOR"
+      "label": "RELATES_TO",
+      "fact": "Meta-analysis found odds ratio 1.50 with 95% confidence interval 1.42-1.59 as evidence"
     },
     {
-      "id": "97fb9ad3-3771-4bc1-b559-f76bbb02189b",
-      "source": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
-      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
-      "label": "SUPPORTS"
+      "id": "591ad482-f9a4-43c5-a599-737075df6afc",
+      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "target": "7b3bbbaa-2e64-44d6-98c6-42620eef8ee6",
+      "label": "RELATES_TO",
+      "fact": "The effect of social connection on mortality risk is comparable to smoking cessation"
     },
     {
-      "id": "23c7bbbb-5947-4cc7-8720-93475ec6c0fc",
-      "source": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
-      "target": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
-      "label": "RELATES_TO"
+      "id": "22763900-26be-44e8-aa93-d74bd1832f04",
+      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "target": "618b5077-9201-4101-808f-87cd2e357311",
+      "label": "RELATES_TO",
+      "fact": "The effect of social connection on mortality risk exceeds the impact of obesity"
     },
     {
-      "id": "57da7ec3-421a-41a2-bd90-c54559f49d0b",
-      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
-      "target": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
-      "label": "TESTED"
+      "id": "9f742b59-878c-40a3-a0a7-bc73f8d6acf1",
+      "source": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "target": "c7950438-b12e-4667-b8df-09fafa009935",
+      "label": "RELATES_TO",
+      "fact": "The effect of social connection on mortality risk exceeds the impact of physical inactivity"
+    },
+    {
+      "id": "a3138040-b085-4043-98a0-b90d755bf7d5",
+      "source": "89ed1df9-ff25-40da-9e5a-06546b49443b",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "RELATES_TO",
+      "fact": "Statistical evidence with odds ratio of 1.50 and 95% confidence interval 1.42-1.59 supports the claim that social connection reduces mortality risk by 50%"
+    },
+    {
+      "id": "00344dc7-6438-4963-81fa-346a11fe19be",
+      "source": "f3f3af0b-3671-4173-bb41-4e555c8072c7",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "RELATES_TO",
+      "fact": "Evidence showing the effect is comparable to smoking cessation supports the claim that social connection reduces mortality risk by 50%"
+    },
+    {
+      "id": "72abe989-eb1e-4c5b-ae2d-dda02151e887",
+      "source": "058045fb-e3ba-46e8-84ed-5ccd6067a7eb",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "RELATES_TO",
+      "fact": "Evidence that the effect exceeds obesity impact supports the claim that social connection reduces mortality risk by 50%"
+    },
+    {
+      "id": "e67f8f93-78ac-4ac2-9775-6031d6d688e5",
+      "source": "d2af1678-416d-425f-8812-8a932b8fe0d7",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "RELATES_TO",
+      "fact": "The evidence that the effect exceeds obesity and physical inactivity supports the claim that social connection reduces mortality risk by 50%"
+    },
+    {
+      "id": "24b1221b-f1d8-4d3c-98f2-94c2da9a3234",
+      "source": "d2af1678-416d-425f-8812-8a932b8fe0d7",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "RELATES_TO",
+      "fact": "Evidence that the effect exceeds physical inactivity impact supports the claim that social connection reduces mortality risk by 50%"
+    },
+    {
+      "id": "5e457c86-691d-4db0-8745-9c0f8c04d937",
+      "source": "e25f869f-4f90-46fd-b1db-958999e17093",
+      "target": "f3eff987-ae5f-4ca9-8d54-527690914633",
+      "label": "RELATES_TO",
+      "fact": "Replication across multiple populations and cultures supports the claim that social connection reduces mortality risk by 50%"
+    },
+    {
+      "id": "499a451d-9a47-434d-a3fa-83ad4faa5358",
+      "source": "ae85a025-08fe-42a8-aa88-c3090e27863e",
+      "target": "c7356b88-9e25-41f7-a11c-e43397286556",
+      "label": "RELATES_TO",
+      "fact": "Social connection reduces mortality risk by 50%"
     },
     {
       "id": "aad458e2-f42a-428d-b897-5fa049e30307",
       "source": "d5d537f6-9256-448d-8e8d-87d2b6d328d5",
       "target": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
-      "label": "CONDUCTED_STUDY"
+      "label": "RELATES_TO",
+      "fact": "The Cogitate Consortium conducted a pre-registered adversarial collaboration across 6 labs"
+    },
+    {
+      "id": "d59982e1-95cc-4c70-9b0b-3125388160b3",
+      "source": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
+      "target": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
+      "label": "RELATES_TO",
+      "fact": "IIT's sustained posterior synchronization prediction failure contradicts Integrated Information Theory"
+    },
+    {
+      "id": "0717bce4-da58-4eaf-b9d8-a10b3737200a",
+      "source": "29d8ede8-87b2-4ac8-83ab-96b5a25fd7dd",
+      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "RELATES_TO",
+      "fact": "IIT's sustained posterior synchronization prediction failure supports the claim that both theories' specific predictions failed"
+    },
+    {
+      "id": "23c7bbbb-5947-4cc7-8720-93475ec6c0fc",
+      "source": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
+      "target": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
+      "label": "RELATES_TO",
+      "fact": "GWT's prefrontal ignition prediction failure contradicts Global Workspace Theory"
+    },
+    {
+      "id": "97fb9ad3-3771-4bc1-b559-f76bbb02189b",
+      "source": "3b4880d9-c3ae-4702-a8b2-da1e9b507d2a",
+      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "RELATES_TO",
+      "fact": "GWT's prefrontal ignition prediction failure supports the claim that both theories' specific predictions failed"
+    },
+    {
+      "id": "9d732710-f3a3-49ca-a3be-b6785cf8612e",
+      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "target": "38e7180f-1bd6-4133-85f8-601abf62d5a2",
+      "label": "RELATES_TO",
+      "fact": "The pre-registered adversarial collaboration across 6 labs tested Integrated Information Theory predictions"
+    },
+    {
+      "id": "57da7ec3-421a-41a2-bd90-c54559f49d0b",
+      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "target": "b1ed6453-e871-45dc-87aa-45e2beb95baa",
+      "label": "RELATES_TO",
+      "fact": "The pre-registered adversarial collaboration across 6 labs tested Global Workspace Theory predictions"
+    },
+    {
+      "id": "0c3c8ac1-0b7b-4078-a781-c57f62d46bfe",
+      "source": "c93b60bf-4d0f-4dcd-bbf6-e1f2ecf7b27f",
+      "target": "87783057-d6af-4706-ac78-6bd8a6df702d",
+      "label": "RELATES_TO",
+      "fact": "The pre-registered adversarial collaboration across 6 labs supports the claim that both theories' specific predictions failed"
     }
   ]
 }
