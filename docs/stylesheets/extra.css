@@ -315,3 +315,66 @@
     transform: none;
   }
 }
+
+
+/* Claims Grid
+   ============================================ */
+.claims-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5em;
+  margin: 1.5em 0;
+}
+
+.claim-card {
+  padding: 1.5em;
+  border: 2px solid var(--md-primary-fg-color);
+  border-radius: 8px;
+  background-color: var(--md-default-bg-color);
+  transition: all 0.3s ease;
+}
+
+.claim-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-color: var(--md-accent-fg-color);
+}
+
+.claim-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+}
+
+.claim-card h3 a {
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+}
+
+.claim-card h3 a:hover {
+  text-decoration: underline;
+}
+
+.claim-card p {
+  margin: 0;
+  font-size: 0.95em;
+  color: var(--md-typeset-color);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 600px) {
+  .claims-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .claim-card {
+    transition: none;
+  }
+  
+  .claim-card:hover {
+    transform: none;
+  }
+}

@@ -92,19 +92,31 @@ Love feels good. Belonging feels good. This is universal across all cultures.
 
 Each claim is backed by peer-reviewed evidence. Click to explore:
 
-<div class="claims-grid">
+<div class="claims-grid" markdown>
 
+<div class="claim-card" markdown>
 ### [1. Integration Creates Complexity](claims/01-integration-creates-complexity.md)
-★★★★☆ Strong | All higher complexity emerges through cooperative integration.
 
+**★★★★☆ Strong** | All higher complexity emerges through cooperative integration.
+</div>
+
+<div class="claim-card" markdown>
 ### [2. Social Connection Reduces Mortality](claims/02-social-connection-reduces-mortality.md)
-★★★★★ Established | 50% increased survival with strong social ties (2.2M people).
 
+**★★★★★ Established** | 50% increased survival with strong social ties (2.2M people).
+</div>
+
+<div class="claim-card" markdown>
 ### [3. Love is Universal](claims/03-love-is-universal.md)
-★★★★★ Established | Found in 166 of 166 cultures studied.
 
+**★★★★★ Established** | Found in 166 of 166 cultures studied.
+</div>
+
+<div class="claim-card" markdown>
 ### [4. Alignment Enables Flourishing](claims/04-alignment-enables-flourishing.md)
-★★★★☆ Strong | Aligning with integration enables human flourishing.
+
+**★★★★☆ Strong** | Aligning with integration enables human flourishing.
+</div>
 
 </div>
 
