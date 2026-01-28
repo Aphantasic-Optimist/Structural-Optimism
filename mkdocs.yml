@@ -164,7 +164,6 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Knowledge Graph: graph.md
   - Proof:
       - proof/index.md
       - Simple (5 min): proof/simple.md

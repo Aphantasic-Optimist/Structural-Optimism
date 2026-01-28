@@ -28,6 +28,11 @@ Thumbs.db
 .env
 .env.local
 
+# Arweave wallet (NEVER commit!)
+wallet.json
+*.wallet.json
+arweave-key*.json
+
 # Build artifacts
 *.egg-info/
 dist/

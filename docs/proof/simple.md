@@ -90,7 +90,7 @@ Reality punishes isolation with suffering and death.
 
 - [Full Evidence](evidence.md) - All the supporting research (20 min)
 - [Academic Proof](academic.md) - Complete philosophical argument (1 hour)
-- [Knowledge Graph](../graph.md) - Explore visually
+- [Knowledge Graph](../) - Explore visually
 
 ---
 

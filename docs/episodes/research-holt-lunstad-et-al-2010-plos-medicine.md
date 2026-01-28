@@ -67,7 +67,7 @@ This episode created or referenced **11 relationship(s)** in the knowledge graph
 
 ## Explore Further
 
-[View in Knowledge Graph](../graph.md) to see how this episode connects to other research.
+[View in Knowledge Graph](../) to see how this episode connects to other research.
 
 ---
 

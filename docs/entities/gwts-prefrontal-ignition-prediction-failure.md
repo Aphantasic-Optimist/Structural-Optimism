@@ -54,7 +54,7 @@ Cogitate Consortium (2025) pre-registered multi-lab study found GWT's predicted 
 
 ## Explore Further
 
-[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../) to see all connections and explore related concepts.
 
 ---
 

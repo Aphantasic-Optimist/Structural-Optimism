@@ -60,7 +60,7 @@ Cogitate Consortium (2025) pre-registered study across 6 labs found both IIT and
 
 ## Explore Further
 
-[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../) to see all connections and explore related concepts.
 
 ---
 

@@ -73,7 +73,7 @@ Holt-Lunstad et al. (2010) meta-analysis of 148 studies with 308,849 participant
 
 ## Explore Further
 
-[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../) to see all connections and explore related concepts.
 
 ---
 

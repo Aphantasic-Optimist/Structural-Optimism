@@ -134,7 +134,7 @@ This is not coincidence. This is structure.
 
 - [Academic Proof](academic.md) - Complete philosophical argument
 - [Claim Details](../claims/index.md) - Each claim with full citations
-- [Knowledge Graph](../graph.md) - Explore visually
+- [Knowledge Graph](../) - Explore visually
 
 ---
 

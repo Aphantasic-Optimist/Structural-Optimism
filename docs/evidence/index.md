@@ -58,5 +58,5 @@ All evidence is tracked in our knowledge graph with full citations.
 
 ## Explore All Evidence
 
-[View the full knowledge graph →](../graph.md)
+[View the full knowledge graph →](../)
 

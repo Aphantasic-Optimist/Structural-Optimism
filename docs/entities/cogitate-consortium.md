@@ -46,7 +46,7 @@ Cogitate Consortium (2025) conducted pre-registered adversarial collaboration ac
 
 ## Explore Further
 
-[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
+[View in Knowledge Graph](../) to see all connections and explore related concepts.
 
 ---
 

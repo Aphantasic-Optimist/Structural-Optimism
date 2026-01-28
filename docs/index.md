@@ -9,6 +9,58 @@ description: An evidence-based philosophical proof that reality is structured to
 
 ---
 
+## Explore the Knowledge Graph
+
+Explore the relationships between claims, evidence, and mechanisms visually.
+
+<div class="graph-controls">
+  <button onclick="location.reload()">Reset View</button>
+</div>
+
+<div id="graphiti-container"></div>
+
+### How to Use the Graph
+
+- **Drag** nodes to rearrange the layout
+- **Scroll** to zoom in/out  
+- **Hover** over nodes to see summaries
+- **Click** a node to navigate to its documentation page
+
+### Understanding the Visualization
+
+**Node Colors** indicate confidence levels:
+
+- 🟢 **Green** - ★★★★★ Established (replicated, peer-reviewed)
+- 🔵 **Blue** - ★★★★☆ Strong (replicated, minor gaps)
+- 🟠 **Orange** - ★★★☆☆ Promising (awaiting replication)
+- 🔴 **Red** - ★★☆☆☆ Preliminary (single study)
+- 🟣 **Purple** - ★☆☆☆☆ Speculative (theoretical)
+
+<div class="graph-legend">
+  <div class="graph-legend-section">
+    <h4>Confidence Levels</h4>
+    <div class="graph-legend-items">
+      <span class="legend-item"><span class="legend-dot" style="background: #2e7d32;"></span> ★★★★★ Established</span>
+      <span class="legend-item"><span class="legend-dot" style="background: #1976d2;"></span> ★★★★☆ Strong</span>
+      <span class="legend-item"><span class="legend-dot" style="background: #f57c00;"></span> ★★★☆☆ Promising</span>
+      <span class="legend-item"><span class="legend-dot" style="background: #d32f2f;"></span> ★★☆☆☆ Preliminary</span>
+      <span class="legend-item"><span class="legend-dot" style="background: #9c27b0;"></span> ★☆☆☆☆ Speculative</span>
+    </div>
+  </div>
+  
+  <div class="graph-legend-section">
+    <h4>Relationships</h4>
+    <div class="graph-legend-items">
+      <span class="legend-item"><span class="legend-line" style="background: #4caf50;"></span> SUPPORTS</span>
+      <span class="legend-item"><span class="legend-line" style="background: #f44336;"></span> CONTRADICTS</span>
+      <span class="legend-item"><span class="legend-line" style="background: #ff9800;"></span> BLOCKS</span>
+      <span class="legend-item"><span class="legend-line" style="background: #2196f3;"></span> EXPLAINS</span>
+    </div>
+  </div>
+</div>
+
+---
+
 ## The Proof in 60 Seconds
 
 **Fact 1:** Reality is structured so that complex things emerge when simple things cooperate.
@@ -23,36 +75,6 @@ Love feels good. Belonging feels good. This is universal across all cultures.
 **Conclusion:** Reality rewards what helps us survive (connection) with what we experience as good (love).
 
 **The universe is shaped like optimism.**
-
----
-
-## Explore the Knowledge Graph
-
-<div id="graphiti-container" style="width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 8px; margin: 2rem 0;"></div>
-
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script>
-(function() {
-  var script = document.createElement('script');
-  var canonical = document.querySelector('link[rel="canonical"]');
-  var basePath = canonical ? new URL(canonical.href).pathname.match(/^(\/[^\/]+)/)?.[1] || '' : '';
-  script.src = basePath + '/assets/javascripts/graphiti-viewer.js';
-  document.head.appendChild(script);
-  
-  var link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.href = basePath + '/assets/stylesheets/graphiti-graph.css';
-  document.head.appendChild(link);
-})();
-</script>
-
-**Interactive controls:**
-- **Drag** nodes to rearrange
-- **Scroll** to zoom in/out
-- **Click** nodes to navigate to details
-- **Hover** for summaries
-
-[View full-screen graph with legend →](graph.md)
 
 ---
 
@@ -126,3 +148,7 @@ We correct errors immediately. We show our work.
 *"Don't worry, be happy" is not naive. It's recognition that reality is structured toward integration.*
 
 ✨
+
+<link rel="stylesheet" href="assets/stylesheets/graphiti-graph.css">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="assets/javascripts/graphiti-viewer.js"></script>

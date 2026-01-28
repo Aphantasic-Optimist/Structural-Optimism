@@ -71,7 +71,7 @@ Our claims are stored in a knowledge graph that tracks:
 - **Edges:** SUPPORTS, CONTRADICTS, EXPLAINS, BLOCKS
 - **Temporal:** When beliefs changed and why
 
-[Explore the graph →](../graph.md)
+[Explore the graph →](../)
 
 ---
 

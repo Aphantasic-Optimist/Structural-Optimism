@@ -157,12 +157,31 @@
   async function loadFullGraphData() {
     if (fullGraphData) return fullGraphData;
 
+    // Get base path from the page - handles GitHub Pages subdirectory deployment
+    const getBasePath = () => {
+      // Check for canonical link (set by MkDocs)
+      const canonical = document.querySelector('link[rel="canonical"]');
+      if (canonical) {
+        const url = new URL(canonical.href);
+        // Extract base path (e.g., /structural-optimism/)
+        const pathParts = url.pathname.split('/').filter(p => p);
+        if (pathParts.length > 0) {
+          // Return the first path segment as base (e.g., /structural-optimism)
+          return '/' + pathParts[0];
+        }
+      }
+      return '';
+    };
+
+    const basePath = getBasePath();
+    
     // Try multiple paths - GitHub Pages uses /structural-optimism/ as base
     const paths = [
-      'graph-data/full.json',           // Relative from current page
-      '../graph-data/full.json',        // One level up
-      '../../graph-data/full.json',     // Two levels up
-      '/graph-data/full.json'           // From root
+      basePath + '/graph-data/full.json',  // With base path (GitHub Pages)
+      'graph-data/full.json',               // Relative from current page
+      '../graph-data/full.json',            // One level up
+      '../../graph-data/full.json',         // Two levels up
+      '/graph-data/full.json'               // From absolute root
     ];
 
     for (const path of paths) {

@@ -35,7 +35,7 @@ The interactive knowledge graph uses **Sigma.js** for WebGL-accelerated renderin
 - `graph-viewer.js` - Main visualization code
 - `../../stylesheets/graph.css` - Styling
 - `../../graph-data/full.json` - Graph data
-- `../../graph.md` - Page content
+- `../../index.md` - Home page (contains graph)
 
 ## Usage
 
