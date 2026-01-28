@@ -59,6 +59,8 @@ plugins:
             Proof: Prueba
             Claims: Afirmaciones
             Evidence: Evidencia
+            Explorations: Exploraciones
+            Structural Instability: Inestabilidad Estructural
             Contribute: Contribuir
             Safety: Seguridad
             Academic: Académico
@@ -71,6 +73,8 @@ plugins:
             Proof: Preuve
             Claims: Affirmations
             Evidence: Preuves
+            Explorations: Explorations
+            Structural Instability: Instabilité Structurelle
             Contribute: Contribuer
             Safety: Sécurité
             Academic: Académique
@@ -83,6 +87,8 @@ plugins:
             Proof: Beweis
             Claims: Behauptungen
             Evidence: Beweise
+            Explorations: Erkundungen
+            Structural Instability: Strukturelle Instabilität
             Contribute: Beitragen
             Safety: Sicherheit
             Academic: Akademisch
@@ -95,6 +101,8 @@ plugins:
             Proof: 证明
             Claims: 主张
             Evidence: 证据
+            Explorations: 探索
+            Structural Instability: 结构不稳定
             Contribute: 贡献
             Safety: 安全
             Academic: 学术
@@ -183,6 +191,9 @@ nav:
       - L0-L5 Framework: explorations/l0-l5-framework.md
       - Quantum-Classical Interface: explorations/quantum-classical-interface.md
       - Emotional Integration: explorations/emotional-integration-theory.md
+  - Structural Instability:
+      - instability/index.md
+      - Consciousness Extraction Economy: instability/consciousness-extraction-economy.md
   - Academic:
       - academic/index.md
       - Methodology: academic/methodology.md
