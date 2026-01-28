@@ -85,7 +85,7 @@ Challenge existing claims constructively:
 
 ### Option 1: GitHub Issues (Recommended)
 
-1. Go to [GitHub Issues](https://github.com/[username]/structural-optimism/issues)
+1. Go to [GitHub Issues](https://github.com/Aphantasic-Optimist/structural-optimism/issues)
 2. Click "New Issue"
 3. Select "Research Request" template
 4. Fill in the template:
@@ -100,7 +100,7 @@ Challenge existing claims constructively:
 
 For more exploratory or open-ended requests:
 
-1. Go to [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
+1. Go to [GitHub Discussions](https://github.com/Aphantasic-Optimist/structural-optimism/discussions)
 2. Start a new discussion in "Research Ideas"
 3. Describe your research question
 4. Engage with community feedback
@@ -231,7 +231,7 @@ Research contributors are:
 
 ## Questions?
 
-- **General questions**: [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
+- **General questions**: [GitHub Discussions](https://github.com/Aphantasic-Optimist/structural-optimism/discussions)
 
 ---
 
