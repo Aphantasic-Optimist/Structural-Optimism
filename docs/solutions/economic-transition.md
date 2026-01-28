@@ -254,6 +254,28 @@ This is not moral argument. This is physics.
 - Regulatory capture may protect incumbents
 - Transition may be slower or different
 
+### Why Distributed Ownership Mitigates Network Effects
+
+Traditional network effects trap users because **your data is hostage**. You can't leave Facebook without losing your photos, connections, and history.
+
+**Distributed ownership changes this:**
+
+1. **Data portability** - Your data vault travels with you. Switching costs drop to near-zero.
+2. **Interoperability** - ActivityPub lets different systems communicate. You don't need everyone on the same platform.
+3. **Personal AI is personal** - Your bot serves YOU, not the network. Its value doesn't depend on others using the same system.
+4. **Quality competition** - When switching is free, platforms compete on quality, not lock-in.
+
+**The key insight:** Network effects are strongest when they create **switching costs**. Distributed ownership eliminates switching costs by design.
+
+You don't need to convince 3 billion people to leave Facebook. You need to make it trivially easy for individuals to leave whenever they want—and take everything with them.
+
+**Regulatory tailwinds:**
+- EU Digital Markets Act mandates interoperability for gatekeepers
+- GDPR guarantees data portability rights
+- Antitrust pressure increasing on platform monopolies
+
+The network effect problem is real, but it's a coordination problem that distributed ownership is specifically designed to solve.
+
 ### What Would Change the Analysis
 
 - If energy costs don't grow as projected
