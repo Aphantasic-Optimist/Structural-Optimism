@@ -61,6 +61,7 @@ plugins:
             Evidence: Evidencia
             Explorations: Exploraciones
             Structural Instability: Inestabilidad Estructural
+            Solution Possibilities: Posibilidades de Solución
             Contribute: Contribuir
             Safety: Seguridad
             Academic: Académico
@@ -75,6 +76,7 @@ plugins:
             Evidence: Preuves
             Explorations: Explorations
             Structural Instability: Instabilité Structurelle
+            Solution Possibilities: Possibilités de Solution
             Contribute: Contribuer
             Safety: Sécurité
             Academic: Académique
@@ -89,6 +91,7 @@ plugins:
             Evidence: Beweise
             Explorations: Erkundungen
             Structural Instability: Strukturelle Instabilität
+            Solution Possibilities: Lösungsmöglichkeiten
             Contribute: Beitragen
             Safety: Sicherheit
             Academic: Akademisch
@@ -98,6 +101,7 @@ plugins:
           build: true
           nav_translations:
             Home: 首页
+            Solution Possibilities: 解决方案可能性
             Proof: 证明
             Claims: 主张
             Evidence: 证据
@@ -194,6 +198,12 @@ nav:
   - Structural Instability:
       - instability/index.md
       - Consciousness Extraction Economy: instability/consciousness-extraction-economy.md
+  - Solution Possibilities:
+      - solutions/index.md
+      - Distributed Consciousness Model: solutions/distributed-consciousness-model.md
+      - Preventing WALL-E: solutions/preventing-wall-e.md
+      - Economic Transition: solutions/economic-transition.md
+      - What Must Remain Human: solutions/what-must-remain-human.md
   - Academic:
       - academic/index.md
       - Methodology: academic/methodology.md

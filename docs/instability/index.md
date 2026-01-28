@@ -10,6 +10,8 @@ This section analyzes systems that are structurally misaligned with reality—sy
 
 **Important:** This is not about blame. These systems emerged without anyone designing them. The engineers, executives, investors, and users are all caught in the same emergent dynamics. Understanding the system is the first step to changing it—together.
 
+**Looking for solutions?** See [Solution Possibilities](../solutions/index.md) for what we can build instead.
+
 ---
 
 ## The Core Insight
