@@ -179,6 +179,11 @@ nav:
   - Evidence:
       - evidence/index.md
       - Biological Pathways: evidence/mechanisms/biological-pathways.md
+  - Explorations:
+      - explorations/index.md
+      - L0-L5 Framework: explorations/l0-l5-framework.md
+      - Quantum-Classical Interface: explorations/quantum-classical-interface.md
+      - Emotional Integration: explorations/emotional-integration-theory.md
   - Academic:
       - academic/index.md
       - Methodology: academic/methodology.md
