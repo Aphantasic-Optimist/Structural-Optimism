@@ -78,9 +78,7 @@ extra_css:
   - assets/stylesheets/chatbot.css
 
 extra_javascript:
-  - assets/javascripts/chatbot-data.js
-  - assets/javascripts/chatbot-ui.js
-  - assets/javascripts/chatbot.js
+  - assets/javascripts/self-love-guide.js
 
 nav:
   - Home: index.md
