@@ -1,80 +1,75 @@
 ---
-title: The Proof
-description: Evidence that reality is structured toward integration
+title: The Evidence
+description: Why this isn't naive optimism
 ---
 
-# The Proof
+# The Evidence
 
-**Reality is shaped toward integration. We experience integration as good. This is not faith—this is fact.**
-
----
-
-## Choose Your Depth
-
-| Path | For | Time |
-|------|-----|------|
-| [The Simple Proof](simple.md) | Everyone | 5 min |
-| [Full Evidence](evidence.md) | Curious minds | 20 min |
-| [Academic Proof](academic.md) | Researchers | 1 hour |
+**Three levels of depth. Choose yours.**
 
 ---
 
-## The Core Argument
+## Quick Version (5 minutes)
 
-### Three Facts
+[**The Simple Proof →**](simple.md)
 
-**Fact 1:** Reality is structured so that complex things emerge when simple things cooperate.
-- Atoms → molecules → cells → organisms → societies → consciousness
+Three facts. One conclusion. No jargon.
 
-**Fact 2:** Humans die without connection.
-- 2.2 million people studied: social isolation increases mortality by 32%
+- Cooperation creates complexity (physics)
+- Humans die without connection (2.2M people studied)
+- We experience connection as good (universal)
 
-**Fact 3:** We experience connection as good.
-- Love feels good. Belonging feels good. This is universal across all cultures.
-
-### One Conclusion
-
-**Reality is structured so that what helps us survive (connection) is what we experience as good (love).**
-
-**The universe is shaped like optimism.**
+**Therefore:** Reality is structured toward what we experience as love.
 
 ---
 
-## Evidence Standards
+## Full Version (20 minutes)
 
-Every claim on this site is:
+[**Complete Evidence →**](evidence.md)
 
-- ✅ Grounded in peer-reviewed research
-- ✅ Rated for confidence (★ to ★★★★★)
-- ✅ Includes falsification criteria
-- ✅ Links to primary sources
+All the research. All the citations. All the mechanisms.
 
-| Rating | Meaning |
-|--------|---------|
-| ★★★★★ | Established - replicated, peer-reviewed |
-| ★★★★☆ | Strong - replicated, minor gaps |
-| ★★★☆☆ | Promising - awaiting replication |
-| ★★☆☆☆ | Preliminary - single study |
-| ★☆☆☆☆ | Speculative - theoretical only |
+- Meta-analyses and sample sizes
+- Biological pathways (oxytocin, cortisol, vagal tone)
+- Cross-cultural validation
+- Falsification criteria
 
 ---
 
-## Key Sources
+## Academic Version (1+ hour)
 
-| Claim | Source | Sample Size |
-|-------|--------|-------------|
-| Social connection reduces mortality | Wang et al. 2023 | 2.2 million |
-| Love is universal | Jankowiak & Fischer 1992 | 166 cultures |
-| Religious community reduces suicide | VanderWeele et al. 2016 | 89,708 women |
+[**Academic Proof →**](academic.md)
 
----
+The complete philosophical argument with full citations.
 
-## Go Deeper
-
-- [Philosophy](../philosophy/index.md) — The philosophical foundations
-- [Claims](../claims/index.md) — Each claim with full citations
-- [Evidence](../evidence/index.md) — Biological mechanisms
+- Formal logical structure
+- Peer-reviewed sources
+- Counter-arguments addressed
+- Research methodology
 
 ---
 
-*"The universe is shaped like optimism. 2.2 million people prove it. QED."* ✨
+## The Core Claims
+
+| Claim | Evidence | Rating |
+|-------|----------|--------|
+| [Integration creates complexity](../claims/01-integration-creates-complexity.md) | Physics, chemistry, biology | ★★★★★ |
+| [Social connection reduces mortality](../claims/02-social-connection-reduces-mortality.md) | 2.2M people, meta-analysis | ★★★★★ |
+| [Love is universal](../claims/03-love-is-universal.md) | 166 cultures studied | ★★★★★ |
+| [Alignment enables flourishing](../claims/04-alignment-enables-flourishing.md) | Health outcomes research | ★★★★☆ |
+
+---
+
+## What This Proves
+
+**Not:** The universe loves us  
+**Not:** Everything happens for a reason  
+**Not:** Just think positive
+
+**But:** Reality has a structure. That structure favors integration. We experience integration as love. Aligning with this structure helps us flourish.
+
+**This is observation, not faith.**
+
+---
+
+[Start with the Simple Proof →](simple.md)

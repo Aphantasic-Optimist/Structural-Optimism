@@ -1,168 +1,163 @@
 ---
 title: Structural Optimism
-description: You are allowed to love. Here's why that's not naive.
+description: Phone down. Eyes up. Smile.
 ---
 
-# You Are Allowed to Love
+# Phone Down. Eyes Up. Smile.
 
-**Flawed people loving flawed people is the only kind of love that exists.**
-
-**Understanding why love works doesn't make it less real.**
-
-**Refusing love until you're "good enough" helps no one.**
+**That's it. That's the whole revolution.**
 
 ---
 
-## The Permission You're Looking For
+## Try It Now
 
-You came here with a question, even if you didn't know it:
+<div class="try-it-now" markdown>
 
-*"Am I allowed to be happy? To love? To hope? Despite everything I know about myself, about the world, about how things fall apart?"*
+**Right now. Before you scroll further.**
 
-**Yes.**
+1. Put your phone face-down (or in your pocket)
+2. Look at another human being nearby
+3. Smile
 
-Not because ignorance is bliss. Not because you've earned it. Not because you've found a loophole.
+**No one nearby?** Look in a mirror. Smile at yourself. You count too.
 
-**Because love is how reality works.**
+**Done?** Notice how that felt.
 
----
+That feeling is what 2.2 million people in peer-reviewed studies experienced. That's what reduces mortality by 50%. That's what every wisdom tradition has been trying to tell us.
 
-## This Is Not Naive
-
-We're not asking you to ignore suffering, pretend evil doesn't exist, or believe everything happens for a reason.
-
-We're showing you something simpler:
-
-- **Reality is structured toward integration.** Atoms form molecules. Molecules form cells. Cells form you. You form relationships. This is physics, not faith.
-
-- **Connection keeps us alive.** 2.2 million people studied: social connection reduces mortality by 50%. This is medicine, not metaphor.
-
-- **Love is universal.** Found in 166 of 166 cultures studied. This is anthropology, not assumption.
-
-**The universe is shaped like optimism.** Not because it cares about you—but because integration is how complexity emerges, and you experience integration as love.
-
----
-
-## Choose How Deep You Want to Go
-
-| If you need... | Start here | Time |
-|----------------|------------|------|
-| Permission to hope | [The Simple Proof](proof/simple.md) | 5 min |
-| Evidence to trust | [Full Evidence](proof/evidence.md) | 20 min |
-| Rigor to believe | [Academic Proof](proof/academic.md) | 1 hour |
-
----
-
-## The Core Truth
-
-<div class="claims-grid" markdown>
-
-<div class="claim-card" markdown>
-### [Connection Keeps Us Alive](claims/02-social-connection-reduces-mortality.md)
-
-**★★★★★ Established** | 50% increased survival with strong social ties. 2.2 million people. Peer-reviewed.
-</div>
-
-<div class="claim-card" markdown>
-### [Love is Universal](claims/03-love-is-universal.md)
-
-**★★★★★ Established** | Found in every culture ever studied. 166 of 166.
-</div>
-
-<div class="claim-card" markdown>
-### [Integration Creates Everything](claims/01-integration-creates-complexity.md)
-
-**★★★★☆ Strong** | All complexity emerges through cooperation. Atoms to consciousness.
-</div>
-
-<div class="claim-card" markdown>
-### [Alignment Enables Flourishing](claims/04-alignment-enables-flourishing.md)
-
-**★★★★☆ Strong** | When you align with integration, you flourish. This is observable.
-</div>
+**You just aligned with reality's structure.**
 
 </div>
 
 ---
 
-## What About My Flaws?
+## The 30-Second Version
 
-You're not disqualified.
+The algorithms want your eyes on a screen.
 
-The research doesn't show that *perfect* people benefit from connection. It shows that *people* do. Flawed, struggling, doubting people. Like you. Like everyone.
+Your biology wants your eyes on each other.
 
-**Knowing this doesn't give you an unfair advantage.** It gives you a responsibility: to love anyway, to connect despite fear, to choose integration even when you feel unworthy.
+**The science is clear:**
 
-The alternative—waiting until you're "good enough"—is a trap. No one has ever been good enough. Love happens between imperfect people or it doesn't happen at all.
+- 2.2 million people studied: Social connection reduces mortality by 50%
+- 166 cultures examined: Love is universal in every single one
+- Nonviolent movements with 3.5% participation: 100% success rate
+
+The devices in our pockets extract our attention and sell it. They profit from division.
+
+**The antidote is ancient and free:**
+
+Put the phone down. Look someone in the eyes. Smile.
 
 ---
 
-## Explore the Evidence
+## A Story
 
-The knowledge graph below shows how our claims connect to evidence. Every node is clickable. Every claim is falsifiable. We show our work.
+A man sat alone in a coffee shop, scrolling. He'd been there an hour. Hadn't looked up once.
 
-<div class="graph-controls">
-  <button onclick="location.reload()">Reset View</button>
+An older woman at the next table caught his eye when he finally glanced up to stretch. She smiled.
+
+He smiled back.
+
+That was it. No conversation. No exchange of numbers. Just two humans acknowledging each other's existence.
+
+He put his phone away. Ordered another coffee. Watched people come and go. Smiled at a few more.
+
+When he left, he felt different. Not transformed. Just... less alone.
+
+**That's the revolution.** Not dramatic. Not heroic. Just human.
+
+---
+
+## Why This Works
+
+| What They Sell | What You Need |
+|----------------|---------------|
+| Engagement | Connection |
+| Stimulation | Meaning |
+| Convenience | Agency |
+| Followers | Friends |
+
+**Engagement ≠ Connection.** Scrolling is not relating. Likes are not love.
+
+Gandhi understood this. He didn't explain British economic exploitation in lectures. He picked up salt. Everyone understood.
+
+**Phone down. Eyes up. Smile.** Everyone understands.
+
+---
+
+## Choose Your Path
+
+<div class="path-grid" markdown>
+
+<div class="path-card" markdown>
+### 🎯 Just Practice
+[Start the Daily Practice →](practical/daily-practice.md)
+
+One minute. Every day.
 </div>
 
-<div id="graphiti-container"></div>
+<div class="path-card" markdown>
+### 🔬 See the Evidence
+[The Simple Proof →](proof/simple.md)
 
-<details>
-<summary>How to read the graph</summary>
+Three facts. Five minutes.
+</div>
 
-- **Drag** nodes to rearrange
-- **Scroll** to zoom
-- **Hover** for summaries
-- **Click** to explore
+</div>
 
-**Colors = Confidence:**
-- 🟢 Green: ★★★★★ Established
-- 🔵 Blue: ★★★★☆ Strong  
-- 🟠 Orange: ★★★☆☆ Promising
-- 🔴 Red: ★★☆☆☆ Preliminary
-- 🟣 Purple: ★☆☆☆☆ Speculative
+<div class="path-grid" markdown>
 
-</details>
+<div class="path-card" markdown>
+### 🌍 Go Deeper
+[Why This Matters →](problem/index.md)
 
----
+The extraction economy. The integration alternative.
+</div>
 
-## Go Deeper
+<div class="path-card" markdown>
+### ⚡ Join the Revolution
+[The Integration Revolution →](solutions/integration-revolution.md)
 
-**Philosophy:** Why this isn't naive
-- [Cynical Optimism](philosophy/cynical-optimism.md) — Eyes wide open, heart still full
-- [Absurdist Optimism](philosophy/absurdist-optimism.md) — Camus was right, and so is hope
-- [The Universe is Shaped Like Optimism](philosophy/universe-shaped-like-optimism.md) — The full synthesis
+How we win. Without violence.
+</div>
 
-**Practical:** How to live this
-- [Integration Without Dissolution](practical/integration-without-dissolution.md) — Join WE without losing ME
-- [Give Humanity Its "We" Back](practical/give-humanity-we-back.md) — What we can do together
-
-**Evidence:** The research
-- [Methodology](academic/methodology.md) — How we verify claims
-- [All Claims](claims/index.md) — The full evidence base
+</div>
 
 ---
 
-## Get Involved
+## The Deeper Truth
 
-Found evidence? Spotted an error? Have questions?
+This isn't about hating technology. It's about **alignment**.
 
-- [Submit evidence](contribute/evidence.md)
-- [Propose corrections](contribute/corrections.md)
-- [Request research](contribute/research-requests.md)
+Reality is structured toward integration:
+- Atoms form molecules
+- Molecules form cells  
+- Cells form you
+- You form relationships
 
-We correct errors immediately. Truth matters more than being right.
+**Integration creates complexity. We experience integration as love.**
+
+The current system extracts. It pulls us apart to profit from the pieces.
+
+**Extraction depletes. Integration flourishes.**
+
+When you put the phone down and look someone in the eyes, you're not being nostalgic. You're aligning with physics.
 
 ---
 
-*You don't have to be perfect to love.*
+## One Last Thing
 
-*You don't have to understand everything to hope.*
+You don't have to be perfect.
 
-*You just have to choose.*
+You don't have to understand everything.
+
+You don't have to fix the whole system.
+
+**You just have to choose.**
+
+Phone down. Eyes up. Smile.
+
+**The universe is shaped like optimism. Align with it.**
 
 ✨
-
-<link rel="stylesheet" href="assets/stylesheets/graphiti-graph.css">
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="assets/javascripts/graphiti-viewer.js"></script>

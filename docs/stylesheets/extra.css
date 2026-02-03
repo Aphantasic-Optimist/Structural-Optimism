@@ -378,3 +378,351 @@
     transform: none;
   }
 }
+
+
+/* ============================================
+   Homepage - Phone Down Eyes Up Smile
+   ============================================ */
+
+/* Practice Card - The Core Message */
+.practice-card {
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-accent-fg-color) 100%);
+  color: white;
+  padding: 2em;
+  border-radius: 12px;
+  margin: 2em 0;
+  text-align: center;
+}
+
+.practice-card h3 {
+  color: white;
+  margin: 0.5em 0;
+  font-size: 1.4em;
+}
+
+.practice-card p {
+  margin: 0.3em 0;
+  opacity: 0.9;
+}
+
+[data-md-color-scheme="slate"] .practice-card {
+  background: linear-gradient(135deg, #3f51b5 0%, #7c4dff 100%);
+}
+
+/* Path Grid - Choose Your Journey */
+.path-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.path-card {
+  padding: 1.5em;
+  border: 2px solid var(--md-primary-fg-color);
+  border-radius: 12px;
+  background-color: var(--md-default-bg-color);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.path-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  border-color: var(--md-accent-fg-color);
+}
+
+.path-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-size: 1.2em;
+  color: var(--md-primary-fg-color);
+}
+
+.path-card a {
+  color: var(--md-accent-fg-color);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.path-card a:hover {
+  text-decoration: underline;
+}
+
+.path-card p {
+  margin: 0.5em 0 0 0;
+  font-size: 0.9em;
+  opacity: 0.8;
+}
+
+/* Responsive */
+@media screen and (max-width: 600px) {
+  .path-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .practice-card {
+    padding: 1.5em;
+  }
+  
+  .practice-card h3 {
+    font-size: 1.2em;
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .path-card {
+    transition: none;
+  }
+  
+  .path-card:hover {
+    transform: none;
+  }
+}
+
+/* ============================================
+   Problem Pages - Extraction Economy Theme
+   ============================================ */
+
+/* Warning callout for extraction content */
+.extraction-warning {
+  background-color: rgba(244, 67, 54, 0.1);
+  border-left: 4px solid #f44336;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 4px;
+}
+
+.extraction-warning h4 {
+  margin-top: 0;
+  color: #c62828;
+}
+
+/* Solution highlight */
+.solution-highlight {
+  background-color: rgba(76, 175, 80, 0.1);
+  border-left: 4px solid #4caf50;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 4px;
+}
+
+.solution-highlight h4 {
+  margin-top: 0;
+  color: #2e7d32;
+}
+
+/* ============================================
+   Typography Enhancements
+   ============================================ */
+
+/* Larger, more impactful headings on homepage */
+.md-content h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+/* Blockquote styling for key messages */
+blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding-left: 1em;
+  margin: 1.5em 0;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* Emphasis for key phrases */
+strong {
+  color: var(--md-primary-fg-color);
+}
+
+[data-md-color-scheme="slate"] strong {
+  color: var(--md-accent-fg-color);
+}
+
+
+
+/* ============================================
+   Try It Now - Interactive Call to Action
+   ============================================ */
+
+.try-it-now {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2.5em;
+  border-radius: 16px;
+  margin: 2em 0;
+  text-align: center;
+  box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.try-it-now::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+  animation: shimmer 3s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0%, 100% { transform: translate(0, 0); }
+  50% { transform: translate(10%, 10%); }
+}
+
+.try-it-now p {
+  color: white;
+  margin: 1rem 0;
+  position: relative;
+  z-index: 1;
+}
+
+.try-it-now strong {
+  color: white;
+}
+
+.try-it-now ol {
+  text-align: left;
+  display: inline-block;
+  margin: 1.5rem auto;
+  position: relative;
+  z-index: 1;
+}
+
+.try-it-now ol li {
+  margin: 0.75rem 0;
+  font-size: 1.15rem;
+  font-weight: 500;
+}
+
+[data-md-color-scheme="slate"] .try-it-now {
+  background: linear-gradient(135deg, #5c6bc0 0%, #7e57c2 100%);
+}
+
+/* Hero styling for main message */
+.md-content > .md-content__inner > h1:first-of-type {
+  font-size: 2.8rem !important;
+  text-align: center;
+  margin-bottom: 0.3rem !important;
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-accent-fg-color) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Subtitle styling */
+.md-content > .md-content__inner > h1:first-of-type + p {
+  text-align: center;
+  font-size: 1.4rem;
+  opacity: 0.85;
+  margin-bottom: 2rem;
+}
+
+/* Story section styling */
+.md-content h2 + p + p + p + p + p + p {
+  font-style: italic;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .try-it-now::before {
+    animation: none;
+  }
+}
+
+/* Mobile responsive */
+@media screen and (max-width: 600px) {
+  .try-it-now {
+    padding: 1.5em;
+  }
+  
+  .try-it-now ol li {
+    font-size: 1rem;
+  }
+  
+  .md-content > .md-content__inner > h1:first-of-type {
+    font-size: 2rem !important;
+  }
+}
+
+
+/* ============================================
+   Share Card - Printable/Shareable Format
+   ============================================ */
+
+.share-card {
+  background: white;
+  color: #1a1a2e;
+  padding: 2.5em;
+  border-radius: 16px;
+  margin: 2em auto;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  border: 3px solid #667eea;
+}
+
+.share-card h2 {
+  color: #667eea;
+  font-size: 1.8em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.share-card p {
+  color: #1a1a2e;
+  margin: 0.5em 0;
+}
+
+.share-card strong {
+  color: #1a1a2e;
+}
+
+.share-card hr {
+  border: none;
+  border-top: 2px solid #eee;
+  margin: 1.5em 0;
+}
+
+.share-card ol {
+  text-align: left;
+  display: inline-block;
+  margin: 1em auto;
+}
+
+.share-card ol li {
+  margin: 0.5em 0;
+  font-weight: 500;
+}
+
+.share-card em {
+  color: #667eea;
+  font-size: 0.9em;
+}
+
+/* Dark mode override for share card - keep it light for printing */
+[data-md-color-scheme="slate"] .share-card {
+  background: white;
+  color: #1a1a2e;
+}
+
+[data-md-color-scheme="slate"] .share-card h2,
+[data-md-color-scheme="slate"] .share-card p,
+[data-md-color-scheme="slate"] .share-card strong {
+  color: #1a1a2e;
+}
+
+/* Print styles for share card */
+@media print {
+  .share-card {
+    box-shadow: none;
+    border: 2px solid #000;
+    page-break-inside: avoid;
+  }
+}

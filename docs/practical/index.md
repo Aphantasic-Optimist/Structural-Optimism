@@ -1,131 +1,148 @@
 ---
-title: Practical Guides
-description: How to apply structural optimism in daily life
+title: Practice
+description: How to live this
 ---
 
-# Practical Guides
+# Practice
 
-**Theory is nothing without practice. Here's how to live it.**
+**Philosophy without practice is just words. Here's how to live it.**
 
 ---
 
 ## The Core Practice
 
-Structural optimism isn't just philosophy—it's a way of living. These guides help you apply the insights to your actual life.
+**Phone down. Eyes up. Smile.**
+
+That's it. Start there. Everything else builds on this.
+
+[The Daily Practice →](daily-practice.md)
 
 ---
 
-## Choose Your Guide
+## Why Practice Matters
 
-| Guide | For | Time |
-|-------|-----|------|
-| [How to Give Humanity Its "We" Back](give-humanity-we-back.md) | Everyone | 30 min |
-| [Integration Without Dissolution](integration-without-dissolution.md) | Those exploring connection | 25 min |
-| [ME to WE Integration](me-to-we.md) | Deep practitioners | 20 min |
-| [How We Lost Free Will](how-we-lost-free-will.md) | History enthusiasts | 40 min |
-| [Rapid Self-Wisdom](rapid-self-wisdom.md) | Quick reference | 5 min |
+Gandhi didn't explain British economic exploitation in lectures.
 
----
+He picked up salt. He spun thread. He wore homespun cloth.
 
-## The Essential Practice
+**The action WAS the message.** You didn't need to understand the theory. Doing it made you part of the movement.
 
-### Step 1: Love Yourself First (ME)
+**Structural optimism works the same way.**
 
-Before you can integrate healthily, you need a stable self:
+You don't need to understand the neuroscience of connection. You don't need to read the meta-analyses. You don't need to grasp the philosophy.
 
-- Know your boundaries
-- Honor your needs
-- Trust your experience
-- Develop your identity
+**You just need to:**
+- Put the phone down
+- Look someone in the eyes
+- Smile
 
-**Without self-love, integration becomes dissolution.**
-
-### Step 2: Then Integrate (WE)
-
-Once you have a stable ME, you can join WE:
-
-- Connect with others
-- Build community
-- Contribute to something larger
-- Experience collective flourishing
-
-### Step 3: Oscillate (ME ↔ WE)
-
-Health is not static—it's rhythmic:
-
-- Sometimes you need more ME (solitude, boundaries, rest)
-- Sometimes you need more WE (connection, community, contribution)
-- The oscillation IS the practice
-- Both/and, not either/or
+**The understanding comes through the doing.**
 
 ---
 
-## Quick Actions
+## The Practices
 
-### This Week
+### Foundation: The Daily Practice
 
-1. **Reach out to one person** — Call, visit, or meet in person
-2. **Say yes to one invitation** — Even if tired
-3. **Spend time alone intentionally** — Not avoiding, but choosing
-4. **Set one boundary** — Practice saying no
+One minute. Once a day. Phone down. Eyes up. Smile.
 
-### This Month
+[Start here →](daily-practice.md)
 
-1. **Create a ritual of connection** — Weekly, biweekly, or monthly
-2. **Join or create a community** — Find your people
-3. **Identify your preferences** — What do YOU want?
-4. **Practice self-compassion** — Talk to yourself like a friend
+### Depth: Integration Without Dissolution
 
-### This Year
+How to join "we" without losing "I." The balance that makes connection sustainable.
 
-1. **Build sustainable rhythms** — ME ↔ WE oscillation
-2. **Deepen relationships** — Move from surface to depth
-3. **Contribute to something larger** — Find your purpose
-4. **Maintain boundaries** — Protect what matters
+[Go deeper →](integration-without-dissolution.md)
 
----
+### Community: Give Humanity Its "We" Back
 
-## Warning Signs
+What we can do together. How to rebuild connection at scale.
 
-### You Need More ME If:
+[Build together →](give-humanity-we-back.md)
 
-- You feel lost in the group
-- You don't know what YOU think anymore
-- You're exhausted from constant connection
-- You've lost touch with your interests
-- You can't say no
+### Self: Rapid Self-Wisdom
 
-### You Need More WE If:
+How to know yourself quickly. The foundation for authentic connection.
 
-- You feel isolated and alone
-- You're carrying everything yourself
-- You have no one to share with
-- You feel disconnected from humanity
-- You're stuck in your head
+[Know yourself →](rapid-self-wisdom.md)
+
+### Balance: ME to WE Integration
+
+The dance between individual and collective. Neither sacrifice nor isolation.
+
+[Find balance →](me-to-we.md)
 
 ---
 
-## The Promise
+## The Progression
 
-If you practice this:
+**Week 1:** Daily practice (phone down, eyes up, smile—once a day)
 
-- You'll have individuality without isolation
-- You'll have community without conformity
-- You'll have meaning without cosmic justification
-- You'll have connection without losing yourself
+**Week 2-4:** Deepen the practice (three times a day, phone-free meals)
 
-**ME AND WE. Always both. Separate together.**
+**Month 2:** Extend to relationships (real conversations, presence practice)
 
----
+**Month 3+:** Extend to community (create gatherings, lower barriers, build bridges)
 
-## Go Deeper
-
-- [The Simple Proof](../proof/simple.md) — Why this works
-- [Philosophy](../philosophy/index.md) — The foundations
-- [Safety Guide](../safety/integration-guide.md) — Protecting yourself
+**Ongoing:** Integration without dissolution (maintain self while connecting)
 
 ---
 
-*"Don't worry, be happy. But also: Love yourself first."*
+## Common Questions
 
-✨
+**"I don't have time."**
+
+The daily practice takes one minute. You have one minute.
+
+**"I'm an introvert."**
+
+Quality over quantity. One genuine moment of connection is worth more than hours of shallow interaction.
+
+**"People are terrible."**
+
+Some are. Most aren't. Negativity bias makes us remember bad interactions. Most humans are kind when given the chance.
+
+**"This seems too simple."**
+
+Simple isn't the same as easy. And simple scales. Complex solutions don't spread. "Phone down, eyes up, smile" can spread to everyone.
+
+---
+
+## The Evidence
+
+You don't need to believe this. You can test it.
+
+- Do the daily practice for one week
+- Notice how it feels
+- Compare to a week without it
+
+**The evidence is in your experience.**
+
+But if you want external validation: 2.2 million people in peer-reviewed studies. Social connection reduces mortality by 50%. This is established science.
+
+[See the evidence →](../proof/simple.md)
+
+---
+
+## Start Now
+
+Not tomorrow. Not after you finish reading. Now.
+
+Put your phone down.
+
+Look at another human being.
+
+Smile.
+
+**You just practiced structural optimism.**
+
+**Do it again tomorrow.**
+
+---
+
+*Practice is how philosophy becomes life.*
+
+*Phone down. Eyes up. Smile.*
+
+*That's the practice.* ✨
+

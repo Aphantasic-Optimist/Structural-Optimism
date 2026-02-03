@@ -1,5 +1,5 @@
 site_name: Structural Optimism
-site_description: An evidence-based philosophical proof that reality is structured toward integration
+site_description: Phone down. Eyes up. Smile. The universe is shaped like optimism.
 site_author: Structural Optimist
 site_url: https://aphantasic-optimist.github.io/Structural-Optimism/
 
@@ -24,36 +24,26 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.instant      # Fast page loads without full reload
-    - navigation.tracking     # URL updates with scroll
-    - navigation.tabs         # Top-level tabs
-    - navigation.sections     # Collapsible sections
-    - navigation.expand       # Expand all sections
-    - navigation.top          # Back to top button
-    - search.suggest          # Search suggestions
-    - search.highlight        # Highlight search terms
-    - content.code.copy       # Copy code button
-    - content.tabs.link       # Link tabs across pages
-  # Logo and favicon will be added when images are created with proper alt text
-  # logo: assets/images/logo.png
-  # favicon: assets/images/favicon.png
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
 
 plugins:
-  - search                    # Built-in search
-  # - obsidian-interactive-graph  # Disabled - using custom Graphiti graph instead
-  - git-revision-date-localized:  # Auto "last updated" from git
+  - search
+  - git-revision-date-localized:
       enable_creation_date: true
       type: date
       fallback_to_build_date: false
       enable_git_follow: false
-      strict: false  # Log as INFO instead of WARNING when docs/ is not git root
-  - tags                      # Tag support
-  # - social:                   # Social cards for sharing (disabled - requires Cairo)
-  #     cards: true
-  #     cards_layout_options:
-  #       background_color: "#3f51b5"  # Indigo primary color
-  #       color: "#ffffff"
-  - minify:                   # Minify HTML/CSS/JS
+      strict: false
+  - tags
+  - minify:
       minify_html: true
       minify_js: true
       minify_css: true
@@ -62,19 +52,19 @@ plugins:
       cache_safe: true
 
 markdown_extensions:
-  - admonition                # Callout boxes
-  - pymdownx.details          # Collapsible admonitions
-  - pymdownx.superfences      # Code blocks
-  - pymdownx.tabbed:          # Tabbed content
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.emoji:           # Emoji support
+  - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - attr_list                 # Add attributes to elements
-  - md_in_html                # Markdown in HTML
-  - footnotes                 # Footnote support
-  - tables                    # Table support
-  - toc:                      # Table of contents
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
       permalink: true
 
 extra:
@@ -82,22 +72,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/structuraloptimist/structural-optimism
       name: GitHub Repository
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/structuraloptimism
-      name: Twitter/X
-    - icon: fontawesome/brands/mastodon
-      link: https://mastodon.social/@structuraloptimism
-      name: Mastodon
-  
-  # Open Graph metadata
-  og_image: assets/images/social-card.png
-  og_image_width: 1200
-  og_image_height: 630
-  
-  # Twitter Card metadata
-  twitter_card: summary_large_image
-  twitter_site: "@structuraloptimism"
-  twitter_creator: "@structuraloptimism"
 
 extra_css:
   - stylesheets/extra.css
@@ -106,76 +80,15 @@ extra_css:
 extra_javascript:
   - assets/javascripts/chatbot.js
 
-# Note: D3.js and graph assets are loaded directly in graph.md page
-
 nav:
   - Home: index.md
-  - Proof:
-      - proof/index.md
-      - Simple (5 min): proof/simple.md
-      - Evidence (20 min): proof/evidence.md
-      - Academic (1 hour): proof/academic.md
-  - Claims:
-      - claims/index.md
-      - Integration Creates Complexity: claims/01-integration-creates-complexity.md
-      - Social Connection Reduces Mortality: claims/02-social-connection-reduces-mortality.md
-      - Love is Universal: claims/03-love-is-universal.md
-      - Alignment Enables Flourishing: claims/04-alignment-enables-flourishing.md
-  - Philosophy:
-      - philosophy/index.md
-      - The Universe is Shaped Like Optimism: philosophy/universe-shaped-like-optimism.md
-      - Absurdist Optimism: philosophy/absurdist-optimism.md
-      - Cynical Optimism: philosophy/cynical-optimism.md
-      - Collectivism and Consciousness: philosophy/collectivism-consciousness.md
-  - Practical:
-      - practical/index.md
-      - Give Humanity Its "We" Back: practical/give-humanity-we-back.md
-      - Integration Without Dissolution: practical/integration-without-dissolution.md
-      - ME to WE Integration: practical/me-to-we.md
-      - How We Lost Free Will: practical/how-we-lost-free-will.md
-      - Rapid Self-Wisdom: practical/rapid-self-wisdom.md
-  - Analysis:
-      - analysis/index.md
-      - Why Algorithms Almost Killed Us: analysis/algorithms.md
-      - Understanding Doomerism: analysis/doomerism.md
-  - Evidence:
-      - evidence/index.md
-      - Biological Pathways: evidence/mechanisms/biological-pathways.md
-  - Explorations:
-      - explorations/index.md
-      - L0-L5 Framework: explorations/l0-l5-framework.md
-      - Quantum-Classical Interface: explorations/quantum-classical-interface.md
-      - Emotional Integration: explorations/emotional-integration-theory.md
-  - Structural Instability:
-      - instability/index.md
-      - Consciousness Extraction Economy: instability/consciousness-extraction-economy.md
-  - Solutions:
-      - solutions/index.md
-      - Distributed Consciousness Model: solutions/distributed-consciousness-model.md
-      - Preventing WALL-E: solutions/preventing-wall-e.md
-      - Economic Transition: solutions/economic-transition.md
-      - What Must Remain Human: solutions/what-must-remain-human.md
-  - Academic:
-      - academic/index.md
-      - Methodology: academic/methodology.md
-      - Peer Review: academic/peer-review.md
-      - Gaps: academic/gaps/open-questions.md
-      - Meta:
-          - academic/meta/confidence-ratings.md
-          - academic/meta/falsification-criteria.md
-  - Contribute:
-      - contribute/index.md
-      - Submit Evidence: contribute/evidence.md
-      - Propose Corrections: contribute/corrections.md
-      - Request Research: contribute/research-requests.md
-      - Translations: contribute/translations.md
-      - Contributing Guide: CONTRIBUTING.md
-  - Safety:
-      - safety/index.md
-      - Integration Guide: safety/integration-guide.md
-  - About:
-      - about/index.md
-      - about/author.md
-      - about/funding.md
-      - CODE_OF_CONDUCT.md
-  - Changelog: changelog.md
+  - Practice: practical/daily-practice.md
+  - Why: proof/simple.md
+  - Go Deeper:
+      - The Problem: problem/index.md
+      - The Evidence: proof/index.md
+      - Solutions: solutions/index.md
+      - The Integration Revolution: solutions/integration-revolution.md
+      - Philosophy: philosophy/index.md
+  - About: about/index.md
+

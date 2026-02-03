@@ -1,8 +1,8 @@
 /**
  * Structural Optimism Chatbot
  * 
- * A keyword-based guide that helps users navigate structural optimism content.
- * This is a proof of concept: useful guidance without AI, just good algorithms.
+ * A keyword-based guide that helps users navigate structural optimism content
+ * AND prove the message to themselves through guided self-discovery.
  * 
  * Philosophy: Simple systems can be profoundly helpful when designed with care.
  */
@@ -10,46 +10,46 @@
 (function() {
   'use strict';
 
-  // Expanded knowledge base - maps keywords to responses and links
-  const knowledgeBase = {
-    // === CORE CONCEPTS ===
-    'structural optimism': {
-      response: "Structural optimism recognizes that reality is structured toward integration. Not naive optimism (everything will be fine) or nihilism (nothing matters), but the observation that the universe's architecture favors connection over isolation, cooperation over fragmentation.",
-      links: [
-        { text: 'The Simple Proof (5 min)', url: 'proof/simple/' },
-        { text: 'Full Evidence (20 min)', url: 'proof/evidence/' }
+  // ============================================
+  // PROVE IT YOURSELF - Guided Self-Discovery
+  // ============================================
+  
+  const proveItExercises = {
+    'prove': {
+      response: "I can guide you through exercises to prove this to yourself. Which would you like to try?",
+      links: [],
+      options: [
+        { text: "🧪 The Connection Experiment", query: "experiment connection" },
+        { text: "📊 Check Your Own Data", query: "experiment data" },
+        { text: "🔬 The Isolation Test", query: "experiment isolation" },
+        { text: "💭 The Memory Exercise", query: "experiment memory" }
       ]
     },
-    'what is this': {
-      response: "This is Structural Optimism - an evidence-based philosophical framework proving that reality is structured toward integration. Connection helps us survive (2.2M people studied). We experience connection as good (love). The universe rewards what helps us with what feels good.",
+    
+    'experiment connection': {
+      response: "**The Connection Experiment** (2 minutes)\n\nRight now:\n1. Think of someone you genuinely care about\n2. Picture their face clearly\n3. Remember a moment you shared\n4. Notice what happens in your body\n\nDid you feel something? Warmth? A slight smile? That's your biology responding to connection—even imagined connection.\n\nNow imagine: if just *thinking* about connection creates that response, what does *actual* connection do?\n\n**That's what 2.2 million people proved.** Your body just confirmed it.",
       links: [
-        { text: 'Start with the Simple Proof', url: 'proof/simple/' },
-        { text: 'Explore the Evidence', url: 'proof/evidence/' }
+        { text: 'See the research', url: 'proof/simple/' }
       ]
     },
-    'integration': {
-      response: "Integration is how separate things combine to create something more complex. Atoms → molecules → cells → organisms → societies. This is reality's fundamental pattern. Complexity emerges through cooperative integration, not competition.",
+    
+    'experiment data': {
+      response: "**Check Your Own Data** (3 minutes)\n\nThink about the last month:\n\n1. **Best moments:** What were your 3 happiest moments?\n   - Were you alone or with others?\n   - Were you on a screen or present?\n\n2. **Worst moments:** What were your 3 hardest moments?\n   - Were you connected or isolated?\n   - Did connection help or would it have helped?\n\n3. **Pattern:** Do you see it?\n\nMost people find: best moments involve connection, worst moments involve isolation or would have been better with support.\n\n**You just ran your own study.** Sample size: 1. But it's YOUR data.",
       links: [
-        { text: 'Integration Creates Complexity', url: 'claims/01-integration-creates-complexity/' },
-        { text: 'L0-L5 Framework', url: 'explorations/l0-l5-framework/' }
+        { text: 'Compare to 2.2 million others', url: 'claims/02-social-connection-reduces-mortality/' }
       ]
     },
-    'love': {
-      response: "Love is how we experience integration. When we connect deeply, we participate in the same process that creates all complexity. This isn't metaphor - love appears in 166 of 166 cultures studied, always described as connection or union.",
+    
+    'experiment isolation': {
+      response: "**The Isolation Test** (1 minute)\n\nImagine this scenario:\n\nYou're told you must spend the next 30 days completely alone. No human contact. No calls. No messages. Just you.\n\nNotice your reaction:\n- Did your chest tighten?\n- Did you feel resistance?\n- Did something feel *wrong*?\n\nThat reaction isn't weakness. It's your biology telling you the truth: **isolation is a threat.**\n\nYour body knows what the research confirms: connection isn't optional. It's survival.\n\n**You just felt the evidence.**",
       links: [
-        { text: 'Love is Universal', url: 'claims/03-love-is-universal/' },
-        { text: 'Emotional Integration', url: 'explorations/emotional-integration-theory/' }
+        { text: 'Why isolation hurts', url: 'problem/extraction-economy/' }
       ]
     },
-    'me and we': {
-      response: "ME AND WE is our core principle: integration without dissolution. You don't lose yourself in connection - you become more yourself through it. Healthy integration preserves individual identity while creating something greater together.",
-      links: [
-        { text: 'Integration Guide', url: 'safety/integration-guide/' },
-        { text: 'What Must Remain Human', url: 'solutions/what-must-remain-human/' }
-      ]
-    },
-
-    // === EVIDENCE & PROOF ===
+    
+    'experiment memory': {
+      response: "**The Memory Exercise** (2 minutes)\n\nThink back to a moment when you felt truly alive. Not just happy—*alive*.\n\nGot it? Now answer:\n\n1. Were you alone or with others?\n2. Were you giving or receiving?\n3. Were you connected to something larger than yourself?\n\nFor most people, peak aliveness involves:\n- Connection (to people, nature, or purpose)\n- Contribution (giving, creating, helping)\n- Presence (fully there, not distracted)\n\n**Notice:** None of these require a screen. All of them require integration.\n\nYou just discovered what 166 cultures already knew: love (integration) is universal because it's how we're built.",
+      links: [DENCE & PROOF ===
     'evidence': {
       response: "Every claim is backed by peer-reviewed research. Core evidence: Holt-Lunstad meta-analysis (2.2M people, 50% mortality reduction), Jankowiak & Fischer (love in 166/166 cultures), and studies on religious community and health.",
       links: [
