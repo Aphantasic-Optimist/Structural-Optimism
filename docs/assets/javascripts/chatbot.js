@@ -1,9 +1,7 @@
 /**
  * Structural Optimism Chatbot
  * 
- * A keyword-based guide that helps users navigate structural optimism content
- * AND prove the message to themselves through guided self-discovery.
- * 
+ * A keyword-based guide that helps users navigate structural optimism content.
  * Philosophy: Simple systems can be profoundly helpful when designed with care.
  */
 
@@ -11,21 +9,11 @@
   'use strict';
 
   // ============================================
-  // PROVE IT YOURSELF - Guided Self-Discovery
+  // KNOWLEDGE BASE - All keyword responses
   // ============================================
   
-  const proveItExercises = {
-    'prove': {
-      response: "I can guide you through exercises to prove this to yourself. Which would you like to try?",
-      links: [],
-      options: [
-        { text: "🧪 The Connection Experiment", query: "experiment connection" },
-        { text: "📊 Check Your Own Data", query: "experiment data" },
-        { text: "🔬 The Isolation Test", query: "experiment isolation" },
-        { text: "💭 The Memory Exercise", query: "experiment memory" }
-      ]
-    },
-    
+  const knowledgeBase = {
+    // === PROVE IT YOURSELF - Guided Self-Discovery ===
     'experiment connection': {
       response: "**The Connection Experiment** (2 minutes)\n\nRight now:\n1. Think of someone you genuinely care about\n2. Picture their face clearly\n3. Remember a moment you shared\n4. Notice what happens in your body\n\nDid you feel something? Warmth? A slight smile? That's your biology responding to connection—even imagined connection.\n\nNow imagine: if just *thinking* about connection creates that response, what does *actual* connection do?\n\n**That's what 2.2 million people proved.** Your body just confirmed it.",
       links: [
@@ -49,7 +37,12 @@
     
     'experiment memory': {
       response: "**The Memory Exercise** (2 minutes)\n\nThink back to a moment when you felt truly alive. Not just happy—*alive*.\n\nGot it? Now answer:\n\n1. Were you alone or with others?\n2. Were you giving or receiving?\n3. Were you connected to something larger than yourself?\n\nFor most people, peak aliveness involves:\n- Connection (to people, nature, or purpose)\n- Contribution (giving, creating, helping)\n- Presence (fully there, not distracted)\n\n**Notice:** None of these require a screen. All of them require integration.\n\nYou just discovered what 166 cultures already knew: love (integration) is universal because it's how we're built.",
-      links: [DENCE & PROOF ===
+      links: [
+        { text: 'Love is Universal', url: 'claims/03-love-is-universal/' }
+      ]
+    },
+
+    // === EVIDENCE & PROOF ===
     'evidence': {
       response: "Every claim is backed by peer-reviewed research. Core evidence: Holt-Lunstad meta-analysis (2.2M people, 50% mortality reduction), Jankowiak & Fischer (love in 166/166 cultures), and studies on religious community and health.",
       links: [
