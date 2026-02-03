@@ -1,6 +1,6 @@
 # #3SecondRevolution
 
-<div class="revolution-intro">
+<div class="revolution-intro" markdown>
 **The revolution has no leader. Just the idea spreading itself.**
 </div>
 
@@ -10,7 +10,7 @@
 
 **Phone down.**  
 **Eyes up.**  
-**Smile at someone.**
+**Smile and wave.**
 
 That's it. 3 seconds.
 
@@ -21,11 +21,12 @@ That's it. 3 seconds.
 Did you try it? What happened?
 
 **Post with #3SecondRevolution on:**
-- [Twitter/X](https://twitter.com/search?q=%233SecondRevolution)
-- [Instagram](https://www.instagram.com/explore/tags/3secondrevolution/)
-- [TikTok](https://www.tiktok.com/tag/3secondrevolution)
-- [Reddit](https://www.reddit.com/search/?q=%233SecondRevolution)
-- [LinkedIn](https://www.linkedin.com/search/results/content/?keywords=%233SecondRevolution)
+
+- [Twitter/X](https://twitter.com/search?q=%233SecondRevolution){:target="_blank"}
+- [Instagram](https://www.instagram.com/explore/tags/3secondrevolution/){:target="_blank"}
+- [TikTok](https://www.tiktok.com/tag/3secondrevolution){:target="_blank"}
+- [Reddit](https://www.reddit.com/search/?q=%233SecondRevolution){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/search/results/content/?keywords=%233SecondRevolution){:target="_blank"}
 - Threads, Bluesky, anywhere
 
 **See what others are saying:**  
@@ -62,10 +63,10 @@ This is judo. This is Gandhi. This is real.
 
 ## Your Turn
 
-<div class="try-it-now">
+<div class="try-it-now" markdown>
   <h2>Try It Once</h2>
   <p>That's the whole ask.</p>
-  <p><strong>Phone down. Eyes up. Smile.</strong></p>
+  <p><strong>Phone down. Eyes up. Smile and wave.</strong></p>
   <p>3 seconds. Right now.</p>
 </div>
 

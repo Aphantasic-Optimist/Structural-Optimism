@@ -1,9 +1,9 @@
 ---
 title: Structural Optimism
-description: Phone down. Eyes up. Smile.
+description: Phone down. Eyes up. Smile and wave.
 ---
 
-# Phone Down. Eyes Up. Smile.
+# Phone Down. Eyes Up. Smile and Wave.
 
 **That's it. That's the whole revolution.**
 
@@ -17,8 +17,8 @@ description: Phone down. Eyes up. Smile.
 
 1. Put your phone face-down (or in your pocket)
 2. Look up from the screen
-3. If someone's nearby, make eye contact and smile
-4. If you're alone, look in a mirror and smile at yourself—you count too
+3. If someone's nearby, make eye contact, smile, and wave
+4. If you're alone, look in a mirror, smile, and wave at yourself—you count too
 
 **Done?** Notice how that felt.
 
@@ -121,7 +121,7 @@ When he left, he felt different. Not transformed. Just... less alone.
 
 Gandhi understood this. He didn't explain British economic exploitation in lectures. He picked up salt. Everyone understood.
 
-**Phone down. Eyes up. Smile.** Everyone understands.
+**Phone down. Eyes up. Smile and wave.** Everyone understands.
 
 ---
 
@@ -134,7 +134,7 @@ Gandhi understood this. He didn't explain British economic exploitation in lectu
 **Copy and post anywhere:**
 
 ```
-Phone down. Eyes up. Smile.
+Phone down. Eyes up. Smile and wave.
 
 That's the whole revolution. Try it once.
 
@@ -143,9 +143,9 @@ That's the whole revolution. Try it once.
 structuraloptimism.com
 ```
 
-<button onclick="navigator.clipboard.writeText('Phone down. Eyes up. Smile.\n\nThat\'s the whole revolution. Try it once.\n\n#3SecondRevolution\n\nstructuraloptimism.com'); this.textContent='Copied!';" style="padding: 10px 20px; background: #5c6bc0; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 5px;">Copy Text</button>
+<button onclick="navigator.clipboard.writeText('Phone down. Eyes up. Smile and wave.\n\nThat\'s the whole revolution. Try it once.\n\n#3SecondRevolution\n\nstructuraloptimism.com'); this.textContent='Copied!';" style="padding: 10px 20px; background: #5c6bc0; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 5px;">Copy Text</button>
 
-<a href="https://twitter.com/intent/tweet?text=Phone%20down.%20Eyes%20up.%20Smile.%0A%0AThat%27s%20the%20whole%20revolution.%20Try%20it%20once.%0A%0A%233SecondRevolution%0A%0Astructuraloptimism.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Tweet This</a>
+<a href="https://twitter.com/intent/tweet?text=Phone%20down.%20Eyes%20up.%20Smile%20and%20wave.%0A%0AThat%27s%20the%20whole%20revolution.%20Try%20it%20once.%0A%0A%233SecondRevolution%0A%0Astructuraloptimism.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Tweet This</a>
 
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://aphantasic-optimist.github.io/Structural-Optimism/" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0077B5; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Share on LinkedIn</a>
 
@@ -245,7 +245,7 @@ We've all gotten lost in our screens. That's okay. We were optimizing the only w
 
 Now we know better. Not through shame—through science. Through 2.2 million people proving what every grandmother already knew.
 
-Phone down. Eyes up. Smile.
+Phone down. Eyes up. Smile and wave.
 
 Reach out to someone. A text. A call. A hug. Connection doesn't have to be dramatic. It just has to be real. And it has to be now—not someday, not when you're ready. Your life depends on it.
 
