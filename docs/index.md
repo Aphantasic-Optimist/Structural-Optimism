@@ -134,6 +134,17 @@ How we win. Without violence.
 
 </div>
 
+<div class="path-grid" markdown>
+
+<div class="path-card" markdown>
+### 💔 Feeling Flawed?
+[Moral Exemplars →](philosophy/moral-exemplars.md)
+
+Great ideas from imperfect people. You're in good company.
+</div>
+
+</div>
+
 ---
 
 ## The Deeper Truth

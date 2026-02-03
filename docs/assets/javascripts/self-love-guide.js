@@ -88,6 +88,7 @@
         ["I feel numb", "numb"],
         ["I'm angry", "angry"],
         ["I'm tired of trying", "tired"],
+        ["I've done things I regret", "regret"],
         ["← Back", "struggling"]
       ]
     },
@@ -553,6 +554,100 @@
         ["← Back", "tired"]
       ]
     },
+
+    // Regret and guilt branch
+    regret: {
+      text: "Regret means you've grown. The person who did those things isn't quite the same person sitting here now. That's not an excuse - it's hope.",
+      choices: [
+        ["But I really hurt people", "hurtpeople"],
+        ["I keep making the same mistakes", "samemistakes"],
+        ["I feel like a bad person", "badperson"],
+        ["← Back", "somethingelse"]
+      ]
+    },
+    hurtpeople: {
+      text: "That's real. And it matters that you recognize it. Gandhi was racist in his youth. MLK plagiarized. Jefferson enslaved people. They were wrong. They also contributed good. Both are true.",
+      choices: [
+        ["But I'm not Gandhi", "notgandhi"],
+        ["Can I really be forgiven?", "canforgive"],
+        ["← Back", "regret"]
+      ]
+    },
+    notgandhi: {
+      text: "No one is asking you to be. The point is: flawed people can still be worthy of love. Can still do good. Can still grow. Including you.",
+      choices: [
+        ["I want to believe that", "wanttobelieve"],
+        ["← Back", "hurtpeople"]
+      ]
+    },
+    canforgive: {
+      text: "Forgiveness isn't about deserving. It's about releasing. You can make amends where possible, learn from mistakes, and still be worthy of love. Those aren't contradictions.",
+      choices: [
+        ["How do I make amends?", "makeamends"],
+        ["I don't think I can forgive myself", "cantforgiveself"],
+        ["← Back", "hurtpeople"]
+      ]
+    },
+    makeamends: {
+      text: "Where you can: apologize sincerely, change behavior, make it right. Where you can't: learn, grow, do better going forward. That's all any of us can do.",
+      choices: [
+        ["Okay", "okay"],
+        ["← Back", "canforgive"]
+      ]
+    },
+    cantforgiveself: {
+      text: "Self-forgiveness is hard. Maybe start smaller: can you accept that you're human? That humans make mistakes? That you're trying to be better? That's enough for now.",
+      choices: [
+        ["I'll try", "illtry"],
+        ["← Back", "canforgive"]
+      ]
+    },
+    badperson: {
+      text: "Good people do bad things. Bad people do good things. 'Good person' and 'bad person' are too simple. You're a person who has done harm and is capable of doing good. Both.",
+      choices: [
+        ["I sleepwalked into it", "sleepwalked"],
+        ["I knew it was wrong", "knewwrong"],
+        ["← Back", "regret"]
+      ]
+    },
+    sleepwalked: {
+      text: "Society conditions us. We absorb beliefs without questioning them. Waking up is painful - you see what you did while asleep. But waking up is also the first step to doing better.",
+      choices: [
+        ["That helps", "helpslittle"],
+        ["Read about moral exemplars", "exemplarslink"],
+        ["← Back", "badperson"]
+      ]
+    },
+    knewwrong: {
+      text: "That's harder. But even knowing and doing wrong doesn't make you irredeemable. It makes you human. The question is: what now? You're here. That's a start.",
+      choices: [
+        ["What now?", "whatnow"],
+        ["← Back", "badperson"]
+      ]
+    },
+    whatnow: {
+      text: "Now: be gentle with yourself while holding yourself accountable. Make amends where you can. Do better going forward. And accept that you're worthy of love even while growing.",
+      choices: [
+        ["Okay", "okay"],
+        ["← Back", "knewwrong"]
+      ]
+    },
+    exemplarslink: {
+      text: "We have a page about moral exemplars - Gandhi, MLK, Einstein, and others. Great ideas from flawed people. It might help to see you're not alone in being imperfect.",
+      choices: [
+        ["Take me there", "openexemplars"],
+        ["Maybe later", "okay"],
+        ["← Back", "sleepwalked"]
+      ]
+    },
+    openexemplars: {
+      text: "Opening the moral exemplars page for you. Remember: if we required moral perfection from our teachers, we would have no teachers. Including ourselves.",
+      choices: [
+        ["Thank you", "thankyouexemplars"],
+        ["← Back", "start"]
+      ]
+    },
+
     scaredofhurt: {
       text: "That fear makes sense. You've been hurt before. But walls that protect you also isolate you. Maybe one small opening?",
       choices: [
@@ -625,6 +720,13 @@
         ["Close this", "closing"]
       ]
     },
+    thankyouexemplars: {
+      text: "You're welcome. The page should be opening. Remember: you're worthy of love, even while growing. Come back anytime.",
+      choices: [
+        ["Start over", "start"],
+        ["Close this", "closing"]
+      ]
+    },
     closing: {
       text: "Take care of yourself. You're worthy of love - not someday, but right now. Come back whenever you need to. ❤️",
       choices: [
@@ -676,6 +778,9 @@
         var target = this.getAttribute('data-target');
         if (target === 'closing') {
           toggle();
+        } else if (target === 'openexemplars' || target === 'thankyouexemplars') {
+          window.open(getBaseUrl() + 'philosophy/moral-exemplars/', '_blank');
+          renderNode(target);
         } else {
           renderNode(target);
         }
