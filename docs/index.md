@@ -28,6 +28,18 @@ That feeling is what 2.2 million people in peer-reviewed studies experienced. Th
 
 </div>
 
+---
+
+## You're Not Alone
+
+**People are trying this right now.** See what they're saying:
+
+**[#3SecondRevolution →](revolution/live-feed.md)**
+
+Share your experience. Use the hashtag. Anywhere.
+
+---
+
 <div class="struggling-note" markdown>
 
 **Struggling right now?** That's information, not a verdict. Cringing at this page? That's your nervous system protecting itself from change.
@@ -113,9 +125,44 @@ Gandhi understood this. He didn't explain British economic exploitation in lectu
 
 ---
 
+## Share This Revolution
+
+**It takes 10 seconds to share. 3 seconds to try.**
+
+<div class="share-box" markdown>
+
+**Copy and post anywhere:**
+
+```
+Phone down. Eyes up. Smile.
+
+That's the whole revolution. Try it once.
+
+#3SecondRevolution
+
+structuraloptimism.com
+```
+
+<button onclick="navigator.clipboard.writeText('Phone down. Eyes up. Smile.\n\nThat\'s the whole revolution. Try it once.\n\n#3SecondRevolution\n\nstructuraloptimism.com'); this.textContent='Copied!';" style="padding: 10px 20px; background: #5c6bc0; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 5px;">Copy Text</button>
+
+<a href="https://twitter.com/intent/tweet?text=Phone%20down.%20Eyes%20up.%20Smile.%0A%0AThat%27s%20the%20whole%20revolution.%20Try%20it%20once.%0A%0A%233SecondRevolution%0A%0Astructuraloptimism.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Tweet This</a>
+
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://aphantasic-optimist.github.io/Structural-Optimism/" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0077B5; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Share on LinkedIn</a>
+
+</div>
+
+---
+
 ## Choose Your Path
 
 <div class="path-grid" markdown>
+
+<div class="path-card" markdown>
+### 🚀 Join the Revolution
+[#3SecondRevolution →](revolution/live-feed.md)
+
+See what others are saying. Share your story.
+</div>
 
 <div class="path-card" markdown>
 ### 🎯 Just Practice
@@ -124,16 +171,16 @@ Gandhi understood this. He didn't explain British economic exploitation in lectu
 One minute. Every day.
 </div>
 
+</div>
+
+<div class="path-grid" markdown>
+
 <div class="path-card" markdown>
 ### 🔬 See the Evidence
 [The Simple Proof →](proof/simple.md)
 
 Three facts. Five minutes.
 </div>
-
-</div>
-
-<div class="path-grid" markdown>
 
 <div class="path-card" markdown>
 ### 🌍 Go Deeper
@@ -142,16 +189,16 @@ Three facts. Five minutes.
 The extraction economy. The integration alternative.
 </div>
 
+</div>
+
+<div class="path-grid" markdown>
+
 <div class="path-card" markdown>
-### ⚡ Join the Revolution
+### ⚡ The Strategy
 [The Integration Revolution →](solutions/integration-revolution.md)
 
 How we win. Without violence.
 </div>
-
-</div>
-
-<div class="path-grid" markdown>
 
 <div class="path-card" markdown>
 ### 💔 Feeling Flawed?

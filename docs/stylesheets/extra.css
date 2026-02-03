@@ -756,3 +756,76 @@ strong {
 [data-md-color-scheme="slate"] .struggling-note strong {
   color: #f48fb1;
 }
+
+
+/* ============================================
+   Share Box - Social Sharing Section
+   ============================================ */
+
+.share-box {
+  background: linear-gradient(135deg, rgba(92, 107, 192, 0.1) 0%, rgba(124, 77, 255, 0.1) 100%);
+  border: 2px solid var(--md-primary-fg-color);
+  border-radius: 12px;
+  padding: 2em;
+  margin: 2em 0;
+  text-align: center;
+}
+
+.share-box pre {
+  background: var(--md-code-bg-color);
+  padding: 1.5em;
+  border-radius: 8px;
+  margin: 1em 0;
+  text-align: left;
+  font-size: 0.95em;
+  line-height: 1.6;
+  overflow-x: auto;
+}
+
+.share-box code {
+  background: transparent;
+  padding: 0;
+}
+
+.share-box button,
+.share-box a {
+  display: inline-block;
+  margin: 10px 5px;
+  transition: all 0.3s ease;
+}
+
+.share-box button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.share-box a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+[data-md-color-scheme="slate"] .share-box {
+  background: linear-gradient(135deg, rgba(92, 107, 192, 0.15) 0%, rgba(124, 77, 255, 0.15) 100%);
+}
+
+/* Mobile responsive */
+@media screen and (max-width: 600px) {
+  .share-box {
+    padding: 1.5em;
+  }
+  
+  .share-box button,
+  .share-box a {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .share-box button:hover,
+  .share-box a:hover {
+    transform: none;
+  }
+}

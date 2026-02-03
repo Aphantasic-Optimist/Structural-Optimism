@@ -84,6 +84,7 @@ nav:
   - Home: index.md
   - Practice: practical/daily-practice.md
   - Why: proof/simple.md
+  - "#3SecondRevolution": revolution/live-feed.md
   - Go Deeper:
       - The Problem: problem/index.md
       - The Evidence: proof/index.md
