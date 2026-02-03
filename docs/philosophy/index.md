@@ -53,6 +53,9 @@ See the darkness clearly. Choose light anyway. Eyes wide open, heart still full.
 ### [Heroic Honesty](heroic-honesty.md)
 The courage to be truthful, the wisdom to be kind. Optimistic honesty is the highest form of kindness.
 
+### [Moral Exemplars](moral-exemplars.md)
+Heroes with flaws. Great ideas from imperfect people. What we keep, what we learn.
+
 ### [Absurdist Optimism](absurdist-optimism.md)
 Accept the absurd. Revolt through joy. Imagine Sisyphus happy.
 
