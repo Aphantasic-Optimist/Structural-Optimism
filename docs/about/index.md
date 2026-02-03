@@ -78,4 +78,4 @@ Ideas matter, not identity.
 
 **The universe is shaped like optimism.**
 
-**You don't have to believe it. Just try the practice and see.** ✨
+**The evidence is clear. Try the practice and see for yourself.** ✨

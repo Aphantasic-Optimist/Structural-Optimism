@@ -275,7 +275,7 @@ Start here:
 1. **Notice one lie today** — Even a small one, even to yourself
 2. **Ask:** What would heroic honesty look like here?
 3. **Try it** — Once. See what happens.
-4. **Trust the recipient** — They're probably more decent than you think.
+4. **Trust the recipient** — They're more decent than you think. The research confirms it.
 
 **Heroic honesty is a practice, not a destination.**
 

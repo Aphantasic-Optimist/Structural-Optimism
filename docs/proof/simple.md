@@ -79,11 +79,11 @@ When you connect with others, you align with reality's structure.
 
 When you isolate, you fight against it.
 
-**Reality rewards connection** with survival and flourishing.
+**Connection supports survival and flourishing.** The research is unambiguous.
 
-**Reality punishes isolation** with suffering and death.
+**Isolation increases your risk of death by 32%.** That's not a metaphor. That's peer-reviewed data from 2.2 million people. Isolation doesn't just feel bad—it kills.
 
-This is mechanistic. This is verifiable. This is real.
+If you're isolated right now, that's not a verdict on your worth. But it is urgent. Even small movements toward connection—a smile, a text, a wave—are movements toward life.
 
 ---
 
@@ -105,9 +105,9 @@ Because it is.
 
 **Optimism is not naive.** It's recognition that reality is structured toward what we experience as good.
 
-**Pessimism is not realistic.** It's misunderstanding reality's structure.
+**Pessimism is not realistic.** It mistakes local suffering for global structure. Zoom out far enough, and the pattern is clear: integration wins. Every time. That's not faith—that's 13.8 billion years of evidence.
 
-**The practice is not self-help.** It's alignment with physics.
+**The practice is not self-help.** It's alignment with physics. Small, patient, real.
 
 ---
 

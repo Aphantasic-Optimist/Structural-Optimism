@@ -111,11 +111,11 @@ When you smile at someone and they smile back, you've just created a tiny moment
 
 ### "What if I'm alone?"
 
-Smile at yourself in the mirror. Seriously.
+Start with yourself. Smile at yourself in the mirror. Seriously.
 
-Self-compassion activates the same neural circuits as compassion from others. You are a consciousness too. Start there.
+Self-compassion activates the same neural circuits as compassion from others. You are a consciousness too. That counts.
 
-Then go find someone. A neighbor. A shopkeeper. A stranger on a bench. Humans are everywhere.
+But don't stop there. Isolation increases mortality by 32%. Your life depends on connection. A wave to a neighbor. A thank-you to a shopkeeper. A text to someone you've been meaning to reach. Small steps, but real ones. Start today.
 
 ### "What if they don't smile back?"
 
@@ -145,17 +145,15 @@ Quality over quantity. Depth over breadth. This practice is perfect for introver
 
 This takes one minute.
 
-You have one minute. Everyone has one minute.
+You have one minute. If you genuinely don't, that's a sign something is wrong—not with you, but with your situation. The practice will be here. But don't use "busy" as a permanent excuse. Isolation kills. One minute of connection is one minute toward life.
 
-If you don't have one minute for human connection, that's the problem this practice is solving.
+### "What about safety?"
 
-### "What about people who are dangerous?"
+Trust your instincts. Always.
 
-Use judgment. Don't smile at people who seem threatening.
+If someone or somewhere feels unsafe, honor that feeling. Your safety comes first.
 
-But most people aren't dangerous. Most people are lonely, just like you. Most people would welcome a moment of genuine human connection.
-
-Trust your instincts. But don't let fear prevent all connection.
+And when you do feel safe—most people welcome a moment of genuine human connection. We're wired for it. A smile is usually met with a smile.
 
 ---
 

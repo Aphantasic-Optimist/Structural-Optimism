@@ -9,19 +9,19 @@ description: How devices became vices
 
 ---
 
-## We've All Been Zombies
+## We've All Been There
 
-Let's be honest: we've all been screenagers.
+Let's be honest: we've all gotten lost in our screens.
 
-Scrolling through meals. Ignoring the person across the table. Comparing our lives to curated highlights. Optimizing for metrics that don't matter.
+Scrolling through meals. Missing the person across the table. Comparing our lives to curated highlights. Chasing metrics that don't actually matter.
 
-**This isn't shameful.** It's what happens when you try to optimize alone in a system designed to isolate you.
+**This isn't a character flaw.** It's what happens when you navigate alone in a system designed to capture your attention.
 
-The billionaire is lonely in his mansion. The influencer is lonely with millions of followers. The teenager is lonely doom-scrolling at 2am. Meanwhile, the poorest communities often report the highest life satisfaction—because they still have each other.
+The billionaire in his mansion? Lonely. The influencer with millions of followers? Lonely. Someone scrolling late at night looking for something real? Lonely. Meanwhile, the poorest communities often report the highest life satisfaction—because they still have each other.
 
 We've been doing what individuals do: optimizing for personal success. But you can't optimize for the whole earth by yourself. That's not how systems work.
 
-**The problem isn't you. The problem is isolation.**
+**The problem isn't you. The problem is a system that profits from isolation.**
 
 ---
 

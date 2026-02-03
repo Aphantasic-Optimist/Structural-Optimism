@@ -257,7 +257,7 @@ You just need to:
 - **Eyes up** — Connect with humans
 - **Smile** — Experience integration
 
-**Do this once today. Do it again tomorrow. Tell no one or tell everyone.**
+**Do this once today. Do it again tomorrow. And tell someone.** Ideas spread through connection. Isolation spreads through silence.
 
 The revolution doesn't require violence. It doesn't require permission. It doesn't require understanding.
 

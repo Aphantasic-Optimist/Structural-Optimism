@@ -24,7 +24,7 @@ That's it. Everything else builds on this.
 
 One minute. Every day. Put your phone down, look at another human, smile.
 
-This is the foundation. Without this, nothing else matters.
+This is the foundation. Without this, the rest is theory. Connection reduces mortality by 50%. Start here.
 
 ### Community (Ongoing)
 [**Rebuilding "We" →**](rebuilding-we.md)

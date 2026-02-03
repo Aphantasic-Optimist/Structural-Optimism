@@ -16,10 +16,9 @@ description: Phone down. Eyes up. Smile.
 **Right now. Before you scroll further.**
 
 1. Put your phone face-down (or in your pocket)
-2. Look at another human being nearby
-3. Smile
-
-**No one nearby?** Look in a mirror. Smile at yourself. You count too.
+2. Look up from the screen
+3. If someone's nearby, make eye contact and smile
+4. If you're alone, look in a mirror and smile at yourself—you count too
 
 **Done?** Notice how that felt.
 
@@ -31,31 +30,31 @@ That feeling is what 2.2 million people in peer-reviewed studies experienced. Th
 
 <div class="struggling-note" markdown>
 
-**Struggling right now?** That's information, not a verdict. Cringing at this page? That's your mind protecting itself from new ideas.
+**Struggling right now?** That's information, not a verdict. Cringing at this page? That's your nervous system protecting itself from change.
 
-You can still grow. Not someday—starting now. Even while doubting.
+You can still grow. Not someday—starting now. Even while doubting. Especially while doubting.
 
-**Click the ❤️ in the bottom right corner.** It's a simple guide to help you practice self-acceptance through honest reflection.
+**Click the ❤️ in the bottom right corner.** It's a guide to practicing self-acceptance through honest reflection. Not comfortable. Honest.
 
 </div>
 
 ---
 
-## We've All Been Zombies
+## We've All Been There
 
-Here's the uncomfortable truth: **we've all been screenagers.**
+Here's the uncomfortable truth: **we've all gotten lost in our screens.**
 
 Scrolling through life. Optimizing for likes. Comparing ourselves to strangers. Missing the person right next to us.
 
-This isn't shameful. It's what happens when you try to optimize alone.
+This isn't a character flaw. It's what happens when you try to navigate alone in a system designed to capture your attention.
 
-The billionaire in his mansion? Lonely. The influencer with millions of followers? Lonely. The kid doom-scrolling at 2am? Lonely. The poorest communities often report the highest life satisfaction—because they still have each other.
+The billionaire in his mansion? Lonely. The influencer with millions of followers? Lonely. Someone scrolling at 2am looking for connection? Lonely. Meanwhile, the poorest communities often report the highest life satisfaction—because they still have each other.
 
-**We've been doing what communities do:** optimizing for individual success. But you can't optimize for the success of the whole earth by yourself. That's not how integration works.
+**We've been doing what individuals do:** optimizing for personal success. But you can't optimize for the whole earth by yourself. That's not how integration works.
 
 The solution isn't self-improvement. It's connection.
 
-**Hug someone.**
+**Think of one person you could reach out to.** Not today, not tomorrow—just one person. If no one comes to mind, that's a warning sign. Isolation is dangerous. Start with yourself—self-compassion counts—but don't stop there. A text, a wave, a smile. Small gestures toward connection are movements toward life.
 
 ---
 
@@ -195,11 +194,13 @@ You don't have to fix the whole system alone.
 
 **You just have to connect.**
 
-We've all been zombies. That's okay. We were optimizing the only way we knew how.
+We've all gotten lost in our screens. That's okay. We were optimizing the only way we knew how.
 
 Now we know better. Not through shame—through science. Through 2.2 million people proving what every grandmother already knew.
 
-Phone down. Eyes up. Smile. Hug someone.
+Phone down. Eyes up. Smile.
+
+Reach out to someone. A text. A call. A hug. Connection doesn't have to be dramatic. It just has to be real. And it has to be now—not someday, not when you're ready. Your life depends on it.
 
 **The universe is shaped like optimism. Align with it.**
 
