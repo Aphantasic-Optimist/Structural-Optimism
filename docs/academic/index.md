@@ -366,7 +366,7 @@ doi:10.5281/zenodo.14857392.
 7. **Integration** - Accepted contributions integrated
 8. **Credit** - You receive appropriate attribution
 
-**See [Contributing Guide](../CONTRIBUTING.md) for details.**
+**Open an issue on [GitHub](https://github.com/Aphantasic-Optimist/Structural-Optimism/issues) to discuss academic contributions.**
 
 ### Academic Standards
 

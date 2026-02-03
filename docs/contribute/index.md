@@ -88,9 +88,8 @@ Everything is open:
 ## Getting Started
 
 1. **Read the Framework**: Start with [Simple Proof](../proof/simple.md) to understand the core proof
-2. **Review Guidelines**: Check our [contribution guidelines](https://github.com/[username]/structural-optimism/blob/main/CONTRIBUTING.md)
-3. **Choose Your Path**: Pick a contribution type above
-4. **Submit**: Follow the specific guidelines for your contribution type
+2. **Choose Your Path**: Pick a contribution type above
+3. **Submit**: Follow the specific guidelines for your contribution type
 5. **Engage**: Respond to feedback and iterate
 
 ## Code of Conduct

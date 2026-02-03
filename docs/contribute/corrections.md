@@ -356,7 +356,7 @@ Correction contributors are:
 
 ## Questions?
 
-- **About correction process**: See [Contributing Guide](../CONTRIBUTING.md)
+- **About correction process**: Open an issue on [GitHub](https://github.com/Aphantasic-Optimist/Structural-Optimism/issues)
 - **General questions**: [GitHub Discussions](https://github.com/Aphantasic-Optimist/structural-optimism/discussions)
 
 ---

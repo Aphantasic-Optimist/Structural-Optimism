@@ -413,9 +413,9 @@ To start a new language team:
 
 ## Questions?
 
-- **About translation process**: See [Contributing Guide](https://github.com/[username]/structural-optimism/blob/main/CONTRIBUTING.md)
-- **About specific terms**: Ask in [GitHub Discussions](https://github.com/[username]/structural-optimism/discussions)
-- **General questions**: Email [translations@structural-optimism.org]
+- **About translation process**: Open an issue on [GitHub](https://github.com/Aphantasic-Optimist/Structural-Optimism/issues)
+- **About specific terms**: Ask in [GitHub Discussions](https://github.com/Aphantasic-Optimist/Structural-Optimism/discussions)
+- **General questions**: Use GitHub issues or discussions
 
 ---
 
