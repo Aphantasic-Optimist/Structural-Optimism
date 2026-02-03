@@ -9,6 +9,43 @@ Format: [Semantic Versioning](https://semver.org/)
 
 ---
 
+## [1.1.1] - 2026-02-03
+
+### New Philosophy Document
+
+- **Cynical Optimism** — The most honest form of hope: eyes wide open, heart still full. Synthesizes clear-eyed recognition of human flaws with genuine belief in progress. All statistics verified against Our World in Data and peer-reviewed sources.
+
+---
+
+## [1.1.0] - 2026-02-03
+
+### Full Publication Release
+
+**Major content additions:**
+
+#### Philosophy Section (NEW)
+- **The Universe is Shaped Like Optimism** — Synthesis of human knowledge across history, cultures, and disciplines
+- **Absurdist Optimism** — Living joyfully by aligning with reality's structure
+- **Collectivism and Consciousness** — We are right, but there is no right—only collective integration
+
+#### Practical Guides Section (NEW)
+- **How to Give Humanity Its "We" Back** — Practical guide to rebuilding connection
+- **Integration Without Dissolution** — How to join WE while keeping ME
+- **ME to WE Integration** — What happens when self integrates with collective
+- **How We Lost Free Will** — Historical analysis of agency's disappearance
+- **Rapid Self-Wisdom** — Collected wisdom for quick reference
+
+#### Analysis Section (NEW)
+- **Why Recommendation Algorithms Almost Killed Us** — Technology and fragmentation
+- **Understanding Doomerism** — Who believes in doomsday and why
+
+#### Navigation Improvements
+- Reorganized site structure for better discoverability
+- Added Philosophy, Practical, and Analysis as top-level sections
+- Improved cross-linking between related content
+
+---
+
 ## [1.0.0] - 2026-01-27
 
 ### Initial Release

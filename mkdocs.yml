@@ -121,6 +121,23 @@ nav:
       - Social Connection Reduces Mortality: claims/02-social-connection-reduces-mortality.md
       - Love is Universal: claims/03-love-is-universal.md
       - Alignment Enables Flourishing: claims/04-alignment-enables-flourishing.md
+  - Philosophy:
+      - philosophy/index.md
+      - The Universe is Shaped Like Optimism: philosophy/universe-shaped-like-optimism.md
+      - Absurdist Optimism: philosophy/absurdist-optimism.md
+      - Cynical Optimism: philosophy/cynical-optimism.md
+      - Collectivism and Consciousness: philosophy/collectivism-consciousness.md
+  - Practical:
+      - practical/index.md
+      - Give Humanity Its "We" Back: practical/give-humanity-we-back.md
+      - Integration Without Dissolution: practical/integration-without-dissolution.md
+      - ME to WE Integration: practical/me-to-we.md
+      - How We Lost Free Will: practical/how-we-lost-free-will.md
+      - Rapid Self-Wisdom: practical/rapid-self-wisdom.md
+  - Analysis:
+      - analysis/index.md
+      - Why Algorithms Almost Killed Us: analysis/algorithms.md
+      - Understanding Doomerism: analysis/doomerism.md
   - Evidence:
       - evidence/index.md
       - Biological Pathways: evidence/mechanisms/biological-pathways.md
@@ -132,7 +149,7 @@ nav:
   - Structural Instability:
       - instability/index.md
       - Consciousness Extraction Economy: instability/consciousness-extraction-economy.md
-  - Solution Possibilities:
+  - Solutions:
       - solutions/index.md
       - Distributed Consciousness Model: solutions/distributed-consciousness-model.md
       - Preventing WALL-E: solutions/preventing-wall-e.md
