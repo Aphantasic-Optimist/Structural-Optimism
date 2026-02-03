@@ -78,6 +78,8 @@ extra_css:
   - assets/stylesheets/chatbot.css
 
 extra_javascript:
+  - assets/javascripts/chatbot-data.js
+  - assets/javascripts/chatbot-ui.js
   - assets/javascripts/chatbot.js
 
 nav:
