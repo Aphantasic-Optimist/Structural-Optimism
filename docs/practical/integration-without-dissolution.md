@@ -11,18 +11,18 @@ description: How to join WE while keeping ME
 
 ## Why This Guide Exists
 
-**The danger:** The message "reality is shaped like optimism, integration creates consciousness, love is integration" is TRUE. But without proper grounding, it can harm people who lack self-love or boundaries.
+**The danger:** The message "reality is shaped like optimism, integration creates consciousness, love is integration" is TRUE. But without proper grounding, it can harm people who lack stable identity or boundaries.
 
 **The protection:** This guide teaches how to integrate (join WE) while maintaining differentiation (preserve ME). Both are necessary. Always both.
 
 ---
 
-## Part 1: Love Yourself First
+## Part 1: Know Yourself First
 
-### Why Self-Love Is Prerequisite
+### Why Self-Knowledge Is Prerequisite
 
 **The structure:**
-1. Establish ME (self-love, boundaries, identity)
+1. Establish ME (identity, boundaries, self-knowledge)
 2. THEN integrate into WE (connection, community, collective)
 3. Maintain both (oscillate between ME and WE)
 
@@ -32,11 +32,11 @@ description: How to join WE while keeping ME
 - You have no boundaries to protect you
 - You become vulnerable to manipulation
 
-**The rule:** You cannot give what you don't have. You cannot love others if you don't love yourself.
+**The rule:** You cannot give what you don't have. You cannot connect authentically if you don't know who you are.
 
 ---
 
-### Signs You Need More Self-Love Before Integrating
+### Signs You Need More ME Before Integrating
 
 **Check yourself honestly:**
 
@@ -64,7 +64,7 @@ description: How to join WE while keeping ME
 
 ---
 
-### How to Build Self-Love
+### How to Build Self-Knowledge
 
 **1. Spend time alone intentionally**
 - Not avoiding people (that's isolation)
@@ -285,7 +285,7 @@ description: How to join WE while keeping ME
 
 **But also:**
 - ME is necessary
-- Self-love is prerequisite
+- Self-knowledge is prerequisite
 - Differentiation matters
 - You can leave
 

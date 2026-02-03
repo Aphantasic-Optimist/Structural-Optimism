@@ -1,24 +1,24 @@
 ---
-title: Safety First - Love Yourself, Then Integrate
+title: Safety First - Know Yourself, Then Integrate
 description: Essential guidance for healthy integration without losing yourself
 tags:
   - safety
   - boundaries
-  - self-love
+  - self-knowledge
   - integration
   - me-and-we
 level: safety
 last_updated: 2026-01-21
 ---
 
-# Safety First: Love Yourself, Then Integrate
+# Safety First: Know Yourself, Then Integrate
 
 !!! danger "Critical Safety Message"
-    **The framework "reality is shaped like optimism" is TRUE. But without proper grounding, it can harm people who lack self-love or boundaries.**
+    **The framework "reality is shaped like optimism" is TRUE. But without proper grounding, it can harm people who lack stable identity or boundaries.**
     
-    **The rule: Love yourself FIRST, THEN integrate.**
+    **The rule: Know yourself FIRST, THEN integrate.**
     
-    If you don't have a stable sense of self, clear boundaries, and self-love, **work on that before diving into deep integration practices.**
+    If you don't have a stable sense of self and clear boundaries, **work on that before diving into deep integration practices.**
 
 ---
 
@@ -44,7 +44,7 @@ But power without wisdom causes harm. Integration without differentiation become
 **But ME AND WE** (integration WITH differentiation)
 
 **The structure:**
-1. **Establish ME** - Self-love, boundaries, identity
+1. **Establish ME** - Identity, boundaries, self-knowledge
 2. **THEN integrate into WE** - Connection, community, collective
 3. **Maintain both** - Oscillate between ME and WE forever
 
@@ -82,13 +82,13 @@ But power without wisdom causes harm. Integration without differentiation become
 
 ## Essential Safety Guidelines
 
-### 1. Love Yourself First
+### 1. Know Yourself First
 
 **Before joining any community, movement, or deep relationship:**
 - Establish your identity (who am I?)
 - Set your boundaries (what are my limits?)
 - Know your values (what matters to me?)
-- Build self-love (do I accept myself?)
+- Accept where you are (honestly, without delusion)
 
 **Timeline:** This takes months to years, not days. Be patient.
 
@@ -157,7 +157,7 @@ But power without wisdom causes harm. Integration without differentiation become
 
 **[Integration Without Dissolution Guide](integration-guide.md)**  
 Comprehensive practical guide covering:
-- How to build self-love (step-by-step)
+- How to build self-knowledge (step-by-step)
 - How to integrate healthily (with boundaries)
 - The ME ↔ WE oscillation (why you need both)
 - Red flags and warning signs (when to leave)
@@ -187,7 +187,7 @@ Comprehensive practical guide covering:
 
 **But also:**
 - ME is necessary (you need boundaries)
-- Self-love is prerequisite (establish ME first)
+- Self-knowledge is prerequisite (establish ME first)
 - Differentiation matters (maintain uniqueness)
 - You can leave (free will is real)
 
@@ -207,7 +207,7 @@ Comprehensive practical guide covering:
 
 1. **Read the [Integration Guide](integration-guide.md)** - Comprehensive practical guidance
 2. **Assess yourself honestly** - Do you have stable ME?
-3. **Build self-love if needed** - Work on ME first (no shame in this)
+3. **Build self-knowledge if needed** - Work on ME first (no shame in this)
 4. **Integrate gradually** - Start small, maintain boundaries
 5. **Check in regularly** - "Do I still feel like myself?"
 6. **Trust your gut** - If something feels wrong, it probably is

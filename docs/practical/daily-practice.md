@@ -113,7 +113,7 @@ When you smile at someone and they smile back, you've just created a tiny moment
 
 Smile at yourself in the mirror. Seriously.
 
-Self-compassion activates the same neural circuits as compassion from others. You are a consciousness too. You deserve your own kindness.
+Self-compassion activates the same neural circuits as compassion from others. You are a consciousness too. Start there.
 
 Then go find someone. A neighbor. A shopkeeper. A stranger on a bench. Humans are everywhere.
 

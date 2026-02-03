@@ -9,6 +9,22 @@ description: How devices became vices
 
 ---
 
+## We've All Been Zombies
+
+Let's be honest: we've all been screenagers.
+
+Scrolling through meals. Ignoring the person across the table. Comparing our lives to curated highlights. Optimizing for metrics that don't matter.
+
+**This isn't shameful.** It's what happens when you try to optimize alone in a system designed to isolate you.
+
+The billionaire is lonely in his mansion. The influencer is lonely with millions of followers. The teenager is lonely doom-scrolling at 2am. Meanwhile, the poorest communities often report the highest life satisfaction—because they still have each other.
+
+We've been doing what individuals do: optimizing for personal success. But you can't optimize for the whole earth by yourself. That's not how systems work.
+
+**The problem isn't you. The problem is isolation.**
+
+---
+
 ## The Short Version
 
 We built machines that extract attention and sell it.

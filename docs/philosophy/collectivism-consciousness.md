@@ -209,7 +209,7 @@ This is the deepest insight.
 
 **Not everyone is ready for integration:**
 - Some people will break themselves
-- Some people lack self-love
+- Some people lack stable identity
 - Some people have no boundaries
 - We can't force this
 
@@ -219,7 +219,7 @@ This is the deepest insight.
 - Maintain boundaries (differentiation)
 - While connecting (integration)
 
-**Without self-love, integration becomes dissolution. This is dangerous.**
+**Without stable identity, integration becomes dissolution. This is dangerous.**
 
 ---
 

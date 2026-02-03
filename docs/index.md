@@ -31,13 +31,31 @@ That feeling is what 2.2 million people in peer-reviewed studies experienced. Th
 
 <div class="struggling-note" markdown>
 
-**Struggling right now?** That's okay. Cringing at this page? That's just retreating back into yourself, away from new ideas. It's a protection mechanism.
+**Struggling right now?** That's information, not a verdict. Cringing at this page? That's your mind protecting itself from new ideas.
 
-You're still worthy of love. Not someday - right now. Even while doubting.
+You can still grow. Not someday—starting now. Even while doubting.
 
-**Click the ❤️ in the bottom right corner.** It's a simple guide to help you practice self-acceptance, one choice at a time.
+**Click the ❤️ in the bottom right corner.** It's a simple guide to help you practice self-acceptance through honest reflection.
 
 </div>
+
+---
+
+## We've All Been Zombies
+
+Here's the uncomfortable truth: **we've all been screenagers.**
+
+Scrolling through life. Optimizing for likes. Comparing ourselves to strangers. Missing the person right next to us.
+
+This isn't shameful. It's what happens when you try to optimize alone.
+
+The billionaire in his mansion? Lonely. The influencer with millions of followers? Lonely. The kid doom-scrolling at 2am? Lonely. The poorest communities often report the highest life satisfaction—because they still have each other.
+
+**We've been doing what communities do:** optimizing for individual success. But you can't optimize for the success of the whole earth by yourself. That's not how integration works.
+
+The solution isn't self-improvement. It's connection.
+
+**Hug someone.**
 
 ---
 
@@ -173,11 +191,15 @@ You don't have to be perfect.
 
 You don't have to understand everything.
 
-You don't have to fix the whole system.
+You don't have to fix the whole system alone.
 
-**You just have to choose.**
+**You just have to connect.**
 
-Phone down. Eyes up. Smile.
+We've all been zombies. That's okay. We were optimizing the only way we knew how.
+
+Now we know better. Not through shame—through science. Through 2.2 million people proving what every grandmother already knew.
+
+Phone down. Eyes up. Smile. Hug someone.
 
 **The universe is shaped like optimism. Align with it.**
 

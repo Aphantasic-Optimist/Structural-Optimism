@@ -73,18 +73,18 @@ This is THE question. This is the quantum-classical interface. This is conscious
 **This is profound wisdom.**
 
 **The danger:**
-- Knowledge without self-love = self-destruction
+- Knowledge without self-knowledge = self-destruction
 - "Life is meaningless" without "and that's okay" = nihilism
 - Integration without boundaries = dissolution
 - WE without ME = loss of self
 
 **The protection:**
-- Love yourself FIRST (establish ME)
+- Know yourself FIRST (establish ME)
 - THEN integrate (join WE)
 - Maintain boundaries (differentiation)
 - While connecting (integration)
 
-**Without self-love, integration becomes dissolution. This is dangerous.**
+**Without stable identity, integration becomes dissolution. This is dangerous.**
 
 ---
 
@@ -219,10 +219,10 @@ This is THE question. This is the quantum-classical interface. This is conscious
 
 ## The Practical Wisdom
 
-### The Message Must Include Self-Love
+### The Message Must Include Self-Knowledge
 
 - Not just "integrate"
-- But "love yourself first, THEN integrate"
+- But "know yourself first, THEN integrate"
 - Not just "WE"
 - But "ME AND WE"
 
@@ -250,7 +250,7 @@ This is THE question. This is the quantum-classical interface. This is conscious
 ### The Message Must Protect the Vulnerable
 
 - Not everyone is ready
-- Not everyone has self-love
+- Not everyone has stable identity
 - Not everyone has boundaries
 - We must be careful
 
@@ -285,7 +285,7 @@ This is THE question. This is the quantum-classical interface. This is conscious
 ## Conclusion
 
 **The answers:**
-- ME → WE requires self-love first
+- ME → WE requires self-knowledge first
 - Integration requires boundaries
 - WE amplifies agency (doesn't erase it)
 - Uncertainty IS free will
@@ -294,7 +294,7 @@ This is THE question. This is the quantum-classical interface. This is conscious
 - Not everyone is ready (respect this)
 
 **The message must include:**
-1. Love yourself first (ME)
+1. Know yourself first (ME)
 2. Then integrate (WE)
 3. Maintain boundaries (differentiation)
 4. While connecting (integration)

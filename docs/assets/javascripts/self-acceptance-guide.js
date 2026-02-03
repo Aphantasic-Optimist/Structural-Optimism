@@ -1,7 +1,7 @@
 /**
  * Self-Acceptance Guide
- * A decision tree for practicing self-compassion while doubting
- * Written by AI, guided by a human who believes you're worthy of love
+ * A decision tree for practicing self-acceptance through growth
+ * Self-acceptance isn't unconditional self-love—it's loving the process of becoming better
  */
 (function() {
   'use strict';
@@ -9,7 +9,7 @@
   // The journey - each node has text and choices that lead to other nodes
   var NODES = {
     start: {
-      text: "Hey. Take a breath. You clicked the heart, which means some part of you is reaching out. That's brave.",
+      text: "Hey. You clicked the heart. Something brought you here. Let's figure out what.",
       choices: [
         ["I'm struggling right now", "struggling"],
         ["I'm just curious", "curious"],
@@ -29,9 +29,9 @@
       ]
     },
     curious: {
-      text: "Curiosity is beautiful. This is a simple guide - no AI, just words linked together - to help practice self-compassion. Even while doubting.",
+      text: "Curiosity is good. This is a simple guide—no AI, just words linked together—to help practice self-acceptance. Even while doubting.",
       choices: [
-        ["What is self-love anyway?", "whatisselflove"],
+        ["What is self-acceptance anyway?", "whatisselflove"],
         ["I'm skeptical this can help", "skeptical"],
         ["Actually, I am struggling", "struggling"]
       ]
@@ -47,7 +47,7 @@
 
     // Core feeling branches
     lonely: {
-      text: "Loneliness hurts - literally. Your body knows connection matters. But here's the thing: you reaching out right now? That's connection. That takes courage.",
+      text: "Loneliness hurts—literally. Your body knows connection matters. You reaching out right now is connection. It's a start.",
       choices: [
         ["But I'm alone right now", "alonerightnow"],
         ["I feel like no one understands me", "nooneunderstands"],
@@ -56,7 +56,7 @@
       ]
     },
     notgoodenough: {
-      text: "That voice telling you you're not enough? It's lying. You don't have to earn your worth. You have it already, just by existing.",
+      text: "That feeling often points to something real—a gap between who you are and who you want to be. That gap isn't shameful. It's information. The question is: what do you do with it?",
       choices: [
         ["But I keep failing", "keepfailing"],
         ["Everyone else seems to have it together", "everyoneelse"],
@@ -74,7 +74,7 @@
       ]
     },
     hopeless: {
-      text: "When hope feels far away, that's when it matters most to hear: you are worthy of love. Not because you've earned it. Because you exist. Hold on.",
+      text: "Hopelessness is heavy. It's also often a sign that something needs to change—not just your feelings, but your situation. What's one thing that could be different?",
       choices: [
         ["I've felt this way for a long time", "longtime"],
         ["What's the point?", "whatsthepoint"],
@@ -121,7 +121,7 @@
 
     // Deeper branches - not good enough
     keepfailing: {
-      text: "Failing means you tried. That's not weakness - that's courage. The only real failure is never trying at all. And you're here, trying right now.",
+      text: "Failing means you tried. The question isn't whether you'll fail—you will. The question is whether you learn from it. Are you making the same mistakes, or new ones?",
       choices: [
         ["But I keep making the same mistakes", "samemistakes"],
         ["I'm tired of trying", "tired"],
@@ -137,7 +137,7 @@
       ]
     },
     dontbelieve: {
-      text: "You don't have to believe it yet. Self-love isn't a switch you flip. It's a practice. Some days you'll doubt. That's okay. The doubt doesn't disqualify you.",
+      text: "You don't have to believe it yet. Self-acceptance isn't a switch you flip. It's a practice—accepting where you are while working to improve. Some days you'll doubt. The doubt doesn't disqualify you.",
       choices: [
         ["How do I practice it?", "howpractice"],
         ["I've tried and it doesn't work", "triednowork"],
@@ -190,7 +190,7 @@
       ]
     },
     holdonto: {
-      text: "Hold onto this: you matter. Not because of what you do. Because you exist. The universe spent 13.8 billion years making you. You're not an accident.",
+      text: "Hold onto this: things can change. Not through wishing, but through action. Small actions. One thing tomorrow that's different from today. That's how it starts.",
       choices: [
         ["I needed to hear that", "neededtohear"],
         ["I'm not sure I believe it", "notsurebelieve"],
@@ -215,14 +215,14 @@
       ]
     },
     howcanyousay: {
-      text: "Because worthiness isn't earned. It's not based on your achievements or how well people know you. You're worthy because you're here, alive, trying. That's enough.",
+      text: "I can't know you. But I know that feeling understood isn't about someone knowing your details—it's about someone recognizing the experience. Loneliness is universal. That's the connection.",
       choices: [
         ["I want to believe that", "wanttobelieve"],
         ["← Back", "nooneunderstands"]
       ]
     },
     wanttobelieve: {
-      text: "Wanting to believe is the first step. You don't have to be certain. Just open. That openness is already self-love in action.",
+      text: "Wanting to believe is the first step. You don't have to be certain. Just open. That openness is already self-acceptance in action.",
       choices: [
         ["What's next?", "whatsnext"],
         ["I want to start over", "start"],
@@ -273,7 +273,7 @@
       ]
     },
     pointofthis: {
-      text: "The point is practice. Self-love isn't a destination. It's small moments of choosing kindness toward yourself. This is one of those moments.",
+      text: "The point is practice. Self-acceptance isn't a destination. It's small moments of honesty with yourself—seeing where you are, choosing to grow. This is one of those moments.",
       choices: [
         ["Fine, I'll try", "struggling"],
         ["I'm still skeptical", "stillskeptical"],
@@ -281,16 +281,16 @@
       ]
     },
     stillskeptical: {
-      text: "That's okay. You can be skeptical and still worthy of love. The two aren't opposites. Doubt all you want. You still matter.",
+      text: "That's fine. Skepticism is useful. Keep it. Just don't let it stop you from trying things that might help.",
       choices: [
         ["...okay", "okay"],
         ["← Back", "start"]
       ]
     },
 
-    // What is self-love
+    // What is self-acceptance
     whatisselflove: {
-      text: "Self-love isn't bubble baths and affirmations (though those are fine). It's treating yourself with the same kindness you'd offer a friend. Especially when you're struggling.",
+      text: "Self-acceptance isn't unconditional self-love or pretending you're perfect. It's honestly seeing where you are—flaws and all—and committing to growth. Accepting the process of becoming better.",
       choices: [
         ["I'm not good at that", "notgoodatthat"],
         ["That sounds selfish", "soundsselfish"],
@@ -298,14 +298,14 @@
       ]
     },
     notgoodatthat: {
-      text: "Most people aren't. We're taught to be hard on ourselves. But you can learn. It's a practice, not a talent. And you're practicing right now.",
+      text: "Most people aren't. It's a practice, not a talent. Accepting where you are is the first step to getting somewhere better.",
       choices: [
         ["How do I practice?", "howpractice"],
         ["← Back", "whatisselflove"]
       ]
     },
     soundsselfish: {
-      text: "It's not. You can't pour from an empty cup. Being kind to yourself gives you more to offer others. Self-love and loving others aren't opposites.",
+      text: "It's not. You can't pour from an empty cup. Accepting yourself—including your need to grow—gives you more to offer others. Self-acceptance and loving others aren't opposites.",
       choices: [
         ["I never thought of it that way", "neverthought"],
         ["← Back", "whatisselflove"]
@@ -321,7 +321,7 @@
 
     // Doing okay branch
     doingokay: {
-      text: "That's wonderful. You don't have to be struggling to practice self-compassion. It's good maintenance, like stretching.",
+      text: "Good. You don't have to be struggling to reflect. Maintenance matters—like stretching before you're injured.",
       choices: [
         ["What can I do when I'm okay?", "whenokay"],
         ["Actually, I'm not fully okay", "struggling"],
@@ -336,7 +336,7 @@
       ]
     },
     thatsnice: {
-      text: "It is. You deserve nice moments. Not because you earned them. Because you're here.",
+      text: "It is. Rest when you can. You'll need the energy for the work ahead.",
       choices: [
         ["Thank you", "thankyou"],
         ["← Back", "start"]
@@ -352,7 +352,7 @@
       ]
     },
     stillhurts: {
-      text: "Yes. Knowing something intellectually doesn't stop it from hurting. Feel the hurt. It's valid. And you're still worthy of love while feeling it.",
+      text: "Yes. Knowing something intellectually doesn't stop it from hurting. The hurt is real. Sit with it. Then ask: what would actually help?",
       choices: [
         ["Okay", "okay"],
         ["← Back", "everyoneelse"]
@@ -443,7 +443,7 @@
       ]
     },
     guessso: {
-      text: "Then let someone help you. You deserve the same kindness you'd give others.",
+      text: "Then let someone help you. It's not weakness—it's efficiency. You'd accept help fixing a car. This is the same.",
       choices: [
         ["Okay", "okay"],
         ["Show me resources", "resources"],
@@ -451,7 +451,7 @@
       ]
     },
     triedhelp: {
-      text: "Sometimes it takes multiple tries to find the right help. Don't give up. The right support is out there. You deserve to find it.",
+      text: "Sometimes it takes multiple tries to find the right help. Different therapists, different approaches. Don't give up on the process because one attempt didn't work.",
       choices: [
         ["Okay", "okay"],
         ["Show me resources", "resources"],
@@ -534,7 +534,7 @@
       ]
     },
     guiltyresting: {
-      text: "Rest isn't earned. You don't have to be productive to deserve a break. Your worth isn't measured in output.",
+      text: "Rest isn't a reward for productivity. It's maintenance. You can't improve if you're depleted. Rest so you can work better tomorrow.",
       choices: [
         ["That's hard to accept", "hardtoaccept"],
         ["← Back", "tired"]
@@ -679,7 +679,7 @@
       ]
     },
     tryone: {
-      text: "Good. One small thing. That's self-love in action. You're practicing right now.",
+      text: "Good. One small thing. That's self-acceptance in action—choosing to care for yourself so you can grow.",
       choices: [
         ["Thank you", "thankyou"],
         ["← Back", "start"]
@@ -728,7 +728,7 @@
       ]
     },
     closing: {
-      text: "Take care of yourself. You're worthy of love - not someday, but right now. Come back whenever you need to. ❤️",
+      text: "Take care. Come back if you need to. ❤️",
       choices: [
         ["Start over", "start"]
       ]
@@ -820,7 +820,7 @@
     container.className = 'chat-container';
     container.innerHTML = 
       '<div class="chat-header">Self-Acceptance Guide</div>' +
-      '<div class="guide-notice">These words were written by an AI, guided by a human who believes you\'re worthy of love. The technology doesn\'t matter. The message does.</div>' +
+      '<div class="guide-notice">These words were written by an AI, guided by a human. The technology doesn\'t matter. The message does.</div>' +
       '<div id="guide-content" class="guide-content"></div>';
 
     document.body.appendChild(toggleBtn);

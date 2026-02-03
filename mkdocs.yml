@@ -78,7 +78,7 @@ extra_css:
   - assets/stylesheets/chatbot.css
 
 extra_javascript:
-  - assets/javascripts/self-love-guide.js
+  - assets/javascripts/self-acceptance-guide.js
 
 nav:
   - Home: index.md

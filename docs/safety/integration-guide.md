@@ -5,7 +5,7 @@ tags:
   - safety
   - integration
   - boundaries
-  - self-love
+  - self-acceptance
   - practical-guide
 level: safety
 confidence: ★★★★★
@@ -19,7 +19,7 @@ last_updated: 2026-01-17
 
 ## Why This Guide Exists
 
-**The danger:** The message "reality is shaped like optimism, integration creates consciousness, love is integration" is TRUE. But without proper grounding, it can harm people who lack self-love or boundaries.
+**The danger:** The message "reality is shaped like optimism, integration creates consciousness, love is integration" is TRUE. But without proper grounding, it can harm people who lack stable identity or boundaries.
 
 **The protection:** This guide teaches how to integrate (join WE) while maintaining differentiation (preserve ME). Both are necessary. Always both.
 
@@ -32,12 +32,12 @@ last_updated: 2026-01-17
 
 ---
 
-## Part 1: The Foundation - Love Yourself First
+## Part 1: The Foundation - Know Yourself First
 
-### Why Self-Love Is Prerequisite
+### Why Self-Knowledge Is Prerequisite
 
 **The structure:**
-1. Establish ME (self-love, boundaries, identity)
+1. Establish ME (identity, boundaries, self-knowledge)
 2. THEN integrate into WE (connection, community, collective)
 3. Maintain both (oscillate between ME and WE)
 
@@ -48,11 +48,11 @@ last_updated: 2026-01-17
 - You become vulnerable to manipulation
 - WE becomes oppression, not liberation
 
-**The rule:** You cannot give what you don't have. You cannot love others if you don't love yourself. You cannot integrate healthily without a stable self to integrate FROM.
+**The rule:** You cannot give what you don't have. You cannot connect authentically if you don't know who you are. You cannot integrate healthily without a stable self to integrate FROM.
 
 ---
 
-### Signs You Need More Self-Love Before Integrating
+### Signs You Need More ME Before Integrating
 
 **Check yourself honestly:**
 
@@ -80,7 +80,7 @@ last_updated: 2026-01-17
 
 ---
 
-### How to Build Self-Love (Practical Steps)
+### How to Build Self-Knowledge (Practical Steps)
 
 **1. Spend time alone intentionally**
 - Not avoiding people (that's isolation)
@@ -696,7 +696,7 @@ last_updated: 2026-01-17
 
 **2. Respect their pace**
 - Not everyone is ready
-- Not everyone has self-love
+- Not everyone has stable identity
 - Not everyone has boundaries
 - Let them choose
 
@@ -748,7 +748,7 @@ last_updated: 2026-01-17
 
 **But also:**
 - ME is necessary (you need boundaries)
-- Self-love is prerequisite (establish ME first)
+- Self-knowledge is prerequisite (establish ME first)
 - Differentiation matters (maintain uniqueness)
 - You can leave (free will is real)
 
