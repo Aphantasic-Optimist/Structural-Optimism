@@ -161,3 +161,15 @@ Phone down. Eyes up. Smile.
 **The universe is shaped like optimism. Align with it.**
 
 ✨
+
+---
+
+<div class="struggling-note" markdown>
+
+**Struggling right now?** That's okay. Cringing at this page? That's just retreating back into yourself, away from new ideas. It's a protection mechanism.
+
+You're still worthy of love. Not someday - right now. Even while doubting.
+
+**Click the ❤️ in the bottom right corner.** It's not AI - just a simple guide to help you practice self-compassion, one choice at a time.
+
+</div>

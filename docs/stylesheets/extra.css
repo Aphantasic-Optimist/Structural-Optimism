@@ -726,3 +726,33 @@ strong {
     page-break-inside: avoid;
   }
 }
+
+
+/* ============================================
+   Struggling Note - Pointer to Self-Love Guide
+   ============================================ */
+
+.struggling-note {
+  background: linear-gradient(135deg, rgba(233, 30, 99, 0.1) 0%, rgba(156, 39, 176, 0.1) 100%);
+  border: 2px solid #e91e63;
+  border-radius: 16px;
+  padding: 1.5em 2em;
+  margin: 2em 0;
+  text-align: center;
+}
+
+.struggling-note p {
+  margin: 0.75em 0;
+}
+
+.struggling-note strong {
+  color: #c2185b;
+}
+
+[data-md-color-scheme="slate"] .struggling-note {
+  background: linear-gradient(135deg, rgba(233, 30, 99, 0.15) 0%, rgba(156, 39, 176, 0.15) 100%);
+}
+
+[data-md-color-scheme="slate"] .struggling-note strong {
+  color: #f48fb1;
+}
