@@ -1,6 +1,5 @@
 /**
- * Chatbot UI Components
- * Creates and manages DOM elements
+ * Chatbot UI - Warm and Simple
  */
 window.ChatbotUI = {
   
@@ -14,8 +13,8 @@ window.ChatbotUI = {
     var btn = document.createElement('button');
     btn.id = 'chat-toggle';
     btn.className = 'chat-toggle';
-    btn.setAttribute('aria-label', 'Open chat');
-    btn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/></svg>';
+    btn.setAttribute('aria-label', 'Talk to someone');
+    btn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>';
     return btn;
   },
 
@@ -25,10 +24,10 @@ window.ChatbotUI = {
     div.className = 'chat-container';
     div.style.display = 'none';
     div.innerHTML = 
-      '<div class="chat-header">Structural Optimism Guide</div>' +
+      '<div class="chat-header">You are worthy of love ❤️</div>' +
       '<div id="chat-messages" class="chat-messages"></div>' +
       '<div class="chat-input-area">' +
-        '<input type="text" id="chat-input" class="chat-input" placeholder="Ask a question...">' +
+        '<input type="text" id="chat-input" class="chat-input" placeholder="How are you feeling?">' +
         '<button id="chat-send" class="chat-send-btn">' +
           '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M2 21L23 12 2 3 2 10l15 2-15 2z"/></svg>' +
         '</button>' +
@@ -40,16 +39,13 @@ window.ChatbotUI = {
     var messages = document.getElementById('chat-messages');
     if (!messages) return;
     
-    // Remove typing indicator
     var typing = messages.querySelector('.typing-indicator');
     if (typing) typing.remove();
     
-    // Create message
     var msg = document.createElement('div');
     msg.className = 'chat-message ' + (isUser ? 'user' : 'bot');
     msg.textContent = text;
     
-    // Add links
     if (links && links.length && !isUser) {
       var linksDiv = document.createElement('div');
       linksDiv.className = 'chat-links';

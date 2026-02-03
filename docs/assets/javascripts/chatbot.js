@@ -1,6 +1,5 @@
 /**
- * Chatbot Main Controller
- * Orchestrates data and UI
+ * Chatbot Controller - Compassionate Matching
  */
 (function() {
   var isOpen = false;
@@ -9,12 +8,16 @@
   function findResponse(query) {
     var q = query.toLowerCase();
     var responses = window.CHATBOT_DATA.responses;
+    
+    // Check each keyword
     for (var key in responses) {
-      if (q.indexOf(key) !== -1) {
+      if (responses.hasOwnProperty(key) && q.indexOf(key) !== -1) {
         return { text: responses[key][0], links: responses[key][1] };
       }
     }
-    return { text: window.CHATBOT_DATA.fallback, links: [["Start", "proof/simple/"]] };
+    
+    // Warm fallback - never dismissive
+    return { text: window.CHATBOT_DATA.fallback, links: [] };
   }
 
   function handleInput() {
@@ -30,7 +33,7 @@
     setTimeout(function() {
       var r = findResponse(query);
       window.ChatbotUI.addMessage(r.text, false, r.links);
-    }, 300);
+    }, 500); // Slightly longer pause feels more human
   }
 
   function toggle() {
@@ -40,7 +43,7 @@
     
     if (isOpen && !hasWelcomed) {
       hasWelcomed = true;
-      window.ChatbotUI.addMessage(window.CHATBOT_DATA.welcome, false, [["Start", "proof/simple/"]]);
+      window.ChatbotUI.addMessage(window.CHATBOT_DATA.welcome, false, []);
     }
     
     if (isOpen) {
@@ -50,13 +53,13 @@
   }
 
   function init() {
-    var toggle_btn = window.ChatbotUI.createToggle();
+    var toggleBtn = window.ChatbotUI.createToggle();
     var container = window.ChatbotUI.createContainer();
     
-    document.body.appendChild(toggle_btn);
+    document.body.appendChild(toggleBtn);
     document.body.appendChild(container);
     
-    toggle_btn.onclick = toggle;
+    toggleBtn.onclick = toggle;
     document.getElementById('chat-send').onclick = handleInput;
     document.getElementById('chat-input').onkeydown = function(e) {
       if (e.key === 'Enter') handleInput();
