@@ -819,7 +819,7 @@
     container.id = 'guide-container';
     container.className = 'chat-container';
     container.innerHTML = 
-      '<div class="chat-header">Self-Acceptance Guide ❤️</div>' +
+      '<div class="chat-header">Self-Acceptance Guide</div>' +
       '<div class="guide-notice">These words were written by an AI, guided by a human who believes you\'re worthy of love. The technology doesn\'t matter. The message does.</div>' +
       '<div id="guide-content" class="guide-content"></div>';
 
