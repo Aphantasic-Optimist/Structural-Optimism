@@ -1,7 +1,7 @@
 /**
- * Self-Love Guide
+ * Self-Acceptance Guide
  * A decision tree for practicing self-compassion while doubting
- * Not AI - just human words, linked together
+ * Written by AI, guided by a human who believes you're worthy of love
  */
 (function() {
   'use strict';
@@ -810,7 +810,7 @@
     var toggleBtn = document.createElement('button');
     toggleBtn.id = 'guide-toggle';
     toggleBtn.className = 'chat-toggle';
-    toggleBtn.setAttribute('aria-label', 'Open self-love guide');
+    toggleBtn.setAttribute('aria-label', 'Open self-acceptance guide');
     toggleBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>';
     toggleBtn.onclick = toggle;
 
@@ -819,8 +819,8 @@
     container.id = 'guide-container';
     container.className = 'chat-container';
     container.innerHTML = 
-      '<div class="chat-header">Self-Love Guide ❤️</div>' +
-      '<div class="guide-notice">Not AI. Just a simple path through self-doubt toward self-compassion.</div>' +
+      '<div class="chat-header">Self-Acceptance Guide ❤️</div>' +
+      '<div class="guide-notice">These words were written by an AI, guided by a human who believes you\'re worthy of love. The technology doesn\'t matter. The message does.</div>' +
       '<div id="guide-content" class="guide-content"></div>';
 
     document.body.appendChild(toggleBtn);

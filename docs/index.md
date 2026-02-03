@@ -35,7 +35,7 @@ That feeling is what 2.2 million people in peer-reviewed studies experienced. Th
 
 You're still worthy of love. Not someday - right now. Even while doubting.
 
-**Click the ❤️ in the bottom right corner.** It's not AI - just a simple guide to help you practice self-compassion, one choice at a time.
+**Click the ❤️ in the bottom right corner.** It's a simple guide to help you practice self-acceptance, one choice at a time.
 
 </div>
 
