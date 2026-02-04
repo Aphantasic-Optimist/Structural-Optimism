@@ -494,7 +494,7 @@
       ${d.type ? `<br><span class="type">${d.type}</span>` : ''}
       ${stars ? `<br><span class="confidence">${stars}</span>` : ''}
       ${d.summary ? `<br><span class="summary">${truncate(d.summary, 150)}</span>` : ''}
-      ${d.url ? '<br><em>Click to view details</em>' : ''}
+      <br><em>Click for details</em>
     `)
       .style('left', (event.pageX + 10) + 'px')
       .style('top', (event.pageY - 10) + 'px');
@@ -505,19 +505,127 @@
   }
 
   function handleClick(event, d) {
-    if (d.url) {
-      // Resolve the URL properly for navigation
-      const resolvedUrl = resolveNodeUrl(d.url);
-      console.log('Node clicked:', d.label, 'Original URL:', d.url, 'Resolved URL:', resolvedUrl);
-      if (resolvedUrl) {
-        window.location.href = resolvedUrl;
-      }
-    }
+    event.stopPropagation();
+    showNodeDetails(d);
   }
 
   function truncate(text, maxLength) {
     if (!text) return '';
     return text.length > maxLength ? text.substring(0, maxLength) + '...' : text;
+  }
+
+  /**
+   * Show detailed node information in a modal overlay
+   */
+  function showNodeDetails(node) {
+    // Remove existing modal if any
+    const existingModal = document.getElementById('graph-node-modal');
+    if (existingModal) {
+      existingModal.remove();
+    }
+
+    // Create modal overlay
+    const modal = document.createElement('div');
+    modal.id = 'graph-node-modal';
+    modal.className = 'graph-modal';
+    
+    // Build confidence stars
+    const stars = node.confidence ? '★'.repeat(node.confidence) + '☆'.repeat(5 - node.confidence) : '';
+    const confidenceLabel = node.confidence ? 
+      ['', 'Speculative', 'Preliminary', 'Promising', 'Strong', 'Established'][node.confidence] : '';
+
+    // Get connections from full graph data
+    const connections = getNodeConnections(node.id);
+    
+    // Build modal content
+    modal.innerHTML = `
+      <div class="graph-modal-content">
+        <div class="graph-modal-header">
+          <h2>${node.label}</h2>
+          <button class="graph-modal-close" onclick="this.closest('.graph-modal').remove()">×</button>
+        </div>
+        <div class="graph-modal-body">
+          ${node.type ? `<p><strong>Type:</strong> ${node.type}</p>` : ''}
+          ${stars ? `<p><strong>Confidence:</strong> ${stars} ${confidenceLabel}</p>` : ''}
+          ${node.summary ? `<p><strong>Summary:</strong> ${node.summary}</p>` : ''}
+          ${node.created_at ? `<p><strong>Added:</strong> ${new Date(node.created_at).toLocaleDateString()}</p>` : ''}
+          ${connections.length > 0 ? `
+            <div class="graph-modal-connections">
+              <h3>Connections (${connections.length})</h3>
+              <ul>
+                ${connections.map(conn => `
+                  <li>
+                    <strong>${conn.type}:</strong> ${conn.target}
+                    ${conn.fact ? `<br><em>${conn.fact}</em>` : ''}
+                  </li>
+                `).join('')}
+              </ul>
+            </div>
+          ` : ''}
+          ${node.url ? `
+            <div class="graph-modal-actions">
+              <a href="${resolveNodeUrl(node.url)}" class="graph-modal-link">View Full Page →</a>
+            </div>
+          ` : ''}
+        </div>
+      </div>
+    `;
+
+    // Add to page
+    document.body.appendChild(modal);
+
+    // Close on background click
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) {
+        modal.remove();
+      }
+    });
+
+    // Close on escape key
+    const escapeHandler = (e) => {
+      if (e.key === 'Escape') {
+        modal.remove();
+        document.removeEventListener('keydown', escapeHandler);
+      }
+    };
+    document.addEventListener('keydown', escapeHandler);
+  }
+
+  /**
+   * Get all connections for a node
+   */
+  function getNodeConnections(nodeId) {
+    if (!fullGraphData) return [];
+    
+    const connections = [];
+    
+    fullGraphData.edges.forEach(edge => {
+      const sourceId = typeof edge.source === 'object' ? edge.source.id : edge.source;
+      const targetId = typeof edge.target === 'object' ? edge.target.id : edge.target;
+      
+      if (sourceId === nodeId) {
+        const targetNode = fullGraphData.nodes.find(n => n.id === targetId);
+        if (targetNode) {
+          connections.push({
+            type: edge.label || 'RELATED_TO',
+            target: targetNode.label,
+            fact: edge.fact || edge.name
+          });
+        }
+      } else if (targetId === nodeId) {
+        const sourceNode = fullGraphData.nodes.find(n => n.id === sourceId);
+        if (sourceNode) {
+          connections.push({
+            type: edge.label || 'RELATED_TO',
+            target: sourceNode.label,
+            fact: edge.fact || edge.name,
+            incoming: true
+          });
+        }
+      }
+    });
+    
+    return connections;
   }
 
   // Initialize when DOM is ready

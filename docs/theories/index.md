@@ -37,19 +37,13 @@ Theories are organized into **three layers** based on evidence strength:
 
 **What we know with high confidence**
 
+The evidence for Structural Optimism comes from direct empirical studies, not theoretical frameworks:
+
+- **[Love is universal](../claims/03-love-is-universal.md)** - 147/166 cultures (Jankowiak & Fischer 1992), 117,293 people across 175 countries (2025 study)
+- **[Social connection reduces mortality](../claims/02-social-connection-reduces-mortality.md)** - 50% reduction, 2.2M people meta-analysis
+- **[Neural basis of love](../evidence/fisher-neuroscience-study.md)** - VTA/caudate dopamine activation (Fisher et al.)
+
 <div class="path-grid" markdown>
-
-<div class="path-card" markdown>
-### 🧬 [Biosocial Model](biosocial-model.md)
-★★★☆☆ Promising
-
-Love as universal biological capacity with cultural variation
-
-**Evidence:**
-- 166 cultures studied
-- Evolutionary mechanisms
-- Neural basis established
-</div>
 
 <div class="path-card" markdown>
 ### 🌐 [Global Workspace Theory](global-workspace-theory.md)
@@ -181,7 +175,7 @@ Systematic verification of claims
 
 | Topic | Where to Find It | Confidence |
 |-------|------------------|------------|
-| **Social connection & mortality** | [Biosocial Model](biosocial-model.md) | ★★★★★ |
+| **Social connection & mortality** | [Claims](../claims/02-social-connection-reduces-mortality.md) | ★★★★★ |
 | **Neural correlates of consciousness** | [GWT](global-workspace-theory.md), [IIT](integrated-information-theory.md) | ★★★☆☆ |
 | **Quantum biology (birds, plants)** | [Consciousness Summary](consciousness-summary.md) | ★★★★☆ |
 | **Quantum effects in brain** | [L0.5 Interface](l05-interface.md), [Consciousness Summary](consciousness-summary.md) | ★☆☆☆☆ |
@@ -258,10 +252,10 @@ These theories are designed to be:
 <div class="path-grid" markdown>
 
 <div class="path-card" markdown>
-### 🧠 Start with Established
-[Biosocial Model →](biosocial-model.md)
+### 🧠 Start with Evidence
+[Core Claims →](../claims/index.md)
 
-Proven mechanisms
+Direct empirical evidence
 </div>
 
 <div class="path-card" markdown>
