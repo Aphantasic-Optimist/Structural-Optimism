@@ -17,13 +17,13 @@ So why are you still scrolling?
 
 You're not weak. You're not addicted. You're not broken.
 
-**You're being extracted.**
+**You're being [extracted](problem/extraction-economy.md).**
 
-A $500 billion industry employs thousands of PhDs to capture your attention and sell it. Outrage engages. Fear clicks. Division shares. Connection doesn't generate data.
+A [$500 billion industry](problem/index.md) employs thousands of PhDs to capture your attention and sell it. Outrage engages. Fear clicks. Division shares. Connection doesn't generate data.
 
 You know connection matters. They know you know. **They're betting you won't act on it.**
 
-Every time you think "I should put this down" and don't — that's not a character flaw. That's a system working exactly as designed.
+Every time you think "I should put this down" and don't — that's not a character flaw. That's [a system working exactly as designed](problem/algorithms.md).
 
 ---
 
@@ -42,7 +42,7 @@ Every time you think "I should put this down" and don't — that's not a charact
 
 If you kept reading: that's the extraction economy working. You know what to do. You're choosing not to do it. That gap between knowing and doing is where $500 billion lives.
 
-If you actually did it: notice how that felt. That's 2.2 million people in peer-reviewed studies. That's 50% mortality reduction. That's alignment with physics.
+If you actually did it: notice how that felt. That's [2.2 million people in peer-reviewed studies](claims/02-social-connection-reduces-mortality.md). That's [50% mortality reduction](proof/evidence.md). That's alignment with physics.
 
 </div>
 
@@ -52,16 +52,16 @@ If you actually did it: notice how that felt. That's 2.2 million people in peer-
 
 "Connection is good" is not the insight. The insight is **why**.
 
-Reality is structured so that integration creates complexity:
+Reality is structured so that [integration creates complexity](claims/01-integration-creates-complexity.md):
 
 - Atoms integrate → molecules
 - Molecules integrate → cells
 - Cells integrate → you
 - You integrate → relationships, civilization, meaning
 
-**Extraction reverses this.** It pulls apart what integration built. It's thermodynamically unsustainable. It depletes.
+**Extraction reverses this.** It pulls apart what integration built. It's [thermodynamically unsustainable](philosophy/universe-shaped-like-optimism.md). It depletes.
 
-The attention economy isn't just bad for your mental health. It's fighting physics. And physics always wins.
+The attention economy isn't just bad for your mental health. It's fighting physics. And [physics always wins](proof/simple.md).
 
 ---
 
@@ -79,9 +79,9 @@ Share your experience. Use the hashtag. Anywhere.
 
 **Cringing at this page?** Good. That's your pattern-recognition working. You've seen a thousand "put down your phone" takes. This looks like another one.
 
-The difference: we're not moralizing. We're describing physics. Integration creates. Extraction depletes. You can verify this yourself.
+The difference: we're not moralizing. We're [describing physics](proof/simple.md). Integration creates. Extraction depletes. You can [verify this yourself](proof/evidence.md).
 
-**Struggling right now?** That's information, not a verdict. Click the :material-heart: in the bottom right corner for a guide to honest self-reflection.
+**Struggling right now?** That's information, not a verdict. Click the :material-heart: in the bottom right corner for a guide to [honest self-reflection](practical/rapid-self-wisdom.md).
 
 </div>
 
@@ -97,13 +97,13 @@ Not a gotcha. A genuine question.
 
 The answer is probably: because reading about connection is easier than making it. Because understanding a problem feels like solving it. Because you're smart enough to know what's right but not yet brave enough to do it.
 
-That's not a character flaw. That's the gap the extraction economy lives in.
+That's not a character flaw. That's the gap [the extraction economy](problem/extraction-economy.md) lives in.
 
-**The billionaire in his mansion?** Knows connection matters. Still lonely.  
+**The billionaire in his mansion?** Knows connection matters. [Still lonely](instability/consciousness-extraction-economy.md).  
 **The influencer with millions of followers?** Knows connection matters. Still lonely.  
 **You, reading this?** Know connection matters. Still scrolling.
 
-The solution isn't more knowledge. It's action. One smile. One wave. One moment of actual presence.
+The solution isn't more knowledge. It's action. One smile. One wave. One moment of [actual presence](practical/daily-practice.md).
 
 ---
 
@@ -111,11 +111,11 @@ The solution isn't more knowledge. It's action. One smile. One wave. One moment 
 
 Every generation has said "put down the distraction." Books. Radio. TV. Phones.
 
-**This time the distraction fights back.**
+**This time [the distraction fights back](problem/algorithms.md).**
 
 Previous distractions were passive. You could put down a book. The book didn't send you notifications. The book didn't learn your vulnerabilities. The book didn't employ behavioral psychologists to maximize your engagement.
 
-The attention economy is the first distraction that actively resists being put down. It's adaptive. It's personalized. It's optimized against your specific weaknesses.
+The attention economy is the first distraction that actively resists being put down. It's adaptive. It's personalized. It's [optimized against your specific weaknesses](problem/free-will.md).
 
 **That's why knowing isn't enough anymore.**
 
@@ -123,7 +123,7 @@ Gandhi didn't explain British economic exploitation. He picked up salt. Everyone
 
 **Phone down. Eyes up. Smile and wave.** Everyone understands.
 
-The action is the message. The practice is the resistance.
+The action is the message. The practice is [the resistance](solutions/integration-movement.md).
 
 ---
 
@@ -131,14 +131,14 @@ The action is the message. The practice is the resistance.
 
 | Claim | Evidence |
 |-------|----------|
-| Connection reduces mortality | 50% reduction, 2.2M people, Wang et al. 2023 |
-| Love is universal | 166 cultures, Jankowiak & Fischer 1992 |
-| Nonviolent movements work | 3.5% participation = 100% success rate |
-| Attention economy size | $500B+ industry |
+| [Connection reduces mortality](claims/02-social-connection-reduces-mortality.md) | 50% reduction, 2.2M people, Wang et al. 2023 |
+| [Love is universal](claims/03-love-is-universal.md) | 166 cultures, Jankowiak & Fischer 1992 |
+| [Nonviolent movements work](solutions/integration-movement.md) | 3.5% participation = 100% success rate |
+| [Attention economy](problem/extraction-economy.md) | $500B+ industry |
 
 **This is peer-reviewed. Replicated. Measurable.**
 
-Not feelings. Not philosophy. Physics and biology doing what they do.
+Not feelings. Not philosophy. [Physics and biology](proof/simple.md) doing what they do.
 
 [See the full evidence →](proof/evidence.md)
 
@@ -148,10 +148,10 @@ Not feelings. Not philosophy. Physics and biology doing what they do.
 
 | What They Sell | What You Need |
 |----------------|---------------|
-| Engagement | Connection |
-| Stimulation | Meaning |
-| Convenience | Agency |
-| Followers | Friends |
+| Engagement | [Connection](practical/me-to-we.md) |
+| Stimulation | [Meaning](philosophy/absurdist-optimism.md) |
+| Convenience | [Agency](problem/free-will.md) |
+| Followers | [Friends](practical/give-humanity-we-back.md) |
 
 **Engagement ≠ Connection.** Scrolling is not relating. Likes are not love.
 
@@ -200,7 +200,7 @@ See what others are saying. Share your story.
 ### 🎯 Just Practice
 [Start the Daily Practice →](practical/daily-practice.md)
 
-One minute. Every day.
+One minute. Every day. Or try [rapid self-wisdom](practical/rapid-self-wisdom.md).
 </div>
 
 </div>
@@ -218,7 +218,7 @@ Three facts. Five minutes.
 ### 🌍 Go Deeper
 [Why This Matters →](problem/index.md)
 
-The extraction economy. The integration alternative.
+The [extraction economy](problem/extraction-economy.md). The [integration alternative](solutions/index.md).
 </div>
 
 </div>
@@ -229,7 +229,7 @@ The extraction economy. The integration alternative.
 ### ⚡ The Strategy
 [The Integration Movement →](solutions/integration-movement.md)
 
-How we win. Without violence.
+How we win. Without violence. See also: [system change](solutions/system-change.md), [economic transition](solutions/economic-transition.md).
 </div>
 
 <div class="path-card" markdown>
@@ -245,42 +245,42 @@ Great ideas from imperfect people. You're in good company.
 
 ## The Deeper Truth
 
-This isn't about hating technology. It's about **alignment**.
+This isn't about hating technology. It's about **[alignment](claims/04-alignment-enables-flourishing.md)**.
 
-Reality is structured toward integration:
+Reality is [structured toward integration](philosophy/universe-shaped-like-optimism.md):
 - Atoms form molecules
 - Molecules form cells  
 - Cells form you
 - You form relationships
 
-**Integration creates complexity. We experience integration as love.**
+**[Integration creates complexity](claims/01-integration-creates-complexity.md). We experience integration as [love](claims/03-love-is-universal.md).**
 
-The current system extracts. It pulls us apart to profit from the pieces.
+The current system extracts. It [pulls us apart](problem/extraction-economy.md) to profit from the pieces.
 
-**Extraction depletes. Integration flourishes.**
+**Extraction depletes. [Integration flourishes](solutions/index.md).**
 
-When you put the phone down and look someone in the eyes, you're not being nostalgic. You're aligning with physics.
+When you put the phone down and look someone in the eyes, you're not being nostalgic. You're [aligning with physics](proof/simple.md).
 
 ---
 
 ## One Last Thing
 
-You don't have to be perfect.
+You don't have to be [perfect](philosophy/moral-exemplars.md).
 
 You don't have to understand everything.
 
-You don't have to fix the whole system alone.
+You don't have to [fix the whole system alone](solutions/system-change.md).
 
-**You just have to connect.**
+**You just have to [connect](practical/me-to-we.md).**
 
 We've all gotten lost in our screens. That's okay. We were optimizing the only way we knew how.
 
-Now we know better. Not through shame—through science. Through 2.2 million people proving what every grandmother already knew.
+Now we know better. Not through shame—through [science](proof/evidence.md). Through [2.2 million people](claims/02-social-connection-reduces-mortality.md) proving what every grandmother already knew.
 
 Phone down. Eyes up. Smile and wave.
 
-Reach out to someone. A text. A call. A hug. Connection doesn't have to be dramatic. It just has to be real. And it has to be now—not someday, not when you're ready. Your life depends on it.
+Reach out to someone. A text. A call. A hug. Connection doesn't have to be dramatic. It just has to be real. And it has to be now—not someday, not when you're ready. [Your life depends on it](proof/simple.md).
 
-**The universe is shaped like optimism. Align with it.**
+**[The universe is shaped like optimism](philosophy/universe-shaped-like-optimism.md). Align with it.**
 
 ✨
