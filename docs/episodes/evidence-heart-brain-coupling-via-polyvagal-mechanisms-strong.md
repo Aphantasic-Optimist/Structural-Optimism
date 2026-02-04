@@ -51,10 +51,10 @@ This episode created or referenced **11 relationship(s)** in the knowledge graph
 - [Heart-brain coupling](../entities/heart-brain-coupling.md) **OCCURS_IN** [Beta band](../entities/beta-band.md)
   *Heart-brain coupling occurs across beta band*
 
-- [Heart rate variability](../entities/heart-rate-variability.md) **SYNCHRONIZES_WITH** [Brain waves](../entities/brain-waves.md)
+- [Heart rate variability](../entities/heart-rate-variability.md) **SYNCHRONIZES_THROUGH** [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)
   *Heart rate variability synchronizes with brain waves through vagal mechanisms*
 
-- [Heart rate variability](../entities/heart-rate-variability.md) **SYNCHRONIZES_THROUGH** [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)
+- [Heart rate variability](../entities/heart-rate-variability.md) **SYNCHRONIZES_WITH** [Brain waves](../entities/brain-waves.md)
   *Heart rate variability synchronizes with brain waves through vagal mechanisms*
 
 - [Heart-brain coupling](../entities/heart-brain-coupling.md) **OCCURS_IN** [Delta band](../entities/delta-band.md)

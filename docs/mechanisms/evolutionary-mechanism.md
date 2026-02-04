@@ -1,18 +1,18 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Evolutionary mechanism
+description: Evolutionary mechanism
 ---
 
-# Heart rate variability
+# Evolutionary mechanism
 
-**Type:** Entity  
+**Type:** Mechanism  
 **Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="evolutionary-mechanism" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,35 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Evolutionary mechanisms explain romantic love as mammalian courtship system for focusing mating energy on preferred partners, social connection's 50% mortality reduction through oxytocin-dopamine pathways creating reward loops.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
+
+This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **EXPLAINED_BY**: [Romantic love](../entities/romantic-love.md)  
+  *Romantic love is explained by an evolutionary mechanism as a mammalian courtship attraction system*
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **EXPLAINED_BY**: [Human phenomenon](../entities/human-phenomenon.md)  
+  *Romantic love as a human phenomenon is explained by evolutionary mechanisms as a mammalian courtship attraction system*
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **EXPLAINS_EVOLUTION_OF**: [Long-term relationships](../entities/long-term-relationships.md)  
+  *Evolutionary mechanism explains romantic love evolved as mammalian courtship attraction system to focus mating energy on preferred partners for long-term relationships*
   📚 Mentioned in 1 episode(s)
 
 

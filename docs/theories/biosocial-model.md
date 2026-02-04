@@ -1,18 +1,18 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Biosocial model
+description: Biosocial model
 ---
 
-# Heart rate variability
+# Biosocial model
 
-**Type:** Entity  
+**Type:** Theory  
 **Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="biosocial-model" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,32 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Biosocial model explains romantic love as universal biological capacity with culturally variable expression. Developed by de Munck (PMC12118770), combines evolutionary mechanisms with social factors.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
+
+This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **EXPLAINED_BY**: [Romantic love](../entities/romantic-love.md)  
+  *Romantic love is explained by the biosocial model as universal biological capacity with culturally variable expression*
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **DESCRIBES**: [PMC12118770](../entities/pmc12118770.md)  
+  *PMC12118770 describes the biosocial model of romantic love*
+  📚 Mentioned in 1 episode(s)
+
+- **CONTAINS**: [de Munck biosocial model](de-munck-biosocial-model.md)  
+  *The de Munck biosocial model contains the biosocial framework for understanding romantic love*
   📚 Mentioned in 1 episode(s)
 
 

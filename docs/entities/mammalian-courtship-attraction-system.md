@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Mammalian courtship attraction system
+description: Mammalian courtship attraction system
 ---
 
-# Heart rate variability
+# Mammalian courtship attraction system
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="mammalian-courtship-attraction-system" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,35 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Evolutionary system where romantic love evolved as mammalian courtship attraction to focus mating energy on preferred partners. Activates dopamine reward pathways (VTA, caudate nucleus) universally across cultures. Found in 147 of 166 cultures studied.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
 **Valid Since:** 2026-02-04  
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
+- **EVOLVED_AS**: [Romantic love](romantic-love.md)  
+  *Romantic love evolved as a mammalian courtship attraction system to focus mating energy on preferred partners*
   📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **EVOLVED_FROM**: [Human phenomenon](human-phenomenon.md)  
+  *Romantic love as a human phenomenon evolved from the mammalian courtship attraction system to focus mating energy on preferred partners*
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **DESCRIBED_IN**: [PMC12118770](pmc12118770.md)  
+  *Mammalian courtship attraction system is described in PMC12118770*
   📚 Mentioned in 1 episode(s)
 
 

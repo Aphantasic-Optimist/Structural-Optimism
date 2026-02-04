@@ -45,7 +45,7 @@ description: dopamine release
 
 ## Summary
 
-Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes approach behavior. Released in nucleus accumbens through oxytocin-VTA pathway during social interaction.
+Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes approach behavior. Released in nucleus accumbens through oxytocin-VTA pathway during social interaction and romantic love via VTA-caudate nucleus activation.
 
 ---
 
@@ -59,6 +59,18 @@ Neurotransmitter that acts as accelerator for reward-seeking behavior, signals w
 ## Relationships
 
 ### Supported By
+
+- **ACTIVATES**: [Human phenomenon](human-phenomenon.md)  
+  *Romantic love as a human phenomenon activates dopamine reward pathways consistently across cultures*
+  📚 Mentioned in 1 episode(s)
+
+- **ACTIVATES**: [Romantic love](romantic-love.md)  
+  *Romantic love activates dopamine reward pathways across all cultures*
+  📚 Mentioned in 1 episode(s)
+
+- **ACTIVATES**: [Dopaminergic activation patterns](dopaminergic-activation-patterns.md)  
+  *Dopaminergic activation patterns activate dopamine reward pathways across culturally diverse individuals in love*
+  📚 Mentioned in 1 episode(s)
 
 - **INCREASES**: [oxytocin](oxytocin.md)  
   *Oxytocin increases dopamine release in nucleus accumbens*

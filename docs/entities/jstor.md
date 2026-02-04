@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: JSTOR
+description: JSTOR
 ---
 
-# Heart rate variability
+# JSTOR
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="jstor" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,24 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+JSTOR is an academic database that hosts scholarly articles. Referenced as source for Jankowiak & Fischer 1992 study on romantic love across cultures (JSTOR 3773618).
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
+
+This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
-  📚 Mentioned in 1 episode(s)
-
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **ARCHIVED_IN**: [Jankowiak & Fischer study](../evidence/jankowiak-fischer-study.md)  
+  *The Jankowiak & Fischer study is archived in JSTOR with reference 3773618*
   📚 Mentioned in 1 episode(s)
 
 

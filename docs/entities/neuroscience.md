@@ -6,7 +6,7 @@ description: neuroscience
 # neuroscience
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
@@ -45,7 +45,7 @@ description: neuroscience
 
 ## Summary
 
-Social connection reduces mortality by ~50% (meta-analysis of 148 studies, 300k+ participants). Dopamine acts as accelerator for reward-seeking; serotonin as brake promoting patience. Both findings well-established.
+Social connection reduces mortality ~50% via oxytocin→VTA dopamine→nucleus accumbens pathway. Dopamine accelerates reward-seeking, serotonin brakes for patience. HRV syncs with brain waves through vagal mechanisms. Romantic love shows universal dopaminergic activation across cultures.
 
 ---
 
@@ -69,6 +69,17 @@ Social connection reduces mortality by ~50% (meta-analysis of 148 studies, 300k+
 - **SUPPORTS_EVIDENCE_FOR**: [Stanford 2024 study](../evidence/stanford-2024-study.md)  
   *Stanford 2024 study provides evidence for established neuroscience mechanisms*
   📅 Valid since: 2024-01-01
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **DEMONSTRATES**: [Dopaminergic activation patterns](dopaminergic-activation-patterns.md)  
+  *Neuroscience research demonstrates consistent dopaminergic activation patterns across culturally diverse individuals in love*
+  📚 Mentioned in 1 episode(s)
+
+- **DEMONSTRATES**: [Romantic love](romantic-love.md)  
+  *Neuroscience research shows consistent dopaminergic activation patterns in the VTA and caudate nucleus across culturally diverse individuals in love*
   📚 Mentioned in 1 episode(s)
 
 

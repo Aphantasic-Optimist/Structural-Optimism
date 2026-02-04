@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Cultural variation
+description: Cultural variation
 ---
 
-# Heart rate variability
+# Cultural variation
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="cultural-variation" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,28 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Cultural variation in romantic love: Nuclear family systems value it more; higher female status correlates with emphasis; modernization increases importance; lower SES values it MORE as commitment device.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
+
+This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **EXHIBITS**: [Romantic love](romantic-love.md)  
+  *Romantic love exhibits cultural variation in expression while maintaining universal biological capacity*
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **EXHIBITS**: [Human phenomenon](human-phenomenon.md)  
+  *Romantic love as a human phenomenon exhibits cultural variation in how nuclear family systems, female status, and modernization affect its cultural importance*
   📚 Mentioned in 1 episode(s)
 
 

@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Modernization
+description: Modernization
 ---
 
-# Heart rate variability
+# Modernization
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="modernization" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,14 +45,13 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Modernization increases the cultural importance and emphasis on romantic love in societies, part of broader social evolution patterns affecting relationship values and cultural norms.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
 **Valid Since:** 2026-02-04  
 
 ---
@@ -61,13 +60,16 @@ Heart rate variability synchronizes with brain waves through vagal mechanisms. H
 
 ### Supports
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **INCREASES**: [Human phenomenon](human-phenomenon.md)  
+  *Modernization increases romantic love's cultural importance as a human phenomenon*
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
+- **INCREASES_IMPORTANCE_OF**: [Long-term relationships](long-term-relationships.md)  
+  *Modernization increases romantic love's cultural importance in long-term relationships*
+  📚 Mentioned in 1 episode(s)
+
+- **INCREASES**: [Romantic love](romantic-love.md)  
+  *Modernization increases romantic love's cultural importance*
   📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 

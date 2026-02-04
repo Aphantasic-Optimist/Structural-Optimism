@@ -45,19 +45,41 @@ description: ventral tegmental area
 
 ## Summary
 
-Brain region containing dopamine neurons that are directly modulated by oxytocin during social interactions. Releases dopamine to nucleus accumbens, creating reward sensation and positive feedback loop for social behavior.
+Brain region containing dopamine neurons modulated by oxytocin during social interactions. Releases dopamine to nucleus accumbens creating reward sensation. Shows consistent activation patterns across cultures in romantic love studies.
 
 ---
 
 ## Timeline
 
 **Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Valid Since:** 2026-02-04  
 
 ---
 
 ## Relationships
+
+### Supported By
+
+- **ACTIVATES**: [Human phenomenon](human-phenomenon.md)  
+  *Romantic love as a human phenomenon activates dopaminergic patterns in the ventral tegmental area across culturally diverse individuals*
+  📚 Mentioned in 1 episode(s)
+
+- **ACTIVATES**: [Romantic love](romantic-love.md)  
+  *Romantic love activates dopamine reward pathways including the ventral tegmental area*
+  📚 Mentioned in 1 episode(s)
+
+- **INVOLVES**: [Dopaminergic activation patterns](dopaminergic-activation-patterns.md)  
+  *Dopaminergic activation patterns involve the ventral tegmental area and caudate nucleus*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **STUDIED_IN**: [PMC1764845](pmc1764845.md)  
+  *The ventral tegmental area was studied in PMC1764845 Fisher neuroscience research on romantic love*
+  📚 Mentioned in 1 episode(s)
+
 
 ---
 

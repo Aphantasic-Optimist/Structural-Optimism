@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Ethnographic evidence
+description: Ethnographic evidence
 ---
 
-# Heart rate variability
+# Ethnographic evidence
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="ethnographic-evidence" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,39 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Research methodology used by Jankowiak & Fischer (1992) to analyze romantic love across 166 cultures, finding evidence in 147 cultures (88.5%). Published in Ethnology journal (JSTOR 3773618).
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
+**Valid Since:** 1992-01-01  
+**Valid Since:** 1992-01-01  
+**Valid Since:** 1992-01-01  
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **SUPPORTED_BY**: [Jankowiak & Fischer study](../evidence/jankowiak-fischer-study.md)  
+  *The Jankowiak & Fischer study used ethnographic evidence to analyze romantic love across cultures*
+  📅 Valid since: 1992-01-01
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+
+### Supports
+
+- **PROVIDES_EVIDENCE_FOR**: [Long-term relationships](long-term-relationships.md)  
+  *Ethnographic evidence from 147 of 166 cultures demonstrates that romantic love is valued for long-term relationships*
+  📅 Valid since: 1992-01-01
+  📚 Mentioned in 1 episode(s)
+
+- **PUBLISHED_IN**: [Ethnology journal](ethnology-journal.md)  
+  *Ethnographic evidence on romantic love was published in Ethnology journal by Jankowiak & Fischer in 1992*
+  📅 Valid since: 1992-01-01
   📚 Mentioned in 1 episode(s)
 
 

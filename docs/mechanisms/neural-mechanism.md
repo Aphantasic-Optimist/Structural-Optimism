@@ -45,19 +45,30 @@ description: neural mechanism
 
 ## Summary
 
-Neural mechanisms include: social connection → oxytocin → VTA dopamine → nucleus accumbens reward loop; dopamine accelerates reward-seeking while serotonin provides inhibitory brake; heart rate variability couples with brain waves via vagal pathways across frequency bands.
+Neural mechanisms include: social connection → oxytocin → VTA dopamine → nucleus accumbens reward loop; dopamine accelerates reward-seeking while serotonin provides inhibitory brake; heart rate variability couples with brain waves via vagal pathways; romantic love activates dopamine reward pathways (VTA, caudate nucleus) universally across cultures as mammalian courtship attraction system.
 
 ---
 
 ## Timeline
 
 **Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Valid Since:** 2026-02-04  
 
 ---
 
 ## Relationships
+
+### Supported By
+
+- **INVOLVES**: [Romantic love](../entities/romantic-love.md)  
+  *Romantic love involves neural mechanisms that activate dopamine reward pathways consistently across cultures*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **EXPLAINED_BY**: [Human phenomenon](../entities/human-phenomenon.md)  
+  *Romantic love as a human phenomenon is explained by neural mechanisms involving consistent dopaminergic activation patterns across cultures*
+  📚 Mentioned in 1 episode(s)
+
 
 ### Supports
 

@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Nuclear family systems
+description: Nuclear family systems
 ---
 
-# Heart rate variability
+# Nuclear family systems
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="nuclear-family-systems" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,35 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Family structure where nuclear family systems value romantic love more highly than other family structures. Cultural organization pattern that correlates with increased emphasis on romantic love in relationships.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
+
+This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **VALUED_MORE_BY**: [Human phenomenon](human-phenomenon.md)  
+  *Romantic love as a human phenomenon is valued more highly by nuclear family systems*
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+
+### Supports
+
+- **VALUES_MORE**: [Romantic love](romantic-love.md)  
+  *Nuclear family systems value romantic love more highly than other family systems*
+  📚 Mentioned in 1 episode(s)
+
+- **VALUE_MORE_HIGHLY**: [Long-term relationships](long-term-relationships.md)  
+  *Nuclear family systems value romantic love more highly for long-term relationships*
   📚 Mentioned in 1 episode(s)
 
 

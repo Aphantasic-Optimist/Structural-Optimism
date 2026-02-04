@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Lower socioeconomic status individuals
+description: Lower socioeconomic status individuals
 ---
 
-# Heart rate variability
+# Lower socioeconomic status individuals
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="lower-socioeconomic-status-individuals" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,14 +45,13 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Lower SES individuals value romantic love MORE than higher SES groups, using it as commitment device for economic vulnerability according to cross-cultural study of 117,293 participants across 175 countries.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
 **Valid Since:** 2026-02-04  
 
 ---
@@ -61,14 +60,13 @@ Heart rate variability synchronizes with brain waves through vagal mechanisms. H
 
 ### Supports
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
+- **VALUES_MORE**: [Romantic love](romantic-love.md)  
+  *Lower socioeconomic status individuals value romantic love more than higher SES individuals*
   📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **VALUE_MORE**: [Long-term relationships](long-term-relationships.md)  
+  *Lower socioeconomic status individuals value romantic love more in long-term relationships*
   📚 Mentioned in 1 episode(s)
 
 

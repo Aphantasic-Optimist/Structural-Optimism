@@ -1,9 +1,9 @@
 ---
-title: Heart rate variability
-description: Heart rate variability
+title: Caudate nucleus
+description: Caudate nucleus
 ---
 
-# Heart rate variability
+# Caudate nucleus
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Heart rate variability
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="heart-rate-variability" data-depth="2"></div>
+<div class="mini-graph" data-node-id="caudate-nucleus" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,30 +45,35 @@ description: Heart rate variability
 
 ## Summary
 
-Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotion regulation.
+Brain region that shows consistent dopaminergic activation patterns across culturally diverse individuals experiencing romantic love. Part of reward pathways involved in love's neural mechanisms.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
-**Valid Since:** 2026-02-04  
-**Valid Since:** 2026-02-04  
+**Added to Knowledge Graph:** 2026-02-04 14:53 UTC  
+
+This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ---
 
 ## Relationships
 
-### Supports
+### Supported By
 
-- **SYNCHRONIZES_THROUGH**: [Vagal mechanisms](../mechanisms/vagal-mechanisms.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **ACTIVATES**: [Human phenomenon](human-phenomenon.md)  
+  *Romantic love as a human phenomenon activates dopaminergic patterns in the caudate nucleus across culturally diverse individuals*
   📚 Mentioned in 1 episode(s)
 
-- **SYNCHRONIZES_WITH**: [Brain waves](brain-waves.md)  
-  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
-  📅 Valid since: 2026-02-04
+- **INCLUDES**: [Dopaminergic activation patterns](dopaminergic-activation-patterns.md)  
+  *Dopaminergic activation patterns include activation in the caudate nucleus*
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **STUDIED_IN**: [PMC1764845](pmc1764845.md)  
+  *The caudate nucleus was studied in PMC1764845 Fisher neuroscience research on romantic love*
   📚 Mentioned in 1 episode(s)
 
 

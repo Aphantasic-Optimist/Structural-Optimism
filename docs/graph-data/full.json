@@ -21,6 +21,16 @@
       "slug": "social-interaction"
     },
     {
+      "id": "07f03add-5961-4b08-913f-df0880d91636",
+      "label": "All-cause mortality",
+      "type": "Entity",
+      "summary": "All-cause mortality reduced by ~50% through social connection according to meta-analysis of 148 studies with 300,000+ participants (Holt-Lunstad et al. 2010). Effect comparable to quitting smoking.",
+      "confidence": 5,
+      "url": "/claims/02-social-connection-reduces-mortality/",
+      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
+      "slug": "all-cause-mortality"
+    },
+    {
       "id": "2e442034-eeac-4163-981d-a648904020ae",
       "label": "Meta-analytic evidence",
       "type": "Entity",
@@ -31,14 +41,14 @@
       "slug": "meta-analytic-evidence"
     },
     {
-      "id": "07f03add-5961-4b08-913f-df0880d91636",
-      "label": "All-cause mortality",
+      "id": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "Romantic love",
       "type": "Entity",
-      "summary": "All-cause mortality reduced by ~50% through social connection according to meta-analysis of 148 studies with 300,000+ participants (Holt-Lunstad et al. 2010). Effect comparable to quitting smoking.",
-      "confidence": 5,
-      "url": "/claims/02-social-connection-reduces-mortality/",
-      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
-      "slug": "all-cause-mortality"
+      "summary": "Near-universal human phenomenon found in 147 of 166 cultures (88.5%). Activates dopaminergic reward pathways (VTA, caudate nucleus) consistently across cultures. Evolved as mammalian courtship system to focus mating energy on preferred partners.",
+      "confidence": 3,
+      "url": "/entities/romantic-love/",
+      "markdown_url": "entities/romantic-love.md",
+      "slug": "romantic-love"
     },
     {
       "id": "cb65f78b-40f1-4bc0-acee-b241ec09a716",
@@ -59,6 +69,86 @@
       "url": "/entities/heart-brain-coupling/",
       "markdown_url": "entities/heart-brain-coupling.md",
       "slug": "heart-brain-coupling"
+    },
+    {
+      "id": "79eadcbc-7eab-4d57-9621-22d1cc7a0953",
+      "label": "Ethnographic evidence",
+      "type": "Entity",
+      "summary": "Research methodology used by Jankowiak & Fischer (1992) to analyze romantic love across 166 cultures, finding evidence in 147 cultures (88.5%). Published in Ethnology journal (JSTOR 3773618).",
+      "confidence": 3,
+      "url": "/entities/ethnographic-evidence/",
+      "markdown_url": "entities/ethnographic-evidence.md",
+      "slug": "ethnographic-evidence"
+    },
+    {
+      "id": "1aa53d94-09af-4c25-8fe9-a3cb24ca196c",
+      "label": "Biosocial model",
+      "type": "Theory",
+      "summary": "Biosocial model explains romantic love as universal biological capacity with culturally variable expression. Developed by de Munck (PMC12118770), combines evolutionary mechanisms with social factors.",
+      "confidence": 3,
+      "url": "/theories/biosocial-model/",
+      "markdown_url": "theories/biosocial-model.md",
+      "slug": "biosocial-model"
+    },
+    {
+      "id": "1575a6f4-1095-4c42-a9f5-c3cb6284e714",
+      "label": "Mammalian courtship attraction system",
+      "type": "Entity",
+      "summary": "Evolutionary system where romantic love evolved as mammalian courtship attraction to focus mating energy on preferred partners. Activates dopamine reward pathways (VTA, caudate nucleus) universally across cultures. Found in 147 of 166 cultures studied.",
+      "confidence": 3,
+      "url": "/entities/mammalian-courtship-attraction-system/",
+      "markdown_url": "entities/mammalian-courtship-attraction-system.md",
+      "slug": "mammalian-courtship-attraction-system"
+    },
+    {
+      "id": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "Long-term relationships",
+      "type": "Entity",
+      "summary": "Romantic love universally valued for long-term relationships across 175 countries (2025 study, 117K participants). Social connection reduces mortality 50% via oxytocin-dopamine pathways. Heart-brain coupling enhances emotion regulation.",
+      "confidence": 3,
+      "url": "/entities/long-term-relationships/",
+      "markdown_url": "entities/long-term-relationships.md",
+      "slug": "long-term-relationships"
+    },
+    {
+      "id": "fcf0e1ca-92f2-489d-8643-cf210fae139b",
+      "label": "de Munck biosocial model",
+      "type": "Theory",
+      "summary": "Biosocial model explaining romantic love as universal biological capacity with culturally variable expression. Referenced in PMC12118770 study on cross-cultural romantic love patterns.",
+      "confidence": 3,
+      "url": "/theories/de-munck-biosocial-model/",
+      "markdown_url": "theories/de-munck-biosocial-model.md",
+      "slug": "de-munck-biosocial-model"
+    },
+    {
+      "id": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "label": "Human phenomenon",
+      "type": "Entity",
+      "summary": "Universal human phenomena include social connection (reduces mortality 50%, comparable to quitting smoking), romantic love (found in 147/166 cultures, activates dopamine pathways), and neurochemical systems where dopamine drives reward-seeking while serotonin promotes patience and long-term think...",
+      "confidence": 3,
+      "url": "/entities/human-phenomenon/",
+      "markdown_url": "entities/human-phenomenon.md",
+      "slug": "human-phenomenon"
+    },
+    {
+      "id": "1fe3e609-7781-4b36-90af-78c85d48a8fa",
+      "label": "Evolutionary mechanism",
+      "type": "Mechanism",
+      "summary": "Evolutionary mechanisms explain romantic love as mammalian courtship system for focusing mating energy on preferred partners, social connection's 50% mortality reduction through oxytocin-dopamine pathways creating reward loops.",
+      "confidence": 3,
+      "url": "/mechanisms/evolutionary-mechanism/",
+      "markdown_url": "mechanisms/evolutionary-mechanism.md",
+      "slug": "evolutionary-mechanism"
+    },
+    {
+      "id": "dbaf3574-9a25-4e56-8d33-fb0396f9aeec",
+      "label": "Cultural variation",
+      "type": "Entity",
+      "summary": "Cultural variation in romantic love: Nuclear family systems value it more; higher female status correlates with emphasis; modernization increases importance; lower SES values it MORE as commitment device.",
+      "confidence": 3,
+      "url": "/entities/cultural-variation/",
+      "markdown_url": "entities/cultural-variation.md",
+      "slug": "cultural-variation"
     },
     {
       "id": "b775cdc1-2ead-44ac-9eae-5112b8d940c9",
@@ -84,7 +174,7 @@
       "id": "dcc74db2-82e8-4f60-aa93-d7df32038ec9",
       "label": "neural mechanism",
       "type": "Mechanism",
-      "summary": "Neural mechanisms include: social connection \u2192 oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens reward loop; dopamine accelerates reward-seeking while serotonin provides inhibitory brake; heart rate variability couples with brain waves via vagal pathways across frequency bands.",
+      "summary": "Neural mechanisms include: social connection \u2192 oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens reward loop; dopamine accelerates reward-seeking while serotonin provides inhibitory brake; heart rate variability couples with brain waves via vagal pathways; romantic love activates dopamine reward pathwa...",
       "confidence": 3,
       "url": "/mechanisms/neural-mechanism/",
       "markdown_url": "mechanisms/neural-mechanism.md",
@@ -111,11 +201,31 @@
       "slug": "serotonin"
     },
     {
+      "id": "06793669-3acd-40fe-bdc4-ee4af14ddbe6",
+      "label": "Nuclear family systems",
+      "type": "Entity",
+      "summary": "Family structure where nuclear family systems value romantic love more highly than other family structures. Cultural organization pattern that correlates with increased emphasis on romantic love in relationships.",
+      "confidence": 3,
+      "url": "/entities/nuclear-family-systems/",
+      "markdown_url": "entities/nuclear-family-systems.md",
+      "slug": "nuclear-family-systems"
+    },
+    {
+      "id": "c051b8c8-0500-4605-aa64-e33bb85e8ede",
+      "label": "Commitment device",
+      "type": "Entity",
+      "summary": "Economic concept where individuals with lower socioeconomic status use romantic love as a commitment device to manage economic vulnerability in relationships.",
+      "confidence": 3,
+      "url": "/entities/commitment-device/",
+      "markdown_url": "entities/commitment-device.md",
+      "slug": "commitment-device"
+    },
+    {
       "id": "d3bb6c37-8024-45e0-9b6d-1f7c25cfa39f",
       "label": "neuroscience",
       "type": "Entity",
-      "summary": "Social connection reduces mortality by ~50% (meta-analysis of 148 studies, 300k+ participants). Dopamine acts as accelerator for reward-seeking; serotonin as brake promoting patience. Both findings well-established.",
-      "confidence": 5,
+      "summary": "Social connection reduces mortality ~50% via oxytocin\u2192VTA dopamine\u2192nucleus accumbens pathway. Dopamine accelerates reward-seeking, serotonin brakes for patience. HRV syncs with brain waves through vagal mechanisms. Romantic love shows universal dopaminergic activation across cultures.",
+      "confidence": 3,
       "url": "/entities/neuroscience/",
       "markdown_url": "entities/neuroscience.md",
       "slug": "neuroscience"
@@ -171,6 +281,16 @@
       "slug": "long-term-thinking"
     },
     {
+      "id": "8f7e1f98-a495-4aad-a2cf-110011d18f49",
+      "label": "Lower socioeconomic status individuals",
+      "type": "Entity",
+      "summary": "Lower SES individuals value romantic love MORE than higher SES groups, using it as commitment device for economic vulnerability according to cross-cultural study of 117,293 participants across 175 countries.",
+      "confidence": 3,
+      "url": "/entities/lower-socioeconomic-status-individuals/",
+      "markdown_url": "entities/lower-socioeconomic-status-individuals.md",
+      "slug": "lower-socioeconomic-status-individuals"
+    },
+    {
       "id": "c740e4cc-849e-4f0e-92b7-02f9345d2d15",
       "label": "Emotion regulation",
       "type": "Entity",
@@ -191,6 +311,16 @@
       "slug": "brain-waves"
     },
     {
+      "id": "301c5e4b-a108-4a29-8c9c-a2ef8b8a653f",
+      "label": "Jankowiak & Fischer study",
+      "type": "Evidence",
+      "summary": "1992 ethnographic study published in Ethnology (JSTOR 3773618) that examined 166 cultures and found evidence of romantic love in 147 cultures (88.5%), demonstrating romantic love as a near-universal human phenomenon rather than Western invention.",
+      "confidence": 3,
+      "url": "/evidence/jankowiak-fischer-study/",
+      "markdown_url": "evidence/jankowiak-fischer-study.md",
+      "slug": "jankowiak-fischer-study"
+    },
+    {
       "id": "10173f63-d888-44a4-9251-59a82acc90c1",
       "label": "Nature",
       "type": "Entity",
@@ -209,6 +339,16 @@
       "url": "/claims/02-social-connection-reduces-mortality/",
       "markdown_url": "claims/02-social-connection-reduces-mortality.md",
       "slug": "effect-size"
+    },
+    {
+      "id": "fb0238a1-a3cb-40a4-92b2-b358253efbda",
+      "label": "2025 cross-cultural study",
+      "type": "Evidence",
+      "summary": "2025 cross-cultural study (PMC11836147) with 117,293 participants across 175 countries confirmed romantic love is universally valued for long-term relationships, supporting romantic love as near-universal human phenomenon.",
+      "confidence": 5,
+      "url": "/evidence/2025-cross-cultural-study/",
+      "markdown_url": "evidence/2025-cross-cultural-study.md",
+      "slug": "2025-cross-cultural-study"
     },
     {
       "id": "16e37f99-caae-446d-889f-d3abf0d6b368",
@@ -251,6 +391,26 @@
       "slug": "meta-analysis"
     },
     {
+      "id": "06ff00d1-3b12-46b0-8b17-5400f076690e",
+      "label": "Ethnology journal",
+      "type": "Entity",
+      "summary": "Academic journal that published Jankowiak & Fischer 1992 study finding romantic love in 147 of 166 cultures (88.5%) using ethnographic evidence. Source reference: JSTOR 3773618.",
+      "confidence": 3,
+      "url": "/entities/ethnology-journal/",
+      "markdown_url": "entities/ethnology-journal.md",
+      "slug": "ethnology-journal"
+    },
+    {
+      "id": "574a24b2-2024-4686-ab92-bfe80c9442b6",
+      "label": "Fisher neuroscience study",
+      "type": "Evidence",
+      "summary": "Fisher neuroscience study (PMC1764845) found consistent dopaminergic activation patterns in VTA and caudate nucleus across culturally diverse individuals experiencing romantic love, supporting universality of love mechanisms.",
+      "confidence": 3,
+      "url": "/evidence/fisher-neuroscience-study/",
+      "markdown_url": "evidence/fisher-neuroscience-study.md",
+      "slug": "fisher-neuroscience-study"
+    },
+    {
       "id": "09f12a45-46d3-4857-8aa5-0175722656da",
       "label": "Smoking cessation",
       "type": "Entity",
@@ -264,7 +424,7 @@
       "id": "e61f8c59-faf7-4ba5-9a43-6d162b806f3f",
       "label": "dopamine release",
       "type": "Entity",
-      "summary": "Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes approach behavior. Released in nucleus accumbens through oxytocin-VTA pathway during social interaction.",
+      "summary": "Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes approach behavior. Released in nucleus accumbens through oxytocin-VTA pathway during social interaction and romantic love via VTA-caudate nucleus activation.",
       "confidence": 3,
       "url": "/entities/dopamine-release/",
       "markdown_url": "entities/dopamine-release.md",
@@ -319,6 +479,16 @@
       "url": "/entities/theta-band/",
       "markdown_url": "entities/theta-band.md",
       "slug": "theta-band"
+    },
+    {
+      "id": "98decd8f-c815-4396-b7a2-80889c515c9c",
+      "label": "PMC11836147",
+      "type": "Entity",
+      "summary": "2025 cross-cultural study with 117,293 participants across 175 countries confirming romantic love is universally valued for long-term relationships, supporting that romantic love is not a Western invention.",
+      "confidence": 3,
+      "url": "/entities/pmc11836147/",
+      "markdown_url": "entities/pmc11836147.md",
+      "slug": "pmc11836147"
     },
     {
       "id": "ceaa69b1-21e7-4bf0-9d3f-758d7ded2e88",
@@ -381,6 +551,26 @@
       "slug": "decision-making"
     },
     {
+      "id": "5bcc17d3-a9e1-4ec4-9eb1-28247b27021e",
+      "label": "PMC1764845",
+      "type": "Entity",
+      "summary": "Fisher et al. neuroscience study showing consistent dopaminergic activation patterns (VTA, caudate nucleus) across culturally diverse individuals experiencing romantic love",
+      "confidence": 3,
+      "url": "/entities/pmc1764845/",
+      "markdown_url": "entities/pmc1764845.md",
+      "slug": "pmc1764845"
+    },
+    {
+      "id": "3c0c06c8-9a2b-47f2-b6b0-5418c8f0b89e",
+      "label": "JSTOR",
+      "type": "Entity",
+      "summary": "JSTOR is an academic database that hosts scholarly articles. Referenced as source for Jankowiak & Fischer 1992 study on romantic love across cultures (JSTOR 3773618).",
+      "confidence": 3,
+      "url": "/entities/jstor/",
+      "markdown_url": "entities/jstor.md",
+      "slug": "jstor"
+    },
+    {
       "id": "8142e58f-edc3-43d0-a9c9-f3fd510a79fc",
       "label": "PLoS Medicine",
       "type": "Entity",
@@ -389,6 +579,16 @@
       "url": "/entities/plos-medicine/",
       "markdown_url": "entities/plos-medicine.md",
       "slug": "plos-medicine"
+    },
+    {
+      "id": "6f95a7e7-de16-4f76-80ea-20956a575895",
+      "label": "Caudate nucleus",
+      "type": "Entity",
+      "summary": "Brain region that shows consistent dopaminergic activation patterns across culturally diverse individuals experiencing romantic love. Part of reward pathways involved in love's neural mechanisms.",
+      "confidence": 3,
+      "url": "/entities/caudate-nucleus/",
+      "markdown_url": "entities/caudate-nucleus.md",
+      "slug": "caudate-nucleus"
     },
     {
       "id": "9c4d3a8c-05c6-414a-814c-51e1eb64a198",
@@ -401,6 +601,16 @@
       "slug": "high-frequency-hrv"
     },
     {
+      "id": "0532cc9a-abd4-4848-bfb5-c0b5353d0176",
+      "label": "PMC12118770",
+      "type": "Entity",
+      "summary": "PMC12118770: de Munck biosocial model study on romantic love. Proposes that romantic love represents universal biological capacity with culturally variable expression patterns across societies.",
+      "confidence": 3,
+      "url": "/entities/pmc12118770/",
+      "markdown_url": "entities/pmc12118770.md",
+      "slug": "pmc12118770"
+    },
+    {
       "id": "ac4c6757-9801-4b70-a670-23c03504798c",
       "label": "Cardiac sympathovagal activity",
       "type": "Entity",
@@ -409,6 +619,16 @@
       "url": "/entities/cardiac-sympathovagal-activity/",
       "markdown_url": "entities/cardiac-sympathovagal-activity.md",
       "slug": "cardiac-sympathovagal-activity"
+    },
+    {
+      "id": "71ca8ec2-eabb-4b97-9788-b3c574800c9e",
+      "label": "Economic vulnerability",
+      "type": "Entity",
+      "summary": "Lower socioeconomic status individuals value romantic love MORE than higher SES groups. Romantic love serves as commitment device for those facing economic vulnerability, providing stability in uncertain financial circumstances.",
+      "confidence": 3,
+      "url": "/entities/economic-vulnerability/",
+      "markdown_url": "entities/economic-vulnerability.md",
+      "slug": "economic-vulnerability"
     },
     {
       "id": "9db15be4-5716-4129-9d83-727da737d25d",
@@ -421,10 +641,20 @@
       "slug": "pnas"
     },
     {
+      "id": "cae52227-c300-4560-8fed-430346aaf8de",
+      "label": "Dopaminergic activation patterns",
+      "type": "Entity",
+      "summary": "Consistent dopaminergic activation patterns occur in VTA and caudate nucleus across culturally diverse individuals experiencing romantic love. Dopamine acts as accelerator for reward-seeking, signaling when outcomes exceed expectations and promoting approach behavior.",
+      "confidence": 3,
+      "url": "/entities/dopaminergic-activation-patterns/",
+      "markdown_url": "entities/dopaminergic-activation-patterns.md",
+      "slug": "dopaminergic-activation-patterns"
+    },
+    {
       "id": "6fc9838b-9b40-4e66-8fe9-e109b0941d3d",
       "label": "ventral tegmental area",
       "type": "Entity",
-      "summary": "Brain region containing dopamine neurons that are directly modulated by oxytocin during social interactions. Releases dopamine to nucleus accumbens, creating reward sensation and positive feedback loop for social behavior.",
+      "summary": "Brain region containing dopamine neurons modulated by oxytocin during social interactions. Releases dopamine to nucleus accumbens creating reward sensation. Shows consistent activation patterns across cultures in romantic love studies.",
       "confidence": 3,
       "url": "/entities/ventral-tegmental-area/",
       "markdown_url": "entities/ventral-tegmental-area.md",
@@ -459,6 +689,16 @@
       "url": "/entities/gamma-band/",
       "markdown_url": "entities/gamma-band.md",
       "slug": "gamma-band"
+    },
+    {
+      "id": "c8d13e10-fc02-45b3-baba-6869c65130da",
+      "label": "Western invention",
+      "type": "Entity",
+      "summary": "Romantic love is NOT a Western invention. Research across 147-166 cultures shows romantic love exists in 88.5% of societies worldwide, with universal neural patterns and evolutionary origins as a mammalian courtship system.",
+      "confidence": 3,
+      "url": "/entities/western-invention/",
+      "markdown_url": "entities/western-invention.md",
+      "slug": "western-invention"
     },
     {
       "id": "54b8d89b-d0cd-41b5-ad37-3a5aed7ecc42",
@@ -501,6 +741,16 @@
       "slug": "beta-band"
     },
     {
+      "id": "77c4a348-9c8c-48ae-b38b-56460dc46b58",
+      "label": "Modernization",
+      "type": "Entity",
+      "summary": "Modernization increases the cultural importance and emphasis on romantic love in societies, part of broader social evolution patterns affecting relationship values and cultural norms.",
+      "confidence": 3,
+      "url": "/entities/modernization/",
+      "markdown_url": "entities/modernization.md",
+      "slug": "modernization"
+    },
+    {
       "id": "8a44dd93-e5bd-404c-a43e-af2b05dd3557",
       "label": "Delta band",
       "type": "Entity",
@@ -509,6 +759,16 @@
       "url": "/entities/delta-band/",
       "markdown_url": "entities/delta-band.md",
       "slug": "delta-band"
+    },
+    {
+      "id": "4804a954-7c4a-42ec-bfec-08c6026ddbbc",
+      "label": "Female status",
+      "type": "Entity",
+      "summary": "Higher female status correlates with romantic love emphasis in cultures. Cultural factor that influences how societies value and express romantic attraction patterns.",
+      "confidence": 3,
+      "url": "/entities/female-status/",
+      "markdown_url": "entities/female-status.md",
+      "slug": "female-status"
     }
   ],
   "edges": [
@@ -543,10 +803,148 @@
       "label": "EXPLAINS"
     },
     {
+      "id": "df73b3f1-fd5d-4cea-a862-5e868e176867",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "1fe3e609-7781-4b36-90af-78c85d48a8fa",
+      "label": "EXPLAINED_BY"
+    },
+    {
+      "id": "19e282c7-5e30-4f73-9212-350928b9a685",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "1575a6f4-1095-4c42-a9f5-c3cb6284e714",
+      "label": "EVOLVED_AS"
+    },
+    {
+      "id": "a0206c4e-e7a1-4c0c-bcf6-ae7eb4c9f4b4",
+      "source": "79eadcbc-7eab-4d57-9621-22d1cc7a0953",
+      "target": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "PROVIDES_EVIDENCE_FOR"
+    },
+    {
+      "id": "09ab5eb2-4147-4d51-a334-f9040303fe38",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "98decd8f-c815-4396-b7a2-80889c515c9c",
+      "label": "DOCUMENTED_IN"
+    },
+    {
+      "id": "60546612-e518-4f43-bc85-7c9396b98ae5",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "1fe3e609-7781-4b36-90af-78c85d48a8fa",
+      "label": "EXPLAINED_BY"
+    },
+    {
+      "id": "51469476-bcc8-43b9-9d69-16a6c84262ee",
+      "source": "1fe3e609-7781-4b36-90af-78c85d48a8fa",
+      "target": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "EXPLAINS_EVOLUTION_OF"
+    },
+    {
+      "id": "3b4046e7-31a4-481b-a37d-5f94a2533304",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "1575a6f4-1095-4c42-a9f5-c3cb6284e714",
+      "label": "EVOLVED_FROM"
+    },
+    {
+      "id": "07557e9b-1088-4c47-9ea7-18de3273731a",
+      "source": "c051b8c8-0500-4605-aa64-e33bb85e8ede",
+      "target": "71ca8ec2-eabb-4b97-9788-b3c574800c9e",
+      "label": "SERVES_AS_PROTECTION_AGAINST"
+    },
+    {
+      "id": "8037cace-04ca-451b-9ac2-af901b9efa30",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "dbaf3574-9a25-4e56-8d33-fb0396f9aeec",
+      "label": "EXHIBITS"
+    },
+    {
+      "id": "4dab3cc1-cb4c-4175-8613-94357145c17c",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "c051b8c8-0500-4605-aa64-e33bb85e8ede",
+      "label": "FUNCTIONS_AS"
+    },
+    {
       "id": "2fe5a4ef-318e-433a-9fcf-b402fbe7e537",
       "source": "7a6788e3-659a-46d7-8e02-5d613e463eae",
       "target": "a3d0c2e0-47f1-4f70-9d93-7f76532b027b",
       "label": "TRIGGERS"
+    },
+    {
+      "id": "c6c1e0d5-ca8e-4895-a097-373498592bea",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "1aa53d94-09af-4c25-8fe9-a3cb24ca196c",
+      "label": "EXPLAINED_BY"
+    },
+    {
+      "id": "2b1efd2c-737c-4c41-bcc2-050f8cab1ee0",
+      "source": "77c4a348-9c8c-48ae-b38b-56460dc46b58",
+      "target": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "label": "INCREASES"
+    },
+    {
+      "id": "2228be1a-1366-4a50-999d-bc88f20f3ab3",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "fcf0e1ca-92f2-489d-8643-cf210fae139b",
+      "label": "MODELED_IN"
+    },
+    {
+      "id": "4aea0d86-60d5-4960-8b5d-80912560c97a",
+      "source": "0532cc9a-abd4-4848-bfb5-c0b5353d0176",
+      "target": "1aa53d94-09af-4c25-8fe9-a3cb24ca196c",
+      "label": "DESCRIBES"
+    },
+    {
+      "id": "dcbf5fd5-b5d8-4b22-9412-03d32d6289c0",
+      "source": "98decd8f-c815-4396-b7a2-80889c515c9c",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "CONFIRMS"
+    },
+    {
+      "id": "29d0ac47-07bb-4022-a51f-3ccff3436bdd",
+      "source": "8f7e1f98-a495-4aad-a2cf-110011d18f49",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "VALUES_MORE"
+    },
+    {
+      "id": "3f4eb074-57d2-45ae-a382-0154c74ecad3",
+      "source": "301c5e4b-a108-4a29-8c9c-a2ef8b8a653f",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "PROVIDES_EVIDENCE_FOR"
+    },
+    {
+      "id": "785a9362-0dff-439d-8c94-d9bfce23fe54",
+      "source": "77c4a348-9c8c-48ae-b38b-56460dc46b58",
+      "target": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "INCREASES_IMPORTANCE_OF"
+    },
+    {
+      "id": "6a9faab5-bbaa-48dc-bce6-d55033f2e209",
+      "source": "77c4a348-9c8c-48ae-b38b-56460dc46b58",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "INCREASES"
+    },
+    {
+      "id": "6864ff1a-81ab-4bbe-9061-3d9f0c21bf0e",
+      "source": "fcf0e1ca-92f2-489d-8643-cf210fae139b",
+      "target": "1aa53d94-09af-4c25-8fe9-a3cb24ca196c",
+      "label": "CONTAINS"
+    },
+    {
+      "id": "2777036a-21f1-415b-85a9-a3b74b9afd54",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "label": "IS"
+    },
+    {
+      "id": "f26fdc63-8353-4216-b2d8-0003fe324afb",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "dbaf3574-9a25-4e56-8d33-fb0396f9aeec",
+      "label": "EXHIBITS"
+    },
+    {
+      "id": "6a03a220-3798-4256-914a-4f99c7407e43",
+      "source": "71ca8ec2-eabb-4b97-9788-b3c574800c9e",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "RELATES_TO"
     },
     {
       "id": "12f474a8-558a-45bc-a7ce-3c8c25224b14",
@@ -555,10 +953,94 @@
       "label": "PRODUCES"
     },
     {
+      "id": "c80db99f-2bfc-43eb-a171-fd7cadcd8c15",
+      "source": "79eadcbc-7eab-4d57-9621-22d1cc7a0953",
+      "target": "06ff00d1-3b12-46b0-8b17-5400f076690e",
+      "label": "PUBLISHED_IN"
+    },
+    {
+      "id": "461627ee-436e-4259-ac13-383cd8cf583e",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "06793669-3acd-40fe-bdc4-ee4af14ddbe6",
+      "label": "VALUED_MORE_BY"
+    },
+    {
+      "id": "d1b0ebc1-6799-4f47-ac4e-19cda4c83e27",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "c8d13e10-fc02-45b3-baba-6869c65130da",
+      "label": "IS_NOT"
+    },
+    {
+      "id": "e83f9fb7-fe70-43f7-bce0-49014557dc2a",
+      "source": "fb0238a1-a3cb-40a4-92b2-b358253efbda",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "PROVIDES_EVIDENCE_FOR"
+    },
+    {
+      "id": "bed146d8-1e6a-4b03-91ba-665012fb0803",
+      "source": "fb0238a1-a3cb-40a4-92b2-b358253efbda",
+      "target": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "CONFIRMS_UNIVERSAL_VALUE_OF"
+    },
+    {
       "id": "23030f0b-3a88-43ab-872d-205e93345c3f",
       "source": "fbfb62d2-0697-4b1e-8fb7-fe19f410a7e7",
       "target": "7a6788e3-659a-46d7-8e02-5d613e463eae",
       "label": "PROMOTES"
+    },
+    {
+      "id": "f3afcf41-bd12-44e9-bdc9-ac5fe312d169",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "dcc74db2-82e8-4f60-aa93-d7df32038ec9",
+      "label": "INVOLVES"
+    },
+    {
+      "id": "a33a0821-6020-4051-8a7a-97cd4daee2ed",
+      "source": "8f7e1f98-a495-4aad-a2cf-110011d18f49",
+      "target": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "VALUE_MORE"
+    },
+    {
+      "id": "bfb3ccb4-6032-4580-82f9-0eca5f628e68",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "301c5e4b-a108-4a29-8c9c-a2ef8b8a653f",
+      "label": "STUDIED_IN"
+    },
+    {
+      "id": "a930ea67-ad45-41cb-bb9f-d7d8f42c3a43",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "dcc74db2-82e8-4f60-aa93-d7df32038ec9",
+      "label": "EXPLAINED_BY"
+    },
+    {
+      "id": "60bf18fc-9c4c-4b85-a9cf-437809bdd777",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "e61f8c59-faf7-4ba5-9a43-6d162b806f3f",
+      "label": "ACTIVATES"
+    },
+    {
+      "id": "ef049000-9991-4355-86ad-509431a91388",
+      "source": "d3bb6c37-8024-45e0-9b6d-1f7c25cfa39f",
+      "target": "cae52227-c300-4560-8fed-430346aaf8de",
+      "label": "DEMONSTRATES"
+    },
+    {
+      "id": "4e990373-115e-4264-b2a8-01617d3632b1",
+      "source": "4804a954-7c4a-42ec-bfec-08c6026ddbbc",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "CORRELATES_WITH"
+    },
+    {
+      "id": "ce9276f7-98cb-4562-b556-54b26043e27d",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "cae52227-c300-4560-8fed-430346aaf8de",
+      "label": "MANIFESTS_AS"
+    },
+    {
+      "id": "fa8119d1-0614-4e7c-8e96-4f156accdc8b",
+      "source": "06793669-3acd-40fe-bdc4-ee4af14ddbe6",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "VALUES_MORE"
     },
     {
       "id": "68f98b67-e0b4-40e3-8370-bf47bcc3aa97",
@@ -567,16 +1049,106 @@
       "label": "INHIBITS"
     },
     {
+      "id": "8323fd16-2308-4f18-9f13-20cf68a4313c",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "e61f8c59-faf7-4ba5-9a43-6d162b806f3f",
+      "label": "ACTIVATES"
+    },
+    {
+      "id": "38b9de27-6a72-482c-8a87-2cf9cfdf6059",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "6f95a7e7-de16-4f76-80ea-20956a575895",
+      "label": "ACTIVATES"
+    },
+    {
+      "id": "f6fd15d2-ae48-4eb6-8bb5-23d6b6bd21a9",
+      "source": "d3bb6c37-8024-45e0-9b6d-1f7c25cfa39f",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "DEMONSTRATES"
+    },
+    {
+      "id": "921d8acf-d1db-414a-8204-b3302ebc481d",
+      "source": "574a24b2-2024-4686-ab92-bfe80c9442b6",
+      "target": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "label": "PROVIDES_EVIDENCE_FOR"
+    },
+    {
+      "id": "b4e8974a-9f83-4b89-b6a5-db445e95b43f",
+      "source": "301c5e4b-a108-4a29-8c9c-a2ef8b8a653f",
+      "target": "79eadcbc-7eab-4d57-9621-22d1cc7a0953",
+      "label": "SUPPORTED_BY"
+    },
+    {
+      "id": "08caeb50-3116-4f57-b848-63cf034aee99",
+      "source": "cae52227-c300-4560-8fed-430346aaf8de",
+      "target": "e61f8c59-faf7-4ba5-9a43-6d162b806f3f",
+      "label": "ACTIVATES"
+    },
+    {
       "id": "ee0b29e7-a760-4d96-9792-22a9ef1a39fb",
       "source": "2e442034-eeac-4163-981d-a648904020ae",
       "target": "d3bb6c37-8024-45e0-9b6d-1f7c25cfa39f",
       "label": "SUPPORTS_EVIDENCE_FOR"
     },
     {
+      "id": "800faf2a-c4eb-42cc-92b7-0014e5c0b4bf",
+      "source": "6f95a7e7-de16-4f76-80ea-20956a575895",
+      "target": "5bcc17d3-a9e1-4ec4-9eb1-28247b27021e",
+      "label": "STUDIED_IN"
+    },
+    {
+      "id": "da1a5cbe-5679-4f96-976f-8f24de34e2a5",
+      "source": "4804a954-7c4a-42ec-bfec-08c6026ddbbc",
+      "target": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "CORRELATES_WITH"
+    },
+    {
+      "id": "bdc10841-7255-43c2-b763-cdc30953754c",
+      "source": "06793669-3acd-40fe-bdc4-ee4af14ddbe6",
+      "target": "7a3e34d9-06bd-4bb5-a109-0651878fb496",
+      "label": "VALUE_MORE_HIGHLY"
+    },
+    {
+      "id": "c806b2de-7e62-48c9-b4d5-24404e8cf1c8",
+      "source": "182c3262-f9a5-42ec-ad1f-9e94194e8d52",
+      "target": "6fc9838b-9b40-4e66-8fe9-e109b0941d3d",
+      "label": "ACTIVATES"
+    },
+    {
+      "id": "ce03337a-7abe-4d9c-bca1-ca3f3d9c5499",
+      "source": "5bcc17d3-a9e1-4ec4-9eb1-28247b27021e",
+      "target": "cae52227-c300-4560-8fed-430346aaf8de",
+      "label": "DOCUMENTS_NEUROSCIENCE_OF"
+    },
+    {
+      "id": "8a6b0cd6-2004-459c-8c15-1c81bf572f66",
+      "source": "6fc9838b-9b40-4e66-8fe9-e109b0941d3d",
+      "target": "5bcc17d3-a9e1-4ec4-9eb1-28247b27021e",
+      "label": "STUDIED_IN"
+    },
+    {
       "id": "3f7c411f-2535-48e9-b37a-7993377292e1",
       "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
       "target": "f1f7a862-b4e0-4932-9fdb-0eb0ac72b637",
       "label": "OCCURS_IN"
+    },
+    {
+      "id": "fa73c2a5-d26a-4191-89d3-0ab9017975ae",
+      "source": "34ecb12b-d108-41e1-9a1a-bf54bd2a5ba9",
+      "target": "6fc9838b-9b40-4e66-8fe9-e109b0941d3d",
+      "label": "ACTIVATES"
+    },
+    {
+      "id": "09f47fac-af15-425e-85c0-33f7e642db21",
+      "source": "0532cc9a-abd4-4848-bfb5-c0b5353d0176",
+      "target": "fcf0e1ca-92f2-489d-8643-cf210fae139b",
+      "label": "SAME_AS"
+    },
+    {
+      "id": "52f602c3-1985-4c78-8e6e-cb92f7242450",
+      "source": "cae52227-c300-4560-8fed-430346aaf8de",
+      "target": "574a24b2-2024-4686-ab92-bfe80c9442b6",
+      "label": "DOCUMENTED_IN"
     },
     {
       "id": "a3b508fb-1701-4d86-93e7-f6b9c814ff31",
@@ -589,6 +1161,12 @@
       "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
       "target": "ac4c6757-9801-4b70-a670-23c03504798c",
       "label": "INVOLVES"
+    },
+    {
+      "id": "7f49e5e5-c503-4edd-87b3-1bd164275ae9",
+      "source": "fb0238a1-a3cb-40a4-92b2-b358253efbda",
+      "target": "98decd8f-c815-4396-b7a2-80889c515c9c",
+      "label": "DOCUMENTED_IN"
     },
     {
       "id": "f2b5888d-ce59-4df6-9be7-ca8bc716e6e5",
@@ -609,16 +1187,16 @@
       "label": "OCCURS_IN"
     },
     {
-      "id": "d8d20f71-fb1c-4a34-b792-59830a101f93",
-      "source": "4b2dc754-7eee-4029-bfa1-c41df33bb3cb",
-      "target": "e04b5857-7ee1-4b51-b1c2-ff11b22d861c",
-      "label": "SYNCHRONIZES_WITH"
-    },
-    {
       "id": "bb4c9bff-72f5-4e88-8d3d-eb0f4ab922cd",
       "source": "4b2dc754-7eee-4029-bfa1-c41df33bb3cb",
       "target": "59e9ec71-b285-4eb7-9f4a-1c752cc6a916",
       "label": "SYNCHRONIZES_THROUGH"
+    },
+    {
+      "id": "d8d20f71-fb1c-4a34-b792-59830a101f93",
+      "source": "4b2dc754-7eee-4029-bfa1-c41df33bb3cb",
+      "target": "e04b5857-7ee1-4b51-b1c2-ff11b22d861c",
+      "label": "SYNCHRONIZES_WITH"
     },
     {
       "id": "7933fc1a-6ac8-4f82-a76a-2eaabef119de",
@@ -633,6 +1211,12 @@
       "label": "OCCURS_IN"
     },
     {
+      "id": "5c729c22-7463-4a20-93ac-6d631fe006eb",
+      "source": "1575a6f4-1095-4c42-a9f5-c3cb6284e714",
+      "target": "0532cc9a-abd4-4848-bfb5-c0b5353d0176",
+      "label": "DESCRIBED_IN"
+    },
+    {
       "id": "46e04b65-535b-444e-8b47-ad2493bb3fdb",
       "source": "c843d1c2-3e72-4729-9f0d-340a7f3288a5",
       "target": "fbfb62d2-0697-4b1e-8fb7-fe19f410a7e7",
@@ -643,6 +1227,18 @@
       "source": "2e442034-eeac-4163-981d-a648904020ae",
       "target": "92960c3b-4a0e-4c12-a810-7f355b163ba5",
       "label": "REFERENCES"
+    },
+    {
+      "id": "4066f8f8-297e-42e2-a59e-0004c8a0e9d0",
+      "source": "301c5e4b-a108-4a29-8c9c-a2ef8b8a653f",
+      "target": "06ff00d1-3b12-46b0-8b17-5400f076690e",
+      "label": "PUBLISHED_IN"
+    },
+    {
+      "id": "1171d405-0478-4df2-b781-7391ee9b81e4",
+      "source": "301c5e4b-a108-4a29-8c9c-a2ef8b8a653f",
+      "target": "3c0c06c8-9a2b-47f2-b6b0-5418c8f0b89e",
+      "label": "ARCHIVED_IN"
     },
     {
       "id": "ed1fd769-f6f9-4489-ba04-3233d09da5e1",
@@ -711,6 +1307,12 @@
       "label": "HAS_OPPOSING_EFFECTS_ON"
     },
     {
+      "id": "e6eeb59c-6d2f-4eb4-9fe0-56dbb3da8db6",
+      "source": "5bcc17d3-a9e1-4ec4-9eb1-28247b27021e",
+      "target": "574a24b2-2024-4686-ab92-bfe80c9442b6",
+      "label": "SAME_AS"
+    },
+    {
       "id": "db8e53c4-75d4-4600-bbea-12ee561f9a74",
       "source": "54b8d89b-d0cd-41b5-ad37-3a5aed7ecc42",
       "target": "ceaa69b1-21e7-4bf0-9d3f-758d7ded2e88",
@@ -763,6 +1365,18 @@
       "source": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
       "target": "50eb736d-af29-40ae-83e8-0a8056da57a5",
       "label": "AFFECTS"
+    },
+    {
+      "id": "336c7340-5d0f-450d-863e-c081091b7d68",
+      "source": "cae52227-c300-4560-8fed-430346aaf8de",
+      "target": "6f95a7e7-de16-4f76-80ea-20956a575895",
+      "label": "INCLUDES"
+    },
+    {
+      "id": "92c53060-5592-4eb0-9b81-33c93b081cfe",
+      "source": "cae52227-c300-4560-8fed-430346aaf8de",
+      "target": "6fc9838b-9b40-4e66-8fe9-e109b0941d3d",
+      "label": "INVOLVES"
     }
   ]
 }
