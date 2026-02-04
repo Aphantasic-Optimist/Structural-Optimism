@@ -91,5 +91,12 @@ nav:
       - Solutions: solutions/index.md
       - The Integration Movement: solutions/integration-movement.md
       - Philosophy: philosophy/index.md
+  - Theories:
+      - Overview: theories/index.md
+      - Consciousness Summary: theories/consciousness-summary.md
+      - L0.5 Interface: theories/l05-interface.md
+      - Evidence Hierarchy: theories/evidence-hierarchy.md
+      - Theories Landscape: theories/theories-landscape.md
+      - Scientific Rigor: theories/scientific-rigor.md
   - About: about/index.md
 
