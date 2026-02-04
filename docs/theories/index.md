@@ -1,21 +1,27 @@
 ---
 title: Consciousness Theories
-description: Rigorous research frameworks for understanding consciousness
+description: Rigorous research frameworks organized by evidence level
 ---
 
 # Consciousness Theories
 
 **Status:** Research frameworks with explicit confidence ratings
 
-This section presents rigorous theoretical frameworks for understanding consciousness, each with clear evidence standards, falsification criteria, and honest assessment of what we know versus what we're exploring.
+This section presents consciousness theories organized by their level of empirical support—from established neuroscience to speculative quantum mechanisms.
 
 ---
 
-## Core Principle
+## How to Navigate
 
-**Follow evidence, not hope. Acknowledge limits. Build defensible claims. Falsify mercilessly.**
+Theories are organized into **three layers** based on evidence strength:
 
-These theories are presented with explicit confidence ratings:
+| Layer | Evidence Level | What You'll Find |
+|-------|----------------|------------------|
+| **🧠 Established** | ★★★★★ to ★★★★☆ | Neuroscience, social connection, proven mechanisms |
+| **🔬 Emerging** | ★★★☆☆ to ★★☆☆☆ | Quantum biology, IIT, testable hypotheses |
+| **⚛️ Speculative** | ★★☆☆☆ to ★☆☆☆☆ | Quantum consciousness, L0.5 interface, theoretical frameworks |
+
+**Confidence Scale:**
 
 | Rating | Meaning |
 |--------|---------|
@@ -27,41 +33,127 @@ These theories are presented with explicit confidence ratings:
 
 ---
 
-## Available Frameworks
+## 🧠 Layer 1: Established Neuroscience
+
+**What we know with high confidence**
 
 <div class="path-grid" markdown>
 
 <div class="path-card" markdown>
-### 📊 [Consciousness Summary](consciousness-summary.md)
-Complete unified theory with graduated confidence levels
+### 🧬 [Biosocial Model](biosocial-model.md)
+★★★☆☆ Promising
 
-**Key Topics:**
-- Integrated Information Theory (IIT)
-- Quantum biology in neural systems
-- Consciousness-quantum interactions
-- Experimental program
+Love as universal biological capacity with cultural variation
+
+**Evidence:**
+- 166 cultures studied
+- Evolutionary mechanisms
+- Neural basis established
 </div>
 
 <div class="path-card" markdown>
-### ⚛️ [L0.5 Interface](l05-interface.md)
-Quantum-classical boundary specification
+### 🌐 [Global Workspace Theory](global-workspace-theory.md)
+★★★☆☆ Promising (partially refuted)
 
-**Key Topics:**
+Consciousness as global information broadcast
+
+**Status:**
+- Prefrontal ignition failed (Cogitate 2025)
+- Core mechanism still viable
+- Needs revision
+</div>
+
+</div>
+
+---
+
+## 🔬 Layer 2: Emerging Research
+
+**Promising hypotheses with growing evidence**
+
+<div class="path-grid" markdown>
+
+<div class="path-card" markdown>
+### 🧩 [Integrated Information Theory](integrated-information-theory.md)
+★★★☆☆ Promising (partially refuted)
+
+Consciousness as integrated information (Φ)
+
+**Status:**
+- Posterior synchronization failed (Cogitate 2025)
+- Φ correlations remain strong
+- Framework needs refinement
+</div>
+
+<div class="path-card" markdown>
+### 🌍 [Theories Landscape 2025](theories-landscape.md)
+Overview of current research
+
+**Covers:**
+- Cogitate Consortium results
+- IIT vs GWT comparison
+- Predictive processing
+- Quantum consciousness status
+</div>
+
+</div>
+
+---
+
+## ⚛️ Layer 3: Speculative Frameworks
+
+**Theoretical models with limited or no neural evidence**
+
+<div class="path-grid" markdown>
+
+<div class="path-card" markdown>
+### ⚛️ [L0.5 Quantum-Classical Interface](l05-interface.md)
+★☆☆☆☆ Speculative
+
+Bridge between quantum substrate and classical neurons
+
+**Key Ideas:**
 - Chapman 2025 constraints
 - Decoherence as feature
 - Hybrid architecture
 - Agency emergence
+
+**Status:** Theoretical specification, no neural evidence
+</div>
+
+<div class="path-card" markdown>
+### 📊 [Unified Consciousness Theory](consciousness-summary.md)
+★★☆☆☆ Preliminary (comprehensive framework)
+
+Complete multi-layer theory from quantum to social
+
+**Layers:**
+- L0: Zero-point field (★☆☆☆☆)
+- L0.5: Quantum-classical interface (★☆☆☆☆)
+- L1: Quantum biology (★★★★☆)
+- L2: Neural processing (★★★★★)
+- L3: Cognitive integration (★★★☆☆)
+- L4: Social connection (★★★★★)
+- L5: Phenomenal experience (★★☆☆☆)
+
+**Status:** Comprehensive but speculative at quantum layers
 </div>
 
 </div>
+
+---
+
+## 📚 Meta-Resources
+
+**How we assess and verify theories**
 
 <div class="path-grid" markdown>
 
 <div class="path-card" markdown>
 ### 📈 [Evidence Hierarchy](evidence-hierarchy.md)
-How we assess and track research quality
+How we rate research quality
 
-**Key Topics:**
+**Covers:**
 - Source tier classification
 - Hallucination risk assessment
 - What we can legitimately claim
@@ -69,66 +161,57 @@ How we assess and track research quality
 </div>
 
 <div class="path-card" markdown>
-### 🌍 [Theories Landscape](theories-landscape.md)
-2025 state of consciousness science
+### 🔬 [Scientific Rigor Assessment](scientific-rigor.md)
+Systematic verification of claims
 
-**Key Topics:**
-- Cogitate Consortium results
-- IIT vs GNWT comparison
-- Predictive processing
-- Quantum consciousness status
-</div>
-
-</div>
-
-<div class="path-grid" markdown>
-
-<div class="path-card" markdown>
-### 🔬 [Scientific Rigor](scientific-rigor.md)
-Systematic verification of core claims
-
-**Key Topics:**
+**Covers:**
 - Claim-by-claim assessment
 - Primary source verification
 - Overinterpretation analysis
-- Revised confidence ratings
+- Fabricated citations corrected
 </div>
 
 </div>
 
 ---
 
-## Why These Theories Matter
+## 🎯 Quick Navigation by Topic
 
-Understanding consciousness isn't just academic curiosity. It's about:
+**Looking for something specific?**
 
-1. **Grounding the practice** - Why connection matters (physics, not feelings)
-2. **Honest assessment** - What we know vs. what we're exploring
-3. **Falsifiable predictions** - How to test and potentially disprove claims
-4. **Integration with evidence** - How theory connects to [the proof](../proof/simple.md)
+| Topic | Where to Find It | Confidence |
+|-------|------------------|------------|
+| **Social connection & mortality** | [Biosocial Model](biosocial-model.md) | ★★★★★ |
+| **Neural correlates of consciousness** | [GWT](global-workspace-theory.md), [IIT](integrated-information-theory.md) | ★★★☆☆ |
+| **Quantum biology (birds, plants)** | [Consciousness Summary](consciousness-summary.md) | ★★★★☆ |
+| **Quantum effects in brain** | [L0.5 Interface](l05-interface.md), [Consciousness Summary](consciousness-summary.md) | ★☆☆☆☆ |
+| **Current state of research** | [Theories Landscape](theories-landscape.md) | Overview |
+| **How we verify claims** | [Evidence Hierarchy](evidence-hierarchy.md), [Scientific Rigor](scientific-rigor.md) | Meta |
 
 ---
 
-## Key Insights
+## Why This Organization?
 
-### What We Know (★★★★★)
+**Layer 1 (Established)** - Start here if you want proven mechanisms. Social connection, neural correlates, evolutionary biology.
 
-- **Quantum biology exists** - Cryptochrome magnetoreception in birds is established
-- **Integration correlates with consciousness** - IIT has substantial (though disputed) evidence
-- **[Social connection reduces mortality](../claims/02-social-connection-reduces-mortality.md)** - 50% reduction, 2.2M people studied
-- **[Love is universal](../claims/03-love-is-universal.md)** - Found across 166 cultures
+**Layer 2 (Emerging)** - Go here if you're curious about cutting-edge research. IIT, quantum biology, testable hypotheses.
 
-### What We're Exploring (★★★☆☆)
+**Layer 3 (Speculative)** - Explore here if you want theoretical frameworks. Quantum consciousness, L0.5 interface, comprehensive models.
 
-- **Quantum effects in brain** - Xenon isotope anesthesia suggests quantum sensitivity
-- **Microtubule superradiance** - Demonstrated in purified proteins, not yet in living neural tissue
-- **Consciousness-spacetime coupling** - Mathematical possibility, no empirical tests yet
+**Meta-Resources** - Use these to understand how we assess everything else.
 
-### What We Track (★☆☆☆☆)
+---
 
-- **Observer belief effects** - Philosophical interpretation, not physics claim
-- **THz informational fields** - Theoretical construct, needs detection method
-- **Quantum error correction in brain** - Conceptually possible, biologically implausible
+## Connection to Practice
+
+These theories ground [the daily practice](../practical/daily-practice.md) in physics:
+
+- **[Integration creates complexity](../claims/01-integration-creates-complexity.md)** - Atoms → molecules → cells → you → relationships (★★★★★)
+- **We experience integration as good** - Love, connection, meaning (★★★★★)
+- **Extraction depletes** - [Isolation increases mortality by 32%](../claims/02-social-connection-reduces-mortality.md) (★★★★★)
+- **[Alignment with reality's structure](../claims/04-alignment-enables-flourishing.md)** - Not faith, observation (★★★★☆)
+
+**Phone down. Eyes up. Smile and wave.** That's alignment with physics.
 
 ---
 
@@ -145,36 +228,14 @@ These theories acknowledge:
 
 ---
 
-## How to Read These Theories
-
-1. **Check the confidence rating** - Know what's established vs. speculative
-2. **Look for falsification criteria** - What would disprove the claim?
-3. **Verify primary sources** - Are citations to actual papers or interpretations?
-4. **Separate physics from interpretation** - What does the research actually say?
-
----
-
-## Connection to Practice
-
-These theories ground [the daily practice](../practical/daily-practice.md) in physics:
-
-- **[Integration creates complexity](../claims/01-integration-creates-complexity.md)** - Atoms → molecules → cells → you → relationships
-- **We experience integration as good** - Love, connection, meaning
-- **Extraction depletes** - [Isolation increases mortality by 32%](../claims/02-social-connection-reduces-mortality.md)
-- **[Alignment with reality's structure](../claims/04-alignment-enables-flourishing.md)** - Not faith, observation
-
-**Phone down. Eyes up. Smile and wave.** That's alignment with physics.
-
----
-
 ## For Researchers
 
 If you're investigating consciousness:
 
-- **Use the evidence hierarchy** - Assess source quality systematically
-- **Check the theories landscape** - See where your work fits
-- **Apply scientific rigor** - Verify claims, acknowledge limits
-- **Propose falsifiable tests** - How could you be wrong?
+- **Start with Layer 1** - Understand established mechanisms
+- **Explore Layer 2** - See where cutting-edge research is heading
+- **Consider Layer 3** - Theoretical frameworks for long-term investigation
+- **Use Meta-Resources** - Assess source quality systematically
 
 ---
 
@@ -184,7 +245,7 @@ Good. Skepticism is essential.
 
 These theories are designed to be:
 - **Falsifiable** - Clear criteria for what would disprove them
-- **Honest about limits** - Explicit confidence ratings
+- **Honest about limits** - Explicit confidence ratings organized by layer
 - **Grounded in evidence** - Primary sources cited
 - **Open to revision** - Updated as new evidence emerges
 
@@ -197,17 +258,17 @@ These theories are designed to be:
 <div class="path-grid" markdown>
 
 <div class="path-card" markdown>
-### 📖 Start Reading
-[Consciousness Summary →](consciousness-summary.md)
+### 🧠 Start with Established
+[Biosocial Model →](biosocial-model.md)
 
-The complete unified theory
+Proven mechanisms
 </div>
 
 <div class="path-card" markdown>
-### 🔍 Check Evidence
-[Evidence Hierarchy →](evidence-hierarchy.md)
+### 🔬 Explore Emerging
+[Theories Landscape →](theories-landscape.md)
 
-How we assess research quality
+Current research state
 </div>
 
 </div>
@@ -215,10 +276,10 @@ How we assess research quality
 <div class="path-grid" markdown>
 
 <div class="path-card" markdown>
-### 🌐 See the Landscape
-[Theories Landscape →](theories-landscape.md)
+### ⚛️ Consider Speculative
+[Consciousness Summary →](consciousness-summary.md)
 
-2025 state of the field
+Complete framework
 </div>
 
 <div class="path-card" markdown>
