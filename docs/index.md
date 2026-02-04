@@ -109,8 +109,6 @@ The solution isn't more knowledge. It's action. One smile. One wave. One moment 
 
 ## Why This Time Is Different
 
-## Why This Time Is Different
-
 Every generation has said "put down the distraction." Books. Radio. TV. Phones.
 
 **This time the distraction fights back.**
@@ -156,10 +154,6 @@ Not feelings. Not philosophy. Physics and biology doing what they do.
 | Followers | Friends |
 
 **Engagement ≠ Connection.** Scrolling is not relating. Likes are not love.
-
-Gandhi understood this. He didn't explain British economic exploitation in lectures. He picked up salt. Everyone understood.
-
-**Phone down. Eyes up. Smile and wave.** Everyone understands.
 
 ---
 
