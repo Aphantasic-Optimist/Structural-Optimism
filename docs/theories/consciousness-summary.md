@@ -30,20 +30,20 @@ This document presents consciousness theory as a **graduated stack of testable h
 
 **Claim (carefully stated):**
 
-Consciousness is **hypothesized** to correlate with integrated information (Φ) in physical systems, following Integrated Information Theory, which is currently one of the **leading theoretical frameworks** in consciousness science but remains **scientifically disputed**.[file:1][web:10][web:13][web:16]
+Consciousness is **hypothesized** to correlate with integrated information (Φ) in physical systems, following Integrated Information Theory, which is currently one of the **leading theoretical frameworks** in consciousness science but remains **scientifically disputed**.
 
 **What this means:**
 
-Φ (phi) is a mathematical measure of how much information a system generates as a **unified whole** beyond what its parts generate independently. High Φ systems are tightly integrated; low Φ systems decompose into independent pieces.[file:1]
+Φ (phi) is a mathematical measure of how much information a system generates as a **unified whole** beyond what its parts generate independently. High Φ systems are tightly integrated; low Φ systems decompose into independent pieces.
 
 **The evidence (substantial but not conclusive):**
 
-- Φ-related measures **decrease proportionally under anesthesia** across multiple anesthetic types (propofol, sevoflurane, ketamine).[file:1]  
-- Φ **remains elevated during wakefulness and REM sleep**, decreases in deep sleep.[file:1]  
-- Φ **increases during meditation** despite reduced sensory input, consistent with increased integration.[file:1]  
-- Φ **decreases with brain lesions** correlating with consciousness loss.[file:1]  
-- Φ shows **species-level variation** matching observed consciousness complexity.[file:1]  
-- Multiple independent research groups using different measurement methods obtain **consistent results** across labs.[web:13][web:16]  
+- Φ-related measures **decrease proportionally under anesthesia** across multiple anesthetic types (propofol, sevoflurane, ketamine).  
+- Φ **remains elevated during wakefulness and REM sleep**, decreases in deep sleep.  
+- Φ **increases during meditation** despite reduced sensory input, consistent with increased integration.  
+- Φ **decreases with brain lesions** correlating with consciousness loss.  
+- Φ shows **species-level variation** matching observed consciousness complexity.  
+- Multiple independent research groups using different measurement methods obtain **consistent results** across labs.  
 
 **This is legitimate empirical evidence.** Correlation is strong and reproducible. But:
 
@@ -52,15 +52,15 @@ Consciousness is **hypothesized** to correlate with integrated information (Φ) 
 1. **Correlation ≠ Causation:** Φ correlates with consciousness, but this doesn't prove Φ *generates* consciousness. Alternative explanations:
    - Φ could be a **consequence** of consciousness rather than its basis.  
    - Both Φ and consciousness could be **downstream effects** of some unknown mechanism.  
-   - The correlations could reflect **common dependence on neural complexity**, not a causal relationship.[web:10]
+   - The correlations could reflect **common dependence on neural complexity**, not a causal relationship.
 
-2. **Unfolding problem:** IIT's mathematical definition produces counterintuitive results in some systems (e.g., simple feed‑forward networks can produce large Φ despite being obviously unconscious).[web:10] This raises questions about whether the mathematical definition captures consciousness correctly.
+2. **Unfolding problem:** IIT's mathematical definition produces counterintuitive results in some systems (e.g., simple feed‑forward networks can produce large Φ despite being obviously unconscious). This raises questions about whether the mathematical definition captures consciousness correctly.
 
-3. **Computational intractability:** Computing exact Φ for realistic brain networks is **mathematically intractable**—the problem has exponential complexity.[web:16] All empirical work uses approximations, which may miss crucial aspects.
+3. **Computational intractability:** Computing exact Φ for realistic brain networks is **mathematically intractable**—the problem has exponential complexity. All empirical work uses approximations, which may miss crucial aspects.
 
-4. **Competing theories:** Multiple rival frameworks (Global Neuronal Workspace Theory, Recurrent Processing Theory, Higher‐Order Thought theories) also explain many consciousness correlations and make similar predictions.[web:13] The field remains **underdetermined**—multiple theories fit the current data.
+4. **Competing theories:** Multiple rival frameworks (Global Neuronal Workspace Theory, Recurrent Processing Theory, Higher‐Order Thought theories) also explain many consciousness correlations and make similar predictions. The field remains **underdetermined**—multiple theories fit the current data.
 
-5. **Unresolved hard problem:** Even if Φ correlates perfectly with consciousness, IIT doesn't explain *why* integration produces subjective experience. It's not clear the theory can bridge that explanatory gap.[web:10]
+5. **Unresolved hard problem:** Even if Φ correlates perfectly with consciousness, IIT doesn't explain *why* integration produces subjective experience. It's not clear the theory can bridge that explanatory gap.
 
 **What this does support:**
 
@@ -70,7 +70,7 @@ Consciousness is **hypothesized** to correlate with integrated information (Φ) 
 
 **Epistemological stance:**
 
-IIT is **the best current candidate** for a principled consciousness theory. It's mathematically rigorous, empirically productive, and falsifiable. But it's not proven. It deserves intense investigation, not the assumption it's correct.[file:1]
+IIT is **the best current candidate** for a principled consciousness theory. It's mathematically rigorous, empirically productive, and falsifiable. But it's not proven. It deserves intense investigation, not the assumption it's correct.
 
 ---
 
@@ -80,7 +80,7 @@ IIT is **the best current candidate** for a principled consciousness theory. It'
 
 **Claim:**
 
-Quantum effects exist in biological systems and are biologically useful. However, **the presence of quantum biology does not establish that consciousness requires quantum mechanisms.**[file:1]
+Quantum effects exist in biological systems and are biologically useful. However, **the presence of quantum biology does not establish that consciousness requires quantum mechanisms.**
 
 **The established quantum biology phenomena:**
 
@@ -88,19 +88,19 @@ Quantum effects exist in biological systems and are biologically useful. However
    - European robins navigate using Earth's magnetic field.  
    - Mechanism: Entangled electron pairs (radical pairs) in cryptochrome proteins.  
    - Room-temperature entanglement in "warm, wet, noisy" tissue.  
-   - Studied for 30+ years across multiple species; mechanism well-understood.[file:1]
+   - Studied for 30+ years across multiple species; mechanism well-understood.
 
 2. **Photosynthetic Quantum Coherence (Plants)**
    - Light harvesting complexes use quantum superposition to explore all energy transfer pathways simultaneously.  
    - Achieves 95–100% energy transfer efficiency (vs. ~50% for classical processes).  
    - Robust against thermal noise; persists at physiological temperatures.  
-   - Replicated across multiple plant species and research groups.[file:1]
+   - Replicated across multiple plant species and research groups.
 
 3. **Microtubule Superradiance (Babcock et al., 2024)**
    - UV-excited tryptophan networks in microtubules show superradiant emission (collective quantum effect).  
    - 4,000× enhancement factor in realistic vertebrate architectures.  
    - Effect persists at 37°C (mammalian body temperature).  
-   - Published in J. Phys. Chem. B; 95 citations; Science Editors' Choice recognition.[file:1][web:20][web:21]
+   - Published in J. Phys. Chem. B; 95 citations; Science Editors' Choice recognition.
 
 **What this establishes:**
 
@@ -126,7 +126,7 @@ Neural computation operates on:
 - **Synaptic integration:** tens to hundreds of milliseconds.  
 - **Conscious perception:** hundreds of milliseconds to seconds.
 
-**The gap: 10⁹ to 10¹² fold mismatch.**[file:1]
+**The gap: 10⁹ to 10¹² fold mismatch.**
 
 For quantum effects to influence conscious neural dynamics, they must either:
 
@@ -144,7 +144,7 @@ For quantum effects to influence conscious neural dynamics, they must either:
 
 **Claim:**
 
-There is direct experimental evidence that **some step in the consciousness mechanism is sensitive to quantum properties**, most notably in xenon anesthesia. However, **which step** and **how much** quantum effects matter remain undetermined.[file:1]
+There is direct experimental evidence that **some step in the consciousness mechanism is sensitive to quantum properties**, most notably in xenon anesthesia. However, **which step** and **how much** quantum effects matter remain undetermined.
 
 **The xenon isotope anesthesia anomaly (The Strongest Quantum-Consciousness Link):**
 
@@ -163,7 +163,7 @@ Xenon isotopes differ in anesthetic potency despite being **chemically identical
 
 Chemical properties depend on electron configuration (identical). Nuclear spin is a **purely quantum property** with no classical equivalent. Only quantum property differs; chemistry is identical.
 
-Therefore: **Something in the anesthesia-consciousness pathway must interact with nuclear spin.**[file:1]
+Therefore: **Something in the anesthesia-consciousness pathway must interact with nuclear spin.**
 
 **Logical form:**
 
@@ -191,7 +191,7 @@ Conclusion: Consciousness mechanism or anesthesia pathway
 
 **Critical alternative (binding kinetics):**
 
-A physicist might object: Nuclear spin could subtly alter **van der Waals forces, binding kinetics, or local magnetic interactions** at the anesthetic receptor site, resulting in different binding potency **without the consciousness-generating mechanism itself being quantum**.[file:1]
+A physicist might object: Nuclear spin could subtly alter **van der Waals forces, binding kinetics, or local magnetic interactions** at the anesthetic receptor site, resulting in different binding potency **without the consciousness-generating mechanism itself being quantum**.
 
 On this view:
 - Xenon binding → some neurons affected differently → behavior changes.  
@@ -215,7 +215,7 @@ The xenon anomaly is the **strongest direct evidence** that consciousness touche
 
 **Claim:**
 
-If consciousness involves quantum processes, multiple biological mechanisms could support them. None are proven in neural tissue. Three are worth serious investigation: **minimal pharmacological sensitivity** (already hinted at by xenon), **robust excitation modes** (solitons/polarons), and **formal quantum error correction** (speculative but conceivable).[file:1]
+If consciousness involves quantum processes, multiple biological mechanisms could support them. None are proven in neural tissue. Three are worth serious investigation: **minimal pharmacological sensitivity** (already hinted at by xenon), **robust excitation modes** (solitons/polarons), and **formal quantum error correction** (speculative but conceivable).
 
 The original document heavily weighted Quantum Error Correction (QEC). The revised version balances three mechanisms and **de-emphasizes QEC**.
 
@@ -223,7 +223,7 @@ The original document heavily weighted Quantum Error Correction (QEC). The revis
 
 #### **4.1 Minimal Mechanism: Quantum-Sensitive Pharmacology**
 
-**Hypothesis:** Consciousness depends on classical neural dynamics, but these dynamics are modulated by quantum-sensitive binding events.[file:1]
+**Hypothesis:** Consciousness depends on classical neural dynamics, but these dynamics are modulated by quantum-sensitive binding events.
 
 **Example:** Anesthetics, neurotransmitters, or neuromodulators interact with ion channels or receptors via quantum tunneling, weak measurement, or spin-dependent binding. Slight changes in binding probabilities (due to quantum effects) shift neural states enough to affect consciousness.
 
@@ -243,7 +243,7 @@ The original document heavily weighted Quantum Error Correction (QEC). The revis
 
 #### **4.2 Robust Excitation Modes: Solitons and Polarons**
 
-**Hypothesis:** Conscious neural tissue sustains soliton-like or polaron-like excitations—coherent, self-localized modes in nonlinear media that are naturally robust against noise.**[file:1]
+**Hypothesis:** Conscious neural tissue sustains soliton-like or polaron-like excitations—coherent, self-localized modes in nonlinear media that are naturally robust against noise.**
 
 What are solitons?
 
@@ -254,13 +254,13 @@ What are solitons?
 
 **Recent validation:**
 
-Dieli et al. (2026) created stable 3D solitons that persisted through environmental perturbations, demonstrating feasibility in realistic conditions.[file:1][web:23]
+Dieli et al. (2026) created stable 3D solitons that persisted through environmental perturbations, demonstrating feasibility in realistic conditions.
 
 **Why solitons are more plausible than QEC:**
 
 - QEC requires **explicit code-like operations** and computational overhead (thousands of physical qubits per logical qubit).  
 - Solitons are **intrinsically robust**—the field structure itself protects them.  
-- Evolution may have built soliton-like modes into neural membranes, microtubules, or astrocytes **without needing a "computer architecture."**[file:1]
+- Evolution may have built soliton-like modes into neural membranes, microtubules, or astrocytes **without needing a "computer architecture."**
 
 **Mechanism sketch:**
 
@@ -279,7 +279,7 @@ High-Φ neural states might correspond to persistent soliton-like modes in neura
 
 #### **4.3 Quantum Error Correction: The Hard Claim**
 
-**Hypothesis:** Conscious neural tissue implements active quantum error correction to extend coherence lifetimes from picoseconds to milliseconds, thereby enabling long-lived quantum effects to influence consciousness.[file:1]
+**Hypothesis:** Conscious neural tissue implements active quantum error correction to extend coherence lifetimes from picoseconds to milliseconds, thereby enabling long-lived quantum effects to influence consciousness.
 
 **Why it's in the theory:**
 
@@ -289,13 +289,13 @@ High-Φ neural states might correspond to persistent soliton-like modes in neura
 
 **Why confidence is low (★☆☆☆☆):**
 
-1. **Massive biological overhead:** Full QEC requires thousands of physical qubits per logical qubit. No evidence brains deploy anything approaching this overhead.[file:1]
+1. **Massive biological overhead:** Full QEC requires thousands of physical qubits per logical qubit. No evidence brains deploy anything approaching this overhead.
 
-2. **No precedent:** No known biological system uses algorithmic QEC. Cryptochrome and photosynthesis use robust structures (radical pairs, energy funnel geometry), not error-correcting codes.[file:1]
+2. **No precedent:** No known biological system uses algorithmic QEC. Cryptochrome and photosynthesis use robust structures (radical pairs, energy funnel geometry), not error-correcting codes.
 
-3. **Evolution doesn't build "computers":** Evolution selects for robustness through structural properties, not through explicit computational schemes. The soliton/polaron approach (structural robustness) is far more likely than QEC (computational robustness).[file:1]
+3. **Evolution doesn't build "computers":** Evolution selects for robustness through structural properties, not through explicit computational schemes. The soliton/polaron approach (structural robustness) is far more likely than QEC (computational robustness).
 
-4. **Measurement paradox:** If QEC is running, it would require **non-destructive readout** of syndrome information. This is possible in theory (weak measurement, ancilla qubits) but extraordinarily difficult in living tissue.[file:1]
+4. **Measurement paradox:** If QEC is running, it would require **non-destructive readout** of syndrome information. This is possible in theory (weak measurement, ancilla qubits) but extraordinarily difficult in living tissue.
 
 **Why it's still worth investigating:**
 
@@ -322,7 +322,7 @@ Direct, projective measurement of quantum states **collapses the superposition**
 
 **What this means for experiments:**
 
-Any empirical test of quantum consciousness must use **indirect, spectroscopic, or ensemble methods**. Direct "syndrome readout" of neural qubits is **not feasible** and should not be proposed.[file:1]
+Any empirical test of quantum consciousness must use **indirect, spectroscopic, or ensemble methods**. Direct "syndrome readout" of neural qubits is **not feasible** and should not be proposed.
 
 ---
 
@@ -340,7 +340,7 @@ Consciousness (Φ) might couple weakly to spacetime geometry through a modified 
 G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi T_{\mu\nu}^{matter} + \kappa T_{\mu\nu}^{information}
 \]
 
-Where \(\kappa\) is an unknown coupling constant relating integrated information to spacetime curvature.[file:1][file:4]
+Where \(\kappa\) is an unknown coupling constant relating integrated information to spacetime curvature.
 
 **Why it's speculative:**
 
@@ -350,9 +350,9 @@ Where \(\kappa\) is an unknown coupling constant relating integrated information
 
 3. **No quantitative predictions:** The equation is written but yields no falsifiable, quantitative predictions.
 
-4. **Dark-energy constraint:** If \(\kappa\) were large enough for consciousness to noticeably curve spacetime at brain scales, we would already see anomalies in everyday gravitational experiments comparing conscious vs. unconscious objects. We don't. This suggests \(\kappa\), if nonzero, is **extremely small** at laboratory scales.[file:1]
+4. **Dark-energy constraint:** If \(\kappa\) were large enough for consciousness to noticeably curve spacetime at brain scales, we would already see anomalies in everyday gravitational experiments comparing conscious vs. unconscious objects. We don't. This suggests \(\kappa\), if nonzero, is **extremely small** at laboratory scales.
 
-5. **Alternative explanations:** Dark energy, modified gravity (MOND, f(R) gravity), and other theories already explain cosmic acceleration. No need to invoke consciousness.[file:4]
+5. **Alternative explanations:** Dark energy, modified gravity (MOND, f(R) gravity), and other theories already explain cosmic acceleration. No need to invoke consciousness.
 
 **Why include it at all?**
 
@@ -502,7 +502,7 @@ Conscious neural tissue contains stable, collision-resilient field structures (s
 
 In natural neural conditions (with normal metabolic noise, ion channel activity, etc.), quantum entanglement or coherence is **stronger** than in artificially quiet conditions. Environmental noise **enhances** rather than degrades quantum effects.
 
-This extrapolates from Turku/USTC (2026) finding that biological noise enhanced quantum teleportation.[file:1]
+This extrapolates from Turku/USTC (2026) finding that biological noise enhanced quantum teleportation.
 
 **Methodology:**
 

@@ -120,7 +120,7 @@ These claims need work but are **preserved for tracking**, not dismissed:
 
 Based on verified evidence, consciousness research supports:
 
-1. **Integrated information processing** correlates with conscious content
+1. **[Integration creates complexity](../claims/01-integration-creates-complexity.md)** - Physics, chemistry, biology show this pattern
 2. **Self-referential networks** (DMN) enable narrative self-construction
 3. **Predictive hierarchy** operates in perception and cognition
 4. **Critical dynamics** optimize neural information processing
@@ -128,6 +128,10 @@ Based on verified evidence, consciousness research supports:
 6. **Phase alignment** correlates with consciousness state (MIT 2025)
 7. **Posterior cortex** more important than prefrontal for consciousness (Cogitate 2025)
 8. **Coherence protection mechanisms** exist in warm biological systems (multiple 2024-2026)
+9. **[Social connection reduces mortality](../claims/02-social-connection-reduces-mortality.md)** - 50% reduction, 2.2M people
+10. **[Love is universal](../claims/03-love-is-universal.md)** - Found across 166 cultures
+
+[See full evidence →](../proof/evidence.md)
 
 ## What We Track as Promising (🔮)
 

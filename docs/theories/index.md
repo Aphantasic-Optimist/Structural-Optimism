@@ -115,8 +115,8 @@ Understanding consciousness isn't just academic curiosity. It's about:
 
 - **Quantum biology exists** - Cryptochrome magnetoreception in birds is established
 - **Integration correlates with consciousness** - IIT has substantial (though disputed) evidence
-- **Social connection reduces mortality** - 50% reduction, 2.2M people studied
-- **Love is universal** - Found across 166 cultures
+- **[Social connection reduces mortality](../claims/02-social-connection-reduces-mortality.md)** - 50% reduction, 2.2M people studied
+- **[Love is universal](../claims/03-love-is-universal.md)** - Found across 166 cultures
 
 ### What We're Exploring (★★★☆☆)
 
@@ -158,10 +158,10 @@ These theories acknowledge:
 
 These theories ground [the daily practice](../practical/daily-practice.md) in physics:
 
-- **Integration creates complexity** - Atoms → molecules → cells → you → relationships
+- **[Integration creates complexity](../claims/01-integration-creates-complexity.md)** - Atoms → molecules → cells → you → relationships
 - **We experience integration as good** - Love, connection, meaning
-- **Extraction depletes** - Isolation increases mortality by 32%
-- **Alignment with reality's structure** - Not faith, observation
+- **Extraction depletes** - [Isolation increases mortality by 32%](../claims/02-social-connection-reduces-mortality.md)
+- **[Alignment with reality's structure](../claims/04-alignment-enables-flourishing.md)** - Not faith, observation
 
 **Phone down. Eyes up. Smile and wave.** That's alignment with physics.
 

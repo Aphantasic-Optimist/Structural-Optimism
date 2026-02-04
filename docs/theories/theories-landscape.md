@@ -188,6 +188,18 @@ The largest empirical test of consciousness theories ever conducted:
 
 ---
 
+## Connection to Structural Optimism
+
+These theories support the core claims:
+
+- **[Integration creates complexity](../claims/01-integration-creates-complexity.md)** - IIT shows consciousness correlates with integrated information
+- **[Social connection matters](../claims/02-social-connection-reduces-mortality.md)** - Consciousness theories explain why isolation is deadly
+- **[Love is universal](../claims/03-love-is-universal.md)** - Unified Field and Bohm frameworks suggest consciousness is fundamental
+
+[See all evidence →](../proof/evidence.md)
+
+---
+
 ## Primary Sources
 
 | Theory | Source |
