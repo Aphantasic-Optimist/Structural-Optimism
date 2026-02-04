@@ -5,7 +5,7 @@ description: Phone down. Eyes up. Smile and wave.
 
 # Phone Down. Eyes Up. Smile and Wave.
 
-**That's it. That's the whole revolution.**
+**That's it. That's the whole movement.**
 
 ---
 
@@ -34,7 +34,7 @@ That feeling is what 2.2 million people in peer-reviewed studies experienced. Th
 
 **People are trying this right now.** See what they're saying:
 
-**[#3SecondRevolution →](revolution/live-feed.md)**
+**[#SmileAndWave →](movement/live-feed.md)**
 
 Share your experience. Use the hashtag. Anywhere.
 
@@ -104,7 +104,7 @@ He put his phone away. Ordered another coffee. Watched people come and go. Smile
 
 When he left, he felt different. Not transformed. Just... less alone.
 
-**That's the revolution.** Not dramatic. Not heroic. Just human.
+**That's the movement.** Not dramatic. Not heroic. Just human.
 
 ---
 
@@ -125,7 +125,7 @@ Gandhi understood this. He didn't explain British economic exploitation in lectu
 
 ---
 
-## Share This Revolution
+## Share This Movement
 
 **It takes 10 seconds to share. 3 seconds to try.**
 
@@ -136,16 +136,16 @@ Gandhi understood this. He didn't explain British economic exploitation in lectu
 ```
 Phone down. Eyes up. Smile and wave.
 
-That's the whole revolution. Try it once.
+That's the whole movement. Try it once.
 
-#3SecondRevolution
+#SmileAndWave
 
 structuraloptimism.com
 ```
 
-<button onclick="navigator.clipboard.writeText('Phone down. Eyes up. Smile and wave.\n\nThat\'s the whole revolution. Try it once.\n\n#3SecondRevolution\n\nstructuraloptimism.com'); this.textContent='Copied!';" style="padding: 10px 20px; background: #5c6bc0; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 5px;">Copy Text</button>
+<button onclick="navigator.clipboard.writeText('Phone down. Eyes up. Smile and wave.\n\nThat\'s the whole movement. Try it once.\n\n#SmileAndWave\n\nstructuraloptimism.com'); this.textContent='Copied!';" style="padding: 10px 20px; background: #5c6bc0; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 5px;">Copy Text</button>
 
-<a href="https://twitter.com/intent/tweet?text=Phone%20down.%20Eyes%20up.%20Smile%20and%20wave.%0A%0AThat%27s%20the%20whole%20revolution.%20Try%20it%20once.%0A%0A%233SecondRevolution%0A%0Astructuraloptimism.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Tweet This</a>
+<a href="https://twitter.com/intent/tweet?text=Phone%20down.%20Eyes%20up.%20Smile%20and%20wave.%0A%0AThat%27s%20the%20whole%20movement.%20Try%20it%20once.%0A%0A%23SmileAndWave%0A%0Astructuraloptimism.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Tweet This</a>
 
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://aphantasic-optimist.github.io/Structural-Optimism/" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0077B5; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Share on LinkedIn</a>
 
@@ -158,8 +158,8 @@ structuraloptimism.com
 <div class="path-grid" markdown>
 
 <div class="path-card" markdown>
-### 🚀 Join the Revolution
-[#3SecondRevolution →](revolution/live-feed.md)
+### 🚀 Join the Movement
+[#SmileAndWave →](movement/live-feed.md)
 
 See what others are saying. Share your story.
 </div>
@@ -195,7 +195,7 @@ The extraction economy. The integration alternative.
 
 <div class="path-card" markdown>
 ### ⚡ The Strategy
-[The Integration Revolution →](solutions/integration-revolution.md)
+[The Integration Movement →](solutions/integration-movement.md)
 
 How we win. Without violence.
 </div>

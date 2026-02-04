@@ -50,7 +50,7 @@ Change the systems that profit from extraction.
 
 ## The Big Picture
 
-[**The Integration Revolution →**](integration-revolution.md)
+[**The Integration Movement →**](integration-movement.md)
 
 How we win the war against extraction—without violence.
 
@@ -78,7 +78,7 @@ Every act of genuine connection is an act of resistance.
 
 Every phone put down is a vote for integration.
 
-Every smile is a revolution.
+Every smile is a movement toward connection.
 
 ---
 

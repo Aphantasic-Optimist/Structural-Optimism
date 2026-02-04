@@ -23,7 +23,7 @@ Three ideas converge here:
 
 ---
 
-## Rutger Bregman's Revolution
+## Rutger Bregman's Insight
 
 In *Humankind: A Hopeful History*, Bregman makes a radical claim:
 

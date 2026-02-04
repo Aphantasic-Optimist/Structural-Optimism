@@ -33,7 +33,7 @@ description: The message in a format you can share
 
 ---
 
-**That's it. That's the whole revolution.**
+**That's it. That's the whole movement.**
 
 *structuraloptimism.org*
 

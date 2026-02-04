@@ -1,7 +1,7 @@
-# #3SecondRevolution
+# #SmileAndWave
 
-<div class="revolution-intro" markdown>
-**The revolution has no leader. Just the idea spreading itself.**
+<div class="movement-intro" markdown>
+**The movement has no leader. Just the idea spreading itself.**
 </div>
 
 ---
@@ -20,13 +20,13 @@ That's it. 3 seconds.
 
 Did you try it? What happened?
 
-**Post with #3SecondRevolution on:**
+**Post with #SmileAndWave on:**
 
-- [Twitter/X](https://twitter.com/search?q=%233SecondRevolution){:target="_blank"}
-- [Instagram](https://www.instagram.com/explore/tags/3secondrevolution/){:target="_blank"}
-- [TikTok](https://www.tiktok.com/tag/3secondrevolution){:target="_blank"}
-- [Reddit](https://www.reddit.com/search/?q=%233SecondRevolution){:target="_blank"}
-- [LinkedIn](https://www.linkedin.com/search/results/content/?keywords=%233SecondRevolution){:target="_blank"}
+- [Twitter/X](https://twitter.com/search?q=%23SmileAndWave){:target="_blank"}
+- [Instagram](https://www.instagram.com/explore/tags/smileandwave/){:target="_blank"}
+- [TikTok](https://www.tiktok.com/tag/smileandwave){:target="_blank"}
+- [Reddit](https://www.reddit.com/search/?q=%23SmileAndWave){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/search/results/content/?keywords=%23SmileAndWave){:target="_blank"}
 - Threads, Bluesky, anywhere
 
 **See what others are saying:**  
@@ -70,8 +70,8 @@ This is judo. This is Gandhi. This is real.
   <p>3 seconds. Right now.</p>
 </div>
 
-Then tell us what happened. #3SecondRevolution
+Then tell us what happened. #SmileAndWave
 
 ---
 
-**The revolution is 3 seconds.** ✨
+**The movement is 3 seconds.** ✨

@@ -84,12 +84,12 @@ nav:
   - Home: index.md
   - Practice: practical/daily-practice.md
   - Why: proof/simple.md
-  - "#3SecondRevolution": revolution/live-feed.md
+  - "#SmileAndWave": movement/live-feed.md
   - Go Deeper:
       - The Problem: problem/index.md
       - The Evidence: proof/index.md
       - Solutions: solutions/index.md
-      - The Integration Revolution: solutions/integration-revolution.md
+      - The Integration Movement: solutions/integration-movement.md
       - Philosophy: philosophy/index.md
   - About: about/index.md
 

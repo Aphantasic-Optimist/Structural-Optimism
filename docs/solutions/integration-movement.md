@@ -1,9 +1,9 @@
 ---
-title: The Integration Revolution
+title: The Integration Movement
 description: How to win the war against extraction—without violence
 ---
 
-# The Integration Revolution
+# The Integration Movement
 
 **Extraction vs Integration. That's the real war. And we can win it without firing a shot.**
 
@@ -130,7 +130,7 @@ You don't need to understand the attention economy to resist it. Just:
 - Look at another human
 - Smile
 
-**Do this once a day. That's the revolution.**
+**Do this once a day. That's the movement.**
 
 ### Phase 2: Community Integration (Ongoing)
 
@@ -259,7 +259,7 @@ You just need to:
 
 **Do this once today. Do it again tomorrow. And tell someone.** Ideas spread through connection. Isolation spreads through silence.
 
-The revolution doesn't require violence. It doesn't require permission. It doesn't require understanding.
+The movement doesn't require violence. It doesn't require permission. It doesn't require understanding.
 
 **It just requires choosing integration over extraction, one moment at a time.**
 

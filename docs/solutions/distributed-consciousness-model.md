@@ -320,7 +320,7 @@ The bot doesn't replace your judgment. It makes your actual judgment visible. If
 
 ## The Vision
 
-**Not utopia. Not revolution. Practical alternatives.**
+**Not utopia. Not violent upheaval. Practical alternatives.**
 
 Systems where:
 - You own your data

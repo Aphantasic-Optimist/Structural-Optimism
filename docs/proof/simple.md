@@ -115,7 +115,7 @@ Because it is.
 
 - [Full Evidence](evidence.md) — All the supporting research (20 min)
 - [Academic Proof](academic.md) — Complete philosophical argument (1 hour)
-- [The Integration Revolution](../solutions/integration-revolution.md) — What we do about it
+- [The Integration Movement](../solutions/integration-movement.md) — What we do about it
 
 ---
 
