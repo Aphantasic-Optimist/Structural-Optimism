@@ -295,4 +295,4 @@ Reach out to someone. A text. A call. A hug. Connection doesn't have to be drama
 
 **[The universe is shaped like optimism](philosophy/universe-shaped-like-optimism.md). Align with it.**
 
-✨
+**Live, Feel, Love.** ✨
