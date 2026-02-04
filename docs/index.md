@@ -3,13 +3,31 @@ title: Structural Optimism
 description: Phone down. Eyes up. Smile and wave.
 ---
 
-# Phone Down. Eyes Up. Smile and Wave.
+# You Already Know This
 
-**That's it. That's the whole movement.**
+**Connection matters. Screens are bad. Love is good.**
+
+Yeah, obviously.
+
+So why are you still scrolling?
 
 ---
 
-## Try It Now
+## The Non-Obvious Part
+
+You're not weak. You're not addicted. You're not broken.
+
+**You're being extracted.**
+
+A $500 billion industry employs thousands of PhDs to capture your attention and sell it. Outrage engages. Fear clicks. Division shares. Connection doesn't generate data.
+
+You know connection matters. They know you know. **They're betting you won't act on it.**
+
+Every time you think "I should put this down" and don't — that's not a character flaw. That's a system working exactly as designed.
+
+---
+
+## The Challenge
 
 <div class="try-it-now" markdown>
 
@@ -20,13 +38,30 @@ description: Phone down. Eyes up. Smile and wave.
 3. If someone's nearby, make eye contact, smile, and wave
 4. If you're alone, look in a mirror, smile, and wave at yourself—you count too
 
-**Done?** Notice how that felt.
+**Done?** Or did you keep reading?
 
-That feeling is what 2.2 million people in peer-reviewed studies experienced. That's what reduces mortality by 50%. That's what every wisdom tradition has been trying to tell us.
+If you kept reading: that's the extraction economy working. You know what to do. You're choosing not to do it. That gap between knowing and doing is where $500 billion lives.
 
-**You just aligned with reality's structure.**
+If you actually did it: notice how that felt. That's 2.2 million people in peer-reviewed studies. That's 50% mortality reduction. That's alignment with physics.
 
 </div>
+
+---
+
+## The Physics (Not the Feelings)
+
+"Connection is good" is not the insight. The insight is **why**.
+
+Reality is structured so that integration creates complexity:
+
+- Atoms integrate → molecules
+- Molecules integrate → cells
+- Cells integrate → you
+- You integrate → relationships, civilization, meaning
+
+**Extraction reverses this.** It pulls apart what integration built. It's thermodynamically unsustainable. It depletes.
+
+The attention economy isn't just bad for your mental health. It's fighting physics. And physics always wins.
 
 ---
 
@@ -42,69 +77,72 @@ Share your experience. Use the hashtag. Anywhere.
 
 <div class="struggling-note" markdown>
 
-**Struggling right now?** That's information, not a verdict. Cringing at this page? That's your nervous system protecting itself from change.
+**Cringing at this page?** Good. That's your pattern-recognition working. You've seen a thousand "put down your phone" takes. This looks like another one.
 
-You can still grow. Not someday—starting now. Even while doubting. Especially while doubting.
+The difference: we're not moralizing. We're describing physics. Integration creates. Extraction depletes. You can verify this yourself.
 
-**Click the ❤️ in the bottom right corner.** It's a guide to practicing self-acceptance through honest reflection. Not comfortable. Honest.
+**Struggling right now?** That's information, not a verdict. Click the :material-heart: in the bottom right corner for a guide to honest self-reflection.
 
 </div>
 
 ---
 
-## We've All Been There
+## The Uncomfortable Question
 
-Here's the uncomfortable truth: **we've all gotten lost in our screens.**
+Here's what the "yeah obviously" crowd doesn't want to hear:
 
-Scrolling through life. Optimizing for likes. Comparing ourselves to strangers. Missing the person right next to us.
+**If you know connection matters, why did you read this far instead of doing the practice?**
 
-This isn't a character flaw. It's what happens when you try to navigate alone in a system designed to capture your attention.
+Not a gotcha. A genuine question.
 
-The billionaire in his mansion? Lonely. The influencer with millions of followers? Lonely. Someone scrolling at 2am looking for connection? Lonely. Meanwhile, the poorest communities often report the highest life satisfaction—because they still have each other.
+The answer is probably: because reading about connection is easier than making it. Because understanding a problem feels like solving it. Because you're smart enough to know what's right but not yet brave enough to do it.
 
-**We've been doing what individuals do:** optimizing for personal success. But you can't optimize for the whole earth by yourself. That's not how integration works.
+That's not a character flaw. That's the gap the extraction economy lives in.
 
-The solution isn't self-improvement. It's connection.
+**The billionaire in his mansion?** Knows connection matters. Still lonely.  
+**The influencer with millions of followers?** Knows connection matters. Still lonely.  
+**You, reading this?** Know connection matters. Still scrolling.
 
-**Think of one person you could reach out to.** Not today, not tomorrow—just one person. If no one comes to mind, that's a warning sign. Isolation is dangerous. Start with yourself—self-compassion counts—but don't stop there. A text, a wave, a smile. Small gestures toward connection are movements toward life.
-
----
-
-## The 30-Second Version
-
-The algorithms want your eyes on a screen.
-
-Your biology wants your eyes on each other.
-
-**The science is clear:**
-
-- 2.2 million people studied: Social connection reduces mortality by 50%
-- 166 cultures examined: Love is universal in every single one
-- Nonviolent movements with 3.5% participation: 100% success rate
-
-The devices in our pockets extract our attention and sell it. They profit from division.
-
-**The antidote is ancient and free:**
-
-Put the phone down. Look someone in the eyes. Smile.
+The solution isn't more knowledge. It's action. One smile. One wave. One moment of actual presence.
 
 ---
 
-## A Story
+## Why This Time Is Different
 
-A man sat alone in a coffee shop, scrolling. He'd been there an hour. Hadn't looked up once.
+## Why This Time Is Different
 
-An older woman at the next table caught his eye when he finally glanced up to stretch. She smiled.
+Every generation has said "put down the distraction." Books. Radio. TV. Phones.
 
-He smiled back.
+**This time the distraction fights back.**
 
-That was it. No conversation. No exchange of numbers. Just two humans acknowledging each other's existence.
+Previous distractions were passive. You could put down a book. The book didn't send you notifications. The book didn't learn your vulnerabilities. The book didn't employ behavioral psychologists to maximize your engagement.
 
-He put his phone away. Ordered another coffee. Watched people come and go. Smiled at a few more.
+The attention economy is the first distraction that actively resists being put down. It's adaptive. It's personalized. It's optimized against your specific weaknesses.
 
-When he left, he felt different. Not transformed. Just... less alone.
+**That's why knowing isn't enough anymore.**
 
-**That's the movement.** Not dramatic. Not heroic. Just human.
+Gandhi didn't explain British economic exploitation. He picked up salt. Everyone understood.
+
+**Phone down. Eyes up. Smile and wave.** Everyone understands.
+
+The action is the message. The practice is the resistance.
+
+---
+
+## The Numbers (For the Skeptics)
+
+| Claim | Evidence |
+|-------|----------|
+| Connection reduces mortality | 50% reduction, 2.2M people, Wang et al. 2023 |
+| Love is universal | 166 cultures, Jankowiak & Fischer 1992 |
+| Nonviolent movements work | 3.5% participation = 100% success rate |
+| Attention economy size | $500B+ industry |
+
+**This is peer-reviewed. Replicated. Measurable.**
+
+Not feelings. Not philosophy. Physics and biology doing what they do.
+
+[See the full evidence →](proof/evidence.md)
 
 ---
 
