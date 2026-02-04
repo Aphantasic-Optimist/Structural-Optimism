@@ -95,7 +95,7 @@ Share your experience. Use the hashtag. Anywhere.
 
 The difference: we're not moralizing. We're [describing physics](proof/simple.md). Integration creates. Extraction depletes. You can [verify this yourself](proof/evidence.md).
 
-**Struggling right now?** That's information, not a verdict. Click the :material-heart: in the bottom right corner for a guide to [honest self-reflection](practical/rapid-self-wisdom.md).
+**Struggling right now?** That's information, not a verdict. **Suicide is never the answer.** It's a permanent response to temporary pain. It doesn't end suffering — it transfers it to everyone who loves you. The void lies. Connection is always possible. If you're considering it, that's the extraction winning — and we refuse to let it win. Click the :material-heart: in the bottom right corner for a guide to [honest self-reflection](practical/rapid-self-wisdom.md), or read about [suicidal optimism](philosophy/suicidal-optimism.md) — hope that has looked into the void and chosen life anyway.
 
 </div>
 

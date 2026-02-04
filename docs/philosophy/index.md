@@ -59,6 +59,9 @@ Heroes with flaws. Great ideas from imperfect people. What we keep, what we lear
 ### [Absurdist Optimism](absurdist-optimism.md)
 Accept the absurd. Revolt through joy. Imagine Sisyphus happy.
 
+### [Suicidal Optimism](suicidal-optimism.md)
+Hope that has looked into the void and chosen life anyway. The most honest form of hope.
+
 ### [The Universe is Shaped Like Optimism](universe-shaped-like-optimism.md)
 The complete synthesis. Why reality's structure matters.
 
