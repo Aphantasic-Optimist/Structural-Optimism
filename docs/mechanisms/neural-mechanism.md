@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: neural mechanism
+description: neural mechanism
 ---
 
-# Smoking cessation
+# neural mechanism
 
-**Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Type:** Mechanism  
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="neural-mechanism" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,13 +45,13 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Neural mechanisms include: social connection → oxytocin → VTA dopamine → nucleus accumbens reward loop; dopamine accelerates reward-seeking while serotonin provides inhibitory brake; heart rate variability couples with brain waves via vagal pathways across frequency bands.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
 
 This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
@@ -59,10 +59,14 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ## Relationships
 
-### Supported By
+### Supports
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **EXPLAINS**: [Social connection](../entities/social-connection.md)  
+  *The neural mechanism explains why social connection feels rewarding*
+  📚 Mentioned in 1 episode(s)
+
+- **VALIDATES**: [structural optimism](../entities/structural-optimism.md)  
+  *The neural mechanism validates the neural basis for structural optimism*
   📚 Mentioned in 1 episode(s)
 
 

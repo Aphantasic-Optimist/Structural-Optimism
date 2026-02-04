@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: Stanford 2024 study
+description: Stanford 2024 study
 ---
 
-# Smoking cessation
+# Stanford 2024 study
 
-**Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Type:** Evidence  
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="stanford-2024-study" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,24 +45,30 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Stanford 2024 study published in Nature demonstrates dopamine acts as accelerator for reward-seeking while serotonin functions as brake promoting patience and long-term thinking in decision-making.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:26 UTC  
+**Valid Since:** 2024-01-01  
+**Valid Since:** 2024-01-01  
 
 ---
 
 ## Relationships
 
-### Supported By
+### Supports
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **SUPPORTS_EVIDENCE_FOR**: [neuroscience](../entities/neuroscience.md)  
+  *Stanford 2024 study provides evidence for established neuroscience mechanisms*
+  📅 Valid since: 2024-01-01
+  📚 Mentioned in 1 episode(s)
+
+- **PUBLISHED_IN**: [Nature](../entities/nature.md)  
+  *Stanford 2024 study was published in Nature*
+  📅 Valid since: 2024-01-01
   📚 Mentioned in 1 episode(s)
 
 

@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: PNAS
+description: PNAS
 ---
 
-# Smoking cessation
+# PNAS
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="pnas" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,26 +45,19 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+PNAS (Proceedings of the National Academy of Sciences) published 2022 research on heart-brain coupling, showing cardiac sympathovagal activity initiates brain responses and HRV synchronizes with brain oscillations.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
 
 This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ---
 
 ## Relationships
-
-### Supported By
-
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
-  📚 Mentioned in 1 episode(s)
-
 
 ---
 

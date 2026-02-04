@@ -17,8 +17,8 @@ All evidence is tracked in our knowledge graph with full citations.
 
 | Study | Sample | Finding |
 |-------|--------|---------|
-| [Wang et al. 2023](mechanisms/biological-pathways.md) | 2.2M people | Social isolation +32% mortality |
-| [Holt-Lunstad et al. 2010](mechanisms/biological-pathways.md) | 308,849 people | 50% increased survival with strong ties |
+| Wang et al. 2023 | 2.2M people | Social isolation +32% mortality |
+| [Holt-Lunstad et al. 2010](../researchers/holt-lunstad-et-al-2010.md) | 308,849 people | 50% increased survival with strong ties |
 
 ### Love Universality
 
@@ -36,7 +36,8 @@ All evidence is tracked in our knowledge graph with full citations.
 
 ## Mechanisms
 
-- [Biological Pathways](mechanisms/biological-pathways.md) - How connection affects health
+- [Neural Mechanism](../mechanisms/neural-mechanism.md) - How connection affects the brain
+- [Vagal Mechanisms](../mechanisms/vagal-mechanisms.md) - Heart-brain coupling
 
 ---
 

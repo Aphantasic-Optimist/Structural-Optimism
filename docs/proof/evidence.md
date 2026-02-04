@@ -11,21 +11,33 @@ description: Full evidence summary across disciplines
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="claim-2" data-depth="2"></div>
+Explore the connections between research findings. Click any node to learn more.
+
+<div class="mini-graph" data-node-id="social-connection" data-depth="3"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
 (function() {
-  var script = document.createElement('script');
   var canonical = document.querySelector('link[rel="canonical"]');
-  var basePath = canonical ? new URL(canonical.href).pathname.match(/^(\/[^\/]+)/)?.[1] || '' : '';
-  script.src = basePath + '/assets/javascripts/graphiti-viewer.js';
-  document.head.appendChild(script);
+  var basePath = '';
+  if (canonical) {
+    try {
+      var url = new URL(canonical.href);
+      if (url.hostname.includes('github.io')) {
+        var parts = url.pathname.split('/').filter(function(p) { return p; });
+        if (parts.length > 0) basePath = '/' + parts[0];
+      }
+    } catch(e) {}
+  }
   
   var link = document.createElement('link');
   link.rel = 'stylesheet';
   link.href = basePath + '/assets/stylesheets/graphiti-graph.css';
   document.head.appendChild(link);
+  
+  var script = document.createElement('script');
+  script.src = basePath + '/assets/javascripts/graphiti-viewer.js';
+  document.head.appendChild(script);
 })();
 </script>
 
@@ -51,7 +63,7 @@ description: Full evidence summary across disciplines
 | Oxytocin system | Connection reduces stress | ★★★★☆ |
 | HPA axis buffering | Social support buffers cortisol | ★★★★★ |
 
-[Full mechanisms →](../evidence/mechanisms/biological-pathways.md)
+[Full mechanisms →](../mechanisms/neural-mechanism.md)
 
 ---
 

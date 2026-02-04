@@ -35,24 +35,9 @@ Consciousness theory tested by Cogitate Consortium (2025) in pre-registered adve
 
 ## Relationships
 
-### Supported By
+The Cogitate Consortium (2025) tested IIT's predictions in a pre-registered adversarial collaboration across 6 labs. IIT's prediction of sustained posterior synchronization failed experimental validation.
 
-- **RELATES_TO**: [IIT's sustained posterior synchronization prediction failure](../entities/iits-sustained-posterior-synchronization-prediction-failure.md)  
-  *IIT's sustained posterior synchronization prediction failure contradicts Integrated Information Theory*
-  📅 Valid since: 2025-01-01
-  📚 Mentioned in 1 episode(s)
-
-- **TESTED**: [Pre-registered adversarial collaboration across 6 labs](../entities/pre-registered-adversarial-collaboration-across-6-labs.md)  
-  *The pre-registered adversarial collaboration across 6 labs tested Integrated Information Theory predictions*
-  📅 Valid since: 2025-01-01
-  📚 Mentioned in 1 episode(s)
-
-
----
-
-## Explore Further
-
-[View in Knowledge Graph](../) to see all connections and explore related concepts.
+[View in Knowledge Graph](../graph.md) to see all connections and explore related concepts.
 
 ---
 

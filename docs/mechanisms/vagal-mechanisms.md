@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: Vagal mechanisms
+description: Vagal mechanisms
 ---
 
-# Smoking cessation
+# Vagal mechanisms
 
-**Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Type:** Mechanism  
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="vagal-mechanisms" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,14 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Vagal mechanisms involve myelinated vagal activity that couples heart rate variability with brain oscillations across delta, theta, alpha, beta, and gamma bands. Higher respiratory sinus arrhythmia (RSA) improves emotion regulation.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
+**Valid Since:** 2026-02-04  
 
 ---
 
@@ -61,8 +60,9 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **SYNCHRONIZES_THROUGH**: [Heart rate variability](../entities/heart-rate-variability.md)  
+  *Heart rate variability synchronizes with brain waves through vagal mechanisms*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

@@ -100,4 +100,4 @@ Confirmed across: US, UK, Japan, Australia, China, diverse nations
 
 ---
 
-**See also:** [Biological Mechanisms](../evidence/mechanisms/biological-pathways.md)
+**See also:** [Neural Mechanism](../mechanisms/neural-mechanism.md) | [Evidence Graph](../graph.md)

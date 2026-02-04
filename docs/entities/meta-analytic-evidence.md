@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: Meta-analytic evidence
+description: Meta-analytic evidence
 ---
 
-# Smoking cessation
+# Meta-analytic evidence
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="meta-analytic-evidence" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,24 +45,30 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Meta-analytic evidence supporting dopamine-serotonin opposing effects on decision-making, learning, and cognitive processing. Referenced as PMC12159863. Establishes dopamine as accelerator for reward-seeking and serotonin as brake promoting patience.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:26 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
 
 ---
 
 ## Relationships
 
-### Supported By
+### Supports
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **SUPPORTS_EVIDENCE_FOR**: [neuroscience](neuroscience.md)  
+  *Meta-analytic evidence supports established neuroscience mechanisms*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **REFERENCES**: [PMC12159863](pmc12159863.md)  
+  *Meta-analytic evidence references PMC12159863*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

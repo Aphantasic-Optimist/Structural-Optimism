@@ -226,7 +226,7 @@
   }
 
   /**
-   * Get base path for the site (handles GitHub Pages subdirectory)
+   * Get base path for the site (handles GitHub Pages subdirectory vs root domain)
    */
   function getBasePath() {
     // Check for canonical link (set by MkDocs)
@@ -234,12 +234,19 @@
     if (canonical) {
       try {
         const url = new URL(canonical.href);
-        // Extract base path (e.g., /Structural-Optimism/)
-        const pathParts = url.pathname.split('/').filter(p => p);
-        if (pathParts.length > 0) {
-          // Return the first path segment as base
-          return '/' + pathParts[0];
+        // Check if this is a custom domain (no subdirectory) or GitHub Pages (with subdirectory)
+        // GitHub Pages URLs look like: username.github.io/repo-name/page
+        // Custom domain URLs look like: structuraloptimism.org/page
+        
+        // If the hostname contains 'github.io', extract the repo name as base path
+        if (url.hostname.includes('github.io')) {
+          const pathParts = url.pathname.split('/').filter(p => p);
+          if (pathParts.length > 0) {
+            return '/' + pathParts[0];
+          }
         }
+        // For custom domains, no base path needed
+        return '';
       } catch (e) {
         console.warn('Could not parse canonical URL:', e);
       }

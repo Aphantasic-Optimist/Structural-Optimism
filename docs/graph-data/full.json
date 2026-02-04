@@ -1,4 +1,768 @@
 {
-  "nodes": [],
-  "edges": []
+  "nodes": [
+    {
+      "id": "cce98c6c-19d2-487c-b441-defba8ff11d7",
+      "label": "Social connection",
+      "type": "Entity",
+      "summary": "Social connection reduces all-cause mortality by ~50% (Holt-Lunstad et al. 2010, 300K+ participants). Neural mechanism: social interaction \u2192 oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens \u2192 reward loop.",
+      "confidence": 3,
+      "url": "../entities/social-connection/",
+      "markdown_url": "entities/social-connection.md",
+      "slug": "social-connection"
+    },
+    {
+      "id": "7a6788e3-659a-46d7-8e02-5d613e463eae",
+      "label": "social interaction",
+      "type": "Entity",
+      "summary": "Social interaction reduces mortality by 50% (meta-analysis, 300k+ participants). Triggers oxytocin\u2192VTA dopamine\u2192nucleus accumbens pathway, creating reward feedback loop that reinforces approach behavior.",
+      "confidence": 5,
+      "url": "../entities/social-interaction/",
+      "markdown_url": "entities/social-interaction.md",
+      "slug": "social-interaction"
+    },
+    {
+      "id": "2e442034-eeac-4163-981d-a648904020ae",
+      "label": "Meta-analytic evidence",
+      "type": "Entity",
+      "summary": "Meta-analytic evidence supporting dopamine-serotonin opposing effects on decision-making, learning, and cognitive processing. Referenced as PMC12159863. Establishes dopamine as accelerator for reward-seeking and serotonin as brake promoting patience.",
+      "confidence": 3,
+      "url": "../entities/meta-analytic-evidence/",
+      "markdown_url": "entities/meta-analytic-evidence.md",
+      "slug": "meta-analytic-evidence"
+    },
+    {
+      "id": "07f03add-5961-4b08-913f-df0880d91636",
+      "label": "All-cause mortality",
+      "type": "Entity",
+      "summary": "All-cause mortality reduced by ~50% through social connection according to meta-analysis of 148 studies with 300,000+ participants (Holt-Lunstad et al. 2010). Effect comparable to quitting smoking.",
+      "confidence": 5,
+      "url": "../entities/all-cause-mortality/",
+      "markdown_url": "entities/all-cause-mortality.md",
+      "slug": "all-cause-mortality"
+    },
+    {
+      "id": "cb65f78b-40f1-4bc0-acee-b241ec09a716",
+      "label": "social isolation",
+      "type": "Entity",
+      "summary": "Social isolation inhibits oxytocin neuron activity, disrupting the VTA dopamine pathway. Lack of social connection increases all-cause mortality by ~50% (meta-analysis of 148 studies, 300k+ participants).",
+      "confidence": 5,
+      "url": "../entities/social-isolation/",
+      "markdown_url": "entities/social-isolation.md",
+      "slug": "social-isolation"
+    },
+    {
+      "id": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
+      "label": "Heart-brain coupling",
+      "type": "Entity",
+      "summary": "Heart rate variability synchronizes with brain waves through vagal mechanisms. Cardiac sympathovagal activity initiates brain responses. High-frequency HRV couples with delta, theta, alpha, beta, gamma bands. RSA quantifies vagal activity.",
+      "confidence": 3,
+      "url": "../entities/heart-brain-coupling/",
+      "markdown_url": "entities/heart-brain-coupling.md",
+      "slug": "heart-brain-coupling"
+    },
+    {
+      "id": "b775cdc1-2ead-44ac-9eae-5112b8d940c9",
+      "label": "cognitive processing",
+      "type": "Mechanism",
+      "summary": "Dopamine acts as accelerator promoting immediate action and reward-seeking, while serotonin functions as brake promoting patience and long-term thinking in cognitive processing (Stanford 2024).",
+      "confidence": 3,
+      "url": "../mechanisms/cognitive-processing/",
+      "markdown_url": "mechanisms/cognitive-processing.md",
+      "slug": "cognitive-processing"
+    },
+    {
+      "id": "222d9319-c8b9-4214-bc86-9790156aaf7b",
+      "label": "oxytocin",
+      "type": "Entity",
+      "summary": "Oxytocin directly modulates dopamine neurons in VTA, increases dopamine release in nucleus accumbens during social interactions. Creates positive feedback loop: social connection \u2192 oxytocin release \u2192 reward pathway activation \u2192 approach behavior. Social isolation inhibits oxytocin neuron activity.",
+      "confidence": 3,
+      "url": "../entities/oxytocin/",
+      "markdown_url": "entities/oxytocin.md",
+      "slug": "oxytocin"
+    },
+    {
+      "id": "dcc74db2-82e8-4f60-aa93-d7df32038ec9",
+      "label": "neural mechanism",
+      "type": "Mechanism",
+      "summary": "Neural mechanisms include: social connection \u2192 oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens reward loop; dopamine accelerates reward-seeking while serotonin provides inhibitory brake; heart rate variability couples with brain waves via vagal pathways across frequency bands.",
+      "confidence": 3,
+      "url": "../mechanisms/neural-mechanism/",
+      "markdown_url": "mechanisms/neural-mechanism.md",
+      "slug": "neural-mechanism"
+    },
+    {
+      "id": "067626be-056a-47b0-88e9-37d853fe448a",
+      "label": "positive feedback loop",
+      "type": "Entity",
+      "summary": "Neurobiological mechanism where social interaction triggers oxytocin release \u2192 VTA dopamine neurons \u2192 nucleus accumbens reward \u2192 approach behavior \u2192 more social interaction, creating self-reinforcing cycle.",
+      "confidence": 3,
+      "url": "../entities/positive-feedback-loop/",
+      "markdown_url": "entities/positive-feedback-loop.md",
+      "slug": "positive-feedback-loop"
+    },
+    {
+      "id": "3f145ecd-ebc3-4457-b64b-bff6365bbeab",
+      "label": "serotonin",
+      "type": "Entity",
+      "summary": "Neurotransmitter that functions as a \"brake\" in decision-making, promoting patience and long-term thinking. Creates inhibitory \"wait\" signals and promotes learning from punishments. Has opposing effects to dopamine in cognitive processing.",
+      "confidence": 3,
+      "url": "../entities/serotonin/",
+      "markdown_url": "entities/serotonin.md",
+      "slug": "serotonin"
+    },
+    {
+      "id": "d3bb6c37-8024-45e0-9b6d-1f7c25cfa39f",
+      "label": "neuroscience",
+      "type": "Entity",
+      "summary": "Social connection reduces mortality by ~50% (meta-analysis of 148 studies, 300k+ participants). Dopamine acts as accelerator for reward-seeking; serotonin as brake promoting patience. Both findings well-established.",
+      "confidence": 5,
+      "url": "../entities/neuroscience/",
+      "markdown_url": "entities/neuroscience.md",
+      "slug": "neuroscience"
+    },
+    {
+      "id": "a626d464-0a6a-4256-a406-af51626c390a",
+      "label": "oxytocin neuron activity",
+      "type": "Entity",
+      "summary": "Oxytocin neurons directly modulate VTA dopamine neurons, increasing dopamine release in nucleus accumbens during social interaction. Social isolation inhibits oxytocin neuron activity, disrupting the reward pathway.",
+      "confidence": 3,
+      "url": "../entities/oxytocin-neuron-activity/",
+      "markdown_url": "entities/oxytocin-neuron-activity.md",
+      "slug": "oxytocin-neuron-activity"
+    },
+    {
+      "id": "81610d8f-4829-42f6-bf2e-95d109156c58",
+      "label": "Brain oscillations",
+      "type": "Entity",
+      "summary": "Brain oscillations couple with heart rate variability through vagal mechanisms across delta, theta, alpha, beta, and gamma bands. High-frequency HRV shows stronger coupling with brain waves via cardiac sympathovagal activity.",
+      "confidence": 3,
+      "url": "../entities/brain-oscillations/",
+      "markdown_url": "entities/brain-oscillations.md",
+      "slug": "brain-oscillations"
+    },
+    {
+      "id": "a3d0c2e0-47f1-4f70-9d93-7f76532b027b",
+      "label": "oxytocin release",
+      "type": "Entity",
+      "summary": "Oxytocin release occurs during social interactions and directly modulates dopamine neurons in VTA, increasing dopamine release in nucleus accumbens to create rewarding feelings and promote approach behavior through positive feedback loop.",
+      "confidence": 3,
+      "url": "../entities/oxytocin-release/",
+      "markdown_url": "entities/oxytocin-release.md",
+      "slug": "oxytocin-release"
+    },
+    {
+      "id": "fbfb62d2-0697-4b1e-8fb7-fe19f410a7e7",
+      "label": "approach behavior",
+      "type": "Entity",
+      "summary": "Approach behavior is promoted by dopamine acting as accelerator for reward-seeking. Dopamine signals when outcomes exceed expectations, promoting immediate action. Social interactions trigger oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens \u2192 reward \u2192 approach behavior in positive feedback loop.",
+      "confidence": 3,
+      "url": "../entities/approach-behavior/",
+      "markdown_url": "entities/approach-behavior.md",
+      "slug": "approach-behavior"
+    },
+    {
+      "id": "6225f683-dcbc-492b-bfc3-dd880f9a2d95",
+      "label": "long-term thinking",
+      "type": "Entity",
+      "summary": "Serotonin acts as a brake that promotes long-term thinking and patience by creating inhibitory \"wait\" signals, opposing dopamine's immediate action-promoting effects. Established by Stanford 2024 study.",
+      "confidence": 5,
+      "url": "../entities/long-term-thinking/",
+      "markdown_url": "entities/long-term-thinking.md",
+      "slug": "long-term-thinking"
+    },
+    {
+      "id": "c740e4cc-849e-4f0e-92b7-02f9345d2d15",
+      "label": "Emotion regulation",
+      "type": "Entity",
+      "summary": "Higher respiratory sinus arrhythmia (RSA) improves emotion regulation through myelinated vagal activity. Serotonin acts as brake promoting patience and long-term thinking in decision-making processes.",
+      "confidence": 3,
+      "url": "../entities/emotion-regulation/",
+      "markdown_url": "entities/emotion-regulation.md",
+      "slug": "emotion-regulation"
+    },
+    {
+      "id": "e04b5857-7ee1-4b51-b1c2-ff11b22d861c",
+      "label": "Brain waves",
+      "type": "Entity",
+      "summary": "Brain waves synchronize with heart rate variability through vagal mechanisms. Coupling occurs across delta, theta, alpha, beta, and gamma bands. Cardiac sympathovagal activity initiates functional brain responses.",
+      "confidence": 3,
+      "url": "../entities/brain-waves/",
+      "markdown_url": "entities/brain-waves.md",
+      "slug": "brain-waves"
+    },
+    {
+      "id": "10173f63-d888-44a4-9251-59a82acc90c1",
+      "label": "Nature",
+      "type": "Entity",
+      "summary": "Scientific journal that published Stanford 2024 study on dopamine and serotonin's opposing effects on decision-making, learning, and cognitive processing.",
+      "confidence": 3,
+      "url": "../entities/nature/",
+      "markdown_url": "entities/nature.md",
+      "slug": "nature"
+    },
+    {
+      "id": "9615bf04-1e0a-4ee0-86b9-5cd809ae3aab",
+      "label": "Effect size",
+      "type": "Entity",
+      "summary": "Effect size of social connection on mortality comparable to quitting smoking - approximately 50% reduction in all-cause mortality (meta-analysis of 148 studies, 300,000+ participants)",
+      "confidence": 5,
+      "url": "../entities/effect-size/",
+      "markdown_url": "entities/effect-size.md",
+      "slug": "effect-size"
+    },
+    {
+      "id": "16e37f99-caae-446d-889f-d3abf0d6b368",
+      "label": "Holt-Lunstad et al. 2010",
+      "type": "Researcher",
+      "summary": "Meta-analysis published in PLoS Medicine analyzing 148 studies with 300,000+ participants. Found social connection reduces all-cause mortality by ~50%, effect comparable to quitting smoking.",
+      "confidence": 5,
+      "url": "../researchers/holt-lunstad-et-al-2010/",
+      "markdown_url": "researchers/holt-lunstad-et-al-2010.md",
+      "slug": "holt-lunstad-et-al-2010"
+    },
+    {
+      "id": "ddd5d6ff-32d0-40bd-977c-5998088b4e51",
+      "label": "structural optimism",
+      "type": "Entity",
+      "summary": "Social connection reduces mortality by 50% (meta-analysis of 148 studies). Neural pathway: social interaction \u2192 oxytocin \u2192 dopamine release in nucleus accumbens \u2192 reward feedback loop, providing biological basis for structural optimism.",
+      "confidence": 5,
+      "url": "../entities/structural-optimism/",
+      "markdown_url": "entities/structural-optimism.md",
+      "slug": "structural-optimism"
+    },
+    {
+      "id": "4b2dc754-7eee-4029-bfa1-c41df33bb3cb",
+      "label": "Heart rate variability",
+      "type": "Entity",
+      "summary": "Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotio...",
+      "confidence": 3,
+      "url": "../entities/heart-rate-variability/",
+      "markdown_url": "entities/heart-rate-variability.md",
+      "slug": "heart-rate-variability"
+    },
+    {
+      "id": "62c3aedc-1f6e-42ae-b611-36add6861ccc",
+      "label": "Meta-analysis",
+      "type": "Evidence",
+      "summary": "Meta-analysis by Holt-Lunstad et al. 2010 in PLoS Medicine analyzed 148 studies with 300,000+ participants. Found social connection reduces all-cause mortality by 50%, effect comparable to quitting smoking.",
+      "confidence": 5,
+      "url": "../evidence/meta-analysis/",
+      "markdown_url": "evidence/meta-analysis.md",
+      "slug": "meta-analysis"
+    },
+    {
+      "id": "09f12a45-46d3-4857-8aa5-0175722656da",
+      "label": "Smoking cessation",
+      "type": "Entity",
+      "summary": "Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).",
+      "confidence": 5,
+      "url": "../entities/smoking-cessation/",
+      "markdown_url": "entities/smoking-cessation.md",
+      "slug": "smoking-cessation"
+    },
+    {
+      "id": "e61f8c59-faf7-4ba5-9a43-6d162b806f3f",
+      "label": "dopamine release",
+      "type": "Entity",
+      "summary": "Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes approach behavior. Released in nucleus accumbens through oxytocin-VTA pathway during social interaction.",
+      "confidence": 3,
+      "url": "../entities/dopamine-release/",
+      "markdown_url": "entities/dopamine-release.md",
+      "slug": "dopamine-release"
+    },
+    {
+      "id": "2c8c4548-ca40-44e2-884b-df54aa2c277d",
+      "label": "nucleus accumbens",
+      "type": "Entity",
+      "summary": "Brain region where dopamine is released during social interactions. Part of reward pathway: oxytocin \u2192 VTA dopamine neurons \u2192 nucleus accumbens \u2192 reward/approach behavior. Key target for dopamine-mediated reward processing.",
+      "confidence": 3,
+      "url": "../entities/nucleus-accumbens/",
+      "markdown_url": "entities/nucleus-accumbens.md",
+      "slug": "nucleus-accumbens"
+    },
+    {
+      "id": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
+      "label": "dopamine",
+      "type": "Entity",
+      "summary": "Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes immediate action and approach behavior. Has opposing effects to serotonin in decision-making and learning. Released in nucleus accumbens through oxytocin-VTA pathway during s...",
+      "confidence": 3,
+      "url": "../entities/dopamine/",
+      "markdown_url": "entities/dopamine.md",
+      "slug": "dopamine"
+    },
+    {
+      "id": "59e9ec71-b285-4eb7-9f4a-1c752cc6a916",
+      "label": "Vagal mechanisms",
+      "type": "Mechanism",
+      "summary": "Vagal mechanisms involve myelinated vagal activity that couples heart rate variability with brain oscillations across delta, theta, alpha, beta, and gamma bands. Higher respiratory sinus arrhythmia (RSA) improves emotion regulation.",
+      "confidence": 3,
+      "url": "../mechanisms/vagal-mechanisms/",
+      "markdown_url": "mechanisms/vagal-mechanisms.md",
+      "slug": "vagal-mechanisms"
+    },
+    {
+      "id": "f9f29516-0182-4961-8b11-9b089d8b6af1",
+      "label": "learning",
+      "type": "Entity",
+      "summary": "Learning is influenced by dopamine and serotonin neurotransmitters with opposing effects. Dopamine accelerates reward-seeking and signals when outcomes exceed expectations. Serotonin acts as brake promoting patience and learning from punishments.",
+      "confidence": 3,
+      "url": "../entities/learning/",
+      "markdown_url": "entities/learning.md",
+      "slug": "learning"
+    },
+    {
+      "id": "f1f7a862-b4e0-4932-9fdb-0eb0ac72b637",
+      "label": "Theta band",
+      "type": "Entity",
+      "summary": "Brain oscillation frequency band that shows coupling with heart rate variability through vagal mechanisms. Part of heart-brain synchronization across delta, theta, alpha, beta, and gamma bands.",
+      "confidence": 3,
+      "url": "../entities/theta-band/",
+      "markdown_url": "entities/theta-band.md",
+      "slug": "theta-band"
+    },
+    {
+      "id": "ceaa69b1-21e7-4bf0-9d3f-758d7ded2e88",
+      "label": "Myelinated vagal activity",
+      "type": "Entity",
+      "summary": "Myelinated vagal activity quantified through Respiratory Sinus Arrhythmia (RSA). Higher RSA correlates with improved emotion regulation and stronger heart-brain coupling across brain wave frequencies.",
+      "confidence": 3,
+      "url": "../entities/myelinated-vagal-activity/",
+      "markdown_url": "entities/myelinated-vagal-activity.md",
+      "slug": "myelinated-vagal-activity"
+    },
+    {
+      "id": "92960c3b-4a0e-4c12-a810-7f355b163ba5",
+      "label": "PMC12159863",
+      "type": "Entity",
+      "summary": "PMC12159863 is a meta-analytic study providing evidence for opposing effects of dopamine and serotonin on decision-making, learning, and cognitive processing.",
+      "confidence": 3,
+      "url": "../entities/pmc12159863/",
+      "markdown_url": "entities/pmc12159863.md",
+      "slug": "pmc12159863"
+    },
+    {
+      "id": "2dc26dcc-132b-4378-9038-05cf4fdb9757",
+      "label": "Stanford 2024 study",
+      "type": "Evidence",
+      "summary": "Stanford 2024 study published in Nature demonstrates dopamine acts as accelerator for reward-seeking while serotonin functions as brake promoting patience and long-term thinking in decision-making.",
+      "confidence": 3,
+      "url": "../evidence/stanford-2024-study/",
+      "markdown_url": "evidence/stanford-2024-study.md",
+      "slug": "stanford-2024-study"
+    },
+    {
+      "id": "3af74002-0d8c-433a-bf1a-4dd65dec3275",
+      "label": "reward-seeking behavior",
+      "type": "Entity",
+      "summary": "Dopamine acts as accelerator for reward-seeking behavior, promoting immediate action and approach behavior when outcomes exceed expectations. Established neuroscience mechanism.",
+      "confidence": 5,
+      "url": "../entities/reward-seeking-behavior/",
+      "markdown_url": "entities/reward-seeking-behavior.md",
+      "slug": "reward-seeking-behavior"
+    },
+    {
+      "id": "cbace4bb-ecec-4fad-b4a4-f83d0472a58a",
+      "label": "Frontiers Behavioral Neuroscience",
+      "type": "Entity",
+      "summary": "Academic journal that published 2025 research on heart rate variability synchronization with brain waves through vagal mechanisms and respiratory sinus arrhythmia as index of vagal activity.",
+      "confidence": 3,
+      "url": "../entities/frontiers-behavioral-neuroscience/",
+      "markdown_url": "entities/frontiers-behavioral-neuroscience.md",
+      "slug": "frontiers-behavioral-neuroscience"
+    },
+    {
+      "id": "50eb736d-af29-40ae-83e8-0a8056da57a5",
+      "label": "decision-making",
+      "type": "Entity",
+      "summary": "Dopamine acts as accelerator for reward-seeking and approach behavior in decision-making, while serotonin functions as brake promoting patience and long-term thinking. These neurotransmitters have opposing effects on cognitive processing and learning mechanisms.",
+      "confidence": 3,
+      "url": "../entities/decision-making/",
+      "markdown_url": "entities/decision-making.md",
+      "slug": "decision-making"
+    },
+    {
+      "id": "8142e58f-edc3-43d0-a9c9-f3fd510a79fc",
+      "label": "PLoS Medicine",
+      "type": "Entity",
+      "summary": "Academic journal that published Holt-Lunstad et al. 2010 meta-analysis of 148 studies showing social connection reduces mortality by 50% (effect comparable to quitting smoking).",
+      "confidence": 5,
+      "url": "../entities/plos-medicine/",
+      "markdown_url": "entities/plos-medicine.md",
+      "slug": "plos-medicine"
+    },
+    {
+      "id": "9c4d3a8c-05c6-414a-814c-51e1eb64a198",
+      "label": "High-frequency HRV",
+      "type": "Entity",
+      "summary": "High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands through vagal mechanisms. Part of heart-brain coupling research with strong evidence (PNAS 2022).",
+      "confidence": 3,
+      "url": "../entities/high-frequency-hrv/",
+      "markdown_url": "entities/high-frequency-hrv.md",
+      "slug": "high-frequency-hrv"
+    },
+    {
+      "id": "ac4c6757-9801-4b70-a670-23c03504798c",
+      "label": "Cardiac sympathovagal activity",
+      "type": "Entity",
+      "summary": "Cardiac sympathovagal activity initiates functional brain responses and shows coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands through vagal mechanisms.",
+      "confidence": 3,
+      "url": "../entities/cardiac-sympathovagal-activity/",
+      "markdown_url": "entities/cardiac-sympathovagal-activity.md",
+      "slug": "cardiac-sympathovagal-activity"
+    },
+    {
+      "id": "9db15be4-5716-4129-9d83-727da737d25d",
+      "label": "PNAS",
+      "type": "Entity",
+      "summary": "PNAS (Proceedings of the National Academy of Sciences) published 2022 research on heart-brain coupling, showing cardiac sympathovagal activity initiates brain responses and HRV synchronizes with brain oscillations.",
+      "confidence": 3,
+      "url": "../entities/pnas/",
+      "markdown_url": "entities/pnas.md",
+      "slug": "pnas"
+    },
+    {
+      "id": "6fc9838b-9b40-4e66-8fe9-e109b0941d3d",
+      "label": "ventral tegmental area",
+      "type": "Entity",
+      "summary": "Brain region containing dopamine neurons that are directly modulated by oxytocin during social interactions. Releases dopamine to nucleus accumbens, creating reward sensation and positive feedback loop for social behavior.",
+      "confidence": 3,
+      "url": "../entities/ventral-tegmental-area/",
+      "markdown_url": "entities/ventral-tegmental-area.md",
+      "slug": "ventral-tegmental-area"
+    },
+    {
+      "id": "c843d1c2-3e72-4729-9f0d-340a7f3288a5",
+      "label": "reward",
+      "type": "Entity",
+      "summary": "Dopamine acts as accelerator for reward-seeking behavior, signaling when outcomes exceed expectations. Social connection activates oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens reward pathway.",
+      "confidence": 3,
+      "url": "../entities/reward/",
+      "markdown_url": "entities/reward.md",
+      "slug": "reward"
+    },
+    {
+      "id": "2c84fa00-8066-4718-b37f-1f7f7ca25e28",
+      "label": "dopamine neurons",
+      "type": "Entity",
+      "summary": "Dopamine neurons in VTA modulated by oxytocin during social interaction, release dopamine in nucleus accumbens creating reward signals. Act as accelerator for reward-seeking, signal when outcomes exceed expectations, promote approach behavior. Part of social connection feedback loop.",
+      "confidence": 3,
+      "url": "../entities/dopamine-neurons/",
+      "markdown_url": "entities/dopamine-neurons.md",
+      "slug": "dopamine-neurons"
+    },
+    {
+      "id": "38f20b31-0442-4b88-ae1a-9664829cdafb",
+      "label": "Gamma band",
+      "type": "Entity",
+      "summary": "Brain wave frequency band that shows coupling with heart rate variability through vagal mechanisms. Part of multi-band heart-brain synchronization including delta, theta, alpha, and beta waves.",
+      "confidence": 3,
+      "url": "../entities/gamma-band/",
+      "markdown_url": "entities/gamma-band.md",
+      "slug": "gamma-band"
+    },
+    {
+      "id": "54b8d89b-d0cd-41b5-ad37-3a5aed7ecc42",
+      "label": "Respiratory sinus arrhythmia",
+      "type": "Entity",
+      "summary": "Respiratory sinus arrhythmia (RSA) is a quantifiable index of myelinated vagal activity. Higher RSA levels are associated with improved emotion regulation and heart-brain coupling mechanisms.",
+      "confidence": 3,
+      "url": "../entities/respiratory-sinus-arrhythmia/",
+      "markdown_url": "entities/respiratory-sinus-arrhythmia.md",
+      "slug": "respiratory-sinus-arrhythmia"
+    },
+    {
+      "id": "9a8621d3-5e0e-44ee-980d-445c92d18d2e",
+      "label": "Alpha band",
+      "type": "Entity",
+      "summary": "Alpha band is one of the brain wave frequency ranges that shows coupling with heart rate variability through vagal mechanisms, as part of heart-brain synchronization across multiple frequency bands.",
+      "confidence": 3,
+      "url": "../entities/alpha-band/",
+      "markdown_url": "entities/alpha-band.md",
+      "slug": "alpha-band"
+    },
+    {
+      "id": "65089541-9a93-45f7-9286-db22c6790c01",
+      "label": "VTA dopamine neurons",
+      "type": "Entity",
+      "summary": "Dopamine neurons in ventral tegmental area (VTA) that are directly modulated by oxytocin, release dopamine in nucleus accumbens during social interactions, creating reward signals and positive feedback loops for social behavior.",
+      "confidence": 3,
+      "url": "../entities/vta-dopamine-neurons/",
+      "markdown_url": "entities/vta-dopamine-neurons.md",
+      "slug": "vta-dopamine-neurons"
+    },
+    {
+      "id": "c987e044-1236-4adf-b2ae-57b9983c12fb",
+      "label": "Beta band",
+      "type": "Entity",
+      "summary": "Beta band brain waves couple with heart rate variability through vagal mechanisms, showing synchronization across delta, theta, alpha, beta, and gamma frequency bands in heart-brain coupling research.",
+      "confidence": 3,
+      "url": "../entities/beta-band/",
+      "markdown_url": "entities/beta-band.md",
+      "slug": "beta-band"
+    },
+    {
+      "id": "8a44dd93-e5bd-404c-a43e-af2b05dd3557",
+      "label": "Delta band",
+      "type": "Entity",
+      "summary": "Delta band is one of the brain wave frequencies that shows coupling with heart rate variability through vagal mechanisms, as part of heart-brain synchronization research.",
+      "confidence": 3,
+      "url": "../entities/delta-band/",
+      "markdown_url": "entities/delta-band.md",
+      "slug": "delta-band"
+    }
+  ],
+  "edges": [
+    {
+      "id": "c3ec20bf-3bab-4318-b73b-8f39355fd728",
+      "source": "cce98c6c-19d2-487c-b441-defba8ff11d7",
+      "target": "07f03add-5961-4b08-913f-df0880d91636",
+      "label": "REDUCES"
+    },
+    {
+      "id": "a83722d7-1fef-400a-890e-b2ec7b7e0b5a",
+      "source": "cce98c6c-19d2-487c-b441-defba8ff11d7",
+      "target": "62c3aedc-1f6e-42ae-b611-36add6861ccc",
+      "label": "BASED_ON"
+    },
+    {
+      "id": "df85b65b-1ed1-47a4-87cf-561b3a71dcf9",
+      "source": "9615bf04-1e0a-4ee0-86b9-5cd809ae3aab",
+      "target": "09f12a45-46d3-4857-8aa5-0175722656da",
+      "label": "COMPARABLE_TO"
+    },
+    {
+      "id": "81db7ba8-4762-475f-a5cf-1486a6454be3",
+      "source": "cce98c6c-19d2-487c-b441-defba8ff11d7",
+      "target": "067626be-056a-47b0-88e9-37d853fe448a",
+      "label": "CREATES"
+    },
+    {
+      "id": "8d149d15-87eb-40e5-bf96-dac21f4fe470",
+      "source": "dcc74db2-82e8-4f60-aa93-d7df32038ec9",
+      "target": "cce98c6c-19d2-487c-b441-defba8ff11d7",
+      "label": "EXPLAINS"
+    },
+    {
+      "id": "2fe5a4ef-318e-433a-9fcf-b402fbe7e537",
+      "source": "7a6788e3-659a-46d7-8e02-5d613e463eae",
+      "target": "a3d0c2e0-47f1-4f70-9d93-7f76532b027b",
+      "label": "TRIGGERS"
+    },
+    {
+      "id": "12f474a8-558a-45bc-a7ce-3c8c25224b14",
+      "source": "2c8c4548-ca40-44e2-884b-df54aa2c277d",
+      "target": "c843d1c2-3e72-4729-9f0d-340a7f3288a5",
+      "label": "PRODUCES"
+    },
+    {
+      "id": "23030f0b-3a88-43ab-872d-205e93345c3f",
+      "source": "fbfb62d2-0697-4b1e-8fb7-fe19f410a7e7",
+      "target": "7a6788e3-659a-46d7-8e02-5d613e463eae",
+      "label": "PROMOTES"
+    },
+    {
+      "id": "68f98b67-e0b4-40e3-8370-bf47bcc3aa97",
+      "source": "cb65f78b-40f1-4bc0-acee-b241ec09a716",
+      "target": "a626d464-0a6a-4256-a406-af51626c390a",
+      "label": "INHIBITS"
+    },
+    {
+      "id": "ee0b29e7-a760-4d96-9792-22a9ef1a39fb",
+      "source": "2e442034-eeac-4163-981d-a648904020ae",
+      "target": "d3bb6c37-8024-45e0-9b6d-1f7c25cfa39f",
+      "label": "SUPPORTS_EVIDENCE_FOR"
+    },
+    {
+      "id": "3f7c411f-2535-48e9-b37a-7993377292e1",
+      "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
+      "target": "f1f7a862-b4e0-4932-9fdb-0eb0ac72b637",
+      "label": "OCCURS_IN"
+    },
+    {
+      "id": "a3b508fb-1701-4d86-93e7-f6b9c814ff31",
+      "source": "2dc26dcc-132b-4378-9038-05cf4fdb9757",
+      "target": "d3bb6c37-8024-45e0-9b6d-1f7c25cfa39f",
+      "label": "SUPPORTS_EVIDENCE_FOR"
+    },
+    {
+      "id": "0528485e-568e-44a1-8d09-4b8562ffcbc1",
+      "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
+      "target": "ac4c6757-9801-4b70-a670-23c03504798c",
+      "label": "INVOLVES"
+    },
+    {
+      "id": "f2b5888d-ce59-4df6-9be7-ca8bc716e6e5",
+      "source": "dcc74db2-82e8-4f60-aa93-d7df32038ec9",
+      "target": "ddd5d6ff-32d0-40bd-977c-5998088b4e51",
+      "label": "VALIDATES"
+    },
+    {
+      "id": "1ed14867-6870-411c-93e1-c8c8ab14c83a",
+      "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
+      "target": "38f20b31-0442-4b88-ae1a-9664829cdafb",
+      "label": "OCCURS_IN"
+    },
+    {
+      "id": "e735f9ba-24cd-423e-92a7-c97fd16362f6",
+      "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
+      "target": "c987e044-1236-4adf-b2ae-57b9983c12fb",
+      "label": "OCCURS_IN"
+    },
+    {
+      "id": "d8d20f71-fb1c-4a34-b792-59830a101f93",
+      "source": "4b2dc754-7eee-4029-bfa1-c41df33bb3cb",
+      "target": "e04b5857-7ee1-4b51-b1c2-ff11b22d861c",
+      "label": "SYNCHRONIZES_WITH"
+    },
+    {
+      "id": "bb4c9bff-72f5-4e88-8d3d-eb0f4ab922cd",
+      "source": "4b2dc754-7eee-4029-bfa1-c41df33bb3cb",
+      "target": "59e9ec71-b285-4eb7-9f4a-1c752cc6a916",
+      "label": "SYNCHRONIZES_THROUGH"
+    },
+    {
+      "id": "7933fc1a-6ac8-4f82-a76a-2eaabef119de",
+      "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
+      "target": "8a44dd93-e5bd-404c-a43e-af2b05dd3557",
+      "label": "OCCURS_IN"
+    },
+    {
+      "id": "474319ef-a642-4ca8-bf02-f8e81aedfb54",
+      "source": "a2d6da44-991f-42eb-8e09-090f97c8b4b8",
+      "target": "9a8621d3-5e0e-44ee-980d-445c92d18d2e",
+      "label": "OCCURS_IN"
+    },
+    {
+      "id": "46e04b65-535b-444e-8b47-ad2493bb3fdb",
+      "source": "c843d1c2-3e72-4729-9f0d-340a7f3288a5",
+      "target": "fbfb62d2-0697-4b1e-8fb7-fe19f410a7e7",
+      "label": "LEADS_TO"
+    },
+    {
+      "id": "44181a52-0b4d-4414-9abc-c072d0532676",
+      "source": "2e442034-eeac-4163-981d-a648904020ae",
+      "target": "92960c3b-4a0e-4c12-a810-7f355b163ba5",
+      "label": "REFERENCES"
+    },
+    {
+      "id": "ed1fd769-f6f9-4489-ba04-3233d09da5e1",
+      "source": "3f145ecd-ebc3-4457-b64b-bff6365bbeab",
+      "target": "b775cdc1-2ead-44ac-9eae-5112b8d940c9",
+      "label": "AFFECTS"
+    },
+    {
+      "id": "978a86b7-cffe-4632-a8b5-c6007c51d20f",
+      "source": "3f145ecd-ebc3-4457-b64b-bff6365bbeab",
+      "target": "6225f683-dcbc-492b-bfc3-dd880f9a2d95",
+      "label": "PROMOTES"
+    },
+    {
+      "id": "7757e85b-26da-4909-8ef1-69dab3f668e6",
+      "source": "2dc26dcc-132b-4378-9038-05cf4fdb9757",
+      "target": "10173f63-d888-44a4-9251-59a82acc90c1",
+      "label": "PUBLISHED_IN"
+    },
+    {
+      "id": "3276a8d4-23a5-4bb4-94c2-a802124d74f2",
+      "source": "9c4d3a8c-05c6-414a-814c-51e1eb64a198",
+      "target": "81610d8f-4829-42f6-bf2e-95d109156c58",
+      "label": "SHOWS_COUPLING_WITH"
+    },
+    {
+      "id": "bdc8567f-f32c-4282-af5e-b39803b76c28",
+      "source": "222d9319-c8b9-4214-bc86-9790156aaf7b",
+      "target": "e61f8c59-faf7-4ba5-9a43-6d162b806f3f",
+      "label": "INCREASES"
+    },
+    {
+      "id": "6ff54608-604d-4fff-b78e-b9db14ea5f29",
+      "source": "62c3aedc-1f6e-42ae-b611-36add6861ccc",
+      "target": "16e37f99-caae-446d-889f-d3abf0d6b368",
+      "label": "CONDUCTED_BY"
+    },
+    {
+      "id": "e8983ca8-ac0c-4731-a9b8-36a2e688603c",
+      "source": "54b8d89b-d0cd-41b5-ad37-3a5aed7ecc42",
+      "target": "c740e4cc-849e-4f0e-92b7-02f9345d2d15",
+      "label": "IMPROVES"
+    },
+    {
+      "id": "ca3368ad-fc59-4867-90bf-2f41a92579b3",
+      "source": "16e37f99-caae-446d-889f-d3abf0d6b368",
+      "target": "8142e58f-edc3-43d0-a9c9-f3fd510a79fc",
+      "label": "PUBLISHED_IN"
+    },
+    {
+      "id": "2ab14068-e979-449e-b2cc-c05eff3020a4",
+      "source": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
+      "target": "fbfb62d2-0697-4b1e-8fb7-fe19f410a7e7",
+      "label": "PROMOTES"
+    },
+    {
+      "id": "7ee03864-2537-44e6-b572-9c60161f5005",
+      "source": "3f145ecd-ebc3-4457-b64b-bff6365bbeab",
+      "target": "50eb736d-af29-40ae-83e8-0a8056da57a5",
+      "label": "AFFECTS"
+    },
+    {
+      "id": "795ea0ae-e74b-45c0-90e3-7f006fbc5397",
+      "source": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
+      "target": "3f145ecd-ebc3-4457-b64b-bff6365bbeab",
+      "label": "HAS_OPPOSING_EFFECTS_ON"
+    },
+    {
+      "id": "db8e53c4-75d4-4600-bbea-12ee561f9a74",
+      "source": "54b8d89b-d0cd-41b5-ad37-3a5aed7ecc42",
+      "target": "ceaa69b1-21e7-4bf0-9d3f-758d7ded2e88",
+      "label": "IS_INDEX_OF"
+    },
+    {
+      "id": "47f090bd-ee8c-4a9f-a1aa-553a41391ca3",
+      "source": "3f145ecd-ebc3-4457-b64b-bff6365bbeab",
+      "target": "f9f29516-0182-4961-8b11-9b089d8b6af1",
+      "label": "AFFECTS"
+    },
+    {
+      "id": "cf4d3bff-3af1-4ee7-8f26-4000cb607670",
+      "source": "222d9319-c8b9-4214-bc86-9790156aaf7b",
+      "target": "65089541-9a93-45f7-9286-db22c6790c01",
+      "label": "MODULATES"
+    },
+    {
+      "id": "3be0c309-0693-4b69-8380-2ed9d60d173a",
+      "source": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
+      "target": "b775cdc1-2ead-44ac-9eae-5112b8d940c9",
+      "label": "AFFECTS"
+    },
+    {
+      "id": "67b71178-4846-430f-8a84-0beafa7180cb",
+      "source": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
+      "target": "f9f29516-0182-4961-8b11-9b089d8b6af1",
+      "label": "AFFECTS"
+    },
+    {
+      "id": "6fcf29a4-6f87-47d5-bf45-3a16144a8103",
+      "source": "222d9319-c8b9-4214-bc86-9790156aaf7b",
+      "target": "2c84fa00-8066-4718-b37f-1f7f7ca25e28",
+      "label": "MODULATES"
+    },
+    {
+      "id": "8747bde9-3edd-4f78-90f2-c41cf5eedd35",
+      "source": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
+      "target": "3af74002-0d8c-433a-bf1a-4dd65dec3275",
+      "label": "ACTS_AS_ACCELERATOR_FOR"
+    },
+    {
+      "id": "4786ff70-ebaf-4efe-a069-46ffa9e76cd9",
+      "source": "65089541-9a93-45f7-9286-db22c6790c01",
+      "target": "2c8c4548-ca40-44e2-884b-df54aa2c277d",
+      "label": "LEADS_TO"
+    },
+    {
+      "id": "21cfb92b-fd49-4c2a-91d6-292e01479958",
+      "source": "6828cc3c-c3be-43f0-aac8-5675c5335baf",
+      "target": "50eb736d-af29-40ae-83e8-0a8056da57a5",
+      "label": "AFFECTS"
+    }
+  ]
 }

@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: Gamma band
+description: Gamma band
 ---
 
-# Smoking cessation
+# Gamma band
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="gamma-band" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,14 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Brain wave frequency band that shows coupling with heart rate variability through vagal mechanisms. Part of multi-band heart-brain synchronization including delta, theta, alpha, and beta waves.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
+**Valid Since:** 2026-02-04  
 
 ---
 
@@ -61,8 +60,9 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **OCCURS_IN**: [Heart-brain coupling](heart-brain-coupling.md)  
+  *Heart-brain coupling occurs across gamma band*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: nucleus accumbens
+description: nucleus accumbens
 ---
 
-# Smoking cessation
+# nucleus accumbens
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="nucleus-accumbens" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,15 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Brain region where dopamine is released during social interactions. Part of reward pathway: oxytocin → VTA dopamine neurons → nucleus accumbens → reward/approach behavior. Key target for dopamine-mediated reward processing.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
 
 ---
 
@@ -61,8 +61,17 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **LEADS_TO**: [VTA dopamine neurons](vta-dopamine-neurons.md)  
+  *VTA dopamine neurons lead to nucleus accumbens activation in the neural pathway*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **PRODUCES**: [reward](reward.md)  
+  *Nucleus accumbens produces reward in the social connection pathway*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

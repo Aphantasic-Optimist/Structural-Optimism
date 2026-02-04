@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: cognitive processing
+description: cognitive processing
 ---
 
-# Smoking cessation
+# cognitive processing
 
-**Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Type:** Mechanism  
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="cognitive-processing" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,15 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Dopamine acts as accelerator promoting immediate action and reward-seeking, while serotonin functions as brake promoting patience and long-term thinking in cognitive processing (Stanford 2024).
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:26 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
 
 ---
 
@@ -61,8 +61,14 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **AFFECTS**: [serotonin](../entities/serotonin.md)  
+  *Serotonin affects cognitive processing by creating inhibitory wait signals*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **AFFECTS**: [dopamine](../entities/dopamine.md)  
+  *Dopamine affects cognitive processing as an accelerator promoting immediate action*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

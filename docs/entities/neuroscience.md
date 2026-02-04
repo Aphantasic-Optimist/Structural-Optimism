@@ -1,9 +1,9 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: neuroscience
+description: neuroscience
 ---
 
-# Smoking cessation
+# neuroscience
 
 **Type:** Entity  
 **Confidence:** ★★★★★ Established
@@ -12,7 +12,7 @@ description: Smoking cessation
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="neuroscience" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,15 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Social connection reduces mortality by ~50% (meta-analysis of 148 studies, 300k+ participants). Dopamine acts as accelerator for reward-seeking; serotonin as brake promoting patience. Both findings well-established.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:26 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2024-01-01  
 
 ---
 
@@ -61,8 +61,14 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **SUPPORTS_EVIDENCE_FOR**: [Meta-analytic evidence](meta-analytic-evidence.md)  
+  *Meta-analytic evidence supports established neuroscience mechanisms*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **SUPPORTS_EVIDENCE_FOR**: [Stanford 2024 study](../evidence/stanford-2024-study.md)  
+  *Stanford 2024 study provides evidence for established neuroscience mechanisms*
+  📅 Valid since: 2024-01-01
   📚 Mentioned in 1 episode(s)
 
 

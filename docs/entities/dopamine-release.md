@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: dopamine release
+description: dopamine release
 ---
 
-# Smoking cessation
+# dopamine release
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="dopamine-release" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,14 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes approach behavior. Released in nucleus accumbens through oxytocin-VTA pathway during social interaction.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
+**Valid Since:** 2026-02-04  
 
 ---
 
@@ -61,8 +60,9 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **INCREASES**: [oxytocin](oxytocin.md)  
+  *Oxytocin increases dopamine release in nucleus accumbens*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

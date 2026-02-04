@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: approach behavior
+description: approach behavior
 ---
 
-# Smoking cessation
+# approach behavior
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="approach-behavior" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,16 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Approach behavior is promoted by dopamine acting as accelerator for reward-seeking. Dopamine signals when outcomes exceed expectations, promoting immediate action. Social interactions trigger oxytocin → VTA dopamine → nucleus accumbens → reward → approach behavior in positive feedback loop.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:26 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
 
 ---
 
@@ -61,8 +62,22 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **LEADS_TO**: [reward](reward.md)  
+  *Reward leads to approach behavior in the neural mechanism*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **PROMOTES**: [dopamine](dopamine.md)  
+  *Dopamine promotes immediate action and approach behavior*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **PROMOTES**: [social interaction](social-interaction.md)  
+  *Approach behavior promotes more social interaction creating a positive feedback loop*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

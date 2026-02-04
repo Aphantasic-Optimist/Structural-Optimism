@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: VTA dopamine neurons
+description: VTA dopamine neurons
 ---
 
-# Smoking cessation
+# VTA dopamine neurons
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="vta-dopamine-neurons" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,15 +45,15 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Dopamine neurons in ventral tegmental area (VTA) that are directly modulated by oxytocin, release dopamine in nucleus accumbens during social interactions, creating reward signals and positive feedback loops for social behavior.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
 
 ---
 
@@ -61,8 +61,17 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **MODULATES**: [oxytocin](oxytocin.md)  
+  *Oxytocin directly modulates VTA dopamine neurons*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+
+### Supports
+
+- **LEADS_TO**: [nucleus accumbens](nucleus-accumbens.md)  
+  *VTA dopamine neurons lead to nucleus accumbens activation in the neural pathway*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 

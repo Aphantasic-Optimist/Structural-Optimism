@@ -1,9 +1,9 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: PLoS Medicine
+description: PLoS Medicine
 ---
 
-# Smoking cessation
+# PLoS Medicine
 
 **Type:** Entity  
 **Confidence:** ★★★★★ Established
@@ -12,7 +12,7 @@ description: Smoking cessation
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="plos-medicine" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,7 +45,7 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Academic journal that published Holt-Lunstad et al. 2010 meta-analysis of 148 studies showing social connection reduces mortality by 50% (effect comparable to quitting smoking).
 
 ---
 
@@ -61,8 +61,8 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **PUBLISHED_IN**: [Holt-Lunstad et al. 2010](../researchers/holt-lunstad-et-al-2010.md)  
+  *Holt-Lunstad et al. 2010 study was published in PLoS Medicine*
   📚 Mentioned in 1 episode(s)
 
 

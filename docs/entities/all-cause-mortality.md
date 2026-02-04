@@ -1,9 +1,9 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: All-cause mortality
+description: All-cause mortality
 ---
 
-# Smoking cessation
+# All-cause mortality
 
 **Type:** Entity  
 **Confidence:** ★★★★★ Established
@@ -12,7 +12,7 @@ description: Smoking cessation
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="all-cause-mortality" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,7 +45,7 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+All-cause mortality reduced by ~50% through social connection according to meta-analysis of 148 studies with 300,000+ participants (Holt-Lunstad et al. 2010). Effect comparable to quitting smoking.
 
 ---
 
@@ -61,8 +61,8 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **REDUCES**: [Social connection](social-connection.md)  
+  *Social connection reduces all-cause mortality by approximately 50%*
   📚 Mentioned in 1 episode(s)
 
 

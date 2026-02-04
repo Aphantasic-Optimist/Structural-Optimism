@@ -1,9 +1,9 @@
 ---
-title: Social connection
-description: Social connection
+title: serotonin
+description: serotonin
 ---
 
-# Social connection
+# serotonin
 
 **Type:** Entity  
 **Confidence:** ★★★☆☆ Promising
@@ -12,7 +12,7 @@ description: Social connection
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="social-connection" data-depth="2"></div>
+<div class="mini-graph" data-node-id="serotonin" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,13 +45,17 @@ description: Social connection
 
 ## Summary
 
-Social connection reduces all-cause mortality by ~50% (Holt-Lunstad et al. 2010, 300K+ participants). Neural mechanism: social interaction → oxytocin → VTA dopamine → nucleus accumbens → reward loop.
+Neurotransmitter that functions as a "brake" in decision-making, promoting patience and long-term thinking. Creates inhibitory "wait" signals and promotes learning from punishments. Has opposing effects to dopamine in cognitive processing.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
+**Added to Knowledge Graph:** 2026-02-04 13:26 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
 **Valid Since:** 2026-02-04  
 
 ---
@@ -60,23 +64,31 @@ Social connection reduces all-cause mortality by ~50% (Holt-Lunstad et al. 2010,
 
 ### Supported By
 
-- **EXPLAINS**: [neural mechanism](../mechanisms/neural-mechanism.md)  
-  *The neural mechanism explains why social connection feels rewarding*
+- **HAS_OPPOSING_EFFECTS_ON**: [dopamine](dopamine.md)  
+  *Dopamine and serotonin have opposing effects on decision-making, learning, and cognitive processing*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 
 ### Supports
 
-- **REDUCES**: [All-cause mortality](all-cause-mortality.md)  
-  *Social connection reduces all-cause mortality by approximately 50%*
+- **AFFECTS**: [cognitive processing](../mechanisms/cognitive-processing.md)  
+  *Serotonin affects cognitive processing by creating inhibitory wait signals*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
-- **BASED_ON**: [Meta-analysis](../evidence/meta-analysis.md)  
-  *The finding about social connection reducing mortality is based on a meta-analysis*
+- **PROMOTES**: [long-term thinking](long-term-thinking.md)  
+  *Serotonin functions as brake promoting patience and long-term thinking*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
-- **CREATES**: [positive feedback loop](positive-feedback-loop.md)  
-  *Social connection creates a positive feedback loop through the neural pathway mechanism*
+- **AFFECTS**: [decision-making](decision-making.md)  
+  *Serotonin affects decision-making by functioning as brake promoting patience*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **AFFECTS**: [learning](learning.md)  
+  *Serotonin affects learning by promoting learning from punishments*
   📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 

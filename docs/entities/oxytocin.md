@@ -1,18 +1,18 @@
 ---
-title: Smoking cessation
-description: Smoking cessation
+title: oxytocin
+description: oxytocin
 ---
 
-# Smoking cessation
+# oxytocin
 
 **Type:** Entity  
-**Confidence:** ★★★★★ Established
+**Confidence:** ★★★☆☆ Promising
 
 ---
 
 ## Evidence Graph
 
-<div class="mini-graph" data-node-id="smoking-cessation" data-depth="2"></div>
+<div class="mini-graph" data-node-id="oxytocin" data-depth="2"></div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
@@ -45,24 +45,36 @@ description: Smoking cessation
 
 ## Summary
 
-Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).
+Oxytocin directly modulates dopamine neurons in VTA, increases dopamine release in nucleus accumbens during social interactions. Creates positive feedback loop: social connection → oxytocin release → reward pathway activation → approach behavior. Social isolation inhibits oxytocin neuron activity.
 
 ---
 
 ## Timeline
 
-**Added to Knowledge Graph:** 2026-02-04 13:25 UTC  
-
-This entity has been in the knowledge graph since 2026-02-04 and remains active.
+**Added to Knowledge Graph:** 2026-02-04 13:27 UTC  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
+**Valid Since:** 2026-02-04  
 
 ---
 
 ## Relationships
 
-### Supported By
+### Supports
 
-- **COMPARABLE_TO**: [Effect size](effect-size.md)  
-  *The effect size of social connection on mortality is comparable to quitting smoking*
+- **INCREASES**: [dopamine release](dopamine-release.md)  
+  *Oxytocin increases dopamine release in nucleus accumbens*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **MODULATES**: [VTA dopamine neurons](vta-dopamine-neurons.md)  
+  *Oxytocin directly modulates VTA dopamine neurons*
+  📅 Valid since: 2026-02-04
+  📚 Mentioned in 1 episode(s)
+
+- **MODULATES**: [dopamine neurons](dopamine-neurons.md)  
+  *Oxytocin directly modulates dopamine neurons in the VTA*
+  📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
 
 
