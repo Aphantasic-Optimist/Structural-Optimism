@@ -6,8 +6,8 @@
       "type": "Entity",
       "summary": "Social connection reduces all-cause mortality by ~50% (Holt-Lunstad et al. 2010, 300K+ participants). Neural mechanism: social interaction \u2192 oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens \u2192 reward loop.",
       "confidence": 3,
-      "url": "../entities/social-connection/",
-      "markdown_url": "entities/social-connection.md",
+      "url": "/claims/02-social-connection-reduces-mortality/",
+      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
       "slug": "social-connection"
     },
     {
@@ -16,7 +16,7 @@
       "type": "Entity",
       "summary": "Social interaction reduces mortality by 50% (meta-analysis, 300k+ participants). Triggers oxytocin\u2192VTA dopamine\u2192nucleus accumbens pathway, creating reward feedback loop that reinforces approach behavior.",
       "confidence": 5,
-      "url": "../entities/social-interaction/",
+      "url": "/entities/social-interaction/",
       "markdown_url": "entities/social-interaction.md",
       "slug": "social-interaction"
     },
@@ -26,7 +26,7 @@
       "type": "Entity",
       "summary": "Meta-analytic evidence supporting dopamine-serotonin opposing effects on decision-making, learning, and cognitive processing. Referenced as PMC12159863. Establishes dopamine as accelerator for reward-seeking and serotonin as brake promoting patience.",
       "confidence": 3,
-      "url": "../entities/meta-analytic-evidence/",
+      "url": "/entities/meta-analytic-evidence/",
       "markdown_url": "entities/meta-analytic-evidence.md",
       "slug": "meta-analytic-evidence"
     },
@@ -36,8 +36,8 @@
       "type": "Entity",
       "summary": "All-cause mortality reduced by ~50% through social connection according to meta-analysis of 148 studies with 300,000+ participants (Holt-Lunstad et al. 2010). Effect comparable to quitting smoking.",
       "confidence": 5,
-      "url": "../entities/all-cause-mortality/",
-      "markdown_url": "entities/all-cause-mortality.md",
+      "url": "/claims/02-social-connection-reduces-mortality/",
+      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
       "slug": "all-cause-mortality"
     },
     {
@@ -46,8 +46,8 @@
       "type": "Entity",
       "summary": "Social isolation inhibits oxytocin neuron activity, disrupting the VTA dopamine pathway. Lack of social connection increases all-cause mortality by ~50% (meta-analysis of 148 studies, 300k+ participants).",
       "confidence": 5,
-      "url": "../entities/social-isolation/",
-      "markdown_url": "entities/social-isolation.md",
+      "url": "/claims/02-social-connection-reduces-mortality/",
+      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
       "slug": "social-isolation"
     },
     {
@@ -56,7 +56,7 @@
       "type": "Entity",
       "summary": "Heart rate variability synchronizes with brain waves through vagal mechanisms. Cardiac sympathovagal activity initiates brain responses. High-frequency HRV couples with delta, theta, alpha, beta, gamma bands. RSA quantifies vagal activity.",
       "confidence": 3,
-      "url": "../entities/heart-brain-coupling/",
+      "url": "/entities/heart-brain-coupling/",
       "markdown_url": "entities/heart-brain-coupling.md",
       "slug": "heart-brain-coupling"
     },
@@ -66,7 +66,7 @@
       "type": "Mechanism",
       "summary": "Dopamine acts as accelerator promoting immediate action and reward-seeking, while serotonin functions as brake promoting patience and long-term thinking in cognitive processing (Stanford 2024).",
       "confidence": 3,
-      "url": "../mechanisms/cognitive-processing/",
+      "url": "/mechanisms/cognitive-processing/",
       "markdown_url": "mechanisms/cognitive-processing.md",
       "slug": "cognitive-processing"
     },
@@ -76,7 +76,7 @@
       "type": "Entity",
       "summary": "Oxytocin directly modulates dopamine neurons in VTA, increases dopamine release in nucleus accumbens during social interactions. Creates positive feedback loop: social connection \u2192 oxytocin release \u2192 reward pathway activation \u2192 approach behavior. Social isolation inhibits oxytocin neuron activity.",
       "confidence": 3,
-      "url": "../entities/oxytocin/",
+      "url": "/entities/oxytocin/",
       "markdown_url": "entities/oxytocin.md",
       "slug": "oxytocin"
     },
@@ -86,7 +86,7 @@
       "type": "Mechanism",
       "summary": "Neural mechanisms include: social connection \u2192 oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens reward loop; dopamine accelerates reward-seeking while serotonin provides inhibitory brake; heart rate variability couples with brain waves via vagal pathways across frequency bands.",
       "confidence": 3,
-      "url": "../mechanisms/neural-mechanism/",
+      "url": "/mechanisms/neural-mechanism/",
       "markdown_url": "mechanisms/neural-mechanism.md",
       "slug": "neural-mechanism"
     },
@@ -96,7 +96,7 @@
       "type": "Entity",
       "summary": "Neurobiological mechanism where social interaction triggers oxytocin release \u2192 VTA dopamine neurons \u2192 nucleus accumbens reward \u2192 approach behavior \u2192 more social interaction, creating self-reinforcing cycle.",
       "confidence": 3,
-      "url": "../entities/positive-feedback-loop/",
+      "url": "/entities/positive-feedback-loop/",
       "markdown_url": "entities/positive-feedback-loop.md",
       "slug": "positive-feedback-loop"
     },
@@ -106,7 +106,7 @@
       "type": "Entity",
       "summary": "Neurotransmitter that functions as a \"brake\" in decision-making, promoting patience and long-term thinking. Creates inhibitory \"wait\" signals and promotes learning from punishments. Has opposing effects to dopamine in cognitive processing.",
       "confidence": 3,
-      "url": "../entities/serotonin/",
+      "url": "/entities/serotonin/",
       "markdown_url": "entities/serotonin.md",
       "slug": "serotonin"
     },
@@ -116,7 +116,7 @@
       "type": "Entity",
       "summary": "Social connection reduces mortality by ~50% (meta-analysis of 148 studies, 300k+ participants). Dopamine acts as accelerator for reward-seeking; serotonin as brake promoting patience. Both findings well-established.",
       "confidence": 5,
-      "url": "../entities/neuroscience/",
+      "url": "/entities/neuroscience/",
       "markdown_url": "entities/neuroscience.md",
       "slug": "neuroscience"
     },
@@ -126,7 +126,7 @@
       "type": "Entity",
       "summary": "Oxytocin neurons directly modulate VTA dopamine neurons, increasing dopamine release in nucleus accumbens during social interaction. Social isolation inhibits oxytocin neuron activity, disrupting the reward pathway.",
       "confidence": 3,
-      "url": "../entities/oxytocin-neuron-activity/",
+      "url": "/entities/oxytocin-neuron-activity/",
       "markdown_url": "entities/oxytocin-neuron-activity.md",
       "slug": "oxytocin-neuron-activity"
     },
@@ -136,7 +136,7 @@
       "type": "Entity",
       "summary": "Brain oscillations couple with heart rate variability through vagal mechanisms across delta, theta, alpha, beta, and gamma bands. High-frequency HRV shows stronger coupling with brain waves via cardiac sympathovagal activity.",
       "confidence": 3,
-      "url": "../entities/brain-oscillations/",
+      "url": "/entities/brain-oscillations/",
       "markdown_url": "entities/brain-oscillations.md",
       "slug": "brain-oscillations"
     },
@@ -146,7 +146,7 @@
       "type": "Entity",
       "summary": "Oxytocin release occurs during social interactions and directly modulates dopamine neurons in VTA, increasing dopamine release in nucleus accumbens to create rewarding feelings and promote approach behavior through positive feedback loop.",
       "confidence": 3,
-      "url": "../entities/oxytocin-release/",
+      "url": "/entities/oxytocin-release/",
       "markdown_url": "entities/oxytocin-release.md",
       "slug": "oxytocin-release"
     },
@@ -156,7 +156,7 @@
       "type": "Entity",
       "summary": "Approach behavior is promoted by dopamine acting as accelerator for reward-seeking. Dopamine signals when outcomes exceed expectations, promoting immediate action. Social interactions trigger oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens \u2192 reward \u2192 approach behavior in positive feedback loop.",
       "confidence": 3,
-      "url": "../entities/approach-behavior/",
+      "url": "/entities/approach-behavior/",
       "markdown_url": "entities/approach-behavior.md",
       "slug": "approach-behavior"
     },
@@ -166,7 +166,7 @@
       "type": "Entity",
       "summary": "Serotonin acts as a brake that promotes long-term thinking and patience by creating inhibitory \"wait\" signals, opposing dopamine's immediate action-promoting effects. Established by Stanford 2024 study.",
       "confidence": 5,
-      "url": "../entities/long-term-thinking/",
+      "url": "/entities/long-term-thinking/",
       "markdown_url": "entities/long-term-thinking.md",
       "slug": "long-term-thinking"
     },
@@ -176,7 +176,7 @@
       "type": "Entity",
       "summary": "Higher respiratory sinus arrhythmia (RSA) improves emotion regulation through myelinated vagal activity. Serotonin acts as brake promoting patience and long-term thinking in decision-making processes.",
       "confidence": 3,
-      "url": "../entities/emotion-regulation/",
+      "url": "/entities/emotion-regulation/",
       "markdown_url": "entities/emotion-regulation.md",
       "slug": "emotion-regulation"
     },
@@ -186,7 +186,7 @@
       "type": "Entity",
       "summary": "Brain waves synchronize with heart rate variability through vagal mechanisms. Coupling occurs across delta, theta, alpha, beta, and gamma bands. Cardiac sympathovagal activity initiates functional brain responses.",
       "confidence": 3,
-      "url": "../entities/brain-waves/",
+      "url": "/entities/brain-waves/",
       "markdown_url": "entities/brain-waves.md",
       "slug": "brain-waves"
     },
@@ -196,7 +196,7 @@
       "type": "Entity",
       "summary": "Scientific journal that published Stanford 2024 study on dopamine and serotonin's opposing effects on decision-making, learning, and cognitive processing.",
       "confidence": 3,
-      "url": "../entities/nature/",
+      "url": "/entities/nature/",
       "markdown_url": "entities/nature.md",
       "slug": "nature"
     },
@@ -206,8 +206,8 @@
       "type": "Entity",
       "summary": "Effect size of social connection on mortality comparable to quitting smoking - approximately 50% reduction in all-cause mortality (meta-analysis of 148 studies, 300,000+ participants)",
       "confidence": 5,
-      "url": "../entities/effect-size/",
-      "markdown_url": "entities/effect-size.md",
+      "url": "/claims/02-social-connection-reduces-mortality/",
+      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
       "slug": "effect-size"
     },
     {
@@ -216,7 +216,7 @@
       "type": "Researcher",
       "summary": "Meta-analysis published in PLoS Medicine analyzing 148 studies with 300,000+ participants. Found social connection reduces all-cause mortality by ~50%, effect comparable to quitting smoking.",
       "confidence": 5,
-      "url": "../researchers/holt-lunstad-et-al-2010/",
+      "url": "/researchers/holt-lunstad-et-al-2010/",
       "markdown_url": "researchers/holt-lunstad-et-al-2010.md",
       "slug": "holt-lunstad-et-al-2010"
     },
@@ -226,8 +226,8 @@
       "type": "Entity",
       "summary": "Social connection reduces mortality by 50% (meta-analysis of 148 studies). Neural pathway: social interaction \u2192 oxytocin \u2192 dopamine release in nucleus accumbens \u2192 reward feedback loop, providing biological basis for structural optimism.",
       "confidence": 5,
-      "url": "../entities/structural-optimism/",
-      "markdown_url": "entities/structural-optimism.md",
+      "url": "/index/",
+      "markdown_url": "index.md",
       "slug": "structural-optimism"
     },
     {
@@ -236,7 +236,7 @@
       "type": "Entity",
       "summary": "Heart rate variability synchronizes with brain waves through vagal mechanisms. High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands. Respiratory sinus arrhythmia (RSA) quantifies myelinated vagal activity - higher RSA improves emotio...",
       "confidence": 3,
-      "url": "../entities/heart-rate-variability/",
+      "url": "/entities/heart-rate-variability/",
       "markdown_url": "entities/heart-rate-variability.md",
       "slug": "heart-rate-variability"
     },
@@ -246,7 +246,7 @@
       "type": "Evidence",
       "summary": "Meta-analysis by Holt-Lunstad et al. 2010 in PLoS Medicine analyzed 148 studies with 300,000+ participants. Found social connection reduces all-cause mortality by 50%, effect comparable to quitting smoking.",
       "confidence": 5,
-      "url": "../evidence/meta-analysis/",
+      "url": "/evidence/meta-analysis/",
       "markdown_url": "evidence/meta-analysis.md",
       "slug": "meta-analysis"
     },
@@ -256,8 +256,8 @@
       "type": "Entity",
       "summary": "Meta-analysis of 148 studies (300,000+ participants) shows social connection reduces mortality by ~50%, with effect size comparable to quitting smoking (Holt-Lunstad et al. 2010).",
       "confidence": 5,
-      "url": "../entities/smoking-cessation/",
-      "markdown_url": "entities/smoking-cessation.md",
+      "url": "/claims/02-social-connection-reduces-mortality/",
+      "markdown_url": "claims/02-social-connection-reduces-mortality.md",
       "slug": "smoking-cessation"
     },
     {
@@ -266,7 +266,7 @@
       "type": "Entity",
       "summary": "Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes approach behavior. Released in nucleus accumbens through oxytocin-VTA pathway during social interaction.",
       "confidence": 3,
-      "url": "../entities/dopamine-release/",
+      "url": "/entities/dopamine-release/",
       "markdown_url": "entities/dopamine-release.md",
       "slug": "dopamine-release"
     },
@@ -276,7 +276,7 @@
       "type": "Entity",
       "summary": "Brain region where dopamine is released during social interactions. Part of reward pathway: oxytocin \u2192 VTA dopamine neurons \u2192 nucleus accumbens \u2192 reward/approach behavior. Key target for dopamine-mediated reward processing.",
       "confidence": 3,
-      "url": "../entities/nucleus-accumbens/",
+      "url": "/entities/nucleus-accumbens/",
       "markdown_url": "entities/nucleus-accumbens.md",
       "slug": "nucleus-accumbens"
     },
@@ -286,7 +286,7 @@
       "type": "Entity",
       "summary": "Neurotransmitter that acts as accelerator for reward-seeking behavior, signals when outcomes exceed expectations, promotes immediate action and approach behavior. Has opposing effects to serotonin in decision-making and learning. Released in nucleus accumbens through oxytocin-VTA pathway during s...",
       "confidence": 3,
-      "url": "../entities/dopamine/",
+      "url": "/entities/dopamine/",
       "markdown_url": "entities/dopamine.md",
       "slug": "dopamine"
     },
@@ -296,7 +296,7 @@
       "type": "Mechanism",
       "summary": "Vagal mechanisms involve myelinated vagal activity that couples heart rate variability with brain oscillations across delta, theta, alpha, beta, and gamma bands. Higher respiratory sinus arrhythmia (RSA) improves emotion regulation.",
       "confidence": 3,
-      "url": "../mechanisms/vagal-mechanisms/",
+      "url": "/mechanisms/vagal-mechanisms/",
       "markdown_url": "mechanisms/vagal-mechanisms.md",
       "slug": "vagal-mechanisms"
     },
@@ -306,7 +306,7 @@
       "type": "Entity",
       "summary": "Learning is influenced by dopamine and serotonin neurotransmitters with opposing effects. Dopamine accelerates reward-seeking and signals when outcomes exceed expectations. Serotonin acts as brake promoting patience and learning from punishments.",
       "confidence": 3,
-      "url": "../entities/learning/",
+      "url": "/entities/learning/",
       "markdown_url": "entities/learning.md",
       "slug": "learning"
     },
@@ -316,7 +316,7 @@
       "type": "Entity",
       "summary": "Brain oscillation frequency band that shows coupling with heart rate variability through vagal mechanisms. Part of heart-brain synchronization across delta, theta, alpha, beta, and gamma bands.",
       "confidence": 3,
-      "url": "../entities/theta-band/",
+      "url": "/entities/theta-band/",
       "markdown_url": "entities/theta-band.md",
       "slug": "theta-band"
     },
@@ -326,7 +326,7 @@
       "type": "Entity",
       "summary": "Myelinated vagal activity quantified through Respiratory Sinus Arrhythmia (RSA). Higher RSA correlates with improved emotion regulation and stronger heart-brain coupling across brain wave frequencies.",
       "confidence": 3,
-      "url": "../entities/myelinated-vagal-activity/",
+      "url": "/entities/myelinated-vagal-activity/",
       "markdown_url": "entities/myelinated-vagal-activity.md",
       "slug": "myelinated-vagal-activity"
     },
@@ -336,7 +336,7 @@
       "type": "Entity",
       "summary": "PMC12159863 is a meta-analytic study providing evidence for opposing effects of dopamine and serotonin on decision-making, learning, and cognitive processing.",
       "confidence": 3,
-      "url": "../entities/pmc12159863/",
+      "url": "/entities/pmc12159863/",
       "markdown_url": "entities/pmc12159863.md",
       "slug": "pmc12159863"
     },
@@ -346,7 +346,7 @@
       "type": "Evidence",
       "summary": "Stanford 2024 study published in Nature demonstrates dopamine acts as accelerator for reward-seeking while serotonin functions as brake promoting patience and long-term thinking in decision-making.",
       "confidence": 3,
-      "url": "../evidence/stanford-2024-study/",
+      "url": "/evidence/stanford-2024-study/",
       "markdown_url": "evidence/stanford-2024-study.md",
       "slug": "stanford-2024-study"
     },
@@ -356,7 +356,7 @@
       "type": "Entity",
       "summary": "Dopamine acts as accelerator for reward-seeking behavior, promoting immediate action and approach behavior when outcomes exceed expectations. Established neuroscience mechanism.",
       "confidence": 5,
-      "url": "../entities/reward-seeking-behavior/",
+      "url": "/entities/reward-seeking-behavior/",
       "markdown_url": "entities/reward-seeking-behavior.md",
       "slug": "reward-seeking-behavior"
     },
@@ -366,7 +366,7 @@
       "type": "Entity",
       "summary": "Academic journal that published 2025 research on heart rate variability synchronization with brain waves through vagal mechanisms and respiratory sinus arrhythmia as index of vagal activity.",
       "confidence": 3,
-      "url": "../entities/frontiers-behavioral-neuroscience/",
+      "url": "/entities/frontiers-behavioral-neuroscience/",
       "markdown_url": "entities/frontiers-behavioral-neuroscience.md",
       "slug": "frontiers-behavioral-neuroscience"
     },
@@ -376,7 +376,7 @@
       "type": "Entity",
       "summary": "Dopamine acts as accelerator for reward-seeking and approach behavior in decision-making, while serotonin functions as brake promoting patience and long-term thinking. These neurotransmitters have opposing effects on cognitive processing and learning mechanisms.",
       "confidence": 3,
-      "url": "../entities/decision-making/",
+      "url": "/entities/decision-making/",
       "markdown_url": "entities/decision-making.md",
       "slug": "decision-making"
     },
@@ -386,7 +386,7 @@
       "type": "Entity",
       "summary": "Academic journal that published Holt-Lunstad et al. 2010 meta-analysis of 148 studies showing social connection reduces mortality by 50% (effect comparable to quitting smoking).",
       "confidence": 5,
-      "url": "../entities/plos-medicine/",
+      "url": "/entities/plos-medicine/",
       "markdown_url": "entities/plos-medicine.md",
       "slug": "plos-medicine"
     },
@@ -396,7 +396,7 @@
       "type": "Entity",
       "summary": "High-frequency HRV shows stronger coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands through vagal mechanisms. Part of heart-brain coupling research with strong evidence (PNAS 2022).",
       "confidence": 3,
-      "url": "../entities/high-frequency-hrv/",
+      "url": "/entities/high-frequency-hrv/",
       "markdown_url": "entities/high-frequency-hrv.md",
       "slug": "high-frequency-hrv"
     },
@@ -406,7 +406,7 @@
       "type": "Entity",
       "summary": "Cardiac sympathovagal activity initiates functional brain responses and shows coupling with brain oscillations across delta, theta, alpha, beta, and gamma bands through vagal mechanisms.",
       "confidence": 3,
-      "url": "../entities/cardiac-sympathovagal-activity/",
+      "url": "/entities/cardiac-sympathovagal-activity/",
       "markdown_url": "entities/cardiac-sympathovagal-activity.md",
       "slug": "cardiac-sympathovagal-activity"
     },
@@ -416,7 +416,7 @@
       "type": "Entity",
       "summary": "PNAS (Proceedings of the National Academy of Sciences) published 2022 research on heart-brain coupling, showing cardiac sympathovagal activity initiates brain responses and HRV synchronizes with brain oscillations.",
       "confidence": 3,
-      "url": "../entities/pnas/",
+      "url": "/entities/pnas/",
       "markdown_url": "entities/pnas.md",
       "slug": "pnas"
     },
@@ -426,7 +426,7 @@
       "type": "Entity",
       "summary": "Brain region containing dopamine neurons that are directly modulated by oxytocin during social interactions. Releases dopamine to nucleus accumbens, creating reward sensation and positive feedback loop for social behavior.",
       "confidence": 3,
-      "url": "../entities/ventral-tegmental-area/",
+      "url": "/entities/ventral-tegmental-area/",
       "markdown_url": "entities/ventral-tegmental-area.md",
       "slug": "ventral-tegmental-area"
     },
@@ -436,7 +436,7 @@
       "type": "Entity",
       "summary": "Dopamine acts as accelerator for reward-seeking behavior, signaling when outcomes exceed expectations. Social connection activates oxytocin \u2192 VTA dopamine \u2192 nucleus accumbens reward pathway.",
       "confidence": 3,
-      "url": "../entities/reward/",
+      "url": "/entities/reward/",
       "markdown_url": "entities/reward.md",
       "slug": "reward"
     },
@@ -446,7 +446,7 @@
       "type": "Entity",
       "summary": "Dopamine neurons in VTA modulated by oxytocin during social interaction, release dopamine in nucleus accumbens creating reward signals. Act as accelerator for reward-seeking, signal when outcomes exceed expectations, promote approach behavior. Part of social connection feedback loop.",
       "confidence": 3,
-      "url": "../entities/dopamine-neurons/",
+      "url": "/entities/dopamine-neurons/",
       "markdown_url": "entities/dopamine-neurons.md",
       "slug": "dopamine-neurons"
     },
@@ -456,7 +456,7 @@
       "type": "Entity",
       "summary": "Brain wave frequency band that shows coupling with heart rate variability through vagal mechanisms. Part of multi-band heart-brain synchronization including delta, theta, alpha, and beta waves.",
       "confidence": 3,
-      "url": "../entities/gamma-band/",
+      "url": "/entities/gamma-band/",
       "markdown_url": "entities/gamma-band.md",
       "slug": "gamma-band"
     },
@@ -466,7 +466,7 @@
       "type": "Entity",
       "summary": "Respiratory sinus arrhythmia (RSA) is a quantifiable index of myelinated vagal activity. Higher RSA levels are associated with improved emotion regulation and heart-brain coupling mechanisms.",
       "confidence": 3,
-      "url": "../entities/respiratory-sinus-arrhythmia/",
+      "url": "/entities/respiratory-sinus-arrhythmia/",
       "markdown_url": "entities/respiratory-sinus-arrhythmia.md",
       "slug": "respiratory-sinus-arrhythmia"
     },
@@ -476,7 +476,7 @@
       "type": "Entity",
       "summary": "Alpha band is one of the brain wave frequency ranges that shows coupling with heart rate variability through vagal mechanisms, as part of heart-brain synchronization across multiple frequency bands.",
       "confidence": 3,
-      "url": "../entities/alpha-band/",
+      "url": "/entities/alpha-band/",
       "markdown_url": "entities/alpha-band.md",
       "slug": "alpha-band"
     },
@@ -486,7 +486,7 @@
       "type": "Entity",
       "summary": "Dopamine neurons in ventral tegmental area (VTA) that are directly modulated by oxytocin, release dopamine in nucleus accumbens during social interactions, creating reward signals and positive feedback loops for social behavior.",
       "confidence": 3,
-      "url": "../entities/vta-dopamine-neurons/",
+      "url": "/entities/vta-dopamine-neurons/",
       "markdown_url": "entities/vta-dopamine-neurons.md",
       "slug": "vta-dopamine-neurons"
     },
@@ -496,7 +496,7 @@
       "type": "Entity",
       "summary": "Beta band brain waves couple with heart rate variability through vagal mechanisms, showing synchronization across delta, theta, alpha, beta, and gamma frequency bands in heart-brain coupling research.",
       "confidence": 3,
-      "url": "../entities/beta-band/",
+      "url": "/entities/beta-band/",
       "markdown_url": "entities/beta-band.md",
       "slug": "beta-band"
     },
@@ -506,7 +506,7 @@
       "type": "Entity",
       "summary": "Delta band is one of the brain wave frequencies that shows coupling with heart rate variability through vagal mechanisms, as part of heart-brain synchronization research.",
       "confidence": 3,
-      "url": "../entities/delta-band/",
+      "url": "/entities/delta-band/",
       "markdown_url": "entities/delta-band.md",
       "slug": "delta-band"
     }

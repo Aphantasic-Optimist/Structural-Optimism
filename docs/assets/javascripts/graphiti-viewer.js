@@ -54,14 +54,14 @@
       }
     },
     force: {
-      charge: -300,
-      linkDistance: 100,
-      collide: 20
+      charge: -220,
+      linkDistance: 90,
+      collide: 18
     },
     miniForce: {
-      charge: -200,
-      linkDistance: 80,
-      collide: 15
+      charge: -150,
+      linkDistance: 70,
+      collide: 14
     }
   };
 
@@ -296,29 +296,26 @@
   function resolveNodeUrl(url) {
     if (!url) return null;
     
-    // If already absolute, return as-is
+    // If already absolute with protocol, return as-is
     if (url.startsWith('http://') || url.startsWith('https://')) {
       return url;
     }
     
     const basePath = getBasePath();
+    console.log('resolveNodeUrl - input:', url, 'basePath:', basePath);
     
-    // Handle relative URLs like "../claims/02-social-connection-reduces-mortality/"
-    // We need to resolve them relative to the site root
-    
-    // Remove leading ../ sequences and resolve
-    let cleanUrl = url;
-    while (cleanUrl.startsWith('../')) {
-      cleanUrl = cleanUrl.substring(3);
+    // URLs are now absolute from site root (start with /)
+    // Just prepend the base path for GitHub Pages
+    let result;
+    if (url.startsWith('/')) {
+      result = basePath + url;
+    } else {
+      // Fallback for any relative URLs - shouldn't happen with new export
+      result = basePath + '/' + url;
     }
     
-    // Ensure it starts with /
-    if (!cleanUrl.startsWith('/')) {
-      cleanUrl = '/' + cleanUrl;
-    }
-    
-    // Add base path for GitHub Pages
-    return basePath + cleanUrl;
+    console.log('resolveNodeUrl - output:', result);
+    return result;
   }
 
   /**
@@ -374,14 +371,16 @@
     const g = svg.select('g.graph-content');
     const suffix = isMini ? '-mini-' + Math.random().toString(36).substr(2, 9) : '-main';
 
-    // Create simulation
+    // Create simulation with gentler forces and faster settling
     const simulation = d3.forceSimulation(data.nodes)
       .force('link', d3.forceLink(data.edges)
         .id(d => d.id)
         .distance(forceConfig.linkDistance))
       .force('charge', d3.forceManyBody().strength(forceConfig.charge))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collide', d3.forceCollide().radius(forceConfig.collide));
+      .force('collide', d3.forceCollide().radius(forceConfig.collide))
+      .alphaDecay(0.05)  // Faster settling (default is 0.0228)
+      .velocityDecay(0.4);  // More friction to prevent wild movement
 
     // Create arrow markers
     const defs = svg.append('defs');
@@ -509,6 +508,7 @@
     if (d.url) {
       // Resolve the URL properly for navigation
       const resolvedUrl = resolveNodeUrl(d.url);
+      console.log('Node clicked:', d.label, 'Original URL:', d.url, 'Resolved URL:', resolvedUrl);
       if (resolvedUrl) {
         window.location.href = resolvedUrl;
       }

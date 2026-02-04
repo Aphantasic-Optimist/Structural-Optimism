@@ -25,13 +25,13 @@ SOURCES: Holt-Lunstad et al. 2010, PLoS Medicine
 
 This episode created or referenced **5 relationship(s)** in the knowledge graph:
 
-- [Social connection](../entities/social-connection.md) **REDUCES** [All-cause mortality](../entities/all-cause-mortality.md)
+- [Social connection](../claims/02-social-connection-reduces-mortality.md) **REDUCES** [All-cause mortality](../claims/02-social-connection-reduces-mortality.md)
   *Social connection reduces all-cause mortality by approximately 50%*
 
-- [Social connection](../entities/social-connection.md) **BASED_ON** [Meta-analysis](../evidence/meta-analysis.md)
+- [Social connection](../claims/02-social-connection-reduces-mortality.md) **BASED_ON** [Meta-analysis](../evidence/meta-analysis.md)
   *The finding about social connection reducing mortality is based on a meta-analysis*
 
-- [Effect size](../entities/effect-size.md) **COMPARABLE_TO** [Smoking cessation](../entities/smoking-cessation.md)
+- [Effect size](../claims/02-social-connection-reduces-mortality.md) **COMPARABLE_TO** [Smoking cessation](../claims/02-social-connection-reduces-mortality.md)
   *The effect size of social connection on mortality is comparable to quitting smoking*
 
 - [Meta-analysis](../evidence/meta-analysis.md) **CONDUCTED_BY** [Holt-Lunstad et al. 2010](../researchers/holt-lunstad-et-al-2010.md)

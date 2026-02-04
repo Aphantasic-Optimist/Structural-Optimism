@@ -61,7 +61,7 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supported By
 
-- **BASED_ON**: [Social connection](../entities/social-connection.md)  
+- **BASED_ON**: [Social connection](../claims/02-social-connection-reduces-mortality.md)  
   *The finding about social connection reducing mortality is based on a meta-analysis*
   📚 Mentioned in 1 episode(s)
 

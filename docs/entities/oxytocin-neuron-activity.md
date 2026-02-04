@@ -60,7 +60,7 @@ Oxytocin neurons directly modulate VTA dopamine neurons, increasing dopamine rel
 
 ### Supported By
 
-- **INHIBITS**: [social isolation](social-isolation.md)  
+- **INHIBITS**: [social isolation](../claims/02-social-connection-reduces-mortality.md)  
   *Social isolation inhibits oxytocin neuron activity*
   📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)

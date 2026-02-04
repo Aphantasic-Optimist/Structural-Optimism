@@ -1,0 +1,65 @@
+{
+  "_comment": "Maps graph node slugs to existing static content pages. Nodes in this map won't have auto-generated pages.",
+  
+  "social-connection": {
+    "redirect": "claims/02-social-connection-reduces-mortality.md",
+    "description": "Main claim page about social connection"
+  },
+  "social-isolation": {
+    "redirect": "claims/02-social-connection-reduces-mortality.md",
+    "description": "Covered in social connection claim"
+  },
+  "all-cause-mortality": {
+    "redirect": "claims/02-social-connection-reduces-mortality.md",
+    "description": "Covered in social connection claim"
+  },
+  "effect-size": {
+    "redirect": "claims/02-social-connection-reduces-mortality.md",
+    "description": "Effect size discussed in social connection claim"
+  },
+  "smoking-cessation": {
+    "redirect": "claims/02-social-connection-reduces-mortality.md",
+    "description": "Comparison to smoking in social connection claim"
+  },
+  
+  "structural-optimism": {
+    "redirect": "index.md",
+    "description": "Main concept - home page"
+  },
+  
+  "global-workspace-theory": {
+    "static": "theories/global-workspace-theory.md",
+    "description": "Hand-written theory page"
+  },
+  "integrated-information-theory": {
+    "static": "theories/integrated-information-theory.md",
+    "description": "Hand-written theory page"
+  },
+  
+  "holt-lunstad-et-al-2010": {
+    "static": "researchers/holt-lunstad-et-al-2010.md",
+    "description": "Auto-generated but should exist"
+  },
+  
+  "meta-analysis": {
+    "static": "evidence/meta-analysis.md",
+    "description": "Auto-generated evidence page"
+  },
+  "stanford-2024-study": {
+    "static": "evidence/stanford-2024-study.md",
+    "description": "Auto-generated evidence page"
+  },
+  
+  "neural-mechanism": {
+    "static": "mechanisms/neural-mechanism.md",
+    "description": "Auto-generated mechanism page"
+  },
+  "cognitive-processing": {
+    "static": "mechanisms/cognitive-processing.md",
+    "description": "Auto-generated mechanism page"
+  },
+  "vagal-mechanisms": {
+    "static": "mechanisms/vagal-mechanisms.md",
+    "description": "Auto-generated mechanism page"
+  }
+}

@@ -27,6 +27,20 @@ Every time you think "I should put this down" and don't — that's not a charact
 
 ---
 
+## The Evidence Graph
+
+Explore the research connections. Click any node to dive deeper.
+
+<div id="graphiti-container" style="width: 100%; height: 500px; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; margin: 1rem 0;"></div>
+
+<link rel="stylesheet" href="assets/stylesheets/graphiti-graph.css">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="assets/javascripts/graphiti-viewer.js"></script>
+
+[See the full evidence →](proof/evidence.md)
+
+---
+
 ## The Challenge
 
 <div class="try-it-now" markdown>
@@ -139,20 +153,6 @@ The action is the message. The practice is [the resistance](solutions/integratio
 **This is peer-reviewed. Replicated. Measurable.**
 
 Not feelings. Not philosophy. [Physics and biology](proof/simple.md) doing what they do.
-
----
-
-## The Evidence Graph
-
-Explore the research connections. Click any node to dive deeper.
-
-<div id="graphiti-container" style="width: 100%; height: 500px; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; margin: 1rem 0;"></div>
-
-<link rel="stylesheet" href="assets/stylesheets/graphiti-graph.css">
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="assets/javascripts/graphiti-viewer.js"></script>
-
-[See the full evidence →](proof/evidence.md)
 
 ---
 

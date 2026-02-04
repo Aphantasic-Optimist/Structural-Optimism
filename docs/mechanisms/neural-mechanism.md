@@ -61,11 +61,11 @@ This entity has been in the knowledge graph since 2026-02-04 and remains active.
 
 ### Supports
 
-- **EXPLAINS**: [Social connection](../entities/social-connection.md)  
+- **EXPLAINS**: [Social connection](../claims/02-social-connection-reduces-mortality.md)  
   *The neural mechanism explains why social connection feels rewarding*
   📚 Mentioned in 1 episode(s)
 
-- **VALIDATES**: [structural optimism](../entities/structural-optimism.md)  
+- **VALIDATES**: [structural optimism](../index.md)  
   *The neural mechanism validates the neural basis for structural optimism*
   📚 Mentioned in 1 episode(s)
 

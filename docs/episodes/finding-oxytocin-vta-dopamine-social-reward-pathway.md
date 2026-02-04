@@ -34,10 +34,10 @@ IMPLICATIONS: Explains WHY social connection feels rewarding. Validates neural m
 
 This episode created or referenced **12 relationship(s)** in the knowledge graph:
 
-- [Social connection](../entities/social-connection.md) **CREATES** [positive feedback loop](../entities/positive-feedback-loop.md)
+- [Social connection](../claims/02-social-connection-reduces-mortality.md) **CREATES** [positive feedback loop](../entities/positive-feedback-loop.md)
   *Social connection creates a positive feedback loop through the neural pathway mechanism*
 
-- [neural mechanism](../mechanisms/neural-mechanism.md) **EXPLAINS** [Social connection](../entities/social-connection.md)
+- [neural mechanism](../mechanisms/neural-mechanism.md) **EXPLAINS** [Social connection](../claims/02-social-connection-reduces-mortality.md)
   *The neural mechanism explains why social connection feels rewarding*
 
 - [social interaction](../entities/social-interaction.md) **TRIGGERS** [oxytocin release](../entities/oxytocin-release.md)
@@ -49,10 +49,10 @@ This episode created or referenced **12 relationship(s)** in the knowledge graph
 - [approach behavior](../entities/approach-behavior.md) **PROMOTES** [social interaction](../entities/social-interaction.md)
   *Approach behavior promotes more social interaction creating a positive feedback loop*
 
-- [social isolation](../entities/social-isolation.md) **INHIBITS** [oxytocin neuron activity](../entities/oxytocin-neuron-activity.md)
+- [social isolation](../claims/02-social-connection-reduces-mortality.md) **INHIBITS** [oxytocin neuron activity](../entities/oxytocin-neuron-activity.md)
   *Social isolation inhibits oxytocin neuron activity*
 
-- [neural mechanism](../mechanisms/neural-mechanism.md) **VALIDATES** [structural optimism](../entities/structural-optimism.md)
+- [neural mechanism](../mechanisms/neural-mechanism.md) **VALIDATES** [structural optimism](../index.md)
   *The neural mechanism validates the neural basis for structural optimism*
 
 - [reward](../entities/reward.md) **LEADS_TO** [approach behavior](../entities/approach-behavior.md)

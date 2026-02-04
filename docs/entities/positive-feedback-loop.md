@@ -60,7 +60,7 @@ Neurobiological mechanism where social interaction triggers oxytocin release →
 
 ### Supported By
 
-- **CREATES**: [Social connection](social-connection.md)  
+- **CREATES**: [Social connection](../claims/02-social-connection-reduces-mortality.md)  
   *Social connection creates a positive feedback loop through the neural pathway mechanism*
   📅 Valid since: 2026-02-04
   📚 Mentioned in 1 episode(s)
