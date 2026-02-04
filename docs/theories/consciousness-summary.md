@@ -8,7 +8,7 @@ description: A rigorous research framework with graduated confidence levels and 
 
 **Version 2.1 (Revised) - January 13, 2026**
 
-**Status:** Peer-reviewed, revised speculative research program. Not established science; a structured hypothesis with clear experimental pathways and explicit confidence assignments.
+**Status:** Speculative research framework. Not peer-reviewed, not established science. A structured hypothesis with clear experimental pathways and explicit confidence assignments.
 
 **Philosophy:** Follow evidence, not hope. Acknowledge limits. Build defensible claims. Falsify mercilessly.
 
@@ -336,21 +336,21 @@ Any empirical test of quantum consciousness must use **indirect, spectroscopic, 
 
 Consciousness (Φ) might couple weakly to spacetime geometry through a modified Einstein equation:
 
-\[
+$$
 G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi T_{\mu\nu}^{matter} + \kappa T_{\mu\nu}^{information}
-\]
+$$
 
-Where \(\kappa\) is an unknown coupling constant relating integrated information to spacetime curvature.
+Where $\kappa$ is an unknown coupling constant relating integrated information to spacetime curvature.
 
 **Why it's speculative:**
 
-1. **No definition of \(T_{\mu\nu}^{information}\):** How does Φ (a dimensionless number) become a stress-energy tensor (dimensions of energy density)? Unknown.
+1. **No definition of $T_{\mu\nu}^{information}$:** How does Φ (a dimensionless number) become a stress-energy tensor (dimensions of energy density)? Unknown.
 
-2. **Unmeasured \(\kappa\):** What is its magnitude? Units? No way to know without a complete theory.
+2. **Unmeasured $\kappa$:** What is its magnitude? Units? No way to know without a complete theory.
 
 3. **No quantitative predictions:** The equation is written but yields no falsifiable, quantitative predictions.
 
-4. **Dark-energy constraint:** If \(\kappa\) were large enough for consciousness to noticeably curve spacetime at brain scales, we would already see anomalies in everyday gravitational experiments comparing conscious vs. unconscious objects. We don't. This suggests \(\kappa\), if nonzero, is **extremely small** at laboratory scales.
+4. **Dark-energy constraint:** If $\kappa$ were large enough for consciousness to noticeably curve spacetime at brain scales, we would already see anomalies in everyday gravitational experiments comparing conscious vs. unconscious objects. We don't. This suggests $\kappa$, if nonzero, is **extremely small** at laboratory scales.
 
 5. **Alternative explanations:** Dark energy, modified gravity (MOND, f(R) gravity), and other theories already explain cosmic acceleration. No need to invoke consciousness.
 
@@ -745,6 +745,6 @@ That is as it should be.
 ---
 
 **Version 2.1 – Final**  
-**Status: Revised, peer-reviewed, ready for scientific evaluation**  
+**Status: Speculative research framework, not peer-reviewed, awaiting experimental validation**  
 **Next phase: Tier-1 experimental implementation (2026–2027)**
 
