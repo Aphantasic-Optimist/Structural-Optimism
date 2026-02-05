@@ -66,7 +66,7 @@ This is judo. This is Gandhi. This is real.
 <div class="try-it-now" markdown>
   <h2>Try It Once</h2>
   <p>That's the whole ask.</p>
-  <p><strong>Phone down. Eyes up. Smile and wave.</strong></p>
+  <p><strong>Phone down. Eyes up. Smile (and wave boys).</strong></p>
   <p>3 seconds. Right now.</p>
 </div>
 

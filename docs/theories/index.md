@@ -211,7 +211,7 @@ These theories ground [the daily practice](../practical/daily-practice.md) in ph
 - **Extraction depletes** - [Isolation increases mortality by 32%](../claims/02-social-connection-reduces-mortality.md) (★★★★★)
 - **[Alignment with reality's structure](../claims/04-alignment-enables-flourishing.md)** - Not faith, observation (★★★★☆)
 
-**Phone down. Eyes up. Smile and wave.** That's alignment with physics.
+**Phone down. Eyes up. Smile (and wave boys).** That's alignment with physics.
 
 ---
 

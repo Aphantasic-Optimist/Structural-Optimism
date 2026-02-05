@@ -1,6 +1,6 @@
 ---
 title: Structural Optimism
-description: Phone down. Eyes up. Smile and wave.
+description: Phone down. Eyes up. Smile (and wave boys).
 ---
 
 # You Already Know This
@@ -135,7 +135,7 @@ The attention economy is the first distraction that actively resists being put d
 
 Gandhi didn't explain British economic exploitation. He picked up salt. Everyone understood.
 
-**Phone down. Eyes up. Smile and wave.** Everyone understands.
+**Phone down. Eyes up. Smile (and wave boys).** Everyone understands.
 
 The action is the message. The practice is [the resistance](solutions/integration-movement.md).
 
@@ -178,7 +178,7 @@ Not feelings. Not philosophy. [Physics and biology](proof/simple.md) doing what 
 **Copy and post anywhere:**
 
 ```
-Phone down. Eyes up. Smile and wave.
+Phone down. Eyes up. Smile (and wave boys).
 
 That's the whole movement. Try it once.
 
@@ -187,9 +187,9 @@ That's the whole movement. Try it once.
 structuraloptimism.com
 ```
 
-<button onclick="navigator.clipboard.writeText('Phone down. Eyes up. Smile and wave.\n\nThat\'s the whole movement. Try it once.\n\n#SmileAndWave\n\nstructuraloptimism.com'); this.textContent='Copied!';" style="padding: 10px 20px; background: #5c6bc0; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 5px;">Copy Text</button>
+<button onclick="navigator.clipboard.writeText('Phone down. Eyes up. Smile (and wave boys).\n\nThat\'s the whole movement. Try it once.\n\n#SmileAndWave\n\nstructuraloptimism.com'); this.textContent='Copied!';" style="padding: 10px 20px; background: #5c6bc0; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 5px;">Copy Text</button>
 
-<a href="https://twitter.com/intent/tweet?text=Phone%20down.%20Eyes%20up.%20Smile%20and%20wave.%0A%0AThat%27s%20the%20whole%20movement.%20Try%20it%20once.%0A%0A%23SmileAndWave%0A%0Astructuraloptimism.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Tweet This</a>
+<a href="https://twitter.com/intent/tweet?text=Phone%20down.%20Eyes%20up.%20Smile%20(and%20wave%20boys).%0A%0AThat%27s%20the%20whole%20movement.%20Try%20it%20once.%0A%0A%23SmileAndWave%0A%0Astructuraloptimism.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Tweet This</a>
 
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://aphantasic-optimist.github.io/Structural-Optimism/" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0077B5; color: white; text-decoration: none; border-radius: 4px; margin: 10px 5px;">Share on LinkedIn</a>
 
@@ -289,7 +289,7 @@ We've all gotten lost in our screens. That's okay. We were optimizing the only w
 
 Now we know better. Not through shame—through [science](proof/evidence.md). Through [2.2 million people](claims/02-social-connection-reduces-mortality.md) proving what every grandmother already knew.
 
-Phone down. Eyes up. Smile and wave.
+Phone down. Eyes up. Smile (and wave boys).
 
 Reach out to someone. A text. A call. A hug. Connection doesn't have to be dramatic. It just has to be real. And it has to be now—not someday, not when you're ready. [Your life depends on it](proof/simple.md).
 
